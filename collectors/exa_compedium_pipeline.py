@@ -169,7 +169,7 @@ def exa_search_paged(
             "query": query,
             "category": category,
             "type": "auto",
-            "numResults": 100,  # MUST be 100 to get a nextCursor
+            "numResults": 1000,  # MUST be 100 to get a nextCursor
             "excludeDomains": exclude_domains,
             "startPublishedDate": start_date,
             **({"cursor": cursor} if cursor else {}),

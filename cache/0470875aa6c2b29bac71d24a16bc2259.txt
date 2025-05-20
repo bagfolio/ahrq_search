@@ -1,0 +1,530 @@
+Abstract
+Purpose
+With prospective clinical sequencing of tumors emerging as a mainstay in cancer care, an urgent need exists for a clinical support tool that distills the clinical implications associated with specific mutation events into a standardized and easily interpretable format. To this end, we developed OncoKB, an expert-guided precision oncology knowledge base.
+Methods
+OncoKB annotates the biologic and oncogenic effects and prognostic and predictive significance of somatic molecular alterations. Potential treatment implications are stratified by the level of evidence that a specific molecular alteration is predictive of drug response on the basis of US Food and Drug Administration labeling, National Comprehensive Cancer Network guidelines, disease-focused expert group recommendations, and scientific literature.
+Results
+To date, > 3,000 unique mutations, fusions, and copy number alterations in 418 cancer-associated genes have been annotated. To test the utility of OncoKB, we annotated all genomic events in 5,983 primary tumor samples in 19 cancer types. Forty-one percent of samples harbored at least one potentially actionable alteration, of which 7.5% were predictive of clinical benefit from a standard treatment. OncoKB annotations are available through a public Web resource (
+[http://oncokb.org](http://oncokb.org)) and are incorporated into the cBioPortal for Cancer Genomics to facilitate the interpretation of genomic alterations by physicians and researchers.
+Conclusion
+OncoKB, a comprehensive and curated precision oncology knowledge base, offers oncologists detailed, evidence-based information about individual somatic mutations and structural alterations present in patient tumors with the goal of supporting optimal treatment decisions.
+INTRODUCTION
+The past decade witnessed accelerated growth in understanding the genomic landscape of common and rare cancer types, and prospective clinical sequencing of patient tumors is now increasingly recognized as a component of routine cancer care.
+[1](#B1), [2](#B2) Tumor sequencing also is being applied more broadly as an investigational tool, with the goal of matching patients to treatments that target the mutations or downstream pathways that drive the growth and/or progression of individual tumors. With the shift from single analyte tests and small hotspot panels to larger gene panels and whole-exome and -genome platforms, interpretation of the clinical significance of the increasing number of genomic alterations identified in individual tumors has become a challenge. Most somatic alterations identified by whole-exome and large gene panel sequencing are likely passenger events with no influence on the patient’s prognosis or response to therapy. A smaller subset are known or suspected functionally significant mutations with no clear therapeutic implications, and the smallest subset consists of known driver mutations that are clinically actionable.
+The information that discriminates whether an alteration is clinically actionable can reside in various silos, including US Food and Drug Administration (FDA) labeling, National Comprehensive Cancer Network (NCCN) guidelines, conference proceedings, disease-focused expert group recommendations, and the scientific literature. Therefore, an urgent need exists for a clinical support tool that distills this information into a standardized and easily interpretable format that democratizes its access to clinicians of all knowledge levels and at all centers. Such a support tool would help clinicians interpret genomic alterations detected in patient tumor samples and enable them to make optimal treatment decisions for each individual patient with cancer.
+Several knowledge base efforts exist, including My Cancer Genome,
+[3](#B3) CIViC, [4](#B4), [5](#B5) the Precision Medicine Knowledge Base, [6](#B6), [7](#B7) The Jackson Laboratory Clinical Knowledgebase, [8](#B8), [9](#B9) Cancer Genome Interpreter, [10](#B10) Cancer Driver Log, [11](#B11), [12](#B12) Tumor Portal, [13](#B13), [14](#B14) Targeted Cancer Care, [15](#B15) and Personalized Cancer Therapy. [16](#B16), [17](#B17) Some of these databases are in their early stages of development; do not yet contain sufficient breadth or detail to be used in clinical decision support; and vary in the methods by which data are collected, stored, or accessed. To address these limitations, we describe OncoKB, a comprehensive precision oncology knowledge base that offers oncologists detailed, evidence-based information about individual somatic mutations and structural alterations present in patient tumors to support optimal treatment decisions. OncoKB content is supervised by a dedicated panel of physicians and cancer biologists who review and edit biomarker-associated investigational therapeutic strategies (Data Supplement). Through continual dialogue with the scientific and medical community, OncoKB integrates clinical best practices as defined by institution-wide, multidisciplinary disease management teams ( [Fig 1](#F1)). OncoKB communicates information on the biomarker-guided use of FDA-approved therapies and investigational agents under evaluation in clinical trials and highlights negative clinical results to discourage off-label use of expensive targeted therapies shown to be ineffective in specific mutational contexts.
+METHODS
+OncoKB includes biologic, clinical, and therapeutic information curated from multiple unstructured information resources, including guidelines and recommendations derived from FDA labeling, NCCN guidelines, other disease-specific expert and advocacy group recommendations, and the medical literature (
+[Fig 1](#F1)). With recognition that clinical implications vary substantially on the basis of specific alterations within a gene and tumor context, information in OncoKB is hierarchically organized by gene, alteration, tumor type, and clinical implication ( [Fig 1](#F1)). OncoKB information is publicly available through an interactive Web site [19](#B19) and incorporated into the cBioPortal for Cancer Genomics, [20](#B20)- [22](#B22) where patient genomic alterations are annotated with information from OncoKB and their biologic effects and clinical implications are summarized, which facilitates cancer researcher and clinician interpretation of complex genomic data ( [Fig 1](#F1)). To date, OncoKB has annotated > 3,000 alterations in 418 cancer-associated genes ( [Table 1](#T1)).
+Table 1.
+Levels of Evidence
+To communicate the clinical utility of individual mutant alleles consistently, a level of evidence classification system was developed (
+[Fig 2](#F2)) that takes into account the site of tumor origin by recognizing that the effects of targeted inhibitors vary by tumor lineage, even in cancers that share the same mutant allele ( [Fig 3](#F3)). Potentially actionable alterations in a specific cancer type are assigned to one of four levels that are based on the strength of evidence that the mutation is a predictive biomarker of drug sensitivity to FDA-approved or investigational agents for a specific indication. OncoKB currently has annotated 3,405 alterations in 418 genes ( [Table 1](#T1)), including those in genes with standard therapeutic implications (either level 1 or 2A), such as the ALK-, BRAF-, EGFR-, and ERBB2-targetable kinases and genes that play a role in maintaining DNA integrity, such as BRCA1 and BRCA2.
+RESULTS
+Level 1.
+Level 1 includes genes for which specific alterations have been recognized by the FDA as predictive of response to an FDA-approved drug in a particular disease context (Data Supplement). Examples include BRAF V600E and either vemurafenib or dabrafenib as monotherapy or in combination with the MEK inhibitors cobimetinib or trametinib in melanoma; EGFR L858R and erlotinib, afatinib, or gefitinib in non–small-cell lung cancer (NSCLC); and mutations in exons 9 and 11 of KIT and imatinib, sunitinib, and regorafenib in GI stromal tumors. In total, 82 alterations in 12 genes are considered level 1 (Data Supplement). In recognition that some alterations in what would be considered a level 1 gene are intrinsically resistant to currently available FDA-approved drugs or fall outside explicit FDA approval, OncoKB assigns individual alterations to a level of evidence as opposed to the entire gene. For example, BRAF K601E has been shown to be pharmacologically resistant to the RAF inhibitors vemurafenib and dabrafenib,
+[23](#B23) whereas compelling preclinical data associate this biomarker as predictive of response to MEK inhibitors; the use of MEK inhibitors in patients with BRAF K601E mutant tumors remains investigational. [24](#B24) Therefore, intrinsically RAF inhibitor–resistant BRAF mutations, although oncogenic, are not designated as level 1, and BRAF K601E is assigned level 3A on the basis of emerging clinical data that support this biomarker as predictive of response to the MEK inhibitor trametinib [25](#B25), [26](#B26) ( [Fig 3](#F3)).
+Levels 2A and 2B.
+Level 2A includes alterations that are not FDA-recognized biomarkers but are considered standard care predictive biomarkers of response to an FDA-approved therapy in specific cancer types. These alterations are highlighted in expert panel guidelines, such as the NCCN compendium and ASCO clinical practice guidelines. Several level 2A associations involve rare cancer types (eg, BRAF V600E mutant histiocytosis) or small subpopulations of common cancers (eg, BRAF V600E mutant lung cancer), and therefore, accrual to a prospective randomized phase III clinical study may not be feasible. However, administration of a targeted agent to patients whose tumors harbor the biomarker demonstrated sufficient clinical activity to have changed standard practice. Because the total number of patients affected often is small, an application for an FDA indication may never be filed, but disease experts consider the biomarker-drug association as a standard off-label use. In total, 11 genes with 85 alterations are currently considered level 2A (Data Supplement).
+As an example, MET exon 14 alterations are present in approximately 3% of NSCLC
+[27](#B27) and represent a distinct, molecularly defined subpopulation of lung adenocarcinomas that are mutually exclusive with tumors that harbor activating mutations in EGFR and KRAS and fusions of ALK, ROS1, and RET. [28](#B28)- [30](#B30) An adequately powered randomized trial that compares the MET inhibitor crizotinib with other standard approaches, such as chemotherapy and immunotherapy, has not yet been performed partly because of the rarity of these alterations. However, durable complete or partial responses to crizotinib and cabozantinib in patients with MET exon 14–altered lung cancers have been reported. [27](#B27), [31](#B31) Although widely available as a result of its FDA approval for use in ALK fusion–positive NSCLC, crizotinib is not explicitly FDA approved in the setting of MET exon 14–altered NSCLC. Because the NCCN guidelines consider off-label prescription of crizotinib a standard treatment approach for patients with lung cancer with MET exon 14 alterations, [32](#B32) they are classified as level 2A ( [Fig 2](#F2)). Another example of a level 2A alteration is BRAF V600E as a predictive biomarker for BRAF inhibitor sensitivity in NSCLC and malignant histiocytosis. Although vemurafenib is not FDA approved for use in patients with these specific BRAF V600E mutant indications, the off-label use of vemurafenib is a well-supported treatment option included in the NCCN guidelines on the basis of compelling clinical data [33](#B33)- [35](#B35) ( [Fig 3](#F3)).
+Level 2B includes alterations that are standard predictive biomarkers of drug sensitivity in other tumor types but for which data in the tumor in question are either lacking or negative to date. For example, BRAF V600E mutations have been identified in several cancer types, including urothelial carcinomas and germ cell tumors,
+[36](#B36), [37](#B37) for which no clinical response data are reported in the literature. In these tumors, the use of RAF inhibitors in patients with BRAF mutant tumors remains investigational, and BRAF V600E is therefore classified as level 2B [36](#B36) ( [Fig 3](#F3)). In patients with BRAF V600E mutant colorectal cancer, BRAF inhibitors, such as vemurafenib, have been tested with disappointing results. [38](#B38) Such negative data are referenced in OncoKB and argue against the use of RAF inhibitor monotherapy in patients with BRAF V600E colorectal cancers. Level 2B also takes into account that early results in investigational clinical trials with RAF inhibitors as part of combination regimens appear promising. [39](#B39)
+Levels 3A and 3B.
+Level 3A includes mutations that are candidate predictive biomarkers of drug response on the basis of off-label use of FDA-approved drugs or investigational agents not yet FDA approved for any indication. For the former, the evidence that supports the predictive value of the alteration is not considered sufficient to warrant a change in standard clinical practice, and disease experts would consider the use of the FDA-approved drug in this context to be investigational. The OncoKB level 3A classification only applies to tumor types in which clinical activity has been reported, and the mutation-drug association is classified as level 3B in all other tumor types. Fifty-five alterations in 25 genes are considered level 3 (Data Supplement).
+A representative example of a level 3 alteration is AKT1 E17K (
+[Fig 3](#F3)). Promising clinical activity consistent with preclinical studies of this compound has been reported with the investigational pan-AKT inhibitor AZD5363 in patients with AKT1 E17K mutant breast, lung, cervical squamous, and endometrial cancers. [40](#B40)- [42](#B42) On the basis of these emerging clinical data, AKT1 E17K is classified as a level 3A mutation in breast, cervical, endometrial, ovarian, and lung cancers. With the lack of disease-specific data, AKT1 E17K is classified as a level 3B mutation in all other cancer types ( [Fig 3](#F3)). A more complex example of level 3 alterations are ERBB2 missense mutations that are present in a minority of a broad range of human cancers [43](#B43) and that often arise in patients without ERBB2 amplification or human epidermal growth factor receptor 2 (HER2) protein overexpression. [44](#B44) These ERBB2 mutants demonstrate varying degrees of sensitivity to HER2-selective kinase inhibitors, such as lapatinib and neratinib [44](#B44) ( [Fig 3](#F3)). Because the FDA does not recognize ERBB2 mutations as a predictive biomarker of response to HER2-targeted therapies and the clinical utility of such agents is promising [45](#B45) but not yet established, activating missense mutations in ERBB2 are classified as level 3A in breast cancer and 3B in other cancer types ( [Fig 3](#F3)).
+Level 4.
+Level 4 alterations are candidate predictive biomarkers of response to either FDA-approved or investigational agents on the basis of compelling laboratory data and an absence of substantiating compelling clinical data. Although anecdotal responses to targeted agents may have been demonstrated in individual patients whose tumor harbored a level 4 alteration, the data are not sufficiently robust to indicate that the presence of the mutation is associated with significantly greater activity than tumors that lack the alteration. For example, although studies in mouse- and patient-derived xenograft models have suggested that mammalian target of rapamycin– or AKT-targeted inhibitors may be effective in PTEN-null tumors,
+[46](#B46) the clinical data that support PTEN loss as a predictive biomarker of response to phosphatidylinositol 3-kinase, AKT, or mammalian target of rapamycin inhibitors in patients are limited and conflicting. [47](#B47)- [52](#B52) Therefore, classification of loss-of-function PTEN alterations as a level 4 alteration indicates that patients with PTEN-deficient tumors would be rational candidates for a clinical trial of investigational phosphatidylinositol 3-kinase pathway inhibitors alone or in combination with other agents, but that the use of such agents outside the context of a clinical trial is not yet supported by the sum of the clinical data. Additional examples of level 4 alterations include NF1 inactivating alterations, which may be predictive of response to MEK1/2 inhibitors, [53](#B53) and EGFR exon 20 insertions in lung adenocarcinomas that respond poorly to erlotinib [54](#B54), [55](#B55) but which may be sensitive to AP32788, an investigational inhibitor of EGFR and HER2 [56](#B56) ( [Fig 3](#F3)). As of this publication, 47 alterations in 17 genes are considered level 4 (Data Supplement). Because OncoKB levels are dynamic, mutations currently classified as level 4 may be reclassified as level 3 or higher if additional compelling clinical data emerge.
+Levels of Resistance (Levels R1 to R3).
+OncoKB classifies mutations that have been shown to confer resistance to specific targeted therapies into one of three levels on the basis of the strength of the evidence that the mutation is predictive of treatment resistance (
+[Fig 2](#F2)). Level R1 includes mutational events for which there is sufficient evidence to recommend routine testing for the mutation to identify, with a high likelihood, patients who will not respond to a standard therapy. Identification of R1 mutations, therefore, would lead to a recommendation that the associated therapy be withheld in patients whose tumors harbor the mutation. By definition, level R1 mutations predict for resistance to FDA-approved drugs, and testing for such mutations is typically recommended by expert guidelines, such as those published by the NCCN. Level R1 alterations include activating RAS mutations in colorectal cancer, which predict for resistance to the EGFR-targeted monoclonal antibodies cetuximab and panitumumab [57](#B57), [57a](#B57a); EGFR T790M mutations in NSCLC, which predict for intrinsic and acquired resistance to the EGFR tyrosine kinase inhibitors (TKIs) erlotinib, afatinib, and gefitinib [58](#B58); and PDGFRA D842V, which predicts for resistance to imatinib in patients with GI stromal tumors. [59](#B59) Alterations classified as levels R2 and R3 have hypothetical therapeutic implications and include alterations that are predictive of drug resistance on the basis of clinical and biologic data, respectively, but their use in guiding treatment decisions is considered investigational ( [Fig 2](#F2)). In some cases, alternative targeted therapies specifically target an alteration predictive of resistance to first- or second-line targeted therapies. For example, EGFR T790M is level R1 for erlotinib, gefitinib, and afatinib but is also classified as level 1 because it predicts sensitivity to the EGFR inhibitor osimertinib, which was recently approved for use in patients with NSCLC who progress on first-line EGFR TKI therapy and whose tumors harbor the EGFR T790M mutation. [60](#B60)
+Functional Alterations Without Compelling Treatment Implications
+Many genes are critical mediators of tumorigenesis, but compelling targeted therapeutic strategies have yet to be developed. For example, although multiple strategies to reverse the oncogenic effects of TP53 loss have been explored in laboratory studies and early-phase clinical trials,
+[61](#B61), [62](#B62) the agents tested do not directly target TP53, their activity is typically not restricted to TP53 mutant models, and clinical trials that test these agents either have been aborted because of lack of efficacy or do not use TP53 status as a selection criterion. [63](#B63) Thus, although genomic alterations in TP53 are typically oncogenic, OncoKB does not consider them therapeutically actionable. In fact, > 90% of alterations in OncoKB have curated biologic effects and are classified as oncogenic but are not associated with actionability.
+Actionable Alterations Across Cancer Types
+Although targeted inhibitors have been shown to improve clinical outcomes in melanoma and lung cancer among others,
+[64](#B64) the broader clinical utility of large panel or whole-exome testing remains undefined. To assess the potential clinical impact of prospective broad tumor genomic testing, we used the OncoKB levels of evidence classification to annotate mutations, copy number alterations, and gene fusions in a publicly available data set of 5,983 primary tumor samples that represent 19 cancer types profiled by whole-exome and RNA sequencing by the Cancer Genome Atlas. [1](#B1) Although > 90% of samples harbored at least one known oncogenic mutation, only 41% had one or more alterations for which compelling clinical data currently exist to justify the use of a standard or an investigational agent (levels 1 to 3B) ( [Fig 4A](#F4)). Overall, 7.5% of all samples harbored alterations that predict for response to a standard therapy in that disease context (levels 1 and 2A) ( [Fig 4A](#F4)). Level 1 and 2A alterations were most common in melanoma (44%), ovarian cancer (21%, which includes 65 of 312 samples that have either germline or somatic BRCA1- or BRCA2-inactivating mutations), soft tissue sarcomas (19% on the basis of CDK4 amplifications, which predict response to palbociclib in well-differentiated and dedifferentiated liposarcomas but not in other soft tissue sarcomas), NSCLC (14%), esophagogastric cancer (13%), and breast cancer (12%). Low-grade gliomas (LGGs) and melanomas had the highest proportion of actionable alterations. However, whereas 44% of melanomas had mutations that predict for clinical benefit with standard therapies in patients with melanoma, the majority of actionable alterations in LGG were associated with only investigational implications, with the most common mutation being IDH1 R132C (77% of LGG samples), a level 3B alteration that is based on promising clinical data with the IDH1 inhibitor AG-120 in patients with acute myeloid leukemia ( [Figs 4A and 4B](#F4)). In total, just over 10% of all samples had a level 3A mutation as their highest actionable alteration, a cohort of patients for which enrollment in a clinical trial would represent a compelling treatment option after standard treatments. In addition, approximately 15% of samples had level 3B alterations as their highest actionable event, ie, alterations for which promising clinical data have been observed in an investigational setting in another cancer type.
+On average, there were approximately three oncogenic mutations per sample, and the number of known oncogenic mutations per sample in tumor types was independent of overall mutation burden (
+[Fig 4C](#F4)). The number of actionable and oncogenic mutations varied greatly across cancer types. For example, although renal cell cancers had, on average, one oncogenic mutation per sample, these mutations were typically inactivating in tumor suppressors, such as VHL and PBRM1, which are not clinically actionable at this time. Therefore, 95% of renal cell cancers had no actionable alteration ( [Fig 4D](#F4)). In contrast, although thyroid cancers also on average had approximately one oncogenic mutation per sample ( [Fig 4C](#F4)), these alterations were typically actionable, such as RET fusions and BRAF and NRAS mutations. Therefore, 60% of thyroid samples had at least one actionable alteration ( [Fig 4D](#F4)). Breast, colorectal, and esophagogastric cancers were found to have a large fraction of samples with two or more actionable mutations (31%, 25%, and 22%, respectively), which is consistent with data that demonstrate that these tumor types are driven by multiple oncogenic mutations in nonredundant pathways [65](#B65)- [68](#B68) ( [Fig 4D](#F4)) and may explain why targeted monotherapies have shown disappointing results to date in some of these cancer types. [69](#B69), [70](#B70)
+DISCUSSION
+Since the introduction of imatinib for chronic myeloid leukemia more than a decade ago,
+[71](#B71), [72](#B72) a growing number of drugs that target specific genetic alterations required for tumor initiation and progression have been shown to significantly improve outcomes in molecularly defined populations of patients with cancer. [64](#B64), [73](#B73)- [74a](#B74a) Although tumor genetic testing is now part of routine patient care in an increasing number of tumor types, interpretation of variants remains an important challenge, and in major academic cancer centers, a significant proportion of physicians report low confidence in their ability to make optimal treatment recommendations on the basis of genomic information. [75](#B75)
+Although multiple classification systems exist for the annotation of germline variants,
+[76](#B76), [77](#B77) efforts to define the clinical utility of somatic alterations have been limited to established biomarkers, [78](#B78)- [80](#B80) and prior efforts often have classified actionability as a binary variable that results in the grouping of biomarkers that are FDA recognized with those that are nonactionable but oncogenic. To this end, we assigned each mutation to one of four levels that are based on available clinical and laboratory data that support the use of the mutation as a predictive biomarker. Standard therapeutic implications are classified as either level 1 or 2A to recognize that not all mutation-drug associations used in standard practice have been recognized by the FDA. Levels 2B, 3, and 4 include mutations for which the biomarker-drug association remains investigational and may be useful in guiding the use of an FDA-approved therapy in an off-label setting or, preferably, in prompting consideration for enrollment in appropriate clinical trials. The latter is particularly relevant because clinical trials are increasingly incorporating into their eligibility criteria the molecular profiles of patient tumors, including basket studies, such as the Roche VE-BASKET (A Study of Zelboraf [vemurafenib] in Patients With BRAF V600 Mutation-Positive Cancers; ClinicalTrials.gov identifier [NCT01524978](https://clinicaltrials.gov/ct2/show/NCT01524978)), Puma Biotechnology SUMMIT (An Open-Label, Phase 2 Study of Neratinib in Patients With Solid Tumors With Somatic Human Epidermal Growth Factor Receptor [EGFR, HER2, HER3] Mutations or EGFR Gene Amplification; ClinicalTrials.gov identifier [NCT01953926](https://clinicaltrials.gov/ct2/show/NCT01953926)), and Loxo Oncology NAVIGATE (A Phase II Basket Study of the Oral TRK Inhibitor LOXO-101 in Subjects With NTRK Fusion-Positive Tumors; ClinicalTrials.gov identifier [NCT02576431](https://clinicaltrials.gov/ct2/show/NCT02576431)) trials, and master or umbrella studies, such as the NCI-MATCH (National Cancer Institute Molecular Analysis for Therapy Choice; ClinicalTrials.gov identifier [NCT02465060](https://clinicaltrials.gov/ct2/show/NCT02465060)), ASCO TAPUR (Targeted Agent and Profiling Utilization Registry; ClinicalTrials.gov identifier [NCT02693535](https://clinicaltrials.gov/ct2/show/NCT02693535)), Genentech MyPathway (ClinicalTrials.gov identifier [NCT02091141](https://clinicaltrials.gov/ct2/show/NCT02091141)), and Novartis SIGNATURE (Ceritinib [LDK378] for Patients Whose Tumors Have Aberrations in ALK or ROS1; ClinicalTrials.gov identifier [NCT02186821](https://clinicaltrials.gov/ct2/show/NCT02186821)) trials.
+Off-label use of cancer drugs in oncology has a long history,
+[81](#B81)- [83](#B83) particularly in patients with rare cancer types for whom randomized clinical trials may not be feasible. Access to drugs for off-label use is becoming increasingly difficult because of high drug costs and variations in reimbursement among individual insurance providers. Moreover, there are cases where off-label use of an FDA-approved drug is explicitly not warranted because of existing data that argue against the use of a targeted agent in a specific cancer type. For example, although the BRAF inhibitor vemurafenib is a standard treatment option for patients with BRAF V600E mutant melanoma or NSCLC, robust clinical reports from multiple independent centers demonstrated that patients with BRAF V600E mutant colorectal cancer do not respond to RAF inhibitors, at least as monotherapy. [38](#B38), [84](#B84) Similarly, although ERBB2 amplification predicts for the clinical utility of HER2-targeted therapies in breast and esophagogastric cancers, the clinical activity of trastuzumab in ERBB2-amplified lung cancers has been disappointing. [85](#B85)
+BRAF V600E and ERBB2 amplification are, therefore, level 2B when detected in colorectal cancers. A level 2B designation should encourage consideration of a clinical trial. In the case of BRAF V600E mutant colorectal cancers, somewhat more encouraging results have been observed with BRAF-EGFR inhibitor combinations [39](#B39); however, given that thus far this approach is nonstandard and that expensive agents are involved, access to these drugs outside a clinical trial in this scenario may be difficult.
+Individual mutant alleles within a single gene may be functionally distinct, with different predictive value and, therefore, individual therapeutic implications, which complicates the development of clinical decision support tools, particularly in the context of often-vague FDA labeling and expert guidelines, such as those provided by the NCCN, that may not define at a granular level whether specific mutations within a gene are predictive of drug response. To address this complexity, OncoKB groups mutations in level 1 genes, such as EGFR and KIT, according to whether they are biologically active, whether there are preclinical data to suggest that the allele is sensitive or resistant to the matched targeted agents, and whether there are clinical data to suggest clinical sensitivity or intrinsic resistance to the approved targeted therapy. Consequently, less common EGFR mutations, such as L861Q and G719A, are classified as level 1, whereas EGFR exon 20 insertions are classified as level 4.
+[85a](#B85a) A limitation of this approach is that the response rate of erlotinib in patients with these mutations may prove to be lower relative to the more common EGFR TKI–sensitizing alleles, such as L858R, after more clinical data on these rare alleles become available. We therefore anticipate further refinement of OncoKB classifications as additional clinical data emerge for rare targetable alleles. The challenge of rare drug-sensitive variants in level 1 genes also highlights the need for consortia efforts, such as the American Association for Cancer Research Project GENIE (Genomics Evidence Neoplasia Information Exchange), which should allow for the collection of clinical response data for rare alleles to help to guide the treatment of patients with these less common mutations.
+Although new laboratory and clinical data are continually generated, FDA labels and professional guidelines are updated at irregular intervals. Thus, the level of evidence assigned to an annotated alteration may change, with immediate implications for patients with active disease. For example, although explicit FDA approval of crizotinib in ROS1-rearranged NSCLC did not occur until March 2016, off-label use of crizotinib in patients with ROS1 fusion-positive lung cancers has been considered standard of care by several expert groups for some time.
+[86](#B86)- [88](#B88) As another example, whereas KRAS was initially considered a level 3A alteration in NSCLC on the basis of promising data from the randomized phase II study that supplemented standard chemotherapy with a MEK inhibitor, [89](#B89) the subsequent phase III trial showed no survival benefit with this combination, [90](#B90) which is consistent with negative data associated with MEK inhibitor use in KRAS mutant pancreatic and colorectal cancers. [91](#B91), [92](#B92) Nonetheless, anecdotal clinical and compelling preclinical data support the use of KRAS as a predictive biomarker of sensitivity to novel MEK and ERK inhibitors alone or in combination with other agents. [93](#B93)- [97](#B97) OncoKB thus recognizes and reassigns the level of evidence of mutational events, if appropriate, on the basis of newer, more-definitive, and negative randomized clinical data, which take precedence over prior preliminary clinical findings.
+To incorporate new clinical and research findings, we have made the OncoKB annotation available publically through an interactive Web site
+[19](#B19) and through the cBioPortal for Cancer Genomics. [22](#B22) Both systems include a comment feature to facilitate crowdsourcing curation of this knowledge base. User suggestions are evaluated by the scientific team and incorporated into OncoKB through periodic updates. OncoKB is also an active member in efforts to promote harmonization of variant annotation across existent knowledge bases and is participating in both ClinGen and the Global Alliance for Genomic Health through the Variant Interpretation Cancer Consortium.
+In the future, we will curate information about mutational signatures, such as overall mutation burden and the possible link to immunotherapy, mutational clonality, and the impact on drug sensitivity of co-occurrence of specific oncogenic and actionable mutations. Additional prospective and retrospective clinical studies will further define the proportion of patients with cancer and the specific patient subsets that would benefit from targeted therapies. Toward this goal, clinical and scientific researchers must establish standards and aggregate scientific knowledge for the benefit of clinicians and patients. A curated database such as OncoKB can play an important role in realizing the promise of precision medicine by helping physicians to identify potentially actionable variants to ensure that patients receive appropriate standard therapies or are directed to the most appropriate clinical trials.
+ACKNOWLEDGMENT
+We thank the following individuals for serving as OncoKB curators: Andrew Intlekofer, Eric Smith, Piro Lito, Jaclyn Hechtman, Dmitriy Zamarin, Wassim Abida, Mythili Koneru, Weiyi Toy, Pedram Razavi, Philip Iaquinta, Byron Lee, Martin Dalin, Matthew Jones, Elizabeth Adams, Karuna Ganesh, Olga Guryanova, Carolyn Jackson, William Terry, Yu Chen, Ping Chi, Eduard Reznik, Aphrothiti Hanrahan, Sevin Turcan, Philip Watson, Neeman Mohibullah, Elena Goldberg, Aaron Viny, Emily Foley, Samuel Kaffenberger, Andrew Winer, Connie Batlevi, Helen Won, Lindsay Saunders, Kinisha Gala, Philip Jonsson, Fiona Brown, Eneda Toska, Iñigo Landa-Lopez, and Tripti Shrestha-Bhattarai.
+Footnotes
+Supported by the Marie-Josée and Henry R. Kravis Center for Molecular Oncology, a National Cancer Institute Cancer Center Core Grant (P30-CA008748), the Robertson Foundation (B.S.T. and N.S.), the Prostate Cancer Foundation (B.S.T. and N.S.), and Quest Diagnostics.
+AUTHOR CONTRIBUTIONS
+Conception and design: Debyani Chakravarty, Jianjiong Gao, Sarah Phillips, Ritika Kundra, Hongxin Zhang, Julia E. Rudolph, Ederlinda Paraiso, David M. Hyman, José Baselga, Paul Sabbatini, David B. Solit, Nikolaus Schultz
+Financial support: Ederlinda Paraiso, Nikolaus Schultz
+Administrative support: Julia E. Rudolph, Ederlinda Paraiso
+Collection and assembly of data: Debyani Chakravarty, Jianjiong Gao, Sarah Phillips, Ritika Kundra, Hongxin Zhang, Tara Soumerai, Moriah H. Nissan, Matthew T. Chang, Sarat Chandarlapaty, Tiffany A. Traina, Paul K. Paik, Alan L. Ho, Shrujal S. Baxi, Margaret K. Callahan, Alexandra Snyder, Ping Chi, Daniel C. Danila, Mrinal Gounder, James J. Harding, Matthew D. Hellmann, Gopa Iyer, Yelena Y. Janjigian, Thomas Kaley, Douglas A. Levine, Maeve Lowery, Antonio Omuro, Michael A. Postow, Dana Rathkopf, Alexander N. Shoushtari, Neerav Shukla, Martin H. Voss, Leonard B. Saltz, Gregory J. Riely, Marc Ladanyi, David M. Hyman, Nikolaus Schultz
+Data analysis and interpretation: Debyani Chakravarty, Jianjiong Gao, Sarah Phillips, Ritika Kundra, Hongxin Zhang, Matthew T. Chang, David B. Solit, Nikolaus Schultz
+Manuscript writing: All authors
+Final approval of the manuscript: All authors
+Accountable for all aspects of the work: All authors
+AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST
+OncoKB: A Precision Oncology Knowledge Base
+The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. I = Immediate Family Member, Inst = My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO's conflict of interest policy, please refer to
+[www.asco.org/rwc](http://www.asco.org/rwc) or [po.ascopubs.org/site/ifc](http://po.ascopubs.org/site/ifc).
+Debyani Chakravarty
+No relationship to disclose
+Jianjiong Gao
+No relationship to disclose
+Sarah Phillips
+No relationship to disclose
+Ritika Kundra
+No relationship to disclose
+Hongxin Zhang
+No relationship to disclose
+Jiaojiao Wang
+No relationship to disclose
+Julia E. Rudolph
+No relationship to disclose
+Rona Yaeger
+Consulting or Advisory Role: GlaxoSmithKline, Advaxis
+Tara Soumerai
+No relationship to disclose
+Moriah H. Nissan
+No relationship to disclose
+Matthew T. Chang
+No relationship to disclose
+Sarat Chandarlapaty
+Honoraria: Chugai Pharmaceutical, Foresite Capital, AstraZeneca, Sermonix Pharmaceuticals, MacroGenics, Agendia
+Research Funding: Eli Lilly (Inst), Novartis (Inst)
+Travel, Accommodations, Expenses: Chugai Pharmaceutical, MacroGenics, AstraZeneca
+Tiffany A. Traina
+Consulting or Advisory Role: Genentech, Roche, Eisai, Mundipharma, Medivation, Pfizer, AstraZeneca, Bayer AG, Immunomedics, Merck
+Research Funding: Medivation, Eisai, Pfizer, Novartis, Myriad Genetics, Innocrin Pharmaceuticals, AstraZeneca
+Paul K. Paik
+Honoraria: Celgene, Bristol-Myers Squibb, Eli Lilly, ARIAD Pharmaceuticals
+Consulting or Advisory Role: Celgene, Eli Lilly, ARIAD Pharmaceuticals, Bristol-Myers Squibb, Celgene
+Research Funding: Celgene, EMD Serono
+Travel, Accommodations, Expenses: EMD Serono
+Alan L. Ho
+Consulting or Advisory Role: Oncology Consortium, Bristol-Myers Squibb, Eisai, Genzyme, Merck, Novartis, Sun Pharmaceutical Industries, Kura Oncology
+Speakers’ Bureau: Medscape, Omniprex America, Eli Lilly, Genentech, Roche, AstraZeneca, Bayer AG, Kura Oncology, Kolltan Pharmaceuticals, Eisai, AstraZeneca
+Travel, Accommodations, Expenses: Janssen Pharmaceuticals, Merck, Kura Oncology
+Feras M. Hantash
+Employment: Quest Diagnostics
+Stock and Other Ownership Interests: Quest Diagnostics
+Patents, Royalties, Other Intellectual Property: Patents on molecular methods, but not related to manuscript
+Andrew Grupe
+Employment: Quest Diagnostics
+Stock and Other Ownership Interests: Quest Diagnostics
+Patents, Royalties, Other Intellectual Property: Patents or patent applications
+Travel, Accommodations, Expenses: Quest Diagnostics
+Shrujal S. Baxi
+Consulting or Advisory Role: Bristol-Myers Squibb, AstraZeneca
+Travel, Accommodations, Expenses: AstraZeneca
+Margaret K. Callahan
+Employment: Bristol-Myers Squibb (I), Celgene (I), Kleo Pharmaceuticals (I)
+Consulting or Advisory Role: AstraZeneca, Moderna
+Research Funding: Bristol-Myers Squibb (Inst)
+Other Relationship: Clinical Care Options, Potomac Center for Medical Education
+Alexandra Snyder
+Consulting or Advisory Role: Third Rock Ventures, Driver Group
+Research Funding: Bristol-Myers Squibb
+Travel, Accommodations, Expenses: Genentech, Roche, Bristol-Myers Squibb
+Ping Chi
+Honoraria: Novartis
+Daniel C. Danila
+Honoraria: Astellas Pharma, Angle, Bayer AG, Janssen Pharmaceuticals
+Consulting or Advisory Role: Angle, Bayer AG
+Research Funding: Prostate Cancer Foundation, Genentech, Janssen Pharmaceuticals (Inst)
+Patents, Royalties, Other Intellectual Property: Gene expression profile associated with prostate cancer
+Travel, Accommodations, Expenses: Cambridge Healthtech Institute, Prostate Cancer Foundation, Angle, Bayer AG, American Austrian Foundation Open Medical Institute, Global Technology Community, Janssen Pharmaceuticals, Oncology Education
+Mrinal Gounder
+Honoraria: Amgen, Daiichi Sankyo, Karyopharm Therapeutics, TRACON Pharmaceuticals, Amgen
+Consulting or Advisory Role: Daiichi Sankyo, Karyopharm Therapeutics, Epizyme
+Speakers’ Bureau: Amgen
+Travel, Accommodations, Expenses: Amgen
+Travel, Accommodations, Expenses: Daiichi Sankyo, Karyopharm Therapeutics
+James J. Harding
+No relationship to disclose
+Matthew D. Hellmann
+Consulting or Advisory Role: Bristol-Myers Squibb, Merck, Genentech, AstraZeneca, MedImmune, Novartis, Janssen Pharmaceuticals
+Research Funding: Bristol-Myers Squibb, Genentech, Roche
+Gopa Iyer
+No relationship to disclose
+Yelena Y. Janjigian
+Consulting or Advisory Role: Eli Lilly, Pfizer
+Research Funding: Boehringer Ingelheim, Bayer AG, Eli Lilly, Amgen, Roche, Genentech
+Thomas Kaley
+No relationship to disclose
+Douglas A. Levine
+Stock and Other Ownership Interests: Critical Outcome Technologies
+Consulting or Advisory Role: Clovis Oncology, MTrap, Biodesix, TESARO
+Maeve Lowery
+Consulting or Advisory Role: Agios, Celgene
+Antonio Omuro
+Consulting or Advisory Role: Stemline Therapeutics, Juno Therapeutics, Bristol-Myers Squibb, OXiGENE, Alexion Pharmaceuticals, AstraZeneca, Inovio Pharmaceuticals, Merck
+Michael A. Postow
+Honoraria: Bristol-Myers Squibb, Merck
+Consulting or Advisory Role: Amgen, Bristol-Myers Squibb, Novartis
+Research Funding: Bristol-Myers Squibb (Inst), Novartis (Inst), Array BioPharma (Inst), Infinity Pharmaceuticals (Inst)
+Travel, Accommodations, Expenses: Bristol-Myers Squibb
+Dana Rathkopf
+Consulting or Advisory Role: Janssen Pharmaceuticals
+Research Funding: Janssen Pharmaceuticals (Inst), Medivation (Inst), Celgene (Inst), Takeda Pharmaceuticals (Inst), Millennium Pharmaceuticals (Inst), Ferring Pharmaceuticals (Inst), Novartis (Inst), Taiho Pharmaceutical (Inst), AstraZeneca (Inst), Genentech (Inst), Roche (Inst), TRACON Pharmaceuticals (Inst)
+Alexander N. Shoushtari
+Consulting or Advisory Role: Vaccinex, Castle Biosciences, Immunocore
+Research Funding: Bristol-Myers Squibb, Immunocore
+Travel, Accommodations, Expenses: Bristol-Myers Squibb
+Neerav Shukla
+No relationship to disclose
+Martin H. Voss
+Honoraria: Novartis
+Consulting or Advisory Role: Novartis, Calithera Biosciences, Natera, GlaxoSmithKline, Exelixis, Pfizer, Alexion Pharmaceuticals
+Research Funding: Pfizer, Bristol-Myers Squibb, Genentech, Roche
+Travel, Accommodations, Expenses: Novartis, Takeda Pharmaceuticals
+Ederlinda Paraiso
+No relationship to disclose
+Ahmet Zehir
+No relationship to disclose
+Michael F. Berger
+Consulting or Advisory Role: Cancer Genetics, Sequenom
+Barry S. Taylor
+No relationship to disclose
+Leonard B. Saltz
+Consulting or Advisory Role: Eli Lilly, McNeil (I), AbbVie
+Research Funding: Taiho Pharmaceutical
+Gregory J. Riely
+Consulting or Advisory Role: Novartis, Genentech
+Research Funding: Novartis (Inst), Roche (Inst), Genentech (Inst), Millennium Pharmaceuticals (Inst), GlaxoSmithKline (Inst), Pfizer (Inst), Infinity Pharmaceuticals (Inst), ARIAD Pharmaceuticals (Inst)
+Patents, Royalties, Other Intellectual Property: Patent application submitted that covers pulsatile use of erlotinib to treat or prevent brain metastases (Inst)
+Travel, Accommodations, Expenses: Novartis
+Marc Ladanyi
+Honoraria: Merck (I)
+Consulting or Advisory Role: National Comprehensive Cancer Network, Boehringer Ingelheim, AstraZeneca
+Research Funding: Loxo Oncology (Inst)
+David M. Hyman
+Consulting or Advisory Role: Atara Biotherapeutics, Chugai Pharmaceutical, CytomX Therapeutics
+Research Funding: AstraZeneca, Puma Biotechnology
+José Baselga
+Leadership: Infinity Pharmaceuticals, Varian Medical Systems, GRAIL, Foghorn
+Stock or Other Ownership: PMV Pharma, Juno Therapeutics, Infinity Pharmaceuticals, GRAIL, Varian Medical Systems, Tango, Foghorn, Aura Biomedical, Apogen, Northern Biologics
+Honoraria: PMV Pharma, Juno Therapeutics, Infinity Pharmaceuticals, GRAIL, Northern Biologics
+Consulting or Advisory Role: Eli Lilly, Novartis, GRAIL
+Patents, Royalties, Other Intellectual Property: Combination therapy using PDK1 and PI3K inhibitors. Pending. MSK owned, listed as investigator. Jul 16 Use of phosphoinositide 3- kinase inhibitors for treatment of vascular malformations. Licensed. MSK owned, listed as investigator. May 16
+Travel, Accommodations, Expenses: Roche/Genentech
+Paul Sabbatini
+Research Funding: Bristol-Myers Squibb (Inst), Ludwig Institute for Cancer Research (Inst)
+David B. Solit
+Honoraria: Loxo Oncology, Pfizer
+Consulting or Advisory Role: Pfizer, Loxo Oncology
+Nikolaus Schultz
+No relationship to disclose
+REFERENCES
+-
+1.Weinstein JN, Collisson EA, Mills GB, et al. The Cancer Genome Atlas pan-cancer analysis project. Nat Genet. 2013;45:1113–1120. doi: 10.1038/ng.2764. [
+[DOI](https://doi.org/10.1038/ng.2764)] [ [PMC free article](/articles/PMC3919969/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24071849/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat%20Genet&title=The%20Cancer%20Genome%20Atlas%20pan-cancer%20analysis%20project&author=JN%20Weinstein&author=EA%20Collisson&author=GB%20Mills&volume=45&publication_year=2013&pages=1113-1120&pmid=24071849&doi=10.1038/ng.2764&)]
+-
+2. doi: 10.1038/nature08987. Hudson TJ, Anderson W, Artez A, et al: International network of cancer genome projects. Nature 464:993-998, 2010 [Erratum: Nature 465:966, 2010] [
+[DOI](https://doi.org/10.1038/nature08987)] [ [PMC free article](/articles/PMC2902243/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20393554/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?doi:%2010.1038/nature08987.%20Hudson%20TJ,%20Anderson%20W,%20Artez%20A,%20et%20al:%20International%20network%20of%20cancer%20genome%20projects.%20Nature%20464:993-998,%202010%20%5BErratum:%20Nature%20465:966,%202010%5D)]
+-
+3.Vanderbilt-Ingram Cancer Center My cancer genome.
+[https://www.mycancergenome.org](https://www.mycancergenome.org)
+-
+4.Griffith M, Spies NC, Krysiak K, et al. CIViC is a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer. Nat Genet. 2017;49:170–174. doi: 10.1038/ng.3774. [
+[DOI](https://doi.org/10.1038/ng.3774)] [ [PMC free article](/articles/PMC5367263/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28138153/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat%20Genet&title=CIViC%20is%20a%20community%20knowledgebase%20for%20expert%20crowdsourcing%20the%20clinical%20interpretation%20of%20variants%20in%20cancer&author=M%20Griffith&author=NC%20Spies&author=K%20Krysiak&volume=49&publication_year=2017&pages=170-174&pmid=28138153&doi=10.1038/ng.3774&)]
+-
+5.The McDonnell Genome Institute: CIViC: Clinical interpretations of variants in cancer.
+[https://civic.genome.wustl.edu](https://civic.genome.wustl.edu)
+-
+6. doi: 10.1093/jamia/ocw148. Huang L, Fernandes H, Zia H, et al: The cancer precision medicine knowledge base for structured clinical-grade mutations and interpretations. J Am Med Inform Assoc 10.1093/jamia/ocw148 [epub ahead of print on October 27, 2016] [
+[DOI](https://doi.org/10.1093/jamia/ocw148)] [ [PMC free article](/articles/PMC5391733/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27789569/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?doi:%2010.1093/jamia/ocw148.%20Huang%20L,%20Fernandes%20H,%20Zia%20H,%20et%20al:%20The%20cancer%20precision%20medicine%20knowledge%20base%20for%20structured%20clinical-grade%20mutations%20and%20interpretations.%20J%20Am%20Med%20Inform%20Assoc%2010.1093/jamia/ocw148%20%5Bepub%20ahead%20of%20print%20on%20October%2027,%202016%5D)]
+-
+7.Institute of Precision Medicine Welcome to the Precision Medicine Knowledgebase.
+[https://pmkb.weill.cornell.edu](https://pmkb.weill.cornell.edu)
+-
+8.Patterson SE, Liu R, Statz CM, et al. The clinical trial landscape in oncology and connectivity of somatic mutational profiles to targeted therapies. Hum Genomics. 2016;10:4. doi: 10.1186/s40246-016-0061-7. [
+[DOI](https://doi.org/10.1186/s40246-016-0061-7)] [ [PMC free article](/articles/PMC4715272/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26772741/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Hum%20Genomics&title=The%20clinical%20trial%20landscape%20in%20oncology%20and%20connectivity%20of%20somatic%20mutational%20profiles%20to%20targeted%20therapies&author=SE%20Patterson&author=R%20Liu&author=CM%20Statz&volume=10&publication_year=2016&pages=4&pmid=26772741&doi=10.1186/s40246-016-0061-7&)]
+-
+9.The Jackson Laboratory: Clinical Knowledgebase (CKB).
+[https://www.jax.org/clinical-genomics/ckb](https://www.jax.org/clinical-genomics/ckb)
+-
+10.Barcelona Biomedical Genomics Lab Cancer genome interpreter.
+[https://cancergenomeinterpreter.org](https://cancergenomeinterpreter.org)
+-
+11.Damodaran S, Miya J, Kautto E, et al. Cancer driver log (CanDL): Catalog of potentially actionable cancer mutations. J Mol Diagn. 2015;17:554–559. doi: 10.1016/j.jmoldx.2015.05.002. [
+[DOI](https://doi.org/10.1016/j.jmoldx.2015.05.002)] [ [PMC free article](/articles/PMC4597274/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26320871/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Mol%20Diagn&title=Cancer%20driver%20log%20(CanDL):%20Catalog%20of%20potentially%20actionable%20cancer%20mutations&author=S%20Damodaran&author=J%20Miya&author=E%20Kautto&volume=17&publication_year=2015&pages=554-559&pmid=26320871&doi=10.1016/j.jmoldx.2015.05.002&)]
+-
+12.The Ohio State University CanDL.
+[http://candl.osu.edu](http://candl.osu.edu)
+-
+13.Lawrence MS, Stojanov P, Mermel CH, et al. Discovery and saturation analysis of cancer genes across 21 tumour types. Nature. 2014;505:495–501. doi: 10.1038/nature12912. [
+[DOI](https://doi.org/10.1038/nature12912)] [ [PMC free article](/articles/PMC4048962/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24390350/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Discovery%20and%20saturation%20analysis%20of%20cancer%20genes%20across%2021%20tumour%20types&author=MS%20Lawrence&author=P%20Stojanov&author=CH%20Mermel&volume=505&publication_year=2014&pages=495-501&pmid=24390350&doi=10.1038/nature12912&)]
+-
+14.Broad Institute: Welcome to TumorPortal: Genes, cancers, DNA mutations and annotations.
+[http://tumorportal.org](http://tumorportal.org)
+-
+15.Massachusetts General Hospital Targeted cancer care.
+[https://targetedcancercare.massgeneral.org](https://targetedcancercare.massgeneral.org)
+-
+16.Meric-Bernstam F, Johnson A, Holla V, et al. A decision support framework for genomically informed investigational cancer therapy. J Natl Cancer Inst. 2015;107:dvj098. doi: 10.1093/jnci/djv098. [
+[DOI](https://doi.org/10.1093/jnci/djv098)] [ [PMC free article](/articles/PMC4651038/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25863335/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Natl%20Cancer%20Inst&title=A%20decision%20support%20framework%20for%20genomically%20informed%20investigational%20cancer%20therapy&author=F%20Meric-Bernstam&author=A%20Johnson&author=V%20Holla&volume=107&publication_year=2015&pages=dvj098&pmid=25863335&doi=10.1093/jnci/djv098&)]
+-
+17.The University of Texas MD Anderson Cancer Center Personalized cancer therapy knowledge base for precision oncology.
+[https://pct.mdanderson.org](https://pct.mdanderson.org)
+-
+18.Memorial Sloan Kettering Cancer Center Cancer hotspots.
+[http://cancerhotspots.org](http://cancerhotspots.org)
+-
+19.Memorial Sloan Kettering Cancer Center OncoKB.
+[http://oncokb.org](http://oncokb.org)
+-
+20.Cerami E, Gao J, Dogrusoz U, et al. The cBio cancer genomics portal: An open platform for exploring multidimensional cancer genomics data. Cancer Discov. 2012;2:401–404. doi: 10.1158/2159-8290.CD-12-0095. [
+[DOI](https://doi.org/10.1158/2159-8290.CD-12-0095)] [ [PMC free article](/articles/PMC3956037/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22588877/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cancer%20Discov&title=The%20cBio%20cancer%20genomics%20portal:%20An%20open%20platform%20for%20exploring%20multidimensional%20cancer%20genomics%20data&author=E%20Cerami&author=J%20Gao&author=U%20Dogrusoz&volume=2&publication_year=2012&pages=401-404&pmid=22588877&doi=10.1158/2159-8290.CD-12-0095&)]
+-
+21.Gao J, Aksoy BA, Dogrusoz U, et al. Integrative analysis of complex cancer genomics and clinical profiles using the cBioPortal. Sci Signal. 2013;6:pl1. doi: 10.1126/scisignal.2004088. [
+[DOI](https://doi.org/10.1126/scisignal.2004088)] [ [PMC free article](/articles/PMC4160307/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23550210/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sci%20Signal&title=Integrative%20analysis%20of%20complex%20cancer%20genomics%20and%20clinical%20profiles%20using%20the%20cBioPortal&author=J%20Gao&author=BA%20Aksoy&author=U%20Dogrusoz&volume=6&publication_year=2013&pages=pl1&pmid=23550210&doi=10.1126/scisignal.2004088&)]
+-
+22.Memorial Sloan Kettering Cancer Center: cBioPortal for cancer genomics.
+[http://www.cbioportal.org](http://www.cbioportal.org)
+-
+23.Yao Z, Torres NM, Tao A, et al. BRAF mutants evade ERK-Dependent feedback by different mechanisms that determine their sensitivity to pharmacologic inhibition. Cancer Cell. 2015;28:370–383. doi: 10.1016/j.ccell.2015.08.001. [
+[DOI](https://doi.org/10.1016/j.ccell.2015.08.001)] [ [PMC free article](/articles/PMC4894664/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26343582/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cancer%20Cell&title=BRAF%20mutants%20evade%20ERK-Dependent%20feedback%20by%20different%20mechanisms%20that%20determine%20their%20sensitivity%20to%20pharmacologic%20inhibition&author=Z%20Yao&author=NM%20Torres&author=A%20Tao&volume=28&publication_year=2015&pages=370-383&pmid=26343582&doi=10.1016/j.ccell.2015.08.001&)]
+-
+24.Dahlman KB, Xia J, Hutchinson K, et al. BRAF(L597) mutations in melanoma are associated with sensitivity to MEK inhibitors. Cancer Discov. 2012;2:791–797. doi: 10.1158/2159-8290.CD-12-0097. [
+[DOI](https://doi.org/10.1158/2159-8290.CD-12-0097)] [ [PMC free article](/articles/PMC3449158/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22798288/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cancer%20Discov&title=BRAF(L597)%20mutations%20in%20melanoma%20are%20associated%20with%20sensitivity%20to%20MEK%20inhibitors&author=KB%20Dahlman&author=J%20Xia&author=K%20Hutchinson&volume=2&publication_year=2012&pages=791-797&pmid=22798288&doi=10.1158/2159-8290.CD-12-0097&)]
+-
+25.Bowyer SE, Rao AD, Lyle M, et al. Activity of trametinib in K601E and L597Q BRAF mutation-positive metastatic melanoma. Melanoma Res. 2014;24:504–508. doi: 10.1097/CMR.0000000000000099. [
+[DOI](https://doi.org/10.1097/CMR.0000000000000099)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24933606/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Melanoma%20Res&title=Activity%20of%20trametinib%20in%20K601E%20and%20L597Q%20BRAF%20mutation-positive%20metastatic%20melanoma&author=SE%20Bowyer&author=AD%20Rao&author=M%20Lyle&volume=24&publication_year=2014&pages=504-508&pmid=24933606&doi=10.1097/CMR.0000000000000099&)]
+-
+26.Kim KB, Kefford R, Pavlick AC, et al. Phase II study of the MEK1/MEK2 inhibitor trametinib in patients with metastatic BRAF-mutant cutaneous melanoma previously treated with or without a BRAF inhibitor. J Clin Oncol. 2013;31:482–489. doi: 10.1200/JCO.2012.43.5966. [
+[DOI](https://doi.org/10.1200/JCO.2012.43.5966)] [ [PMC free article](/articles/PMC4878037/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23248257/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Oncol&title=Phase%20II%20study%20of%20the%20MEK1/MEK2%20inhibitor%20trametinib%20in%20patients%20with%20metastatic%20BRAF-mutant%20cutaneous%20melanoma%20previously%20treated%20with%20or%20without%20a%20BRAF%20inhibitor&author=KB%20Kim&author=R%20Kefford&author=AC%20Pavlick&volume=31&publication_year=2013&pages=482-489&pmid=23248257&doi=10.1200/JCO.2012.43.5966&)]
+-
+27.Paik PK, Drilon A, Fan PD, et al. Response to MET inhibitors in patients with stage IV lung adenocarcinomas harboring MET mutations causing exon 14 skipping. Cancer Discov. 2015;5:842–849. doi: 10.1158/2159-8290.CD-14-1467. [
+[DOI](https://doi.org/10.1158/2159-8290.CD-14-1467)] [ [PMC free article](/articles/PMC4658654/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25971939/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cancer%20Discov&title=Response%20to%20MET%20inhibitors%20in%20patients%20with%20stage%20IV%20lung%20adenocarcinomas%20harboring%20MET%20mutations%20causing%20exon%2014%20skipping&author=PK%20Paik&author=A%20Drilon&author=PD%20Fan&volume=5&publication_year=2015&pages=842-849&pmid=25971939&doi=10.1158/2159-8290.CD-14-1467&)]
+-
+28. doi: 10.1038/nature13385. Cancer Genome Atlas Research Network: Comprehensive molecular profiling of lung adenocarcinoma. Nature 511:543-550, 2014 [Erratum: Nature 514:262, 2014] [
+[DOI](https://doi.org/10.1038/nature13385)] [ [PMC free article](/articles/PMC4231481/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25079552/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?doi:%2010.1038/nature13385.%20Cancer%20Genome%20Atlas%20Research%20Network:%20Comprehensive%20molecular%20profiling%20of%20lung%20adenocarcinoma.%20Nature%20511:543-550,%202014%20%5BErratum:%20Nature%20514:262,%202014%5D)]
+-
+29.Ma PC, Jagadeeswaran R, Jagadeesh S, et al. Functional expression and mutations of c-Met and its therapeutic inhibition with SU11274 and small interfering RNA in non-small cell lung cancer. Cancer Res. 2005;65:1479–1488. doi: 10.1158/0008-5472.CAN-04-2650. [
+[DOI](https://doi.org/10.1158/0008-5472.CAN-04-2650)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15735036/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cancer%20Res&title=Functional%20expression%20and%20mutations%20of%20c-Met%20and%20its%20therapeutic%20inhibition%20with%20SU11274%20and%20small%20interfering%20RNA%20in%20non-small%20cell%20lung%20cancer&author=PC%20Ma&author=R%20Jagadeeswaran&author=S%20Jagadeesh&volume=65&publication_year=2005&pages=1479-1488&pmid=15735036&doi=10.1158/0008-5472.CAN-04-2650&)]
+-
+30.Ma PC, Kijima T, Maulik G, et al. c-MET mutational analysis in small cell lung cancer: novel juxtamembrane domain mutations regulating cytoskeletal functions. Cancer Res. 2003;63:6272–6281. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/14559814/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cancer%20Res&title=c-MET%20mutational%20analysis%20in%20small%20cell%20lung%20cancer:%20novel%20juxtamembrane%20domain%20mutations%20regulating%20cytoskeletal%20functions&author=PC%20Ma&author=T%20Kijima&author=G%20Maulik&volume=63&publication_year=2003&pages=6272-6281&pmid=14559814&)]
+-
+31.Frampton GM, Ali SM, Rosenzweig M, et al. Activation of MET via diverse exon 14 splicing alterations occurs in multiple tumor types and confers clinical sensitivity to MET inhibitors. Cancer Discov. 2015;5:850–859. doi: 10.1158/2159-8290.CD-15-0285. [
+[DOI](https://doi.org/10.1158/2159-8290.CD-15-0285)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25971938/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cancer%20Discov&title=Activation%20of%20MET%20via%20diverse%20exon%2014%20splicing%20alterations%20occurs%20in%20multiple%20tumor%20types%20and%20confers%20clinical%20sensitivity%20to%20MET%20inhibitors&author=GM%20Frampton&author=SM%20Ali&author=M%20Rosenzweig&volume=5&publication_year=2015&pages=850-859&pmid=25971938&doi=10.1158/2159-8290.CD-15-0285&)]
+-
+32.National Comprehensive Cancer Network: Non–small cell lung cancer, NSCLC-H, version 3.2017.
+[http://www.nccn.org](http://www.nccn.org)
+-
+33.Gautschi O, Milia J, Cabarrou B, et al. Targeted therapy for patients with BRAF-mutant lung cancer: Results from the European EURAF cohort. J Thorac Oncol. 2015;10:1451–1457. doi: 10.1097/JTO.0000000000000625. [
+[DOI](https://doi.org/10.1097/JTO.0000000000000625)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26200454/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Thorac%20Oncol&title=Targeted%20therapy%20for%20patients%20with%20BRAF-mutant%20lung%20cancer:%20Results%20from%20the%20European%20EURAF%20cohort&author=O%20Gautschi&author=J%20Milia&author=B%20Cabarrou&volume=10&publication_year=2015&pages=1451-1457&pmid=26200454&doi=10.1097/JTO.0000000000000625&)]
+-
+34.Hyman DM, Puzanov I, Subbiah V, et al. Vemurafenib in multiple nonmelanoma cancers with BRAF V600 mutations. N Engl J Med. 2015;373:726–736. doi: 10.1056/NEJMoa1502309. [
+[DOI](https://doi.org/10.1056/NEJMoa1502309)] [ [PMC free article](/articles/PMC4971773/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26287849/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=Vemurafenib%20in%20multiple%20nonmelanoma%20cancers%20with%20BRAF%20V600%20mutations&author=DM%20Hyman&author=I%20Puzanov&author=V%20Subbiah&volume=373&publication_year=2015&pages=726-736&pmid=26287849&doi=10.1056/NEJMoa1502309&)]
+-
+35.Planchard D, Besse B, Groen HJ, et al. Dabrafenib plus trametinib in patients with previously treated BRAF(V600E)-mutant metastatic non-small cell lung cancer: An open-label, multicentre phase 2 trial. Lancet Oncol. 2016;17:984–993. doi: 10.1016/S1470-2045(16)30146-2. [
+[DOI](https://doi.org/10.1016/S1470-2045(16)30146-2)] [ [PMC free article](/articles/PMC4993103/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27283860/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet%20Oncol&title=Dabrafenib%20plus%20trametinib%20in%20patients%20with%20previously%20treated%20BRAF(V600E)-mutant%20metastatic%20non-small%20cell%20lung%20cancer:%20An%20open-label,%20multicentre%20phase%202%20trial&author=D%20Planchard&author=B%20Besse&author=HJ%20Groen&volume=17&publication_year=2016&pages=984-993&pmid=27283860&doi=10.1016/S1470-2045(16)30146-2&)]
+-
+36.Boulalas I, Zaravinos A, Delakas D, et al. Mutational analysis of the BRAF gene in transitional cell carcinoma of the bladder. Int J Biol Markers. 2009;24:17–21. doi: 10.1177/172460080902400103. [
+[DOI](https://doi.org/10.1177/172460080902400103)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/19404918/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int%20J%20Biol%20Markers&title=Mutational%20analysis%20of%20the%20BRAF%20gene%20in%20transitional%20cell%20carcinoma%20of%20the%20bladder&author=I%20Boulalas&author=A%20Zaravinos&author=D%20Delakas&volume=24&publication_year=2009&pages=17-21&pmid=19404918&doi=10.1177/172460080902400103&)]
+-
+37.Honecker F, Wermann H, Mayer F, et al. Microsatellite instability, mismatch repair deficiency, and BRAF mutation in treatment-resistant germ cell tumors. J Clin Oncol. 2009;27:2129–2136. doi: 10.1200/JCO.2008.18.8623. [
+[DOI](https://doi.org/10.1200/JCO.2008.18.8623)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/19289622/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Oncol&title=Microsatellite%20instability,%20mismatch%20repair%20deficiency,%20and%20BRAF%20mutation%20in%20treatment-resistant%20germ%20cell%20tumors&author=F%20Honecker&author=H%20Wermann&author=F%20Mayer&volume=27&publication_year=2009&pages=2129-2136&pmid=19289622&doi=10.1200/JCO.2008.18.8623&)]
+-
+38.Kopetz S, Desai J, Chan E, et al. Phase II pilot study of vemurafenib in patients with metastatic BRAF-mutated colorectal cancer. J Clin Oncol. 2015;33:4032–4038. doi: 10.1200/JCO.2015.63.2497. [
+[DOI](https://doi.org/10.1200/JCO.2015.63.2497)] [ [PMC free article](/articles/PMC4669589/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26460303/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Oncol&title=Phase%20II%20pilot%20study%20of%20vemurafenib%20in%20patients%20with%20metastatic%20BRAF-mutated%20colorectal%20cancer&author=S%20Kopetz&author=J%20Desai&author=E%20Chan&volume=33&publication_year=2015&pages=4032-4038&pmid=26460303&doi=10.1200/JCO.2015.63.2497&)]
+-
+39.Yaeger R, Cercek A, O’Reilly EM, et al. Pilot trial of combined BRAF and EGFR inhibition in BRAF-mutant metastatic colorectal cancer patients. Clin Cancer Res. 2015;21:1313–1320. doi: 10.1158/1078-0432.CCR-14-2779. [
+[DOI](https://doi.org/10.1158/1078-0432.CCR-14-2779)] [ [PMC free article](/articles/PMC5546416/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25589621/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin%20Cancer%20Res&title=Pilot%20trial%20of%20combined%20BRAF%20and%20EGFR%20inhibition%20in%20BRAF-mutant%20metastatic%20colorectal%20cancer%20patients&author=R%20Yaeger&author=A%20Cercek&author=EM%20O%E2%80%99Reilly&volume=21&publication_year=2015&pages=1313-1320&pmid=25589621&doi=10.1158/1078-0432.CCR-14-2779&)]
+-
+40.Davies BR, Greenwood H, Dudley P, et al. Preclinical pharmacology of AZD5363, an inhibitor of AKT: Pharmacodynamics, antitumor activity, and correlation of monotherapy activity with genetic background. Mol Cancer Ther. 2012;11:873–887. doi: 10.1158/1535-7163.MCT-11-0824-T. [
+[DOI](https://doi.org/10.1158/1535-7163.MCT-11-0824-T)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22294718/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol%20Cancer%20Ther&title=Preclinical%20pharmacology%20of%20AZD5363,%20an%20inhibitor%20of%20AKT:%20Pharmacodynamics,%20antitumor%20activity,%20and%20correlation%20of%20monotherapy%20activity%20with%20genetic%20background&author=BR%20Davies&author=H%20Greenwood&author=P%20Dudley&volume=11&publication_year=2012&pages=873-887&pmid=22294718&doi=10.1158/1535-7163.MCT-11-0824-T&)]
+-
+41.Davies BR, Guan N, Logie A, et al. Tumors with AKT1E17K mutations are rational targets for single agent or combination therapy with AKT inhibitors. Mol Cancer Ther. 2015;14:2441–2451. doi: 10.1158/1535-7163.MCT-15-0230. [
+[DOI](https://doi.org/10.1158/1535-7163.MCT-15-0230)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26351323/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol%20Cancer%20Ther&title=Tumors%20with%20AKT1E17K%20mutations%20are%20rational%20targets%20for%20single%20agent%20or%20combination%20therapy%20with%20AKT%20inhibitors&author=BR%20Davies&author=N%20Guan&author=A%20Logie&volume=14&publication_year=2015&pages=2441-2451&pmid=26351323&doi=10.1158/1535-7163.MCT-15-0230&)]
+-
+42.Hyman DM, Smyth L, Bedard PL, et al. Abstract B109: AZD5363, a catalytic pan-Akt inhibitor, in Akt1 E17K mutation positive advanced solid tumors. Mol Cancer Ther. 2015;14:B109. [
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol%20Cancer%20Ther&title=Abstract%20B109:%20AZD5363,%20a%20catalytic%20pan-Akt%20inhibitor,%20in%20Akt1%20E17K%20mutation%20positive%20advanced%20solid%20tumors&author=DM%20Hyman&author=L%20Smyth&author=PL%20Bedard&volume=14&publication_year=2015&pages=B109&)]
+-
+43.Lee JW, Soung YH, Seo SH, et al. Somatic mutations of ERBB2 kinase domain in gastric, colorectal, and breast carcinomas. Clin Cancer Res. 2006;12:57–61. doi: 10.1158/1078-0432.CCR-05-0976. [
+[DOI](https://doi.org/10.1158/1078-0432.CCR-05-0976)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16397024/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin%20Cancer%20Res&title=Somatic%20mutations%20of%20ERBB2%20kinase%20domain%20in%20gastric,%20colorectal,%20and%20breast%20carcinomas&author=JW%20Lee&author=YH%20Soung&author=SH%20Seo&volume=12&publication_year=2006&pages=57-61&pmid=16397024&doi=10.1158/1078-0432.CCR-05-0976&)]
+-
+44.Bose R, Kavuri SM, Searleman AC, et al. Activating HER2 mutations in HER2 gene amplification negative breast cancer. Cancer Discov. 2013;3:224–237. doi: 10.1158/2159-8290.CD-12-0349. [
+[DOI](https://doi.org/10.1158/2159-8290.CD-12-0349)] [ [PMC free article](/articles/PMC3570596/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23220880/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cancer%20Discov&title=Activating%20HER2%20mutations%20in%20HER2%20gene%20amplification%20negative%20breast%20cancer&author=R%20Bose&author=SM%20Kavuri&author=AC%20Searleman&volume=3&publication_year=2013&pages=224-237&pmid=23220880&doi=10.1158/2159-8290.CD-12-0349&)]
+- 45. Hyman D, Piha-Paul S, Rodón J, et al: Abstract PD5-05: Neratinib for ERBB2 mutant, HER2 non-amplified, metastatic breast cancer: Preliminary analysis from a multicenter, open-label, multi-histology phase II basket trial. Cancer Res 76:PD5-05, 2016.
+-
+46.Lin J, Sampath D, Nannini MA, et al. Targeting activated Akt with GDC-0068, a novel selective Akt inhibitor that is efficacious in multiple tumor models. Clin Cancer Res. 2013;19:1760–1772. doi: 10.1158/1078-0432.CCR-12-3072. [
+[DOI](https://doi.org/10.1158/1078-0432.CCR-12-3072)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23287563/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin%20Cancer%20Res&title=Targeting%20activated%20Akt%20with%20GDC-0068,%20a%20novel%20selective%20Akt%20inhibitor%20that%20is%20efficacious%20in%20multiple%20tumor%20models&author=J%20Lin&author=D%20Sampath&author=MA%20Nannini&volume=19&publication_year=2013&pages=1760-1772&pmid=23287563&doi=10.1158/1078-0432.CCR-12-3072&)]
+-
+47. de Bono JS, De Giorgi U, Massard C, et al: PTEN loss as a predictive biomarker for the Akt inhibitor ipatasertib combined with abiraterone acetate in patients with metastatic castration-resistant prostate cancer (mCRPC). Ann Oncol 27:243-265, 2016. [
+[Google Scholar](https://scholar.google.com/scholar_lookup?de%20Bono%20JS,%20De%20Giorgi%20U,%20Massard%20C,%20et%20al:%20PTEN%20loss%20as%20a%20predictive%20biomarker%20for%20the%20Akt%20inhibitor%20ipatasertib%20combined%20with%20abiraterone%20acetate%20in%20patients%20with%20metastatic%20castration-resistant%20prostate%20cancer%20(mCRPC).%20Ann%20Oncol%2027:243-265,%202016.)]
+-
+48.Fleming GF, Ma CX, Huo D, et al. Phase II trial of temsirolimus in patients with metastatic breast cancer. Breast Cancer Res Treat. 2012;136:355–363. doi: 10.1007/s10549-011-1910-7. [
+[DOI](https://doi.org/10.1007/s10549-011-1910-7)] [ [PMC free article](/articles/PMC3658119/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22245973/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Breast%20Cancer%20Res%20Treat&title=Phase%20II%20trial%20of%20temsirolimus%20in%20patients%20with%20metastatic%20breast%20cancer&author=GF%20Fleming&author=CX%20Ma&author=D%20Huo&volume=136&publication_year=2012&pages=355-363&pmid=22245973&doi=10.1007/s10549-011-1910-7&)]
+-
+49.Ma CX, Luo J, Naughton M, et al. A phase I trial of BKM120 (buparlisib) in combination with fulvestrant in postmenopausal women with estrogen receptor-positive metastatic breast cancer. Clin Cancer Res. 2016;22:1583–1591. doi: 10.1158/1078-0432.CCR-15-1745. [
+[DOI](https://doi.org/10.1158/1078-0432.CCR-15-1745)] [ [PMC free article](/articles/PMC4818722/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26563128/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin%20Cancer%20Res&title=A%20phase%20I%20trial%20of%20BKM120%20(buparlisib)%20in%20combination%20with%20fulvestrant%20in%20postmenopausal%20women%20with%20estrogen%20receptor-positive%20metastatic%20breast%20cancer&author=CX%20Ma&author=J%20Luo&author=M%20Naughton&volume=22&publication_year=2016&pages=1583-1591&pmid=26563128&doi=10.1158/1078-0432.CCR-15-1745&)]
+-
+50.Rodon J, Braña I, Siu LL, et al. Phase I dose-escalation and -expansion study of buparlisib (BKM120), an oral pan-class I PI3K inhibitor, in patients with advanced solid tumors. Invest New Drugs. 2014;32:670–681. doi: 10.1007/s10637-014-0082-9. [
+[DOI](https://doi.org/10.1007/s10637-014-0082-9)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24652201/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Invest%20New%20Drugs&title=Phase%20I%20dose-escalation%20and%20-expansion%20study%20of%20buparlisib%20(BKM120),%20an%20oral%20pan-class%20I%20PI3K%20inhibitor,%20in%20patients%20with%20advanced%20solid%20tumors&author=J%20Rodon&author=I%20Bra%C3%B1a&author=LL%20Siu&volume=32&publication_year=2014&pages=670-681&pmid=24652201&doi=10.1007/s10637-014-0082-9&)]
+-
+51.Trédan O, Treilleux I, Wang Q, et al. Predicting everolimus treatment efficacy in patients with advanced endometrial carcinoma: A GINECO group study. Target Oncol. 2013;8:243–251. doi: 10.1007/s11523-012-0242-9. [
+[DOI](https://doi.org/10.1007/s11523-012-0242-9)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23238879/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Target%20Oncol&title=Predicting%20everolimus%20treatment%20efficacy%20in%20patients%20with%20advanced%20endometrial%20carcinoma:%20A%20GINECO%20group%20study&author=O%20Tr%C3%A9dan&author=I%20Treilleux&author=Q%20Wang&volume=8&publication_year=2013&pages=243-251&pmid=23238879&doi=10.1007/s11523-012-0242-9&)]
+-
+52.Yang L, Clarke MJ, Carlson BL, et al. PTEN loss does not predict for response to RAD001 (everolimus) in a glioblastoma orthotopic xenograft test panel. Clin Cancer Res. 2008;14:3993–4001. doi: 10.1158/1078-0432.CCR-07-4152. [
+[DOI](https://doi.org/10.1158/1078-0432.CCR-07-4152)] [ [PMC free article](/articles/PMC3972037/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/18559622/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin%20Cancer%20Res&title=PTEN%20loss%20does%20not%20predict%20for%20response%20to%20RAD001%20(everolimus)%20in%20a%20glioblastoma%20orthotopic%20xenograft%20test%20panel&author=L%20Yang&author=MJ%20Clarke&author=BL%20Carlson&volume=14&publication_year=2008&pages=3993-4001&pmid=18559622&doi=10.1158/1078-0432.CCR-07-4152&)]
+-
+53.Nissan MH, Pratilas CA, Jones AM, et al. Loss of NF1 in cutaneous melanoma is associated with RAS activation and MEK dependence. Cancer Res. 2014;74:2340–2350. doi: 10.1158/0008-5472.CAN-13-2625. [
+[DOI](https://doi.org/10.1158/0008-5472.CAN-13-2625)] [ [PMC free article](/articles/PMC4005042/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24576830/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cancer%20Res&title=Loss%20of%20NF1%20in%20cutaneous%20melanoma%20is%20associated%20with%20RAS%20activation%20and%20MEK%20dependence&author=MH%20Nissan&author=CA%20Pratilas&author=AM%20Jones&volume=74&publication_year=2014&pages=2340-2350&pmid=24576830&doi=10.1158/0008-5472.CAN-13-2625&)]
+-
+54.Naidoo J, Sima CS, Rodriguez K, et al. Epidermal growth factor receptor exon 20 insertions in advanced lung adenocarcinomas: Clinical outcomes and response to erlotinib. Cancer. 2015;121:3212–3220. doi: 10.1002/cncr.29493. [
+[DOI](https://doi.org/10.1002/cncr.29493)] [ [PMC free article](/articles/PMC4807634/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26096453/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cancer&title=Epidermal%20growth%20factor%20receptor%20exon%2020%20insertions%20in%20advanced%20lung%20adenocarcinomas:%20Clinical%20outcomes%20and%20response%20to%20erlotinib&author=J%20Naidoo&author=CS%20Sima&author=K%20Rodriguez&volume=121&publication_year=2015&pages=3212-3220&pmid=26096453&doi=10.1002/cncr.29493&)]
+-
+55.Yasuda H, Park E, Yun CH, et al. Structural, biochemical, and clinical characterization of epidermal growth factor receptor (EGFR) exon 20 insertion mutations in lung cancer. Sci Transl Med. 2013;5:216ra177. doi: 10.1126/scitranslmed.3007205. [
+[DOI](https://doi.org/10.1126/scitranslmed.3007205)] [ [PMC free article](/articles/PMC3954775/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24353160/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sci%20Transl%20Med&title=Structural,%20biochemical,%20and%20clinical%20characterization%20of%20epidermal%20growth%20factor%20receptor%20(EGFR)%20exon%2020%20insertion%20mutations%20in%20lung%20cancer&author=H%20Yasuda&author=E%20Park&author=CH%20Yun&volume=5&publication_year=2013&pages=216ra177&pmid=24353160&doi=10.1126/scitranslmed.3007205&)]
+-
+56.Gonzalvez F, Zhu X, Huang W-S, et al. Abstract 2644: AP32788, a potent, selective inhibitor of EGFR and HER2 oncogenic mutants, including exon 20 insertions, in preclinical models. Cancer Res. 2016;76:2644. [
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cancer%20Res&title=Abstract%202644:%20AP32788,%20a%20potent,%20selective%20inhibitor%20of%20EGFR%20and%20HER2%20oncogenic%20mutants,%20including%20exon%2020%20insertions,%20in%20preclinical%20models&author=F%20Gonzalvez&author=X%20Zhu&author=W-S%20Huang&volume=76&publication_year=2016&pages=2644&)]
+-
+57.National Comprehensive Cancer Network: NCCN guidelines, colon cancer, version 2.2017.
+[https://www.nccn.org](https://www.nccn.org)[ [DOI](https://doi.org/10.6004/jnccn.2017.0017)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28188186/)]
+-
+57a.National Comprehensive Cancer Network: NCCN guidelines, rectal cancer, version 3.2017.
+[https://www.nccn.org](https://www.nccn.org)[ [DOI](https://doi.org/10.6004/jnccn.2017.0176)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29223984/)]
+-
+58.National Comprehensive Cancer Network: NCCN guidelines, non-small cell lung cancer, version 5.2017.
+[https://www.nccn.org](https://www.nccn.org)
+-
+59.National Comprehensive Cancer Network: NCCN guidelines, soft tissue sarcoma, version 2.2017.
+[https://www.nccn.org](https://www.nccn.org)
+-
+60.Jänne PA, Yang JC, Kim DW, et al. AZD9291 in EGFR inhibitor-resistant non-small-cell lung cancer. N Engl J Med. 2015;372:1689–1699. doi: 10.1056/NEJMoa1411817. [
+[DOI](https://doi.org/10.1056/NEJMoa1411817)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25923549/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=AZD9291%20in%20EGFR%20inhibitor-resistant%20non-small-cell%20lung%20cancer&author=PA%20J%C3%A4nne&author=JC%20Yang&author=DW%20Kim&volume=372&publication_year=2015&pages=1689-1699&pmid=25923549&doi=10.1056/NEJMoa1411817&)]
+-
+61.Bouchet BP, Caron de Fromentel C, Puisieux A, et al. p53 as a target for anti-cancer drug development. Crit Rev Oncol Hematol. 2006;58:190–207. doi: 10.1016/j.critrevonc.2005.10.005. [
+[DOI](https://doi.org/10.1016/j.critrevonc.2005.10.005)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16690321/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Crit%20Rev%20Oncol%20Hematol&title=p53%20as%20a%20target%20for%20anti-cancer%20drug%20development&author=BP%20Bouchet&author=C%20Caron%20de%20Fromentel&author=A%20Puisieux&volume=58&publication_year=2006&pages=190-207&pmid=16690321&doi=10.1016/j.critrevonc.2005.10.005&)]
+-
+62.Lane DP, Cheok CF, Lain S. p53-based cancer therapy. Cold Spring Harb Perspect Biol. 2010;2:a001222. doi: 10.1101/cshperspect.a001222. [
+[DOI](https://doi.org/10.1101/cshperspect.a001222)] [ [PMC free article](/articles/PMC2926755/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20463003/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cold%20Spring%20Harb%20Perspect%20Biol&title=p53-based%20cancer%20therapy&author=DP%20Lane&author=CF%20Cheok&author=S%20Lain&volume=2&publication_year=2010&pages=a001222&pmid=20463003&doi=10.1101/cshperspect.a001222&)]
+-
+63. doi: 10.1038/nrd4236. Khoo KH, Verma CS, Lane DP: Drugging the p53 pathway: Understanding the route to clinical efficacy. Nat Rev Drug Discov 13:217-236, 2014 [Erratum: Nat Rev Drug Discov 13:314, 2014] [
+[DOI](https://doi.org/10.1038/nrd4236)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24577402/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?doi:%2010.1038/nrd4236.%20Khoo%20KH,%20Verma%20CS,%20Lane%20DP:%20Drugging%20the%20p53%20pathway:%20Understanding%20the%20route%20to%20clinical%20efficacy.%20Nat%20Rev%20Drug%20Discov%2013:217-236,%202014%20%5BErratum:%20Nat%20Rev%20Drug%20Discov%2013:314,%202014%5D)]
+-
+64.Schwaederle M, Zhao M, Lee JJ, et al. Impact of precision medicine in diverse cancers: A meta-analysis of phase II clinical trials. J Clin Oncol. 2015;33:3817–3825. doi: 10.1200/JCO.2015.61.5997. [
+[DOI](https://doi.org/10.1200/JCO.2015.61.5997)] [ [PMC free article](/articles/PMC4737863/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26304871/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Oncol&title=Impact%20of%20precision%20medicine%20in%20diverse%20cancers:%20A%20meta-analysis%20of%20phase%20II%20clinical%20trials&author=M%20Schwaederle&author=M%20Zhao&author=JJ%20Lee&volume=33&publication_year=2015&pages=3817-3825&pmid=26304871&doi=10.1200/JCO.2015.61.5997&)]
+-
+65.Cancer Genome Atlas Network Comprehensive molecular portraits of human breast tumours. Nature. 2012;490:61–70. doi: 10.1038/nature11412. [
+[DOI](https://doi.org/10.1038/nature11412)] [ [PMC free article](/articles/PMC3465532/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23000897/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Comprehensive%20molecular%20portraits%20of%20human%20breast%20tumours&volume=490&publication_year=2012&pages=61-70&pmid=23000897&doi=10.1038/nature11412&)]
+-
+66.Ciriello G, Gatza ML, Beck AH, et al. Comprehensive molecular portraits of invasive lobular breast cancer. Cell. 2015;163:506–519. doi: 10.1016/j.cell.2015.09.033. [
+[DOI](https://doi.org/10.1016/j.cell.2015.09.033)] [ [PMC free article](/articles/PMC4603750/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26451490/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell&title=Comprehensive%20molecular%20portraits%20of%20invasive%20lobular%20breast%20cancer&author=G%20Ciriello&author=ML%20Gatza&author=AH%20Beck&volume=163&publication_year=2015&pages=506-519&pmid=26451490&doi=10.1016/j.cell.2015.09.033&)]
+-
+67.Cancer Genome Atlas Network Comprehensive molecular characterization of human colon and rectal cancer. Nature. 2012;487:330–337. doi: 10.1038/nature11252. [
+[DOI](https://doi.org/10.1038/nature11252)] [ [PMC free article](/articles/PMC3401966/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22810696/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Comprehensive%20molecular%20characterization%20of%20human%20colon%20and%20rectal%20cancer&volume=487&publication_year=2012&pages=330-337&pmid=22810696&doi=10.1038/nature11252&)]
+-
+68.Cancer Genome Atlas Research Network Comprehensive molecular characterization of gastric adenocarcinoma. Nature. 2014;513:202–209. doi: 10.1038/nature13480. [
+[DOI](https://doi.org/10.1038/nature13480)] [ [PMC free article](/articles/PMC4170219/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25079317/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Comprehensive%20molecular%20characterization%20of%20gastric%20adenocarcinoma&volume=513&publication_year=2014&pages=202-209&pmid=25079317&doi=10.1038/nature13480&)]
+-
+69.Aguiar PN, Jr, Muniz TP, Miranda RR, et al. Current advances in targeted therapies for metastatic gastric cancer: Improving patient care. Future Oncol. 2016;12:839–854. doi: 10.2217/fon.15.348. [
+[DOI](https://doi.org/10.2217/fon.15.348)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26838766/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Future%20Oncol&title=Current%20advances%20in%20targeted%20therapies%20for%20metastatic%20gastric%20cancer:%20Improving%20patient%20care&author=PN%20Aguiar&author=TP%20Muniz&author=RR%20Miranda&volume=12&publication_year=2016&pages=839-854&pmid=26838766&doi=10.2217/fon.15.348&)]
+-
+70.Cercek A, Saltz L. Evolving treatment of advanced colorectal cancer. Curr Oncol Rep. 2010;12:153–159. doi: 10.1007/s11912-010-0096-1. [
+[DOI](https://doi.org/10.1007/s11912-010-0096-1)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20425074/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Curr%20Oncol%20Rep&title=Evolving%20treatment%20of%20advanced%20colorectal%20cancer&author=A%20Cercek&author=L%20Saltz&volume=12&publication_year=2010&pages=153-159&pmid=20425074&doi=10.1007/s11912-010-0096-1&)]
+-
+71.Druker BJ, Sawyers CL, Kantarjian H, et al. Activity of a specific inhibitor of the BCR-ABL tyrosine kinase in the blast crisis of chronic myeloid leukemia and acute lymphoblastic leukemia with the Philadelphia chromosome. N Engl J Med. 2001;344:1038–1042. doi: 10.1056/NEJM200104053441402. [
+[DOI](https://doi.org/10.1056/NEJM200104053441402)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11287973/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=Activity%20of%20a%20specific%20inhibitor%20of%20the%20BCR-ABL%20tyrosine%20kinase%20in%20the%20blast%20crisis%20of%20chronic%20myeloid%20leukemia%20and%20acute%20lymphoblastic%20leukemia%20with%20the%20Philadelphia%20chromosome&author=BJ%20Druker&author=CL%20Sawyers&author=H%20Kantarjian&volume=344&publication_year=2001&pages=1038-1042&pmid=11287973&doi=10.1056/NEJM200104053441402&)]
+-
+72.Druker BJ, Talpaz M, Resta DJ, et al. Efficacy and safety of a specific inhibitor of the BCR-ABL tyrosine kinase in chronic myeloid leukemia. N Engl J Med. 2001;344:1031–1037. doi: 10.1056/NEJM200104053441401. [
+[DOI](https://doi.org/10.1056/NEJM200104053441401)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11287972/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=Efficacy%20and%20safety%20of%20a%20specific%20inhibitor%20of%20the%20BCR-ABL%20tyrosine%20kinase%20in%20chronic%20myeloid%20leukemia&author=BJ%20Druker&author=M%20Talpaz&author=DJ%20Resta&volume=344&publication_year=2001&pages=1031-1037&pmid=11287972&doi=10.1056/NEJM200104053441401&)]
+-
+73.Kris MG, Johnson BE, Berry LD, et al. Using multiplexed assays of oncogenic drivers in lung cancers to select targeted drugs. JAMA. 2014;311:1998–2006. doi: 10.1001/jama.2014.3741. [
+[DOI](https://doi.org/10.1001/jama.2014.3741)] [ [PMC free article](/articles/PMC4163053/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24846037/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=JAMA&title=Using%20multiplexed%20assays%20of%20oncogenic%20drivers%20in%20lung%20cancers%20to%20select%20targeted%20drugs&author=MG%20Kris&author=BE%20Johnson&author=LD%20Berry&volume=311&publication_year=2014&pages=1998-2006&pmid=24846037&doi=10.1001/jama.2014.3741&)]
+-
+74.Tsimberidou AM, Wen S, Hong DS, et al. Personalized medicine for patients with advanced cancer in the phase I program at MD Anderson: Validation and landmark analyses. Clin Cancer Res. 2014;20:4827–4836. doi: 10.1158/1078-0432.CCR-14-0603. [
+[DOI](https://doi.org/10.1158/1078-0432.CCR-14-0603)] [ [PMC free article](/articles/PMC4518867/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24987059/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin%20Cancer%20Res&title=Personalized%20medicine%20for%20patients%20with%20advanced%20cancer%20in%20the%20phase%20I%20program%20at%20MD%20Anderson:%20Validation%20and%20landmark%20analyses&author=AM%20Tsimberidou&author=S%20Wen&author=DS%20Hong&volume=20&publication_year=2014&pages=4827-4836&pmid=24987059&doi=10.1158/1078-0432.CCR-14-0603&)]
+-
+74a.Zehir A, Benayed R, Ronak H, et al. Mutational landscape of metastatic cancer revealed from prospective clinical sequencing of 10,000 patients. Nature Med. (in press) doi: 10.1038/nm.4333. [
+[DOI](https://doi.org/10.1038/nm.4333)] [ [PMC free article](/articles/PMC5461196/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28481359/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature%20Med&title=Mutational%20landscape%20of%20metastatic%20cancer%20revealed%20from%20prospective%20clinical%20sequencing%20of%2010,000%20patients&author=A%20Zehir&author=R%20Benayed&author=H%20Ronak&publication_year=(in%20press)&pmid=28481359&doi=10.1038/nm.4333&)]
+-
+75.Gray SW, Hicks-Courant K, Cronin A, et al. Physicians’ attitudes about multiplex tumor genomic testing. J Clin Oncol. 2014;32:1317–1323. doi: 10.1200/JCO.2013.52.4298. [
+[DOI](https://doi.org/10.1200/JCO.2013.52.4298)] [ [PMC free article](/articles/PMC3992721/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24663044/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Oncol&title=Physicians%E2%80%99%20attitudes%20about%20multiplex%20tumor%20genomic%20testing&author=SW%20Gray&author=K%20Hicks-Courant&author=A%20Cronin&volume=32&publication_year=2014&pages=1317-1323&pmid=24663044&doi=10.1200/JCO.2013.52.4298&)]
+-
+76.MacArthur DG, Manolio TA, Dimmock DP, et al. Guidelines for investigating causality of sequence variants in human disease. Nature. 2014;508:469–476. doi: 10.1038/nature13127. [
+[DOI](https://doi.org/10.1038/nature13127)] [ [PMC free article](/articles/PMC4180223/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24759409/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Guidelines%20for%20investigating%20causality%20of%20sequence%20variants%20in%20human%20disease&author=DG%20MacArthur&author=TA%20Manolio&author=DP%20Dimmock&volume=508&publication_year=2014&pages=469-476&pmid=24759409&doi=10.1038/nature13127&)]
+-
+77.Richards S, Aziz N, Bale S, et al. Standards and guidelines for the interpretation of sequence variants: A joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology. Genet Med. 2015;17:405–424. doi: 10.1038/gim.2015.30. [
+[DOI](https://doi.org/10.1038/gim.2015.30)] [ [PMC free article](/articles/PMC4544753/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25741868/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Genet%20Med&title=Standards%20and%20guidelines%20for%20the%20interpretation%20of%20sequence%20variants:%20A%20joint%20consensus%20recommendation%20of%20the%20American%20College%20of%20Medical%20Genetics%20and%20Genomics%20and%20the%20Association%20for%20Molecular%20Pathology&author=S%20Richards&author=N%20Aziz&author=S%20Bale&volume=17&publication_year=2015&pages=405-424&pmid=25741868&doi=10.1038/gim.2015.30&)]
+-
+78. Febbo PG, Ladanyi M, Aldape KD, et al: NCCN task force report: Evaluating the clinical utility of tumor markers in oncology. J Natl Compr Canc Netw 9:S1-S32, 2011 (suppl 5); quiz S33. [
+[DOI](https://doi.org/10.6004/jnccn.2011.0137)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22138009/)]
+-
+79.Hayes DF, Bast RC, Desch CE, et al. Tumor marker utility grading system: A framework to evaluate clinical utility of tumor markers. J Natl Cancer Inst. 1996;88:1456–1466. doi: 10.1093/jnci/88.20.1456. [
+[DOI](https://doi.org/10.1093/jnci/88.20.1456)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/8841020/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Natl%20Cancer%20Inst&title=Tumor%20marker%20utility%20grading%20system:%20A%20framework%20to%20evaluate%20clinical%20utility%20of%20tumor%20markers&author=DF%20Hayes&author=RC%20Bast&author=CE%20Desch&volume=88&publication_year=1996&pages=1456-1466&pmid=8841020&doi=10.1093/jnci/88.20.1456&)]
+-
+80.Simon RM, Paik S, Hayes DF. Use of archived specimens in evaluation of prognostic and predictive biomarkers. J Natl Cancer Inst. 2009;101:1446–1452. doi: 10.1093/jnci/djp335. [
+[DOI](https://doi.org/10.1093/jnci/djp335)] [ [PMC free article](/articles/PMC2782246/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/19815849/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Natl%20Cancer%20Inst&title=Use%20of%20archived%20specimens%20in%20evaluation%20of%20prognostic%20and%20predictive%20biomarkers&author=RM%20Simon&author=S%20Paik&author=DF%20Hayes&volume=101&publication_year=2009&pages=1446-1452&pmid=19815849&doi=10.1093/jnci/djp335&)]
+-
+81.Conti RM, Bernstein AC, Villaflor VM, et al. Prevalence of off-label use and spending in 2010 among patent-protected chemotherapies in a population-based cohort of medical oncologists. J Clin Oncol. 2013;31:1134–1139. doi: 10.1200/JCO.2012.42.7252. [
+[DOI](https://doi.org/10.1200/JCO.2012.42.7252)] [ [PMC free article](/articles/PMC3595423/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23423747/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Oncol&title=Prevalence%20of%20off-label%20use%20and%20spending%20in%202010%20among%20patent-protected%20chemotherapies%20in%20a%20population-based%20cohort%20of%20medical%20oncologists&author=RM%20Conti&author=AC%20Bernstein&author=VM%20Villaflor&volume=31&publication_year=2013&pages=1134-1139&pmid=23423747&doi=10.1200/JCO.2012.42.7252&)]
+-
+82.Fairman KA, Curtiss FR. Regulatory actions on the off-label use of prescription drugs: Ongoing controversy and contradiction in 2009 and 2010. J Manag Care Pharm. 2010;16:629–639. doi: 10.18553/jmcp.2010.16.8.629. [
+[DOI](https://doi.org/10.18553/jmcp.2010.16.8.629)] [ [PMC free article](/articles/PMC10438351/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20866167/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Manag%20Care%20Pharm&title=Regulatory%20actions%20on%20the%20off-label%20use%20of%20prescription%20drugs:%20Ongoing%20controversy%20and%20contradiction%20in%202009%20and%202010&author=KA%20Fairman&author=FR%20Curtiss&volume=16&publication_year=2010&pages=629-639&pmid=20866167&doi=10.18553/jmcp.2010.16.8.629&)]
+-
+83.Largent EA, Miller FG, Pearson SD. Going off-label without venturing off-course: Evidence and ethical off-label prescribing. Arch Intern Med. 2009;169:1745–1747. doi: 10.1001/archinternmed.2009.314. [
+[DOI](https://doi.org/10.1001/archinternmed.2009.314)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/19858430/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Arch%20Intern%20Med&title=Going%20off-label%20without%20venturing%20off-course:%20Evidence%20and%20ethical%20off-label%20prescribing&author=EA%20Largent&author=FG%20Miller&author=SD%20Pearson&volume=169&publication_year=2009&pages=1745-1747&pmid=19858430&doi=10.1001/archinternmed.2009.314&)]
+-
+84.Corcoran RB, Atreya CE, Falchook GS, et al. Combined BRAF and MEK inhibition with dabrafenib and trametinib in BRAF V600-mutant colorectal cancer. J Clin Oncol. 2015;33:4023–4031. doi: 10.1200/JCO.2015.63.2471. [
+[DOI](https://doi.org/10.1200/JCO.2015.63.2471)] [ [PMC free article](/articles/PMC4669588/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26392102/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Oncol&title=Combined%20BRAF%20and%20MEK%20inhibition%20with%20dabrafenib%20and%20trametinib%20in%20BRAF%20V600-mutant%20colorectal%20cancer&author=RB%20Corcoran&author=CE%20Atreya&author=GS%20Falchook&volume=33&publication_year=2015&pages=4023-4031&pmid=26392102&doi=10.1200/JCO.2015.63.2471&)]
+-
+85.Langer CJ, Stephenson P, Thor A, et al. Trastuzumab in the treatment of advanced non-small-cell lung cancer: Is there a role? Focus on Eastern Cooperative Oncology Group study 2598. J Clin Oncol. 2004;22:1180–1187. doi: 10.1200/JCO.2004.04.105. [
+[DOI](https://doi.org/10.1200/JCO.2004.04.105)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/14981103/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Oncol&title=Trastuzumab%20in%20the%20treatment%20of%20advanced%20non-small-cell%20lung%20cancer:%20Is%20there%20a%20role?%20Focus%20on%20Eastern%20Cooperative%20Oncology%20Group%20study%202598&author=CJ%20Langer&author=P%20Stephenson&author=A%20Thor&volume=22&publication_year=2004&pages=1180-1187&pmid=14981103&doi=10.1200/JCO.2004.04.105&)]
+-
+85a.Jordan EJ, Kim HR, Arcila ME, et al. Prospective comprehensive molecular characterization of lung adenocarcinomas for efficient patient matching to approved and emerging therapiesCancer Disc doi: 10.1158/2159-8290.CD-16-1337 [epub ahead of print on March 23, 2017] [
+[DOI](https://doi.org/10.1158/2159-8290.CD-16-1337)] [ [PMC free article](/articles/PMC5482929/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28336552/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?Jordan%20EJ,%20Kim%20HR,%20Arcila%20ME,%20et%20al.%20Prospective%20comprehensive%20molecular%20characterization%20of%20lung%20adenocarcinomas%20for%20efficient%20patient%20matching%20to%20approved%20and%20emerging%20therapiesCancer%20Disc%20doi:%2010.1158/2159-8290.CD-16-1337%20%5Bepub%20ahead%20of%20print%20on%20March%2023,%202017%5D)]
+-
+86.Bergethon K, Shaw AT, Ou SH, et al. ROS1 rearrangements define a unique molecular class of lung cancers. J Clin Oncol. 2012;30:863–870. doi: 10.1200/JCO.2011.35.6345. [
+[DOI](https://doi.org/10.1200/JCO.2011.35.6345)] [ [PMC free article](/articles/PMC3295572/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22215748/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Oncol&title=ROS1%20rearrangements%20define%20a%20unique%20molecular%20class%20of%20lung%20cancers&author=K%20Bergethon&author=AT%20Shaw&author=SH%20Ou&volume=30&publication_year=2012&pages=863-870&pmid=22215748&doi=10.1200/JCO.2011.35.6345&)]
+-
+87.Ou SH, Tan J, Yen Y, et al. ROS1 as a ‘druggable’ receptor tyrosine kinase: Lessons learned from inhibiting the ALK pathway. Expert Rev Anticancer Ther. 2012;12:447–456. doi: 10.1586/era.12.17. [
+[DOI](https://doi.org/10.1586/era.12.17)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22500682/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Expert%20Rev%20Anticancer%20Ther&title=ROS1%20as%20a%20%E2%80%98druggable%E2%80%99%20receptor%20tyrosine%20kinase:%20Lessons%20learned%20from%20inhibiting%20the%20ALK%20pathway&author=SH%20Ou&author=J%20Tan&author=Y%20Yen&volume=12&publication_year=2012&pages=447-456&pmid=22500682&doi=10.1586/era.12.17&)]
+-
+88.Rikova K, Guo A, Zeng Q, et al. Global survey of phosphotyrosine signaling identifies oncogenic kinases in lung cancer. Cell. 2007;131:1190–1203. doi: 10.1016/j.cell.2007.11.025. [
+[DOI](https://doi.org/10.1016/j.cell.2007.11.025)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/18083107/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell&title=Global%20survey%20of%20phosphotyrosine%20signaling%20identifies%20oncogenic%20kinases%20in%20lung%20cancer&author=K%20Rikova&author=A%20Guo&author=Q%20Zeng&volume=131&publication_year=2007&pages=1190-1203&pmid=18083107&doi=10.1016/j.cell.2007.11.025&)]
+-
+89.Jänne PA, Shaw AT, Pereira JR, et al. Selumetinib plus docetaxel for KRAS-mutant advanced non-small-cell lung cancer: A randomised, multicentre, placebo-controlled, phase 2 study. Lancet Oncol. 2013;14:38–47. doi: 10.1016/S1470-2045(12)70489-8. [
+[DOI](https://doi.org/10.1016/S1470-2045(12)70489-8)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23200175/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet%20Oncol&title=Selumetinib%20plus%20docetaxel%20for%20KRAS-mutant%20advanced%20non-small-cell%20lung%20cancer:%20A%20randomised,%20multicentre,%20placebo-controlled,%20phase%202%20study&author=PA%20J%C3%A4nne&author=AT%20Shaw&author=JR%20Pereira&volume=14&publication_year=2013&pages=38-47&pmid=23200175&doi=10.1016/S1470-2045(12)70489-8&)]
+-
+90.Jänne PA, Mann H, Ghiorghiu D. Study design and rationale for a Randomized, Placebo-Controlled, Double-Blind Study to Assess the Efficacy and Safety of Selumetinib in Combination With Docetaxel as Second-Line Treatment in Patients With KRAS-Mutant Advanced Non-Small Cell Lung Cancer (SELECT-1) Clin Lung Cancer. 2016;17:e1–e4. doi: 10.1016/j.cllc.2015.12.010. [
+[DOI](https://doi.org/10.1016/j.cllc.2015.12.010)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26837474/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin%20Lung%20Cancer&title=Study%20design%20and%20rationale%20for%20a%20Randomized,%20Placebo-Controlled,%20Double-Blind%20Study%20to%20Assess%20the%20Efficacy%20and%20Safety%20of%20Selumetinib%20in%20Combination%20With%20Docetaxel%20as%20Second-Line%20Treatment%20in%20Patients%20With%20KRAS-Mutant%20Advanced%20Non-Small%20Cell%20Lung%20Cancer%20(SELECT-1)&author=PA%20J%C3%A4nne&author=H%20Mann&author=D%20Ghiorghiu&volume=17&publication_year=2016&pages=e1-e4&pmid=26837474&doi=10.1016/j.cllc.2015.12.010&)]
+-
+91.Infante JR, Fecher LA, Falchook GS, et al. Safety, pharmacokinetic, pharmacodynamic, and efficacy data for the oral MEK inhibitor trametinib: A phase 1 dose-escalation trial. Lancet Oncol. 2012;13:773–781. doi: 10.1016/S1470-2045(12)70270-X. [
+[DOI](https://doi.org/10.1016/S1470-2045(12)70270-X)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22805291/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet%20Oncol&title=Safety,%20pharmacokinetic,%20pharmacodynamic,%20and%20efficacy%20data%20for%20the%20oral%20MEK%20inhibitor%20trametinib:%20A%20phase%201%20dose-escalation%20trial&author=JR%20Infante&author=LA%20Fecher&author=GS%20Falchook&volume=13&publication_year=2012&pages=773-781&pmid=22805291&doi=10.1016/S1470-2045(12)70270-X&)]
+-
+92.Rinehart J, Adjei AA, Lorusso PM, et al. Multicenter phase II study of the oral MEK inhibitor, CI-1040, in patients with advanced non-small-cell lung, breast, colon, and pancreatic cancer. J Clin Oncol. 2004;22:4456–4462. doi: 10.1200/JCO.2004.01.185. [
+[DOI](https://doi.org/10.1200/JCO.2004.01.185)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15483017/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Oncol&title=Multicenter%20phase%20II%20study%20of%20the%20oral%20MEK%20inhibitor,%20CI-1040,%20in%20patients%20with%20advanced%20non-small-cell%20lung,%20breast,%20colon,%20and%20pancreatic%20cancer&author=J%20Rinehart&author=AA%20Adjei&author=PM%20Lorusso&volume=22&publication_year=2004&pages=4456-4462&pmid=15483017&doi=10.1200/JCO.2004.01.185&)]
+-
+93.Hu-Lieskovan S, Mok S, Homet Moreno B, et al. Improved antitumor activity of immunotherapy with BRAF and MEK inhibitors in BRAF(V600E) melanoma. Sci Transl Med. 2015;7:279ra41. doi: 10.1126/scitranslmed.aaa4691. [
+[DOI](https://doi.org/10.1126/scitranslmed.aaa4691)] [ [PMC free article](/articles/PMC4765379/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25787767/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sci%20Transl%20Med&title=Improved%20antitumor%20activity%20of%20immunotherapy%20with%20BRAF%20and%20MEK%20inhibitors%20in%20BRAF(V600E)%20melanoma&author=S%20Hu-Lieskovan&author=S%20Mok&author=B%20Homet%20Moreno&volume=7&publication_year=2015&pages=279ra41&pmid=25787767&doi=10.1126/scitranslmed.aaa4691&)]
+-
+94.Kakavand H, Wilmott JS, Menzies AM, et al. PD-L1 expression and tumor-infiltrating lymphocytes define different subsets of MAPK inhibitor-treated melanoma patients. Clin Cancer Res. 2015;21:3140–3148. doi: 10.1158/1078-0432.CCR-14-2023. [
+[DOI](https://doi.org/10.1158/1078-0432.CCR-14-2023)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25609064/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin%20Cancer%20Res&title=PD-L1%20expression%20and%20tumor-infiltrating%20lymphocytes%20define%20different%20subsets%20of%20MAPK%20inhibitor-treated%20melanoma%20patients&author=H%20Kakavand&author=JS%20Wilmott&author=AM%20Menzies&volume=21&publication_year=2015&pages=3140-3148&pmid=25609064&doi=10.1158/1078-0432.CCR-14-2023&)]
+-
+95.Le DT, Uram JN, Wang H, et al. PD-1 blockade in tumors with mismatch-repair deficiency. N Engl J Med. 2015;372:2509–2520. doi: 10.1056/NEJMoa1500596. [
+[DOI](https://doi.org/10.1056/NEJMoa1500596)] [ [PMC free article](/articles/PMC4481136/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26028255/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=PD-1%20blockade%20in%20tumors%20with%20mismatch-repair%20deficiency&author=DT%20Le&author=JN%20Uram&author=H%20Wang&volume=372&publication_year=2015&pages=2509-2520&pmid=26028255&doi=10.1056/NEJMoa1500596&)]
+-
+96.Loi S, Dushyanthen S, Beavis PA, et al. RAS/MAPK activation is associated with reduced tumor-infiltrating lymphocytes in triple-negative breast cancer: Therapeutic cooperation between MEK and PD-1/PD-L1 immune checkpoint inhibitors. Clin Cancer Res. 2016;22:1499–1509. doi: 10.1158/1078-0432.CCR-15-1125. [
+[DOI](https://doi.org/10.1158/1078-0432.CCR-15-1125)] [ [PMC free article](/articles/PMC4794351/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26515496/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin%20Cancer%20Res&title=RAS/MAPK%20activation%20is%20associated%20with%20reduced%20tumor-infiltrating%20lymphocytes%20in%20triple-negative%20breast%20cancer:%20Therapeutic%20cooperation%20between%20MEK%20and%20PD-1/PD-L1%20immune%20checkpoint%20inhibitors&author=S%20Loi&author=S%20Dushyanthen&author=PA%20Beavis&volume=22&publication_year=2016&pages=1499-1509&pmid=26515496&doi=10.1158/1078-0432.CCR-15-1125&)]
+-
+97.Yoon YK, Kim HP, Han SW, et al. KRAS mutant lung cancer cells are differentially responsive to MEK inhibitor due to AKT or STAT3 activation: Implication for combinatorial approach. Mol Carcinog. 2010;49:353–362. doi: 10.1002/mc.20607. [
+[DOI](https://doi.org/10.1002/mc.20607)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20358631/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol%20Carcinog&title=KRAS%20mutant%20lung%20cancer%20cells%20are%20differentially%20responsive%20to%20MEK%20inhibitor%20due%20to%20AKT%20or%20STAT3%20activation:%20Implication%20for%20combinatorial%20approach&author=YK%20Yoon&author=HP%20Kim&author=SW%20Han&volume=49&publication_year=2010&pages=353-362&pmid=20358631&doi=10.1002/mc.20607&)]

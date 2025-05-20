@@ -1,0 +1,87 @@
+Abstract
+Green tea [Camellia sinensis (L.) Kuntze] is the fourth most commonly used dietary supplement in the US. Recently, regulatory agencies in France and Spain suspended market authorization of a weight-loss product containing green tea extract because of hepatotoxicity concerns. This was followed by publication of adverse event case reports involving green tea products. In response, the US Pharmacopeia (USP) Dietary Supplement Information Expert Committee (DSI EC) systematically reviewed the safety information for green tea products in order to re-evaluate the current safety class to which these products are assigned. DSI EC searched PubMed (January 1966–June 2007) and EMBASE (January 1988–June 2007) for clinical case reports and animal pharmacological or toxicological information. Reports were also obtained from a diverse range of other sources, including published reviews, the US FDA MedWatch programme, USP’s MEDMARX® adverse event reporting system, the Australian Therapeutic Goods Administration, the UK Medicines and Healthcare products Regulatory Agency, and Health Canada’s Canadian Adverse Drug Reaction Monitoring Program. Case reports pertaining to liver damage were evaluated according to the Naranjo causality algorithm scale. In addition, the Committee analysed information concerning historical use, regulatory status, and current extent of use of green tea products. A total of 216 case reports on green tea products were analysed, including 34 reports concerning liver damage. Twenty-seven reports pertaining to liver damage were categorized as possible causality and seven as probable causality. Clinical pharmacokinetic and animal toxicological information indicated that consumption of green tea concentrated extracts on an empty stomach is more likely to lead to adverse effects than consumption in the fed state. Based on this safety review, the DSI EC determined that when dietary supplement products containing green tea extracts are used and formulated appropriately the Committee is unaware of significant safety issues that would prohibit monograph development, provided a caution statement is included in the labelling section. Following this decision, USP’s DSI ECs may develop monographs for green tea extracts, and USP may offer its verification programmes related to that dietary ingredient.
+Access this article
+Similar content being viewed by others
+Explore related subjectsDiscover the latest articles and news from researchers in related subjects, suggested using machine learning.
+Notes
+1The use of trade names is for product identification purposes only and does not imply endorsement
+References
+Bhattacharyya L, Cecil T, Dabbah R, et al. The value of USP public standards for therapeutic products. Pharm Res 2004; 21(10): 1725–31
+Schiff Jr PL, Srinivasan VS, Giancaspro GI, et al. The development of USP botanical dietary supplement monographs, 1995–2005. J Nat Prod 2006; 69(3): 464–72
+Atwater J, Salguero JM, Roll DB. The USP Dietary Supplement Verification Program: Helping Pharmacists and Consumers Select Dietary Supplements. US Pharm 2005; 30: 61–4
+McGuffin M, Kartesz JT, Leung AY, et al., editors. In: Herbs of Commerce. 2nd ed. Silver Spring (MD): American Herbal Products Association, 2000
+Nutrition Business Journal. Top US herbal supplements 2006. Boulder (CO): Nutrition Business Journal, 2006
+Bun SS, Bun H, Guedon D, et al. Effect of green tea extracts on liver functions in Wistar rats. Food Chem Toxicol 2006; 44(7): 1108–13
+Barrett ML. The handbook of clinically tested herbal remedies. Vol 2. New York: The Haworth Herbal Press, 2004
+Graham HN. Green tea composition, consumption, and polyphenol chemistry. Prev Med 1992; 21(3): 334–50
+FDA. Veregen [online]. Available from URL:
+[http://www.fda.gov/cder/foi/label/2006/021902lbl.pdf](http://www.fda.gov/cder/foi/label/2006/021902lbl.pdf)[Accessed 2007 Oct 23]
+Kantelip JP, Laroche D. Green tea and liver disorders. National Drug Surveillance survey submitted to the Technical Committee. Besancon: Besancon regional drug surveillance centre; 2003 Feb 11
+Naranjo CA, Busto U, Sellers EM, et al. A method for estimating the probability of adverse drug reactions. Clin Pharmacol Ther 1981; 30(2): 239–45
+Busto U, Naranjo CA, Sellers EM. Comparison of two recently published algorithms for assessing the probability of adverse drug reactions. Br J Clin Pharmacol 1982; 13(2): 223–7
+Michel DJ, Knodel LC. Comparison of three algorithms used to evaluate adverse drug reactions. Am J Hosp Pharm 1986; 43(7): 1709–14
+Jones JK. Adverse drug reactions in the community health setting: approaches to recognizing, counseling, and reporting. Fam Community Health 1982; 5(2): 58–67
+Kramer MS, Leventhal JM, Hutchinson TA, et al. An algorithm for the operational assessment of adverse drug reactions: I. Background, description, and instructions for use. JAMA 1979; 242(7): 623–32
+WHO. WHO guidelines on safety monitoring of herbal medicines in pharmacovigilance systems. Geneva: WHO, 2004
+Danan G, Benichou C. Causality assessment of adverse reactions to drugs: I. A novel method based on the conclusions of international consensus meetings: application to drug-induced liver injuries. J Clin Epidemiol 1993; 46(11): 1323–30
+Andrade RJ, Robles M, Fernandez-Castaner A, et al. Assessment of drug-induced hepatotoxicity in clinical practice: a challenge for gastroenterologists. World J Gastroenterol 2007; 13(3): 329–40
+Davern T. Can we replace opinion consensus with a Bayesian process? [online]. Available from URL:
+[http://www.fda.gov/cder/livertox/presentations2006/Davern.pdf](http://www.fda.gov/cder/livertox/presentations2006/Davern.pdf)[Accessed 2007 Oct 23]
+Seeff LB. Causality assessment for drug-induced liver injury [online]. Available from URL:
+[http://www.fda.gov/ohrms/dockets/ac/06/slides/2006-4266s1-01-08-FDA-Seeff_files/frame.htm](http://www.fda.gov/ohrms/dockets/ac/06/slides/2006-4266s1-01-08-FDA-Seeff_files/frame.htm)[Accessed 2007 Oct 23]
+Gloro R, Hourmand-Ollivier I, Mosquet B, et al. Fulminant hepatitis during self-medication with hydroalcoholic extract of green tea. Eur J Gastroenterol Hepatol 2005; 17(10): 1135–7
+Seddik M, Lucidarme D, Creusy C, et al. Is Exolise hepatotoxic? [in French]. Gastroenterol Clin Biol 2001; 25(8-9): 834–5
+Vial T, Bernard G, Lewden B, et al. Acute hepatitis due to Exolise, a Camellia sinensis-derived drug [in French]. Gastroenterol Clin Biol 2003; 27(12): 1166–7
+Pedros C, Cereza G, Garcia N, et al. Liver toxicity of Camellia sinensis dried etanolic extract [in Spanish]. Med Clin (Barc) 2003; 121(15): 598–9
+Jimenez-Saenz M, Martinez-Sanchez M del C. Acute hepatitis associated with the use of green tea infusions. J Hepatol 2006; 44(3): 616–7
+Stevens T, Qadri A, Zein NN. Two patients with acute liver injury associated with use of the herbal weight-loss supplement Hydroxycut. Ann Intern Med 2005; 142(6): 477–8
+Porcel JM. Hepatotoxicity associated with green tea extracts [online]. Available from URL:
+[http://www.annals.org/cgi/elet-ters/142/6/477#1445](http://www.annals.org/cgi/elet-ters/142/6/477#1445)[Accessed 2007 Oct 23]
+Javaid A, Bonkovsky HL. Hepatotoxicity due to extracts of Chinese green tea (Camellia sinensis): a growing concern. J Hepatol 2006; 45(2): 334–5
+Molinari M, Watt KD, Kruszyna T, et al. Acute liver failure induced by green tea extracts: case report and review of the literature. Liver Transpl 2006; 12(12): 1892–5
+Bonkovsky HL. Hepatotoxicity associated with supplements containing Chinese green tea (Camellia sinensis). Ann Intern Med 2006; 144(1): 68–71
+Gregory PJ. Chromium polynicotinate linked to hepatotoxicity [online]. Available from URL:
+[http://www.annals.org/cgi/elet-ters/142/6/477#1445](http://www.annals.org/cgi/elet-ters/142/6/477#1445)[Accessed 2007 Oct 23]
+Lanca S, Alves A, Vieira AI, et al. Chromium-induced toxic hepatitis. Eur J Intern Med 2002; 13(8): 518–20
+Woolf AD, Watson WA, Smolinske S, et al. The severity of toxic reactions to ephedra: comparisons to other botanical products and national trends from 1993–2002. Clin Toxicol (Phila) 2005; 43(5): 347–55
+Nadir A, Reddy D, Van Thiel DH. Cascara sagrada-induced intrahepatic cholestasis causing portal hypertension: case report and review of herbal hepatotoxicity. Am J Gastroenterol 2000; 95(12): 3634–7
+Anonymous. Medroxyprogesterone acetate injectable suspension product monograph [online]. Available from URL:
+[http://www.fda.gov/medwatch/safety/2004/DepoProvera_Label.pdf](http://www.fda.gov/medwatch/safety/2004/DepoProvera_Label.pdf)[Accessed 2007 Oct 23] 484
+Pisters KM, Newman RA, Coldman B, et al. Phase I trial of oral green tea extract in adult patients with solid tumors. J Clin Oncol 2001; 19(6): 1830–8
+Yang CS, Chen L, Lee MJ, et al. Blood and urine levels of tea catechins after ingestion of different amounts of green tea by human volunteers. Cancer Epidemiol Biomarkers Prev 1998; 7(4): 351–4
+Chow HH, Cai Y, Alberts DS, et al. Phase I pharmacokinetic study of tea polyphenols following single-dose administration of epigallocatechin gallate and polyphenon E. Cancer Epidemiol Biomarkers Prev 2001; 10(1): 53–8
+Chow HH, Cai Y, Hakim IA, et al. Pharmacokinetics and safety of green tea polyphenols after multiple-dose administration of epigallocatechin gallate and polyphenon E in healthy individuals. Clin Cancer Res 2003; 9(9): 3312–9
+Chow HH, Hakim IA, Vining DR, et al. Effect of dosing condition on the oral bioavailability of green tea catechins after single-dose administration of Polyphenon E in healthy individuals [online]. Available from URL:
+[http://www.aacr.org/PDF_files/2004Prevention/Program/2004_Prevention_Abstracts.pdf](http://www.aacr.org/PDF_files/2004Prevention/Program/2004_Prevention_Abstracts.pdf)[Accessed 2008 Apr 22]
+Chow HH, Hakim IA, Vining DR, et al. Effects of dosing condition on the oral bioavailability of green tea catechins after single-dose administration of Polyphenon E in healthy individuals. Clin Cancer Res 2005; 11(12): 4627–33
+Ullmann U, Haller J, Decourt JP, et al. A single ascending dose study of epigallocatechin gallate in healthy volunteers. J Int Med Res 2003; 31(2): 88–101
+Ullmann U, Haller J, Decourt JD, et al. Plasma-kinetic characteristics of purified and isolated green tea catechin epigallocatechin gallate (EGCG) after 10 days repeated dosing in healthy volunteers. Int J Vitam Nutr Res 2004; 74(4): 269–78
+Swezey RR, Aldridge DE, LeValley SE, et al. Absorption, tissue distribution and elimination of 4-[3H]-epigallocatechin gallate in beagle dogs. Int J Toxicol 2003; 22(3): 187–93
+Chen L, Lee MJ, Li H, et al. Absorption, distribution, elimination of tea polyphenols in rats. Drug Metab Dispos 1997; 25(9): 1045–50
+Zhu BT, Patel UK, Cai MX, et al. Rapid conversion of tea catechins to monomethylated products by rat liver cytosolic catechol-O-methyltransferase. Xenobiotica 2001; 31(12): 879–90
+Zhu M, Chen Y, Li RC. Oral absorption and bioavailability of tea catechins. Planta Med 2000; 66(5): 444–7
+Suganuma M, Okabe S, Oniyama M, et al. Wide distribution of [3H](−)-epigallocatechin gallate, a cancer preventive tea polyphenol, in mouse tissue. Carcinogenesis 1998; 19(10): 1771–6
+Lambert JD, Lee MJ, Lu H, et al. Epigallocatechin-3-gallate is absorbed but extensively glucuronidated following oral administration to mice. J Nutr 2003; 133(12): 4172–7
+Galati G, Lin A, Sultan AM, et al. Cellular and in vivo hepato-toxicity caused by green tea phenolic acids and catechins. Free Radic Biol Med 2006; 40(4): 570–80
+Isbrucker RA, Edwards JA, Wolz E, et al. Safety studies on epigallocatechin gallate (EGCG) preparations. Part 2: dermal, acute, and short-term toxicity studies. Food Chem Toxicol 2006; 44(5): 636–50
+Chen JH, Tipoe GL, Liong EC, et al. Green tea polyphenols prevent toxin-induced hepatotoxicity in mice by down-regulating inducible nitric oxide-derived prooxidants. Am J Clin Nutr 2004; 80(3): 742–51
+Zhang XG, Xu P, Liu Q, et al. Effect of tea polyphenol on cytokine gene expression in rats with alcoholic liver disease. Hepatobiliary Pancreat Dis Int 2006; 5(2): 268–72
+Dobrzynska I, Sniecinska A, Skrzydlewska E, et al. Green tea modulation of the biochemical and electric properties of rat liver cells that were affected by ethanol and aging. Cell Mol Biol Lett 2004; 9(4A): 709–21
+Nishikawa T, Nakajima T, Moriguchi M, et al. A green tea polyphenol, epigalocatechin-3-gallate, induces apoptosis of human hepatocellular carcinoma, possibly through inhibition of Bcl-2 family proteins. J Hepatol 2006; 44(6): 1074–82
+Fiorini RN, Donovan JL, Rodwell D, et al. Short-term administration of (−)-epigallocatechin gallate reduces hepatic steatosis and protects against warm hepatic ischemia/reperfusion injury in steatotic mice. Liver Transpl 2005; 11(3): 298–308
+Schmidt M, Schmitz HJ, Baumgart A, et al. Toxicity of green tea extracts and their constituents in rat hepatocytes in primary culture. Food Chem Toxicol 2005; 43(2): 307–14
+Imai K, Suga K, Nakachi K. Cancer-preventive effects of drinking green tea among a Japanese population. Prev Med 1997; 26(6): 769–75
+Woo JJ. Adverse event monitoring and multivitamin-mul-timineral dietary supplements. Am J Clin Nutr 2007; 85(1): 323S–4S
+USP. USP-NF development process [online]. Available from URL:
+[http://www.usp.org/USPNF/devProcess/](http://www.usp.org/USPNF/devProcess/)[Accessed 2007 Oct 23]
+Acknowledgements
+No sources of funding were used to assist in the preparation of this review. Dandapantula Sarma and Gabriel Gian-caspro are USP employees and authored this manuscript as part of their normal duties. The other authors are volunteer experts. All authors operate according to the USP’s strict ‘conflict of interest’ guidelines.
+The US Pharmacopeia Dietary Supplement Information Expert Committee thanks Roger L. Williams, MD, Executive Vice President and Chief Executive Officer of USP, and Darrell Abernethy, MD, PhD, Chief Science Officer of USP, for reviewing this manuscript, and Stefan Schuber, PhD, Director, Scientific Reports, for his editorial assistance. The authors thank the Australian Therapeutic Goods Administration, he Canadian Natural Health Products Directorate, and the UK Medicines and Healthcare Products Regulatory Agency for providing information about case reports.
+Dr Linda Pellicore is an employee of the US FDA. The opinions and/or conclusions expressed are solely those of the authors and in no way imply a policy or position of the FDA.
+Rights and permissions
+About this article
+Cite this article
+Sarma, D.N., Barrett, M.L., Chavez, M.L. et al. Safety of Green Tea Extracts. Drug-Safety 31, 469–484 (2008). https://doi.org/10.2165/00002018-200831060-00003
+Published:
+Issue Date:
+DOI: https://doi.org/10.2165/00002018-200831060-00003

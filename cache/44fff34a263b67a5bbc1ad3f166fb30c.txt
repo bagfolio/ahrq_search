@@ -1,0 +1,94 @@
+Abstract
+The ultimate objective of biomedical research is to connect human diseases with the genes that underlie them and drugs that treat them. But this remains a daunting task, and even the most inspired researchers still have to resort to laborious screens of genetic or chemical libraries. What if at least some parts of this screening process could be systematized and centralized? And hits found and hypotheses generated with something resembling an internet search engine? These are the questions the Connectivity Map project set out to answer.
+This is a preview of subscription content,
+[access via your institution](https://wayf.springernature.com?redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fnrc2044)
+Access options
+Subscribe to this journal
+Receive 12 print issues and online access
+$209.00 per year
+only $17.42 per issue
+Buy this article
+- Purchase on SpringerLink
+- Instant access to full article PDF
+Prices may be subject to local taxes which are calculated during checkout
+Similar content being viewed by others
+References
+Vane, J. R. & Botting, R. M. The mechanism of action of aspirin. Thromb. Res. 110, 255–258 (2003).
+Druker, B. J. et al. Efficacy and safety of a specific inhibitor of the BCR-ABL tyrosine kinase in chronic myeloid leukemia. N. Engl. J. Med. 344, 1031–1037 (2001).
+Black, J. Drugs from emasculated hormones: the principle of syntopic antagonism. Science 245, 486–493 (1989).
+Lamb, J. et al. The Connectivity Map: using gene-expression signatures to connect small molecules, genes, and disease. Science 313, 1929–1935 (2006).
+Hieronymus, H. et al. Gene expression signature-based chemical genomic prediction identifies novel class of HSP90 pathway modulators. Cancer Cell 10, 321–330 (2006).
+Wei, G. et al. Gene expression-based chemical genomics identifies rapamycin as a modulator of MCL-1 and glucocorticoid resistance. Cancer Cell 10, 331–342 (2006).
+Hughes, T. R. et al. Functional discovery via a compendium of expression profiles. Cell 102, 109–126 (2000).
+Austin, C. P. The completed human genome: implications for chemical biology. Curr. Opin. Chem. Biol. 7, 511–515 (2003).
+Cornwell, P. D., De Souza, A. T. & Ulrich, R. G. Profiling of hepatic gene expression in rats treated with fibric acid analogs. Mutat. Res. 549, 131–145 (2004).
+Lindsay, M. A. Target discovery. Nature Rev. Drug Discov. 2, 831–838 (2003).
+Feldman, B. J. & Feldman, D. The development of androgen-independent prostate cancer. Nature Rev. Cancer 1, 34–45 (2001).
+Reich, M. et al. GenePattern 2.0. Nature Genet. 38, 500–501 (2006).
+Strausberg, R. L. & Schreiber, S. L. From knowing to controlling: a path from genomics to drugs using small molecule probes. Science 300, 294–295 (2003).
+Tolliday, N. et al. Small molecules, big players: the National Cancer Institute's initiative for chemical genetics. Cancer Res. 66, 8935–8942 (2006).
+Smith, I. E. & Dowsett, M. Aromatase inhibitors in breast cancer. N. Engl. J. Med. 348, 2431–2442 (2003).
+Rogers, J. T. et al. Alzheimer's disease drug discovery targeted to the APP mRNA 5′untranslated region. J. Mol. Neurosci. 19, 77–82 (2002).
+Stavrovskaya, I. G. et al. Clinically approved heterocyclics act on a mitochondrial target and reduce stroke-induced pathology. J. Exp. Med. 200, 211–222 (2004).
+Rothstein, J. D. et al. β-lactam antibiotics offer neuroprotection by increasing glutamate transporter expression. Nature 433, 73–77 (2005).
+Miller, T. M. & Cleveland, D. W. Treating neurodegenerative diseases with antibiotics. Science 307, 361–362 (2005).
+Borisy, A. A. et al. Systematic discovery of multicomponent therapeutics. Proc. Natl Acad. Sci. USA 100, 7977–7982 (2003).
+Elbashir, S. M. et al. Duplexes of 21-nucleotide RNAs mediate RNA interference in cultured mammalian cells. Nature 411, 494–498 (2001).
+Hopkins, A. L. & Groom, C. R. The druggable genome. Nature Rev. Drug Discov. 1, 727–730 (2002).
+Orth, A. P., Batalov, S., Perrone, M. & Chanda, S. K. The promise of genomics to identify novel therapeutic targets. Expert Opin. Ther. Targets 8, 587–596 (2004).
+Lipinski, C. & Hopkins, A. Navigating chemical space for biology and medicine. Nature 432, 855–861 (2004).
+Paolini, G. V., Shapland, R. H., van Hoorn, W. P., Mason, J. S. & Hopkins, A. L. Global mapping of pharmacological space. Nature Biotechnol. 24, 805–815 (2006).
+Rual, J. F. et al. Human ORFeome version 1. 1: a platform for reverse proteomics. Genome Res. 14, 2128–2135 (2004).
+Root, D. E., Hacohen, N., Hahn, W. C., Lander, E. S. & Sabatini, D. M. Genome-scale loss-of-function screening with a lentiviral RNAi library. Nature Methods 3, 715–719 (2006).
+Jackson, A. L. et al. Expression profiling reveals off-target gene regulation by RNAi. Nature Biotechnol. 21, 635–637 (2003).
+Bridge, A. J., Pebernard, S., Ducraux, A., Nicoulaz, A. L. & Iggo, R. Induction of an interferon response by RNAi vectors in mammalian cells. Nature Genet. 34, 263–264 (2003).
+Sledz, C. A., Holko, M., de Veer, M. J., Silverman, R. H. & Williams, B. R. Activation of the interferon system by short-interfering RNAs. Nature Cell Biol. 5, 834–839 (2003).
+Vidal, M., Brachmann, R. K., Fattaey, A., Harlow, E. & Boeke, J. D. Reverse two-hybrid and one-hybrid systems to detect dissociation of protein-protein and DNA-protein interactions. Proc. Natl Acad. Sci. 93, 10315–10320 (1996).
+Milstein, S. & Vidal, M. Perturbing interactions. Nature Methods 2, 412–414 (2005).
+Roth, B. L., Sheffler, D. J. & Kroeze, W. K. Magic shotguns versus magic bullets: selectively non-selective drugs for mood disorders and schizophrenia. Nature Rev. Drug Discov. 3, 353–359 (2004).
+Keith, C. T., Borisy, A. A. & Stockwell, B. R. Multicomponent therapeutics for networked systems. Nature Rev. Drug Discov. 4, 71–78 (2005).
+Frantz, S. Drug discovery: playing dirty. Nature 437, 942–943 (2005).
+Rual, J. F. et al. Towards a proteome-scale map of the human protein-protein interaction network. Nature 437, 1173–1178 (2005).
+Hopkins, A. L., Mason, J. S. & Overington, J. P. Can we rationally design promiscuous drugs? Curr. Opin. Struct. Biol. 16, 127–136 (2006).
+Ramaswamy, S. et al. Multiclass cancer diagnosis using tumor gene expression signatures. Proc. Natl Acad. Sci. USA 98, 15149–15154 (2001).
+Su, A. I. et al. Large-scale analysis of the human and mouse transcriptomes. Proc. Natl Acad. Sci. USA 99, 4465–4470 (2002).
+Su, A. I. et al. A gene atlas of the mouse and human protein-encoding transcriptomes. Proc. Natl Acad. Sci. USA 101, 6062–6067 (2004).
+Schadt, E. E. et al. Genetics of gene expression surveyed in maize, mouse and man. Nature 422, 297–302 (2003).
+Mehrabian, M. et al. Integrating genotypic and expression data in a segregating mouse population to identify 5-lipoxygenase as a susceptibility gene for obesity and bone traits. Nature Genet. 37, 1224–1233 (2005).
+Schadt, E. E. et al. An integrative genomics approach to infer causal associations between gene expression and disease. Nature Genet. 37, 710–717 (2005).
+Ganter, B. et al. Development of a large-scale chemogenomics database to improve drug candidate selection and to understand mechanisms of chemical toxicity and action. J. Biotechnol. 119, 219–244 (2005).
+Brazma, A. et al. ArrayExpress-a public repository for microarray gene expression data at the EBI. Nucleic Acids Res. 31, 68–71 (2003).
+Parkinson, H. et al. ArrayExpress-a public repository for microarray gene expression data at the EBI. Nucleic Acids Res. 33, D553–D555 (2005).
+Edgar, R., Domrachev, M. & Lash, A. E. Gene Expression Omnibus: NCBI gene expression and hybridization array data repository. Nucleic Acids Res. 30, 207–210 (2002).
+Barrett, T. et al. NCBI GEO: mining millions of expression profiles-database and tools. Nucleic Acids Res. 33, D562–D566 (2005).
+Rhodes, D. R. et al. ONCOMINE: a cancer microarray database and integrated data-mining platform. Neoplasia 6, 1–6 (2004).
+Golub, T. R. et al. Molecular classification of cancer: class discovery and class prediction by gene expression monitoring. Science 286, 531–537 (1999).
+Lamb, J. et al. A mechanism of cyclin D1 action encoded in the patterns of gene expression in human cancer. Cell 114, 323–334 (2003).
+Subramanian, A. et al. Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles. Proc. Natl Acad. Sci. USA 102, 15545–15550 (2005).
+Natsoulis, G. et al. Classification of a large microarray data set: algorithm comparison and analysis of drug signatures. Genome Res. 15, 724–736 (2005).
+Stegmaier, K. et al. Gene expression-based high-throughput screening (GE-HTS) and application to leukemia differentiation. Nature Genet. 36, 257–263 (2004).
+Stegmaier, K. et al. Gefitinib induces myeloid differentiation of acute myeloid leukemia. Blood 106, 2841–2848 (2005).
+Peck, D. et al. A method for high-throughput gene expression signature analysis. Genome Biol. 7, R61 (2006).
+Burke, A., Smyth, E. & FitzGerald, G. A. in Goodman and Gilman's the pharmacological basis of therapeutics (ed. Brunton, L. L.) 671–715 (McGraw-Hill, New York, 2006).
+Lehmann, J. M. et al. An antidiabetic thiazolidinedione is a high affinity ligand for peroxisome proliferator-activated receptor gamma (PPARγ). J. Biol. Chem. 270, 12953–12956 (1995).
+Reiss, T. F. et al. Effects of montelukast (MK-0476), a new potent cysteinyl leukotriene (LTD4) receptor antagonist, in patients with chronic asthma. J. Allergy Clin. Immunol. 98, 528–534 (1996).
+Boolell, M. et al. Sildenafil: an orally active type 5 cyclic GMP-specific phosphodiesterase inhibitor for the treatment of penile erectile dysfunction. Int. J. Impot. Res. 8, 47–52 (1996).
+Heinrich, M. C. et al. Kinase mutations and imatinib response in patients with metastatic gastrointestinal stromal tumor. J. Clin. Oncol. 21, 4342–4349 (2003).
+Marmor, M. F. & Kessler, R. Sildenafil (Viagra) and ophthalmology. Surv. Opthamol. 44, 153–162 (1999).
+Lehmann, J. M., Lenhard, J. M., Oliver, B. B., Ringold, G. M. & Kliewer, S. A. Peroxisome proliferator-activated receptors α and γ are activated by indomethacin and other non-steroidal anti-inflammatory drugs. J. Biol. Chem. 272, 3406–3410 (1997).
+Acknowledgements
+Thanks to T. Golub, the Connectivity Map team and members of the Broad Institute Cancer and Chemical Biology Programs.
+Ethics declarations
+Competing interests
+The author declares no competing financial interests.
+Related links
+Related links
+FURTHER INFORMATION
+[Oncomine Cancer Profiling Database](http://www.oncomine.org)
+[WHO Collaborating Centre for Drug Statistics Methodology](http://www.whocc.no/atcddd/)
+Rights and permissions
+About this article
+Cite this article
+Lamb, J. The Connectivity Map: a new tool for biomedical research. Nat Rev Cancer 7, 54–60 (2007). https://doi.org/10.1038/nrc2044
+Issue Date:
+DOI: https://doi.org/10.1038/nrc2044

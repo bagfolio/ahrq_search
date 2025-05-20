@@ -1,0 +1,147 @@
+Abstract
+Background. Older adult falls are a significant cause of morbidity and mortality in the United States. This leading cause of injury in adults aged 65 and older results in $35 billion in direct medical costs. Objective. To project the number of older adult falls by 2030 and the associated lifetime medical cost. A secondary objective is to review what clinicians can do to incorporate falls screening and prevention into their practice for community-dwelling older adults. Methods. Using the Centers for Disease Control and Prevention’s Web-based Injury Statistics Query and Reporting System and the US Census Bureau data, the number of older adults in 2030, fatal falls, and medical costs associated with fall injuries was projected. In addition, evidence-based interventions that can be integrated into clinical practice were reviewed. Results. The number of older adult fatal falls is projected to reach 100 000 per year by 2030 with an associated cost of $100 billion. By integrating screening for falls risk into clinical practice, reviewing and modifying medications, and recommending vitamin D supplementation, physicians can reduce future falls by nearly 25%. Conclusion. Falls in older adults will continue to rise substantially and become a significant cost to our health care system if we do not begin to focus on prevention in the clinical setting.
+Keywords: falls, prevention, older adults, STEADI
+‘Unintentional falls are the leading cause of fatal and nonfatal injuries among adults age 65 and older.’
+Margaret was an active and independent 70-year-old woman who slipped on the kitchen rug while preparing breakfast. She was unable to get up and was transported by ambulance to the local emergency department (ED). Radiographs revealed a displaced femoral neck fracture. Her injury required surgical repair and then a 3-week stay in a rehabilitation facility. Margaret never returned to her previous level of activity and, due to her decreased mobility, died within 1 year from a pulmonary embolus. Unfortunately, these circumstances occur frequently among our aging population in the United States. However, they can be prevented if we employ a comprehensive and multidisciplinary approach in the primary care setting.
+In elderly patients who survive their hip fracture, 29% have not returned to baseline levels of functioning 1 year later.
+[1](#bibr1-1559827615600137) Bryson et al reported that 1 in 5 older adult patients with a femoral neck fracture returns to the ED within a year due to repeat falls or complications of their original injury, and three fourths of these patients require hospitalization. [2](#bibr2-1559827615600137)
+Unintentional falls are the leading cause of fatal and nonfatal injuries among adults age 65 and older. In 2012, falls resulted in 24 190 deaths and more than 2.4 million ED visits; 722 202 of these patients were subsequently hospitalized. The direct lifetime medical costs of unintentional falls in the elderly totaled $35 billion.
+[3](#bibr3-1559827615600137) These costs are specific to the injury event and are estimated based on the place of death. For example, falls deaths that occur in the hospital include costs for transportation and health care received. Detailed explanation of the methods used to estimate costs are available at [http://www.pire.org/documents/WisqarsCostMethods.pdf](http://www.pire.org/documents/WisqarsCostMethods.pdf).
+The public has been largely unaware of the magnitude of the problem of falls in community-dwelling, active older adults, but it is recognized by researchers and the public health community as a growing epidemic. The Centers for Disease Control and Prevention’s (CDC) Injury Center recently named older adult falls a “growth area,” indicating the opportunity to scale up evidence-based interventions and have a measurable impact in the communities across the country. Without action, the number of falls and the cost of fall injuries will escalate.
+Escalating Economic Burden of Falls in America: 20-Year Projections
+Using the CDC’s Web-based Injury Statistics Query and Reporting System (WISQARS), a recent study showed a statistically significant increase in the rate of nonfatal falls injuries treated in hospital EDs over the last decade.
+[4](#bibr4-1559827615600137) This study estimated that from 2001 to 2013, there was a 2% average annual increase in ED-treated fall rates and a 4% increase in the rate of hospitalized fall injuries. Using US Census Bureau projections of future population, the authors estimated that, if the increase in the falls rate continues at the current pace, the number of ED-treated falls could reach 5.7 million by 2030.
+We conducted a parallel analysis of fatal falls data from 1999 to 2012 using the CDC WISQARS fatal injury database. We found the increase in fatal falls was even more pronounced. From 1999 to 2012, there was a statistically significant annual average percentage increase of 5.3% (95% confidence interval = 4.6% to 6.1%) in the rate of fatal falls. To estimate the future number of fatal falls, we assumed that this rate increase would continue. For example, the fatal falls rate was 56.07 per 100 000 for persons 65 and older in 2012. We projected the falls rate would be 58.98 (or (1 + 0.051)∗ 56.07) in 2013. We then projected the estimated number of fatal falls to 2030 using the US Census Bureau’s population projections (
+[Figure 1](#fig1-1559827615600137)). The projection of fatal falls in the future is a combination of the projected growth in the falls rate and the projected growth in the population aged 65 and older. Based on these estimates, we predicted that the number of fatal falls among persons age 65 and older could reach almost 100 000 per year by 2030.
+The projected increase in older adult falls will have a dramatic impact on the health care system. To demonstrate the magnitude of this impact, we estimated the total lifetime medical cost of treating falls injuries using the CDC WISQARS cost module. Estimates of lifetime health care costs for hospitalized falls were obtained by using the 2010 estimates of costs per case from the WISQARS cost module and multiplying by the projected number of falls. All estimates are expressed in 2012 dollars.
+Over the 20-year period from 2012 to 2030, the lifetime medical cost of treating falls is projected to increase from $35 billion to over $101 billion (
+[Figure 2](#fig2-1559827615600137)). These significant increases in costs cannot be absorbed by our current health care system. Fortunately, primary care physicians are well positioned to actively respond to the problem of older adult falls. There are evidence-based solutions but public recognition to the problem is urgently needed to implement these measures.
+Causes of Falls
+Falling is seen as part of the aging process and an inevitable “accident” that just happens. Yet fall injuries are highly preventable. Fall risk factors are well established and can be categorized as “intrinsic” (within-person) and “extrinsic” (external to the individual). Some risk factors are directly involved in causing a fall (eg, muscle weakness, gait or balance disorder), whereas others are indicators of underlying causes, disease progression, or advancing age (eg, previous fall, poor vision, fear of falling, use of mobility aids, Parkinson’s disease, dementia).
+[5](#bibr5-1559827615600137), [6](#bibr6-1559827615600137)
+It is uncommon for a fall to have a single cause. More often, falls result from the interaction of multiple risk factors.
+[6](#bibr6-1559827615600137) In fact, the risk of falling increases linearly with the number of risk factors, from 19% for those with 1 risk factor to 78% for those with 4 or more risk factors. [7](#bibr7-1559827615600137)
+Falls Interventions
+A growing body of research demonstrates that falls can be reduced by multifactorial interventions implemented in community and clinical settings.
+[8](#bibr8-1559827615600137), [9](#bibr9-1559827615600137) Multifactorial interventions that address an individual’s specific risk factors can reduce fall risk by up to 24%. [9](#bibr9-1559827615600137) In their clinical practice guideline, the American and British Geriatrics Societies (AGS/BGS) [10](#bibr10-1559827615600137) recommend a multifactorial clinical approach that involves assessing a patient’s fall risk factors and implementing interventions tailored to that patient. However, few clinicians, and especially primary care physicians, have put this guideline into practice. [11](#bibr11-1559827615600137) Many clinicians report they do not know how to conduct fall risk assessments or do not have sufficient knowledge about fall prevention. [12](#bibr12-1559827615600137)- [14](#bibr14-1559827615600137) Providers also report that they have limited time to spend with each patient. [12](#bibr12-1559827615600137) Fortunately, the new Medicare annual wellness visit offers providers the opportunity to incorporate (and potentially to be reimbursed for) fall risk assessment and treatment. [15](#bibr15-1559827615600137)
+To bridge the knowledge gap and help primary care providers incorporate evidence-based older adult fall prevention into their clinical practice, CDC’s Injury Center developed the STEADI (Stopping Elderly Accidents, Deaths, and Injuries) toolkit (available at
+[http://www.cdc.gov/steadi/](http://www.cdc.gov/steadi/)). The toolkit is based on the AGS/BGS clinical guideline, grounded in theory, and includes input from health care providers. [11](#bibr11-1559827615600137) It contains basic information about falls, standardized gait and balance assessment tests, case studies, and conversation starters. In addition, there are educational handouts about fall prevention specifically designed for older patients and their friends and family.
+Given the demands on providers’ time, CDC is developing a clinical decision support module that can be integrated into a practice’s electronic health records system. Furthermore, CDC launched in July 2015 accompanying online training for health care providers that will award continuing educational credits (
+[https://cdc.train.org/DesktopShell.aspx](https://cdc.train.org/DesktopShell.aspx)). Finally, CDC is working with the state of Oregon and others to offer maintenance of certification to physicians who incorporate STEADI into their clinical practice.
+An essential step providers can take is to periodically screen older adult patients to identify those at greatest risk for falls. Once identified, risks can be addressed by implementing evidence-based, clinical interventions. These include reviewing medications and reducing or eliminating those that increase fall risk and recommending daily vitamin D supplements of at least 800 International Units (IU). Many older adults take medications such as analgesics, benzodiazepines, antidepressants, and sedatives/hypnotics that increase fall risk.
+[16](#bibr16-1559827615600137) There is growing evidence that modifying medications and improving prescribing practices can reduce falls. [17](#bibr17-1559827615600137) In addition, vitamin D supplementation has been shown to significantly reduce falls risk, especially among older adults with low vitamin D levels, [9](#bibr9-1559827615600137) community-dwelling adults younger than 80, older adults who have not fallen previously, and those who took at least 800 IU of vitamin D a day for longer than 6 months. [18](#bibr18-1559827615600137)
+Beyond the doctor’s office, STEADI is designed to link clinical care with community-based fall prevention programs by facilitating referral of appropriate patients to evidence-based community programs. To support the widespread adoption of evidence-based programs, the CDC has published “A CDC Compendium of Effective Fall Interventions” that describes 22 randomized control trials of effective interventions (available at
+[http://www.cdc.gov/homeandrecreationalsafety/pdf/cdc_falls_compendium_lowres.pdf](http://www.cdc.gov/homeandrecreationalsafety/pdf/cdc_falls_compendium_lowres.pdf)). The Compendium describes interventions that meet the diverse needs of older adults with differing functional abilities. For example, Stepping On is intended for older adults with moderate fall risk such as an older adult who fell in the past year or is afraid of falling. It is an educational program that focuses on helping older adults develop the knowledge and skills to prevent falls. [19](#bibr19-1559827615600137) It includes exercises, education about home and environmental safety, the importance of medication management, and vision screening. The Otago program is intended for older adults with greater functional limitations. It is a home-based program delivered by a physical therapist and uses individually tailored exercises to improve strength, balance, stability, and range of motion. [20](#bibr20-1559827615600137) While there are some challenges to scaling up these community-based programs, these programs, when implemented with fidelity, should yield significant returns on investment (ROI). A cost–benefit analysis of community-based falls interventions among older adults was published recently. [21](#bibr21-1559827615600137) This study found that the ROI for Otago was 36% for each dollar invested and the ROI for Stepping On was 64%. In addition to reducing falls, these programs also provide good value. [22](#bibr22-1559827615600137)
+Conclusion
+With a dramatic increase in the number of older adult falls anticipated over the next 15 years, fall prevention must become an important part of routine primary care. This involves assessing falls risk, developing treatment plans tailored to each patient’s functional abilities, and, where appropriate, referring patients to effective community-based programs. Such an integrated approach will be essential to reducing the health impact and economic burden of older adult falls.
+Footnotes
+Authors’ Note: The findings and conclusions in this article are those of the authors and do not necessarily represent the views of the Centers for Disease Control and Prevention.
+References
+-
+1.
+Bertram M, Norman R, Kemp L, Vos T.
+Review of the long-term disability associated with hip fractures. Inj Prev. 2011;17:365-370. [
+[DOI](https://doi.org/10.1136/ip.2010.029579)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21486987/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Inj%20Prev&title=Review%20of%20the%20long-term%20disability%20associated%20with%20hip%20fractures&author=M%20Bertram&author=R%20Norman&author=L%20Kemp&author=T%20Vos&volume=17&publication_year=2011&pages=365-370&pmid=21486987&doi=10.1136/ip.2010.029579&)]
+-
+2.
+Bryson DJ, Knapp S, Middleton RG, Faizi M, Bhansali H, Uzoigwe CE.
+Representation to the accident and emergency department within 1-year of a fractured neck of femur. J Orthop Surg Res. 2011;6:63. [
+[DOI](https://doi.org/10.1186/1749-799X-6-63)] [ [PMC free article](/articles/PMC3267668/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22189063/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Orthop%20Surg%20Res&title=Representation%20to%20the%20accident%20and%20emergency%20department%20within%201-year%20of%20a%20fractured%20neck%20of%20femur&author=DJ%20Bryson&author=S%20Knapp&author=RG%20Middleton&author=M%20Faizi&author=H%20Bhansali&volume=6&publication_year=2011&pages=63&pmid=22189063&doi=10.1186/1749-799X-6-63&)]
+-
+3.
+Centers for Disease Control and Prevention. WISQARS.
+[http://www.cdc.gov/injury/wisqars/facts.html](http://www.cdc.gov/injury/wisqars/facts.html). Accessed July 31,2015.
+-
+4.
+Orces CH, Alamgir H.
+Trends in fall-related injuries among older adults treated in emergency departments in the USA. Inj Prev. 2014;20:421-423. [
+[DOI](https://doi.org/10.1136/injuryprev-2014-041268)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24916685/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Inj%20Prev&title=Trends%20in%20fall-related%20injuries%20among%20older%20adults%20treated%20in%20emergency%20departments%20in%20the%20USA&author=CH%20Orces&author=H%20Alamgir&volume=20&publication_year=2014&pages=421-423&pmid=24916685&doi=10.1136/injuryprev-2014-041268&)]
+-
+5.
+Nevitt MC, Cummings SR, Hudes ES.
+Risk factors for injurious falls: a prospective study. J Gerontol. 1991;46:M164-M170. [
+[DOI](https://doi.org/10.1093/geronj/46.5.m164)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/1890282/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Gerontol&title=Risk%20factors%20for%20injurious%20falls:%20a%20prospective%20study&author=MC%20Nevitt&author=SR%20Cummings&author=ES%20Hudes&volume=46&publication_year=1991&pages=M164-M170&pmid=1890282&doi=10.1093/geronj/46.5.m164&)]
+-
+6.
+Rubenstein LZ, Josephson KR.
+Falls and their prevention in elderly people: what does the evidence show?
+Med Clin North Am. 2006;90:807-824. [
+[DOI](https://doi.org/10.1016/j.mcna.2006.05.013)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16962843/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Med%20Clin%20North%20Am&title=Falls%20and%20their%20prevention%20in%20elderly%20people:%20what%20does%20the%20evidence%20show?&author=LZ%20Rubenstein&author=KR%20Josephson&volume=90&publication_year=2006&pages=807-824&pmid=16962843&doi=10.1016/j.mcna.2006.05.013&)]
+-
+7.
+Tinetti ME, Speechley M, Ginter SF.
+Risk factors for falls among elderly persons living in the community. N Engl J Med. 1988;319:1701-1707. [
+[DOI](https://doi.org/10.1056/NEJM198812293192604)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/3205267/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=Risk%20factors%20for%20falls%20among%20elderly%20persons%20living%20in%20the%20community&author=ME%20Tinetti&author=M%20Speechley&author=SF%20Ginter&volume=319&publication_year=1988&pages=1701-1707&pmid=3205267&doi=10.1056/NEJM198812293192604&)]
+-
+8.
+Haines TP, Bennell KL, Osborne RH, Hill KD.
+Effectiveness of targeted falls prevention programme in subacute hospital setting: randomised controlled trial. BMJ. 2004;328:676. [
+[DOI](https://doi.org/10.1136/bmj.328.7441.676)] [ [PMC free article](/articles/PMC381222/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15031238/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMJ&title=Effectiveness%20of%20targeted%20falls%20prevention%20programme%20in%20subacute%20hospital%20setting:%20randomised%20controlled%20trial&author=TP%20Haines&author=KL%20Bennell&author=RH%20Osborne&author=KD%20Hill&volume=328&publication_year=2004&pages=676&pmid=15031238&doi=10.1136/bmj.328.7441.676&)]
+-
+9.
+Gillespie LD, Robertson MC, Gillespie WJ, et al.
+Interventions for preventing falls in older people living in the community. Cochrane Database Syst Rev. 2012;(9):CD007146. [
+[DOI](https://doi.org/10.1002/14651858.CD007146.pub3)] [ [PMC free article](/articles/PMC8095069/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22972103/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cochrane%20Database%20Syst%20Rev&title=Interventions%20for%20preventing%20falls%20in%20older%20people%20living%20in%20the%20community&author=LD%20Gillespie&author=MC%20Robertson&author=WJ%20Gillespie&issue=9&publication_year=2012&pages=CD007146&pmid=22972103&doi=10.1002/14651858.CD007146.pub3&)]
+-
+10.
+American Geriatrics Society/British Geriatrics Society. AGS/BGS Clinical Practice Guideline: Prevention of Falls in Older Persons. New York, NY: American Geriatrics Society; 2010. [
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=AGS/BGS%20Clinical%20Practice%20Guideline:%20Prevention%20of%20Falls%20in%20Older%20Persons&publication_year=2010&)]
+-
+11.
+Stevens JA, Phelan EA.
+Development of STEADI: a fall prevention resource for health care providers. Health Promot Pract. 2013;14:706-714. [
+[DOI](https://doi.org/10.1177/1524839912463576)] [ [PMC free article](/articles/PMC4707651/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23159993/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Health%20Promot%20Pract&title=Development%20of%20STEADI:%20a%20fall%20prevention%20resource%20for%20health%20care%20providers&author=JA%20Stevens&author=EA%20Phelan&volume=14&publication_year=2013&pages=706-714&pmid=23159993&doi=10.1177/1524839912463576&)]
+-
+12.
+Chou WC, Tinetti ME, King MB, Irwin K, Fortinsky RH.
+Perceptions of physicians on the barriers and facilitators to integrating fall risk evaluation and management into practice. J Gen Intern Med. 2006;21:117-122. [
+[DOI](https://doi.org/10.1111/j.1525-1497.2005.00298.x)] [ [PMC free article](/articles/PMC1484650/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16336618/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Gen%20Intern%20Med&title=Perceptions%20of%20physicians%20on%20the%20barriers%20and%20facilitators%20to%20integrating%20fall%20risk%20evaluation%20and%20management%20into%20practice&author=WC%20Chou&author=ME%20Tinetti&author=MB%20King&author=K%20Irwin&author=RH%20Fortinsky&volume=21&publication_year=2006&pages=117-122&pmid=16336618&doi=10.1111/j.1525-1497.2005.00298.x&)]
+-
+13.
+Fortinsky RH, Iannuzzi-Sucich M, Baker DI, et al.
+Fall-risk assessment and management in clinical practice: views from healthcare providers. J Am Geriatr Soc. 2004;52:1522-1526. [
+[DOI](https://doi.org/10.1111/j.1532-5415.2004.52416.x)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15341555/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Geriatr%20Soc&title=Fall-risk%20assessment%20and%20management%20in%20clinical%20practice:%20views%20from%20healthcare%20providers&author=RH%20Fortinsky&author=M%20Iannuzzi-Sucich&author=DI%20Baker&volume=52&publication_year=2004&pages=1522-1526&pmid=15341555&doi=10.1111/j.1532-5415.2004.52416.x&)]
+-
+14.
+Rubenstein LZ, Solomon DH, Roth CO, et al.
+Detection and management of falls and instability among vulnerable elders by community physicians. J Am Geriatr Soc. 2004;52:1527-1531. [
+[DOI](https://doi.org/10.1111/j.1532-5415.2004.52417.x)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15341556/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Geriatr%20Soc&title=Detection%20and%20management%20of%20falls%20and%20instability%20among%20vulnerable%20elders%20by%20community%20physicians&author=LZ%20Rubenstein&author=DH%20Solomon&author=CO%20Roth&volume=52&publication_year=2004&pages=1527-1531&pmid=15341556&doi=10.1111/j.1532-5415.2004.52417.x&)]
+-
+15.
+Center for Medicare and Medicaid Services. The ABCs of providing the annual wellness visit.
+[http://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-MLN/MLNProducts/downloads/AWV_chart_ICN905706.pdf](http://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-MLN/MLNProducts/downloads/AWV_chart_ICN905706.pdf). Accessed September 15, 2014.
+-
+16.
+Hartikainen S, Lönnroos E, Louhivuori K.
+Medication as a risk factor for falls: critical systematic review. J Gerontol A Biol Sci Med Sci. 2007;62:1172-1181. [
+[DOI](https://doi.org/10.1093/gerona/62.10.1172)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/17921433/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Gerontol%20A%20Biol%20Sci%20Med%20Sci&title=Medication%20as%20a%20risk%20factor%20for%20falls:%20critical%20systematic%20review&author=S%20Hartikainen&author=E%20L%C3%B6nnroos&author=K%20Louhivuori&volume=62&publication_year=2007&pages=1172-1181&pmid=17921433&doi=10.1093/gerona/62.10.1172&)]
+-
+17.
+Boyle N, Naganathan V, Cumming RG.
+Medication and falls: risk and optimization. Clin Geriatr Med. 2010;26:583-605. [
+[DOI](https://doi.org/10.1016/j.cger.2010.06.007)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20934612/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin%20Geriatr%20Med&title=Medication%20and%20falls:%20risk%20and%20optimization&author=N%20Boyle&author=V%20Naganathan&author=RG%20Cumming&volume=26&publication_year=2010&pages=583-605&pmid=20934612&doi=10.1016/j.cger.2010.06.007&)]
+-
+18.
+Kalyani RR, Stein B, Valiyil R, Manno R, Maynard JW, Crews DC.
+Vitamin D treatment for the prevention of falls in older adults: systematic review and meta-analysis. J Am Geriatr Soc. 2010;58:1299-1310. [
+[DOI](https://doi.org/10.1111/j.1532-5415.2010.02949.x)] [ [PMC free article](/articles/PMC3125705/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20579169/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Geriatr%20Soc&title=Vitamin%20D%20treatment%20for%20the%20prevention%20of%20falls%20in%20older%20adults:%20systematic%20review%20and%20meta-analysis&author=RR%20Kalyani&author=B%20Stein&author=R%20Valiyil&author=R%20Manno&author=JW%20Maynard&volume=58&publication_year=2010&pages=1299-1310&pmid=20579169&doi=10.1111/j.1532-5415.2010.02949.x&)]
+-
+19.
+Clemson L, Cumming RG, Kendig H, Swann M, Heard R, Taylor K.
+The effectiveness of a community-based program for reducing the incidence of falls in the elderly: a randomized trial. J Am Geriatr Soc. 2004;52:1487-1494. [
+[DOI](https://doi.org/10.1111/j.1532-5415.2004.52411.x)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15341550/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Geriatr%20Soc&title=The%20effectiveness%20of%20a%20community-based%20program%20for%20reducing%20the%20incidence%20of%20falls%20in%20the%20elderly:%20a%20randomized%20trial&author=L%20Clemson&author=RG%20Cumming&author=H%20Kendig&author=M%20Swann&author=R%20Heard&volume=52&publication_year=2004&pages=1487-1494&pmid=15341550&doi=10.1111/j.1532-5415.2004.52411.x&)]
+-
+20.
+Campbell AJ, Robertson MC, Gardner MM, Norton RN, Tilyard MW, Buchner DM.
+Randomised controlled trial of a general practice programme of home based exercise to prevent falls in elderly women. BMJ. 1997;315:1065-1069. [
+[DOI](https://doi.org/10.1136/bmj.315.7115.1065)] [ [PMC free article](/articles/PMC2127698/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/9366737/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMJ&title=Randomised%20controlled%20trial%20of%20a%20general%20practice%20programme%20of%20home%20based%20exercise%20to%20prevent%20falls%20in%20elderly%20women&author=AJ%20Campbell&author=MC%20Robertson&author=MM%20Gardner&author=RN%20Norton&author=MW%20Tilyard&volume=315&publication_year=1997&pages=1065-1069&pmid=9366737&doi=10.1136/bmj.315.7115.1065&)]
+-
+21.
+Carande-Kulis VG, Stevens J, Beattie BL, Arias I.
+The business case for interventions to prevent fall injuries in older adults. Inj Prev. 2010;16:A249. [
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Inj%20Prev&title=The%20business%20case%20for%20interventions%20to%20prevent%20fall%20injuries%20in%20older%20adults&author=VG%20Carande-Kulis&author=J%20Stevens&author=BL%20Beattie&author=I%20Arias&volume=16&publication_year=2010&pages=A249&)]
+-
+22.
+Carande-Kulis V, Stevens JA, Florence CS, Beattie BL, Arias I.
+A cost-benefit analysis of three older fall prevention interventions. J Safety Res. 2015;52:65-70. [
+[DOI](https://doi.org/10.1016/j.jsr.2014.12.007)] [ [PMC free article](/articles/PMC6604798/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25662884/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Safety%20Res&title=A%20cost-benefit%20analysis%20of%20three%20older%20fall%20prevention%20interventions&author=V%20Carande-Kulis&author=JA%20Stevens&author=CS%20Florence&author=BL%20Beattie&author=I%20Arias&volume=52&publication_year=2015&pages=65-70&pmid=25662884&doi=10.1016/j.jsr.2014.12.007&)]

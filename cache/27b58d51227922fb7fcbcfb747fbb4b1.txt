@@ -1,0 +1,27 @@
+Abstract
+BACKGROUND: Diverging trends of decreasing energy intake and increasing prevalence of obesity suggest that physical inactivity and sedentary lifestyle may be one of the key determinants of the growing rates of overweight/obesity in Western populations information about the impact of physical inactivity and sedentary lifestyles on the prevalence of obesity among the general adult population in the European Union is sparse.
+OBJECTIVES: To estimate the association of leisure-time sedentary and non-sedentary activities with body mass index (BMI, kg/m2) and with the prevalence of obesity (BMI>30 kg/m2) in a sample of the 15 member states of the European Union.
+METHODS: Professional interviewers administered standardized in-home questionnaires to 15,239 men and women aged 15 years upwards, selected by a multi-stage stratified cluster sampling with quotas applied to ensure national and European representativeness. Energy expenditure during leisure time was calculated based on data on frequency of and amount of time participating in various physical activities, assigning metabolic equivalents (METS) to each activity. Sedentary lifestyle was assessed by means of self-reported hours spent sitting down during leisure time. Multiple linear regression models with BMI as the dependent variable, and logistic regression models with obesity (BMI>30 kg/m2) as the outcome, were fitted.
+RESULTS: Independent associations of leisure-time physical activity (inverse) and amount of time spent sitting down (direct) with BMI were found. The adjusted prevalence odds ratio (OR) for obesity was 0.52 [95% confidence interval (CI): 0.43–0.64, P<0.001] for the upper quintile of physical activity (>30 METS) compared with the most physically inactive quintile (<1.75 METS). A positive independent association was also evident for the time spent sitting down, with an adjusted OR= 1.61(95% CI: 1.33–1.95, P<0.001) for those who spent more than 35 h of their leisure time sitting down compared with those who spent less than 15 h.
+Conclusions: Obesity and higher body weight are strongly associated with a sedentary lifestyle and lack of physical activity in the adult population of the European Union. These results, however, need to be interpreted with caution due to the cross-sectional design. Nonetheless, they are consistent with the view that a reduction in energy expenditure during leisure time may be the main determinant of the current epidemic of obesity.
+This is a preview of subscription content,
+[access via your institution](https://wayf.springernature.com?redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2F0801049)
+Access options
+Subscribe to this journal
+Receive 12 print issues and online access
+$259.00 per year
+only $21.58 per issue
+Buy this article
+- Purchase on SpringerLink
+- Instant access to full article PDF
+Prices may be subject to local taxes which are calculated during checkout
+Similar content being viewed by others
+Rights and permissions
+About this article
+Cite this article
+Martínez-González, M., Alfredo Martínez, J., Hu, F. et al. Physical inactivity, sedentary lifestyle and obesity in the European Union. Int J Obes 23, 1192–1201 (1999). https://doi.org/10.1038/sj.ijo.0801049
+Received:
+Accepted:
+Published:
+Issue Date:
+DOI: https://doi.org/10.1038/sj.ijo.0801049

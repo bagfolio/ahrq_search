@@ -134,6 +134,46 @@ class CompendiumTracker:
         "funding_acknowledgment": {"pubmed": True, "openalex": True, "scholar": True},
     }
     
+    # -----------------------------------------------------------
+    #  Light-weight "rank & prune" scorers (title / abstract only)
+    # -----------------------------------------------------------
+    def _score_row(self, row: pd.Series) -> int:
+        w = config.RELEVANCE_WEIGHTS
+        score = 0
+        details = []
+
+        # 1) keyword hit already implied by collection → +1
+        score += w["keyword_hit"]
+        details.append(f"keyword_hit: +{w['keyword_hit']}")
+
+        text = f"{row.get('title','')} {row.get('abstract','')}".lower()
+        
+        # 2) context term
+        matching_terms = [term for term in self.keyword_loader.get_context_terms() 
+                         if term.lower() in text]
+        if matching_terms:
+            score += w["context_term"]
+            details.append(f"context_term: +{w['context_term']} (matches: {', '.join(matching_terms[:3])})")
+
+        # 3) journal whitelist
+        journal = str(row.get("journal", "")).strip()
+        if journal in self.keyword_loader.get_journal_whitelist():
+            score += w["journal_whitelist"]
+            details.append(f"journal_whitelist: +{w['journal_whitelist']} ({journal})")
+
+        # 4) negative filters
+        matching_filters = [bad for bad in self.keyword_loader.get_negative_filters() 
+                           if bad.lower() in text]
+        if matching_filters:
+            score += w["negative_filter"]
+            details.append(f"negative_filter: {w['negative_filter']} (matches: {', '.join(matching_filters[:3])})")
+
+        # Log detailed scoring for debugging
+        title_snippet = row.get('title', '')[:50] + '...' if len(row.get('title', '')) > 50 else row.get('title', '')
+        logging.debug(f"Score for '{title_snippet}': {score} [{', '.join(details)}]")
+        
+        return score
+    
     def _collect_citations(self) -> Dict[str, pd.DataFrame]:
         """
         Collect citations from all sources.
@@ -167,8 +207,30 @@ class CompendiumTracker:
                     df = collector.search(filtered_terms)
                 
                 if df is not None and not df.empty:
-                    all_citations[name] = df
-                    logger.info(f"{name} collector found {len(df)} citations")
+                    # Apply relevance scoring and filtering
+                    df["stage2_score"] = df.apply(self._score_row, axis=1)
+                    original_len = len(df)
+                    
+                    # Log score distribution for debugging
+                    score_counts = df["stage2_score"].value_counts().sort_index()
+                    logger.info(f"Score distribution for {name}: {dict(score_counts)}")
+                    
+                    # Filter based on threshold
+                    df = df[df["stage2_score"] >= config.RELEVANCE_THRESHOLD]  # prune here
+                    pruned_count = original_len - len(df)
+                    
+                    # Include titles of low-scoring articles for inspection at debug level
+                    if pruned_count > 0 and logger.isEnabledFor(logging.DEBUG):
+                        pruned_df = df[df["stage2_score"] < config.RELEVANCE_THRESHOLD]
+                        for idx, row in pruned_df.head(min(5, len(pruned_df))).iterrows():
+                            title_snippet = row.get('title', '')[:50] + '...' if len(row.get('title', '')) > 50 else row.get('title', '')
+                            logger.debug(f"Pruned article: '{title_snippet}' with score {row['stage2_score']}")
+                    
+                    if not df.empty:
+                        all_citations[name] = df
+                        logger.info(f"{name} collector found {len(df)} citations after pruning {pruned_count} low-relevance results (threshold: {config.RELEVANCE_THRESHOLD})")
+                    else:
+                        logger.warning(f"{name} collector: all {original_len} results pruned due to low relevance scores (threshold: {config.RELEVANCE_THRESHOLD})")
                 else:
                     logger.warning(f"{name} collector returned no results")
             
@@ -228,6 +290,10 @@ class CompendiumTracker:
         logger.info(f"Removed {before_dedup - len(merged_df)} duplicate citations")
         logger.info(f"Final dataset contains {len(merged_df)} unique citations")
         
+        # Remove the stage2_score column if it exists
+        if "stage2_score" in merged_df.columns:
+            merged_df.drop(columns=["stage2_score"], inplace=True)
+            
         # Save pre-fulltext citations for review
         merged_df.to_csv(
             config.OUTPUT_DIR / "citations_pre_fulltext.csv",

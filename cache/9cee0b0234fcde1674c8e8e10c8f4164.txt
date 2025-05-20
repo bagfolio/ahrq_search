@@ -1,0 +1,126 @@
+Abstract
+The soybean crop is one of the most important crops worldwide. Soybean seeds are important for both protein meal and vegetable oil. The crop is grown on an estimated 6% of the world’s arable land, and since the 1970s, the area in soybean production has the highest percentage increase compared to any other major crop. Recent increases in production coincide with increases in demand for meal and oil. Soybean production was 17 million metric tons (MMT) in 1960 and increased to 230 MMT in 2008. Future soybean production is expected to increase more than other crops, due to expanded production area and higher yields. There are a number of important abiotic and biotic constraints that threaten soybean production by directly reducing seed yields and/or seed quality. Abiotic constraints include extremes in nutrients, temperatures and moisture. These may reduce production directly, but also indirectly through increases in pathogens and pests. Biotic constraints tend to be geographically and environmentally restricted. Some diseases like soybean rust may be explosive by producing copious amounts of air-borne spores. This disease, more so than most, caused great concern when first found invading soybean production areas in Brazil and the United States of America. In contrast, red leaf blotch is a disease restricted to a few countries in Africa, but deserving attention since it has not been intensely studied and adequate management strategies, such as the use of resistant varieties, are not available. Significant losses in soybean yield beyond current levels may have implications for food security because of our dependence on the soybean crop, directly and indirectly for food products. In addition, because the crop is highly nutritious and versatile it offers resources to address world food issues through current and future utilization practices. Future soybean production is expected to increase in proportion to increased demand, and with application of newer genomic technologies, the crop has enormous potential to improve dietary quality for people throughout the world whether consumed as a vegetable crop or processed into various soybean food products.
+Access this article
+Similar content being viewed by others
+Explore related subjectsDiscover the latest articles and news from researchers in related subjects, suggested using machine learning.
+References
+Ali, N. (2010). Soybean processing and utilization. In G. Singh (Ed.), The soybean (pp. 345–374). CABI.
+Azadbakht, L., Shakerhosseini, R., Atabak, S., Jamshidian, M., Mehrabi, Y., & Esmaill-Zadeh, A. (2003). Beneficiary effects of dietary soy protein on lowering plasma levels of lipid and improving kidney function in type II diabetes with nephropathy. European Journal of Clinical Nutrition, 57, 1292–1294.
+Boerema, G. H., De Gruyter, J., Noordeloos, M. E., & Hamers, M. E. C. (2004). Phoma identification manual: Differentiation of specific and infra-specific taxa in culture. CABI Publishing.
+Bonde, M. R., Nester, S. E., Austin, C. N., Stone, C. L., Frederick, R. D., Hartman, G. L., et al. (2006). Evaluation of virulence of Phakopsora pachyrhizi and P. meibomiae isolates. Plant Disease, 90, 708–716.
+Chen, Y., Ho, S. C., Lam, S. S. H., Ho, S. S. S., & Woo, J. L. F. (2003). Soy isoflavones have a favorable effect on bone loss in Chinese postmenopausal women with lower bone mass: a double-blind, randomized, controlled trial. The Journal of Clinical Endocrinology and Metabolism, 88(10), 4740–4747.
+Chung, G., & Singh, R. (2008). Broadening the genetic base of soybean: a multidisciplinary approach. Critical Reviews in Plant Sciences, 27, 295–341.
+Collinge, D., Lund, O., & Thordal-Christensen, H. (2008). What are the prospects for genetically engineered, disease resistant plants? European Journal of Plant Pathology, 121(3), 217–231.
+Cunha, W. G., Tinoco, M. L. P., Pancoti, H. L., Ribeiro, R. E., & Agagao, F. J. L. (2010). High resistance to Sclerotinia sclerotiorum in transgenic soybean plants transformed to express an oxalate decarboxylase gene. Plant Pathology, 59, 654–660.
+Cure, J. D., & Acock, B. (1986). Crop response to carbon dioxide doubling: a literature survey. Agricultural and Forest Meteorology, 38, 127–145.
+Dickman, M. (2007). Approaches for improving crop resistance to soilborne fungal diseases through biotechnology using Sclerotinia sclerotiorum as a case study. Australasian Plant Pathology, 36, 116.
+Diers, B., Kopisch-Obuch, F., Hoffman, D., Hartman, G., Pedersen, W., Grau, C., et al. (2006). Registration of AxN-1-55 soybean germplasm with partial resistance to Sclerotinia stem rot. Crop Science, 46, 1403.
+Domier, L. L., Latorre, I. J., Steinlage, T. A., McCoppin, N., & Hartman, G. L. (2003). Variability and transmission of Aphis glycines of North American and Asian soybean mosaic virus isolates. Archives of Virology, 148, 1925–1941.
+Dong, X., Ji, R., Guo, X., Foster, S., Chen, H., Dong, C., et al. (2008). Expressing a gene encoding wheat oxalate oxidase enhances resistance to Sclerotinia sclerotiorum in oilseed rape (Brassica napus). Planta, 228, 331–340.
+Eastburn, D., Degennaro, M., DeLucia, E., Dermody, O., & Mcelrone, A. (2010). Elevated atmospheric carbon dioxide and ozone alter soybean diseases at SoyFACE. Global Change Biology, 16, 320–330.
+Faber, M., & Benade, A. J. S. (2003). Integrated home-gardening and community-based growth monitoring activities to alleviate vitamin A deficiency in a rural village in South Africa. Food, Nutrition and Agriculture, 32, 24–30.
+FAO. (2010a). Global agriculture toward 2050. Rome: FAO.
+FAO. (2010b). The state of food insecurity in the world. Rome: FAO.
+Gao, X., Jackson, T. A., Hartman, G. L., & Niblack, T. L. (2006). Interactions between the soybean cyst nematode and Fusarium solani f. sp. glycines based on greenhouse factorial experiments. Phytopathology, 96, 1409–1415.
+Garcia, A., Calvo, E. S., Kiihl, R. A. D., Harada, A., Hiromoto, D. M., & Vieira, L. G. E. (2008). Molecular mapping of soybean rust (Phakopsora pachyrhizi) resistance genes: discovery of a novel locus and alleles. Theoretical and Applied Genetics, 117, 545–553.
+Goldsmith, P. (2008). Economics of soybean production, marketing, and utilization. In L. A. Johnson, P. J. White, & R. Galloway (Eds.), Soybeans: Chemistry, production, processing, and utilization (pp. 117-150). Urbana: AOCS.
+Grau, C. R., Dorrance, A. E., Bond, J., & Russin, J. S. (2004). Fungal diseases. In H. R. Boerma & J. E. Specht (Ed.), Soybeans: improvement, prodcution, and uses, 3rd edn. (pp. 679-764). Agronomy Monograph No. 16, American Society of Agronomy, Crop Science Society of America, Soil Science Society of America.
+Guo, J., Li, X., Browning, J. D., Rottingham, G. E., Lubahn, D. B., Constantinou, A., et al. (2004). Dietary soy isoflavones and strone protect ovarioectomized ERaKO and wild-type mice from carcinogen-induced colon cancer. The Journal of Nutrition, 134, 179–182.
+Guo, X., Wang, D., Gordon, S., Helliwell, E., Smith, T., Berry, S., et al. (2008). Genetic mapping of QTLs underlying partial resistance to Sclerotinia sclerotiorum in soybean PI 391589A and PI 391589B. Crop Science, 48, 1129.
+Hamilton-Reeves, J. M., Rebello, S. A., Thomas, W., Slaton, J. W., & Kurzer, M. S. (2007). Soy protein isolate increases urinary estrogens and the ratio of 2:16a-Hydroxyestrone in men at high risk off oristate cancer. The Journal of Nutrition, 137, 2258–2263.
+Hartman, G. L., & Sinclair, J. B. (1988). Dactuliochaeta, a new genus for the fungus causing red leaf blotch of soybeans. Mycologia, 80, 696–706.
+Hartman, G. L., & Sinclair, J. B. (1992). Cultural studies on Dactuliochaeta glycines, the causal agent of red leaf blotch of soybeans. Plant Disease, 76, 847–852.
+Hartman, G. L., & Sinclair, J. B. (1996). Red leaf blotch (Dactuliochaeta glycines) of soybeans (Glycine max) and its relationship to yield. Plant Pathology, 45, 332–343.
+Hartman, G. L., & Hill, C. B. (2010). Diseases of soybean and their management. In G. Singh (Ed.), The soybean (pp. 276–299). CABI.
+Hartman, G. L., Datnoff, L. E., Levy, C., & Sinclair, J. B. (1987). Red leaf blotch of soybeans. Plant Disease, 71, 113–118.
+Hartman, G. L., Wang, T. C., & Tschanz, A. T. (1991). Soybean rust development and the quantitative relationship between rust severity and soybean yield. Plant Disease, 75, 596–600.
+Hartman, G. L., Kull, L., & Huang, Y. H. (1998). Occurrence of Sclerotinia sclerotiorum in soybean fields in East-Central Illinois and enumeration of inocula in soybean seed lots. Plant Disease, 82, 560–564.
+Hartman, G. L., Sinclair, J. B., & Rupe, J. C. (Eds.). (1999). Compendium of soybean diseases (4th ed.). St. Paul: American Phytopathological Society.
+Hartman, G. L., Domier, L. L., Wax, L. M., Helm, C. G., Onstad, D. W., Shaw, J. T., et al. (2001). Occurrence and distribution of Aphis glycines on soybeans in Illinois in 2000 and its potential control. Plant Health Progess, (On-line).
+Hartman, G. L., Miles, M. R., & Frederick, R. D. (2005). Breeding for resistance to soybean rust. Plant Disease, 89, 664–666.
+Hartman, G. L., Haudenshield, J. S., Smith, K., Tooley, P., Shelton, J., Bullock, R., et al. (2009). Recovery plan for red leaf blotch of soybean caused by Phoma glycinicola.: USDA APHIS. Online at
+[http://www.ars.usda.gov/SP2UserFiles/Place/00000000/opmp/Soybean%20RLB%20FINAL%20July%202009.pdf](http://www.ars.usda.gov/SP2UserFiles/Place/00000000/opmp/Soybean%20RLB%20FINAL%20July%202009.pdf)
+Hennings, V. P. (1903). A few new Japanese Uredinaceae. Hedwigia, 42, S107–S108.
+Hill, C. B., Li, Y., & Hartman, G. L. (2004a). Resistance of Glycine species and various cultivated legumes to the soybean aphid (Homoptera: Aphididae). Journal of Economic Entomology, 97, 1071–1077.
+Hill, C. B., Li, Y., & Hartman, G. L. (2004b). Resistance to the soybean aphid in soybean germplasm. Crop Science, 44, 98–106.
+Hill, C. B., Yan, L., & Hartman, G. L. (2006). A single dominant gene for resistance to the soybean aphid in the soybean cultivar Dowling. Crop Science, 46, 1601–1605.
+Hill, C. B., Kim, K. S., Crull, L., Diers, B. W., & Hartman, G. L. (2009). Inheritance of resistance to the soybean aphid in soybean PI200538. Crop Science, 49, 1193–1200.
+Hill, C. B., Crull, L., Herman, T., Voegtlin, D. J., & Hartman, G. L. (2010). A new soybean aphid (Hemiptera: Aphididae) biotype identified. Journal of Economic Entomology, 103, 509–515.
+Hoffman, D. D., Hartman, G. L., Mueller, D. S., Leitz, R. A., Nickell, C. D., & Pedersen, W. L. (1998). Yield and seed quality of soybean cultivars infected with Sclerotinia sclerotiorum. Plant Disease, 82, 826–829.
+Hufstetler, E. V., Boerma, H. R., Carter, T. E., Jr., & Hugh, J. E. (2007). Genotypic variation for three physiological traits affecting drought tolerance in soybean. Crop Science, 47, 25–35.
+Hymowitz, T. (1970). On the domestication of the soybean. Economic Botany, 24, 408–421.
+Hymowitz, T. (2008). The history of the soybean. In L. Johnson, P. J. White, & R. Galloway (Eds.), Soybeans: chemistry, production, processing, and utilization (pp. 1–32). Urbana, IL: AOCS Press.
+Hyten, D. L., Hartman, G. L., Nelson, R. L., Frederick, R. D., Concibido, V. C., & Cregan, P. B. (2007). Map location of the Rpp 1 locus that confers resistance to Phakopsora pachyrhizi (soybean rust) in soybean. Crop Science, 47, 837–838.
+Hyten, D. L., Smith, J., Frederick, R., Tucker, M., Song, Q., & Cregan, P. (2009). Bulked segregant analysis using the GoldenGate Assay to locate the Rpp 3 locus that confers resistance to soybean rust in soybean. Crop Science, 49, 265.
+Johnson, D., & Atallah, Z. (2006). Timing fungicide applications for managing Sclerotinia stem rot of potato. Plant Disease, 90, 755–758.
+Katerji, N., van Hoorn, J. W., Hamdy, A., & Mastrorilli, M. (2003). Salinity effect on crop development and yield, analysis of salt tolerance according to several classification methods. Agricultural Water Management, 62, 37–66.
+Killgore, E., & Heu, R. (1994). First report of soybean rust in Hawaii. Plant Disease, 78, 1216.
+Kim, K. S., Hill, C. B., Hartman, G. L., Mian, M. A. R., & Diers, B. W. (2008). Discovery of soybean aphid biotypes. Crop Science, 48, 923–928.
+Kumar, V., Rani, A., & Chauhan, G. S. (1996). Nutritional value of soybean. In S. G. (Ed.), The soybean: botany, production, and uses (pp. 375–403). Cambridge, MA: CABI.
+Lal, R. (2009). Soil degradation as a reason for inadequate human nutrition. Food Security, 1, 45–57.
+Lennox, C. G. (1942). Edible soybean—a food crop for Hawaii. Hawaiin Planters Record, 46, 139–159.
+Levy, C. (2005). Epidemiology and chemical control of soybean rust in southern Africa. Plant Disease, 89, 669–674.
+Li, Y., Hill, C. B., & Hartman, G. L. (2004). Effect of three resistant soybean genotypes on the fecundity, mortality, and maturation of the soybean aphid, Aphis glycines (Homoptera: Aphididae). Journal of Economic Entomology, 97, 1106–1111.
+Li, Y., Hill, C. B., Carlson, S. R., Diers, B. W., & Hartman, G. L. (2007). Soybean aphid resistance genes in the soybean cultivars Dowling and Jackson map to linkage group M. Molecular Breeding, 19, 25–34.
+Liu, K. (2008). Food use of whole soybeans. In L. Johnson, P. J. White, & R. Galloway (Eds.), Soybeans: chemistry, production, processing, and utilization (pp. 441–482). Urbana, IL: AOCS Press.
+Lobell, D. B., & Field, C. B. (2007). Global scale climate-crop yield relationships and the impacts of recent warming. Environmental Research Letters, 2(1).
+Lu, G. (2003). Engineering Sclerotinia sclerotiorum resistance in oilseed crops. African Journal of Biotechnology, 2, 509–516.
+Maskarinec, G., Aylward, A. G., Erber, E., Takata, Y., & Kolonel, L. N. (2008). Soy intake is related to a lower body mass index in adult women. European Journal of Nutrition, 47, 138–144.
+Mendelsohn, R., Nordhaus, W. D., & Shaw, D. (1994). The impact of global warming on agriculture: a Ricardian Analysis. The American Economic Review, 84(4), 753–771.
+Meyer, D. W., & Badaruddin, M. (2001). Frost tolerance of ten seedling legume species at four growth stages. Crop Science, 41, 1838–1842.
+Miles, M., Hartman, G. L., Levy, C., & Morel, W. (2003). Current status of soybean rust control by fungicides. Pesticide Outlook, 14, 197–200.
+Miles, M., Levy, C., Morel, W., Mueller, T., Steinlage, T., van Rij, N., et al. (2007). International fungicide efficacy trials for the management of soybean rust. Plant Disease, 91, 1450–1458. doi:
+[10.1094/PDIS-91-11-1450](https://doi.org/10.1094/PDIS-91-11-1450).
+Mueller, D., Dorrance, A. E., Derksen, R., Ozkan, E., Grau, C. R., Gaska, J. M., et al. (2002). Efficacy of fungicides on Sclerotinia sclerotiorum and their potential control of Sclertoinia stem rot on soybean. Plant Disease, 86, 26–31.
+Mueller, T. A., Miles, M. R., Morel, W., Marios, J. J., Wright, D. L., Kemerait, R. C., et al. (2009). Effect of fungicide and timing of application on soybean rust severity and yield. Plant Disease, 93, 243–248.
+Murray-Kolb, L. E., Welch, R., Theil, E. C., & Beard, J. L. (2003). Women with low iron stores absorb iron from soybeans. The American Journal of Clinical Nutrition, 77, 180–184.
+Nelson, G. (2009). Climate change: impact on agriculture and costs of adaptation. Intl Food Policy Res Inst.
+Niblack, T. L., & Chen, S. (2004). Cropping systems. In D. P. Schmitt, J. A. Wrather, & R. D. Riggs (Eds.), Biology and management of the soybean cyst nematode (2nd ed., pp. 181–206). Marceline: Schmitt & Assoc.
+Niblack, T. L., & Riggs, R. D. (2004). Variation in virulence phenotypes. In D. P. Schmitt, J. A. Wrather, & R. D. Riggs (Eds.), Biology and management of soybean cyst nematode (2nd ed., pp. 57–72). Marceline: Schmitt & Associates.
+Niblack, T. L., Colgrove, A. L., Colgrove, K., & Bond, J. P. (2008). Shift in virulence of soybean cyst nematode is associated with use of resistance from PI 88788. Plant Health Progress. doi:
+[10.1094/PHP-2008-0118-01-RS](https://doi.org/10.1094/PHP-2008-0118-01-RS).
+O’Neal, M., & Johnson, K. (2010). Insect pests of soybean and their management. In G. Singh (Ed.), The soybean (pp. 300–325). CABI.
+Ono, Y., Buritica, P., & Hennen, J. F. (1992). Delimitation of Phakopsora, Physopella and Cerotelium and their species on Leguminosae. Mycological Research, 96, 825–850.
+Oosterhuis, D. M., Scott, H. D., Hampton, R. E., & Wullschleger, S. D. (1989). Physiological responses of two soybean [glycine max (L.) Merr] cultivars to short term flooding. Environmental and Experimental Botany, 30, 85–92.
+Orf, J. H. (2008). Breeding, genetics, and production of soybean. In L. Johnson, P. J. White, & R. Galloway (Eds.), Soybeans: chemistry, production, processing, and utilization (pp. 33–66). Urbana, IL: AOCS Press.
+Panthee, D. (2010). Varietal improvement in soybean. In G. Singh (Ed.), The soybean (pp. 92–112). CABI.
+Paul, C., & Hartman, G. L. (2009). Sources of soybean rust resistance challenged with single-spored isolates of Phakopsora pachyrhizi collected from the USA. Crop Science, 49, 1781–1785.
+Peralta, A. L., & Wander, M. M. (2008). Soil organic matter dynamics under soybean exposed to elevated CO2. Plant Soil, 303, 69–81.
+Pham, T. A., Miles, M. R., Frederick, R. D., Hill, C. B., & Hartman, G. L. (2009). Differential responses of resistant soybean genotypes to ten isolates of Phakopsora pachyrhizi. Plant Disease, 93, 224–228.
+Powles, S. (2010). Gene amplification delivers glyphosate-resistant weed evolution. PNAS, 107, 955–956.
+Qiu, L.-J., & Chang, R.-Z. (2010). The origin and history of soybean. In G. Singh (Ed.), The soybean (pp. 1–23). CABI.
+Raghuvansh, R., & Bisht, K. (2010). Uses of soybean: products and preperation. In G. Singh (Ed.), The soybean (pp. 404–426). CABI.
+Ragsdale, D. W., Voegtlin, D., & O’Neil, R. (2004). Soybean aphid biology in North America. Annals of the Entomological Society of America, 97, 2-4-208.
+Riggs, R. D. (2004). History and distribution. In D. P. Schmitt, J. A. Wrather, & R. D. Riggs (Eds.), Biology and management of soybean cyst nematode (2nd ed., pp. 41–56). Marceline: Schmitt & Associates.
+Rosell, M. S., Appleby, P. N., Spencer, E. A., & Key, T. J. (2004). Soy intake and blood cholesterol considerations: a cross-seccional study of 1033 pre- and postmenopausal women in the oxford arm of the European prospective investigation into cancer and nutrition. The American Journal of Clinical Nutrition, 80, 1391–1396.
+Schmitt, D. P., Barker, K. R., & Riggs, R. D. (2004). Potential means of management. In D. P. Schmitt, J. A. Wrather, & R. D. Riggs (Eds.), Biology and management of soybean cyst nematode (2nd ed., pp. 57–72). Marceline: Schmitt & Associates.
+Schmutz, J., Cannon, S., Schlueter, J., Ma, J., Mitros, T., Nelson, W., et al. (2010). Genome sequence of the palaeopolyploid soybean. Nature, 463(7278), 178–183.
+Schneider, R. W., Hollier, C. A., Whitam, H. K., Palm, M. E., McKemy, J. M., Hernandez, J. R., et al. (2005). First report of soybean rust caused by Phakopsora pachyrhizi in the continental United States. Plant Disease, 89, 774.
+Shanmugasundaram, S., & Yan, M.-R. (2010). Vegetable soybean. In G. Singh (Ed.), The soybean (pp. 427–460). CABI.
+Silva, D., Yamanaka, N., Brogin, R., Arias, C., Nepomuceno, A., Di Mauro, A., et al. (2008). Molecular mapping of two loci that confer resistance to Asian rust in soybean. Theoretical and Applied Genetics, 117, 57–63.
+Sinclair, J. B., & Shurtleff, M. C. (1975). Compendium of soybean diseases. St. Paul: The American Phytopathological Society, Inc.
+Slaminko, T. L., Miles, M. R., Frederick, R. D., Bonde, M. R., & Hartman, G. L. (2008). New legume hosts of Phakopsora pachyrhizi based on greenhouse evaluations. Plant Disease, 92, 767–771.
+Slaminko, T. L., Miles, M. R., Marios, J. J., Wright, D. L., & Hartman, G. L. (2008b). Hosts of Phakopsora pachyrhizi identified in field evaluations in Florida. Plant Health Progress, doi:
+[10.1094/PHP-2008-1103-01-RS](https://doi.org/10.1094/PHP-2008-1103-01-RS)
+Smith, D., Garrison, M., Hollowell, J., Isleib, T., & Shew, B. (2008). Evaluation of application timing and efficacy of the fungicides fluazinam and boscalid for control of Sclerotinia blight of peanut. Crop Protection, 27, 823–833.
+Soria-Guerra, R., Rosales-Mendoza, S., Chang, S., Haudenshield, J. S., Padmanaban, A., Rodriguez-Zas, S., et al. (2010). Transcriptome analysis of resistant and susceptible genotypes of Glycine tomentella during Phakopsora pachyrhizi infection reveals novel rust resistance genes. Theoretical and Applied Genetics, 120, 1315–1333.
+Strange, R. N., & Scott, P. R. (2005). Plant disease: a threat to global food security. Annual Review of Phytopathology, 43, 83–116.
+Venette, R. C., & Ragsdale, D. W. (2004). Assessing the invasion by soybean aphid (Homoptera: Aphididae): where will it end? Annals of the Entomological Society of America, 97, 219–226.
+Villegas, R., Gao, Y., Yang, G., Li, H., Elasy, T. A., Zheng, W., et al. (2008). Legume and soy food intake and the incidence of type 2 diabetes in the Shanghai Women’s Health Study. The American Journal of Clinical Nutrition, 87, 162–167.
+Vuong, T., Diers, B. W., & Hartman, G. L. (2008). Identification of QTL for resistance to Slerotinia Stem Rot (Sclerotinia sclerotiorum) in plant introduction 194639. Crop Science, 48, 2209–2214.
+Widholm, J., Finer, J., Vodkin, L., Trick, H., LaFayetter, P., Li, J., et al. (2010). Soybean. In F. Kempken & C. Jung (Eds.), Genetic modification of plants (pp. 473–498). Berlin Heideldberg: Springer-Verlag.
+Yorinori, J. T., Paiva, W. M., Frederick, R. D., Costamilan, L. M., Bertagnolli, P. F., Hartman, G. L., et al. (2005). Epidemics of soybean rust (Phakopsora pachyrhizi) in Brazil and Paraguay from 2001 to 2003. Plant Disease, 89, 675–677.
+Zhang, L., Wang, R., & Hesketh, J. D. (2001). Effects of photoperiod on growth and development of soybean floral bud in different maturity. Agronomy Journal, 93, 944–948.
+Zhao, J., Udall, J., Quijada, P., Grau, C., Meng, J., & Osborn, T. (2006). Quantitative trait loci for resistance to Sclerotinia sclerotiorum and its association with a homeologous non-reciprocal transposition in Brassica napus L. Theoretical and Applied Genetics, 112, 509–516.
+Zheng, H. F., Chen, L. D., & Han, X. Z. (2009). The effects of global warming on soybean yields in a long-term fertilization experiment in Northeast China. Journal of Agricultural Science, 147, 569–580.
+Acknowledgments
+The authors would like to thank the following agencies that provided financial support: Illinois Soybean Association, North Central Soybean Research Program, and the Richard H. and Elizabeth Hageman Endowed Graduate Research Fellowship. We also thank B. A. Bair, J. S. Haudenshield, and C. B. Hill for there contributions in providing images and/or suggestions to the manuscript.
+Rights and permissions
+About this article
+Cite this article
+Hartman, G.L., West, E.D. & Herman, T.K. Crops that feed the World 2. Soybean—worldwide production, use, and constraints caused by pathogens and pests. Food Sec. 3, 5–17 (2011). https://doi.org/10.1007/s12571-010-0108-x
+Received:
+Accepted:
+Published:
+Issue Date:
+DOI: https://doi.org/10.1007/s12571-010-0108-x

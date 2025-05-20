@@ -1,0 +1,244 @@
+Abstract
+Objectives. The purpose of this study was to compare national estimates from the National Health Interview Survey (NHIS) and the Behavioral Risk Factor Surveillance System (BRFSS).
+Methods. The authors compared data from the 2 surveys on smoking, height, weight, body mass index, diabetes, hypertension, immunization, lack of insurance coverage, cost as a barrier to medical care, and health status.
+Results. Overall national estimates were similar for 13 of the 14 measures examined. Small differences according to demographic characteristics were found for height and body mass index, with larger differences for health status.
+Conclusions. Although estimates differed within subgroups, the BRFSS provided national estimates comparable to those of the NHIS. BRFSS national data could provide rapidly available information to guide national policy and program decisions.
+The National Health Interview Survey (NHIS), which is conducted by the National Center for Health Statistics of the Centers for Disease Control and Prevention (CDC), has been the main source of national health data on the US population since the 1950s. The NHIS obtains information on a variety of health measures, including medical conditions, access to health care, and health risk factors,
+[1](#r1) and plays a pivotal role in tracking national health objectives. [2–](#r2) [4](#r4) Data are collected in a centralized manner by the US Bureau of the Census via within-household, in-person interviews. Information is obtained from a nationally representative sample of adults and children, and both self-reports and proxy data are included.
+The Behavioral Risk Factor Surveillance System (BRFSS), also conducted by the CDC, began in several states in the early 1980s and had expanded to all 50 states by 1994.
+[2,](#r2) [5](#r5) The BRFSS was designed to collect state-level risk factor data on adults for programmatic purposes such as planning, monitoring, and evaluation. [5–](#r5) [7](#r7) Data collection is the responsibility of each state health department and thus is decentralized. [5,](#r5) [7](#r7) In contrast to the NHIS, the BRFSS obtains data through telephone surveys of representative samples within each state; interviews are conducted only with adults, and no proxy data are collected.
+The NHIS and BRFSS use different modes of data collection and have different sample designs, but they have several similarities. Both are conducted throughout the year, which reduces seasonal bias, and they use similar questions for several measures. Because the BRFSS is now nationwide, it could be used in computing national estimates, but the comparability of its data with those of the NHIS is unclear. A study conducted in the mid-1980s compared pooled BRFSS estimates from selected states with NHIS national estimates for a few health measures
+[8](#r8); however, to our knowledge no comprehensive review has compared data from the 2 systems.
+The issue of comparability between these data sources is of more than academic interest. Telephone-administered surveys such as the BRFSS have substantial cost and timeliness advantages over household-administered surveys such as the NHIS,
+[9–](#r9) [12](#r12) which have the advantage of being able to collect more detailed information on a wider range of topics. Studies conducted in the 1970s and 1980s suggest that telephone and in-person interviews provide similar estimates, [9,](#r9) [13,](#r13) [14](#r14) but nonresponse rates are considerably higher in telephone surveys and increased during the 1990s. [9,](#r9) [15](#r15) Noncoverage may also be a problem in telephone surveys, especially in the case of certain racial and ethnic minority groups. [16,](#r16) [17](#r17)
+The purpose of our study was to examine the comparability of national estimates from the BRFSS with NHIS estimates for similarly worded items to allow determination of the utility of BRFSS estimates for guiding public health policy. We included items focusing on cigarette smoking, height, weight, hypertension, diabetes, lack of health insurance, cost as a barrier to medical care, and self-reported health status. In addition to overall comparisons, we examined differences in estimates between the 2 surveys by age group, gender, race/ethnicity, and education level.
+METHODS
+Survey Descriptions
+Data for this study were obtained from the 1997 versions of the NHIS and the BRFSS. Details regarding the 2 surveys have been described extensively elsewhere
+[7,](#r7) [18,](#r18) [19](#r19) and are only briefly summarized here.
+The NHIS is an annual, nationally representative household survey of the civilian noninstitutionalized population of the United States.
+[18](#r18) Interviewers from the US Bureau of the Census administer the survey in respondents’ homes. The questionnaire contains several modules; for this study, analyses were restricted to the Family Core and Sample Adult Core sections, because they contained questions similar to those included in the BRFSS in 1997.
+The NHIS uses a complex sampling design involving geographically based primary sampling units to ensure the selection of a national probability sample. Persons aged 17 years or older are eligible to be interviewed for the Family Core; in 1997, 39 832 households and 103 477 persons were interviewed for this section. (In the present study, NHIS analyses were restricted to respondents aged 18 years or older.) In the Sample Adult Core, persons aged 18 years or older are eligible for interviews, and data were obtained from 36 116 persons in 1997. The Family Core allows household respondents to provide information about others in the household (proxy data); measures from the Sample Adult Core do not allow for proxies unless the sampled individual cannot respond because of health concerns. Response rates in 1997 were 90.3% for the Family Core and 80.4% for the Sample Adult Core.
+[18](#r18)
+BRFSS data are collected each year through telephone surveys of adults aged 18 years or older conducted by health departments from all 50 states and the District of Columbia in collaboration with the CDC.
+[7,](#r7) [19](#r19) Self-reported data are obtained on health risk behaviors, receipt of clinical preventive services, and health care access; no proxy data are collected. In 1997, 28 states and the District of Columbia used a Waksberg-type sampling method, and 22 states used a listassisted method. [20](#r20)
+In 1997, there were 133 048 respondents to the BRFSS (state median sample size: 2340; range: 1505 to 4923). The median response rate, based on the number of individuals actually reached by telephone, was 76.8% (range: 62.3% to 92.7%). The more conservative response rate formula recommended by the Committee of the American Survey Research Organization
+[21](#r21) produced a median response rate of 62.5% (range: 41.3% to 88.9%). [22](#r22)
+Selection of Comparable Items and Definitions
+Our review of the content of the NHIS and BRFSS survey instruments revealed identical or similar questions regarding cigarette smoking, height, weight, medical conditions, immunizations, health care access, and health status (text of questions is available from the authors upon request). All of the NHIS measures were obtained from the Adult Sample Core with the exception of items on health care access and health status. Data on height and weight were used to calculate body mass index (BMI) according to the standard formula (kg/m2), allowing us to compare 14 measures.
+Individuals who reported smoking 100 or more cigarettes in their lifetime were classified as ever smokers, and those who had smoked 100 cigarettes in their lifetime and smoked cigarettes every day or some days were classified as current smokers. The number of cigarettes smoked per day by individuals who smoked every day or some days, as well as height and weight, were based on numeric responses to these questions. Hypertension prevalence rates, receipt of influenza and pneumococcal immunizations, and cost as a barrier to medical care were based on “yes” responses to questions addressing these areas.
+In the NHIS, diabetes prevalence estimates were based on the number of respondents who reported having either diabetes or borderline diabetes; in the BRFSS, rates reflected only those who reported having diabetes, because there was no borderline diabetes response category (gestational diabetes was excluded in both surveys). Lack of health insurance coverage was calculated according to the number of respondents who answered “no” to a question inquiring about insurance coverage. The health status measure was based on self-reporting of “fair” or “poor” health.
+Analyses
+BRFSS state data for 1997 were combined to produce national estimates, with each state treated as a separate stratum.
+[8,](#r8) [10,](#r10) [20](#r20) The method used for generating national estimates takes advantage of the fact that state samples are independent, which allowed us to treat the individual states as strata in a stratified analysis. Analyses of adult immunization data were restricted to persons aged 65 years or older, and analyses of insurance coverage were restricted to those aged 18 to 64 years. Missing and unknown responses were excluded from all estimates.
+Data from the NHIS were weighted to produce nationally representative estimates, and BRFSS state-specific population weights were summed to produce such estimates. In the case of both surveys, we used SAS (SAS Institute Inc, Cary, NC) and SUDAAN
+[23](#r23) to calculate prevalence estimates, standard errors, and 95% confidence intervals. In addition to overall estimates, we compared NHIS and BRFSS estimates according to age group (18–34, 35–54, and 55 years or above), gender, race/ethnicity (White, Black, or Hispanic), and education level (less than high school, high school or some college, or college). We calculated 2-sample t tests to determine differences between survey estimates. Because of the large number of comparisons, only those differences with 99% confidence intervals that excluded the null value were considered statistically significant. [24](#r24)
+RESULTS
+In general, the NHIS and BRFSS estimates were similar for cigarette smoking measures (Table 1
+[ ▶](#t1)). The overall estimate for current smoking was slightly higher in the NHIS than in the BRFSS, with a larger difference for Blacks (4.1 percentage points). The NHIS had higher estimates for average height for all groups than did the BRFSS, but the differences were small (Table 2 [ ▶](#t2)). In contrast, estimates for weight were almost identical. However, NHIS estimates for BMI were higher than BRFSS estimates for all groups, and this was especially the case for women (a difference of 3.3 kg/m2).
+TABLE 1—
+|Ever Smoked, %||Current Smoking, %||Average No. of Cigarettes per Day: Daily Smokers||Average No. of Cigarettes per Day: Nondaily Smokers|
+|NHIS||BRFSS||NHIS||BRFSS||NHIS||BRFSS||NHIS||BRFSS|
+|Overall||47.6 (47.0, 48.2)||46.9 (46.5, 47.4)||24.7 (24.2, 25.3)a||23.1 (22.7, 23.4)||19.1 (18.8, 19.4)a||18.6 (18.4, 18.8)||5.7 (5.4, 6.0)||5.9 (5.6, 6.1)|
+|Age, y|
+|18–34||38.1 (36.9, 39.3)||38.1 (37.3, 38.9)||28.0 (26.9, 29.1)||26.7 (26.0, 27.4)||16.6 (16.2, 17.0)||16.3 (16.0, 16.6)||5.2 (4.8, 5.6)||5.2 (4.8, 5.6)|
+|35–54||51.5 (50.5, 52.5)||50.6 (49.9, 51.3)||28.2 (27.3, 29.1)a||26.4 (25.8, 27.0)||20.8 (20.3, 21.3)a||20.0 (19.7, 20.3)||5.8 (5.3, 6.3)||6.2 (5.8, 6.6)|
+|≥ 55||53.4 (52.3, 54.5)||52.1 (51.4, 52.8)||15.8 (15.1, 16.5)||14.7 (14.2, 15.2)||19.7 (19.0, 20.4)||19.6 (19.1, 20.1)||7.0 (5.8, 8.2)||6.8 (6.1, 7.5)|
+|Gender|
+|Male||54.6 (53.7, 55.5)||53.6 (53.0, 54.2)||27.6 (26.7, 28.5)a||25.7 (25.1, 26.3)||20.7 (20.3, 21.1)a||19.9 (19.6, 20.2)||6.1 (5.6, 6.6)||6.0 (5.6, 6.4)|
+|Female||41.1 (40.3, 41.9)||40.8 (40.3, 41.3)||22.1 (21.4, 22.8)a||20.7 (20.3, 21.1)||17.2 (16.8, 17.6)||17.0 (16.8, 17.2)||5.2 (4.7, 5.7)||5.7 (5.3, 6.1)|
+|Race/ethnicity|
+|White||50.9 (50.1, 51.6)||50.0 (49.5, 51.6)||25.3 (24.6, 26.0)a||23.7 (23.3, 24.1)||20.5 (20.1, 20.8)a||19.6 (19.4, 19.8)||5.9 (5.5, 6.4)||6.3 (5.9, 6.6)|
+|Black||40.5 (38.7, 42.2)a||37.4 (36.1, 38.7)||26.8 (25.3, 28.3)a||22.7 (21.6, 23.9)||14.0 (13.3, 14.6)||13.9 (13.3, 14.6)||5.8 (5.2, 6.5)||6.2 (5.6, 6.9)|
+|Hispanic||35.4 (33.9, 36.7)||38.2 (36.5, 40.0)||20.4 (19.1, 21.6)||20.2 (18.8, 21.7)||13.0 (12.2, 13.8)||13.1 (12.2, 13.9)||4.3 (3.7, 4.9)||4.1 (3.5, 4.7)|
+|Education level|
+|Less than high school||53.7 (52.3, 55.1)||54.2 (53.0, 55.4)||30.9 (29.6, 32.2)||29.8 (28.7, 30.9)||19.7 (19.0, 20.4)||19.1 (18.6, 19.6)||5.9 (5.0, 6.8)||6.4 (5.6, 7.2)|
+|High school or some college||50.2 (49.4, 51.0)||49.5 (49.0, 50.0)||27.7 (27.0, 28.4)a||26.0 (25.5, 26.5)||19.0 (18.7, 19.3)||18.6 (17.0, 20.2)||5.9 (5.5, 6.3)||6.0 (5.6, 7.4)|
+|College||35.7 (34.5, 36.9)||37.3 (36.5, 38.1)||11.8 (11.0, 12.6)||12.8 (12.3, 13.3)||18.0 (17.1, 18.9)||17.5 (17.0, 18.0)||4.6 (4.0, 5.2)||5.1 (4.6, 5.6)|
+aSignificant difference from BRFSS, based on 99% confidence interval from the 2-sample t test not containing the null value.
+TABLE 2—
+|Mean Height, in||Mean Weight, lb||Mean Body Mass Index, kg/m2|
+|NHIS||BRFSS||NHIS||BRFSS||NHIS||BRFSS|
+|Overall||68.6 (68.5, 68.7)a||67.1 (67.0, 67.1)||166.9 (166.4, 167.4)||166.4 (166.1, 166.8)||28.3 (28.2, 28.5)a||25.9 (25.8, 26.0)|
+|Age, y|
+|18–34||69.0 (68.9, 69.1)a||68.0 (67.9, 68.1)||162.7 (161.8, 163.6)||162.2 (161.6, 162.8)||27.1 (26.8, 27.4)a||24.9 (24.1, 25.7)|
+|35–54||68.8 (68.7, 68.9)a||67.3 (67.2, 67.4)||171.0 (170.2, 171.8)||171.2 (170.7, 171.7)||29.2 (29.0, 29.4)a||26.5 (26.4, 26.6)|
+|≥ 55||67.9 (67.7, 68.1)a||66.3 (66.2, 66.4)||165.9 (165.2, 166.6)||165.0 (164.5, 165.5)||28.6 (28.3, 28.9)a||26.3 (26.2, 26.4)|
+|Gender|
+|Male||71.4 (71.3, 71.5)a||70.0 (69.9, 70.1)||185.1 (184.5, 185.7)||184.7 (184.2, 185.2)||27.9 (27.7, 28.1)a||26.5 (26.4, 26.6)|
+|Female||66.0 (65.9, 66.1)a||64.3 (64.2, 64.4)||149.7 (149.2, 150.2)||148.9 (148.5, 149.3)||28.7 (28.4, 29.0)a||25.4 (25.3, 25.5)|
+|Race/ethnicity|
+|White||68.6 (68.5, 68.7)a||67.3 (67.0, 67.4)||167.2 (166.7, 167.8)||166.7 (166.4, 167.1)||28.1 (27.9, 28.3)a||25.7 (25.5, 25.8)|
+|Black||69.0 (68.7, 69.3)a||67.0 (66.9, 67.1)||174.0 (172.7, 175.3)||174.6 (173.5, 175.6)||30.0 (29.5, 30.4)a||27.4 (27.2, 27.5)|
+|Hispanic||67.7 (67.4, 67.9)a||65.6 (65.5, 65.8)||162.4 (161.3, 163.5)||162.4 (161.2, 163.6)||29.0 (28.6, 29.5)a||26.6 (26.4, 26.7)|
+|Education level|
+|Less than high school||68.4 (68.2, 68.6)a||66.0 (65.9, 66.1)||166.4 (165.4, 167.4)||165.7 (164.7, 166.7)||28.8 (28.4, 29.2)a||26.8 (26.7, 26.9)|
+|High school or some college||68.5 (68.4, 68.6)a||67.0 (66.9, 67.1)||167.9 (167.3, 168.5)a||166.8 (166.4, 167.2)||28.4 (28.2, 28.6)a||26.0 (25.9, 26.1)|
+|College||68.8 (68.6, 69.0)a||67.8 (67.7, 67.9)||164.6 (163.7, 165.5)||166.0 (165.4, 166.6)||26.9 (26.6, 27.2)a||25.3 (25.2, 25.4)|
+aSignificant difference from BRFSS, based on 99% confidence interval from the 2-sample t test not containing the null value.
+Overall estimates for hypertension and diabetes were similar in the 2 surveys; NHIS estimates for diabetes were slightly higher for persons aged 55 years or older, men, and Whites (Table 3
+[ ▶](#t3)). Overall estimates for influenza immunizations were 2.3 percentage points lower in the NHIS, but there were no differences among subpopulations. In contrast, for immunizations against pneumococcal disease, overall estimates and estimates for women, Blacks, and Hispanics were significantly lower in the NHIS.
+TABLE 3—
+|Hypertension, %||Diabetes, %||Influenza Immunization, %a||Pneumococcal Disease Immunization, %a|
+|NHIS||BRFSS||NHIS||BRFSS||NHIS||BRFSS||NHIS||BRFSS|
+|Overall||22.9 (22.3, 23.4)||23.3 (22.9, 23.6)||6.5 (6.2, 6.8)||6.0 (5.8, 6.2)||63.2 (61.9, 64.6)b||65.5 (64.6, 66.4)||42.4 (40.9, 43.9)b||45.4 (44.4, 46.3)|
+|Age, y|
+|18–34||7.1 (5.5, 8.7)b||8.7 (8.3, 9.1)||1.8 (1.5, 2.1)||2.2 (2.0, 2.4)||. . .c||. . .c||. . .c||. . .c|
+|35–54||19.4 (18.7, 20.1)||20.6 (20.1, 21.1)||5.0 (4.6, 5.4)||4.9 (4.6, 5.2)||. . .c||. . .c||. . .c||. . .c|
+|≥ 55||46.9 (45.7, 58.1)b||43.0 (42.3, 43.7)||14.4 (13.6, 15.2)b||11.8 (11.3, 12.3)||. . .c||. . .c||. . .c||. . .c|
+|Gender|
+|Male||21.6 (20.8, 22.4)||22.1 (21.6, 22.6)||6.2 (5.8, 6.6)b||5.0 (4.7, 5.3)||64.8 (62.5, 67.1)||67.0 (65.6, 68.4)||43.0 (40.7, 45.3)||45.1 (44.0, 46.6)|
+|Female||24.0 (23.3, 24.7)||24.3 (23.8, 24.8)||6.8 (6.3, 7.3)||7.0 (6.7, 7.3)||62.1 (61.3, 62.9)||64.4 (62.8, 66.0)||41.9 (41.3, 42.5)b||45.6 (43.7, 47.5)|
+|Race/ethnicity|
+|White||23.3 (22.6, 23.9)||23.4 (23.1, 23.8)||6.1 (5.7, 6.4)b||5.4 (5.2, 5.6)||65.8 (64.4, 67.3)||67.2 (66.3, 68.1)||45.7 (44.0, 47.3)||47.3 (46.3, 48.3)|
+|Black||29.8 (28.2, 31.3)||30.8 (29.5, 32.0)||9.5 (8.4, 10.6)||8.7 (7.9, 9.4)||44.8 (40.4, 49.2)||50.2 (46.4, 53.9)||22.2 (18.5, 25.9)b||29.7 (26.1, 33.2)|
+|Hispanic||15.2 (14.0, 16.5)||16.8 (15.5, 18.1)||6.9 (5.9, 7.8)||8.1 (7.1, 9.1)||52.7 (46.7, 58.6)||57.9 (52.0, 63.8)||23.5 (19.0, 27.9)b||34.1 (28.6, 39.6)|
+|Education level|
+|Less than high school||33.1 (31.6, 34.6)||33.1 (32.0, 34.2)||12.2 (11.2, 12.2)||11.4 (10.6, 12.2)||57.9 (55.7, 60.1)||60.1 (58.3, 61.9)||36.3 (33.9, 38.7)||40.1 (39.3, 41.9)|
+|High school or some college||22.0 (21.3, 22.7)||23.1 (22.6, 23.6)||5.9 (5.5, 6.3)||5.8 (5.5, 6.1)||64.8 (62.9, 66.7)||65.9 (64.7, 67.1)||45.1 (43.2, 47.0)||46.4 (45.2, 47.6)|
+|College||17.3 (16.3, 18.3)||18.4 (17.8, 19.0)||3.7 (3.2, 4.2)||3.7 (3.4, 4.0)||70.8 (67.5, 74.1)||72.1 (70.0, 74.2)||47.4 (43.6, 51.2)||49.8 (47.5, 52.1)|
+aPersons 65 years or older.
+bSignificant difference from BRFSS, based on 99% confidence interval from the 2-sample t test not containing the null value.
+cNot applicable because analyses were restricted to persons 65 years or older.
+The NHIS and BRFSS generally produced similar estimates in regard to lack of insurance coverage (Table 4
+[ ▶](#t4)), with small differences observed for individuals aged 18 to 34 years, men, and college graduates. There were substantial differences between the surveys in terms of cost as a barrier to medical care and health status for all subgroups, with the differences especially pronounced in the case of Hispanics.
+TABLE 4—
+|No Insurance, %a||Cost as a Barrier to Medical Care, %||Fair or Poor Health Status, %|
+|NHIS||BRFSS||NHIS||BRFSS||NHIS||BRFSS|
+|Overall||17.4 (16.9, 18.0)||17.0 (16.6, 17.3)||5.7 (5.4, 6.0)b||10.7 (10.4, 11.0)||11.5 (11.1, 11.9)b||14.2 (13.9, 14.5)|
+|Age, y|
+|18–34||24.6 (23.6, 25.6)b||27.8 (27.1, 28.5)||6.4 (6.1, 6.9)b||13.9 (13.4, 14.4)||4.3 (3.9, 4.7)b||7.4 (6.9, 7.9)|
+|35–54||13.5 (12.8, 14.2)||13.5 (13.0, 14.0)||6.6 (6.1, 7.1)b||11.8 (11.4, 12.2)||9.6 (9.0, 10.2)b||11.5 (11.0, 12.0)|
+|≥ 55||10.1 (9.0, 11.2)b,c||11.7 (10.9, 12.5)c||3.7 (3.3, 4.1)b||5.7 (5.4, 6.0)||22.8 (21.9, 23.7)b||25.2 (24.6, 25.8)|
+|Gender|
+|Male||19.2 (18.4, 20.0)b||17.8 (17.2, 18.4)||5.1 (4.7, 5.5)b||8.8 (8.4, 9.2)||10.5 (9.9, 11.1)b||13.2 (12.7, 13.7)|
+|Female||15.7 (15.3, 16.1)||16.1 (15.7, 16.5)||6.3 (5.6, 7.0)b||12.4 (11.9, 12.9)||12.4 (11.9, 12.9)b||15.0 (14.6, 15.4)|
+|Race/ethnicity|
+|White||13.8 (13.2, 14.4)||13.4 (13.0, 13.8)||5.4 (5.1, 5.7)b||9.2 (8.9, 9.5)||10.6 (10.1, 11.1)b||12.5 (12.2, 12.8)|
+|Black||20.8 (19.3, 22.3)||20.2 (19.0, 21.4)||7.5 (6.7, 8.3)b||13.3 (12.4, 14.2)||17.9 (16.4, 19.4)||19.3 (18.2, 20.4)|
+|Hispanic||35.8 (33.9, 37.6)||37.6 (35.7, 39.5)||6.9 (6.3, 7.5)b||18.0 (16.6, 19.4)||12.2 (11.0, 13.4)b||22.5 (21.0, 24.0)|
+|Education level|
+|Less than high school||37.7 (35.8, 39.6)||38.7 (37.1, 40.3)||9.1 (8.2, 10.0)b||17.3 (16.4, 18.2)||26.6 (25.3, 27.9)b||35.3 (34.1, 36.5)|
+|High school or some college||17.4 (16.8, 18.0)||17.3 (16.8, 17.8)||6.0 (5.6, 6.4)b||11.2 (10.8, 11.6)||9.8 (9.3, 10.3)b||12.9 (12.5, 13.3)|
+|College||5.4 (4.8, 6.0)b||7.4 (6.9, 7.9)||2.4 (2.1, 2.7)b||6.1 (5.7, 6.5)||4.1 (3.6, 4.6)b||6.0 (5.6, 6.4)|
+aPersons aged 18–64 years.
+bSignficant difference from BRFSS, based on 99% confidence interval from the 2-sample t test not containing the null value.
+cPersons aged 55–64 years.
+DISCUSSION
+The NHIS and BRFSS provide similar overall national estimates for most of the measures we examined. Excluding cost as a barrier to medical care, overall differences between the surveys ranged from 0.4 to 3.0 percentage points or 0.2 to 2.4 units (for numeric measures). More pronounced differences were found between demographic subgroups for certain measures, including cigarette smoking among Blacks, BMI among women, receipt of pneumococcal immunizations among Hispanics and Blacks, and health status among Hispanics.
+The slightly lower smoking estimates found in the BRFSS are consistent with other studies showing that telephone surveys produce estimates 1 to 3 percentage points lower than household surveys.
+[25,](#r25) [26](#r26) This difference probably reflects higher smoking rates among persons residing in households without telephones. [16,](#r16) [27](#r27) Telephone noncoverage may partially account for the larger discrepancy between the 2 surveys in regard to smoking prevalence among Blacks, a group with lower telephone coverage than Whites. [17](#r17) The finding of similar estimates of cigarettes smoked per day confirms results from a previous study that compared household and telephone survey interview modes for this measure. [28](#r28)
+The slight but consistently higher estimates of height found in the NHIS were unexpected. As a result of concerns regarding confidentiality of respondents, beginning in 1997 the NHIS public use data file excluded individuals with heights below 59 in (150 cm) or above 76 in (193 cm) and weights below 99 lb (44 kg) or above 285 lb (128 kg), which may account for the differences between the surveys. Previous studies comparing the validity of self-reports against actual height measurements have generally revealed few differences.
+[29,](#r29) [30](#r30)
+The surveys produced almost identical estimates for average weight; however, given the exclusion from the NHIS of persons at weight extremes (1907 respondents had weight coded as unavailable), it is likely that the average weight estimates are actually higher in the NHIS than in the BRFSS. This suggests that there are mode effects for self-reported weight. Unexpectedly, average BMI estimates were more than 2 kg/m2 higher in the NHIS, despite the similar average weight and height estimates in both surveys. Unlike estimates for height and weight, BMI calculations in the NHIS included persons with extreme height and weight values, thus helping to explain the paradox of the similarities between the 2 surveys in terms of height and weight and the differences for BMI. Previous studies have shown that self-reports underestimate weight,
+[29,](#r29) [30](#r30) and data from the National Health and Nutrition Examination Survey (NHANES), which obtains measured height and weight from respondents, demonstrate that self-reports substantially underestimate BMI. [31](#r31) Thus, both the NHIS and the BRFSS are likely to substantially underestimate the extent of overweight and obesity, [31–](#r31) [34](#r34) with the underestimate for obesity being larger in the BRFSS.
+The NHIS and BRFSS estimates of hypertension were similar for the overall population and for sex, race/ethnicity, and education subgroups, with slight differences according to age; the reason for these small differences is unclear. Regardless, both the NHIS and the BRFSS are likely to underestimate hypertension prevalence, in that previous studies have shown that self-reports result in lower estimates of hypertension than do clinical data.
+[35](#r35)
+Although overall diabetes estimates were similar, NHIS estimates were higher for persons aged 55 years or older and for men. Reasons for these differences are unclear; perhaps slight variations in item wording and differences in response categories affected the comparisons. Unlike the BRFSS, the NHIS uses “doctor or other health professional” and “sugar diabetes” in the wording of the question and includes “borderline diabetes” as a response category. As with hypertension, self-reports of diabetes produce lower estimates than do clinical data.
+[36](#r36)
+Estimates for receiving an influenza immunization within the past 12 months among adults aged 65 years or older were slightly lower in the NHIS. The NHIS includes a statement regarding when influenza immunizations are generally given, whereas the BRFSS does not; this difference may have had some effect, but it appears to be small. According to the limited research available, self-reports seem to slightly overestimate receipt of influenza immunization in comparisons with health records.
+[37,](#r37) [38](#r38) Estimates for receipt of pneumococcal disease immunizations among individuals aged 65 years or older were lower in the NHIS than in the BRFSS, both overall and among women, Blacks, and Hispanics. These differences may be the result of item wording; the NHIS includes the statement “This shot is usually given only once in a person’s lifetime and is different from the flu shot,” which perhaps reduces overreporting resulting from confusion between influenza and pneumococcal immunizations. This finding highlights the way in which even minor changes in wording can affect survey findings.
+The BRFSS and the NHIS generally produced similar estimates in regard to lack of insurance coverage, despite differences in item wording and the fact that the NHIS accepts proxy and self-reports for this measure. This finding suggests that wording, mode, and proxy responses may have either had little effect on the estimates or that their effects were in opposite directions and canceled each other. NHIS estimates were lower for individuals aged 18 to 34 years and college graduates but were higher for men. Given the size of the data set, the large sample size, and the rapid availability of annual data from all states, the BRFSS could be a valuable resource for tracking insurance coverage patterns, both nationally and at the state level.
+In general, much larger overall and subpopulation differences were observed for estimates of cost as a barrier to medical care and estimates of health status. Several possibilities may help explain these differences. First, the NHIS included both self-reports and proxy reports for these measures, whereas the BRFSS relied solely on selfreports. Second, in the case of cost as a barrier to medical care, there may have been wording effects; the NHIS refers to inability to receive “medical care” because of affordability concerns, whereas the BRFSS refers to lack of ability to see “a doctor” because of cost. Whatever the reason, the NHIS and BRFSS estimates of cost as a barrier to care are far apart. As for fair or poor health status, despite identical wording, the NHIS produced lower estimates than did the BRFSS, especially for Hispanics. This result may reflect the inclusion of proxy responses in the NHIS or actual mode effects for this measure. To our knowledge, no previous studies have compared household and telephone interview estimates of health status.
+This study had several limitations. The NHIS allows for proxy respondents, whereas the BRFSS is based solely on self-reports. The BRFSS response rate was lower than that of the NHIS, which may have influenced our comparisons. Despite our efforts to locate similar questions, wording differences between the surveys in the case of items focusing on diabetes, immunizations, health insurance, and cost as a barrier to care probably affected some of our comparisons. Furthermore, although we found that the NHIS and BRFSS surveys produced similar national estimates for most of the measures we studied, comparisons of other measures or comparisons across multiple years may yield different findings. Clearly, careful review of question wording, response categories, and interview skip patterns is needed before interpreting differences between national estimates from these surveys.
+Statistical issues should be noted as well. These are both large data sets, which may have increased the likelihood of uncovering differences that were significant from a statistical, but not from a practical, perspective. On the other hand, the smaller number of respondents in certain subgroups (e.g., persons aged 65 years or older and Hispanics) may have precluded finding significant differences for other measures. Some of the differences observed between the surveys are probably due to chance. No formal adjustments were made for multiple comparisons, although we used 99% confidence intervals, rather than 95% confidence intervals, to assess statistical significance. Finally, response rates for US national surveys, including the NHIS and the BRFSS, are declining.
+[15,](#r15) [18,](#r18) [39–](#r39) [41](#r41) The effect of such declining rates on the future comparability of BRFSS and NHIS estimates is unknown.
+Despite these limitations, our findings have some important implications. BRFSS data can be combined across states to provide national estimates for certain measures and to produce estimates generally comparable to those of the NHIS, although there may be differences for subgroups. The importance of the differences in estimates between the 2 surveys will depend on the purposes and situations for which these estimates are to be used. In addition, the BRFSS could provide rapidly available data for helping guide national policy and program decisions in areas such as tobacco control, insurance coverage, and obesity. For example, although BRFSS obesity estimates are lower than those of the NHIS or NHANES, the BRFSS has provided the most timely state and national data demonstrating the worsening of US obesity trends over the past decade.
+[33,](#r33) [34](#r34) Finally, use of BRFSS data in computing national estimates for selected measures has the added benefit of improving the comparability of state and national data, in that the 2 types of estimates would be based on the same questions and mode of interview.
+Acknowledgments
+We thank the state BRFSS coordinators, Robert Croyle, Kevin Dodd, Barry Graubard, Ronaldo Iachan, Gary Kreps, Jane Schulman, and Gordon Willis, for their assistance.
+Human Participant Protection
+No protocol or institutional review board approval was needed for this study, because data were collected anonymously from a public health surveillance system in which adults voluntarily consented to telephone interviews.
+Contributors
+D. E. Nelson and E. Powell-Griner designed the study and assisted with data analysis. M. Town conducted the data analyses. M. G. Kovar assisted with the study design and data analysis. All of the authors contributed to the writing of the article.
+Peer Reviewed
+References
+-
+1.Current Estimates From the National Health Interview Survey, 1996. Hyattsville, Md: National Center for Health Statistics; 1999. DHHS publication PHS 99-1528. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/15782448/)]
+- 2.Promoting Health/Preventing Disease: Objectives for the Nation. Washington, DC: US Public Health Service; 1980.
+- 3.Healthy People 2000: National Health Promotion and Disease Prevention Objectives. Washington, DC: US Dept of Health and Human Services; 1990.
+- 4.Healthy People 2010. Washington, DC: US Dept of Health and Human Services; 2000.
+- 5.Nelson DE, Holtzman D, Waller M, Leutzinger C, Condon K. Objectives and design of the Behavioral Risk Factor Surveillance System. In: Proceedings of the 1998 American Statistical Association Section on Survey Research Methods, Dallas, Tex, August 1998. Alexandria, Va: American Statistical Association; 1998:214–218.
+-
+6.Marks J, Hogelin G, Gentry E, et al. The Behavioral Risk Factor Surveys, I: state-specific prevalence estimates of behavioral risk factors. Am J Prev Med. 1985;6:1–8. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/3870922/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Prev%20Med.&volume=6&publication_year=1985&pages=1&pmid=3870922&)]
+-
+7.Powell-Griner E, Anderson JE, Murphy W. State- and sex-specific prevalence of selected characteristics—Behavioral Risk Factor Surveillance System, 1994 and 1995. MMWR CDC Surveill Summ. 1997;46:1–31. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/9259213/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=MMWR%20CDC%20Surveill%20Summ.&volume=46&publication_year=1997&pages=1&pmid=9259213&)]
+-
+8.Gentry E, Kalsbeek W, Hogelin G, et al. The Behavioral Risk Factor Surveys, II: design, methods, and estimates from combined state data. Am J Prev Med. 1985;1:9–14. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/3870927/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Prev%20Med.&volume=1&publication_year=1985&pages=9&pmid=3870927&)]
+- 9.Groves RM, Kahn RL. Surveys by Telephone: A National Comparison With Personal Interviews. New York, NY: Academic Press Inc; 1979.
+- 10.Groves RM, Biemer PP, Lyberg LE, Massey JT, Nicholls WL, Waksberg J, eds. Telephone Survey Methodology. New York, NY: John Wiley & Sons Inc; 1988.
+-
+11.Centers for Disease Control and Prevention. Behavioral Risk Factor Surveillance System. Available at:
+[http://www.cdc.gov/nccdphp/brfss](http://www.cdc.gov/nccdphp/brfss). Accessed May 24, 2002.
+-
+12.Centers for Disease Control and Prevention. National Health Interview Survey. Available at:
+[http://www.cdc.gov/nchs/nhis.htm](http://www.cdc.gov/nchs/nhis.htm). Accessed May 24, 2002.
+-
+13.Herzog AR, Rodgers WL, Kulka RA. Interviewing older adults: a comparison of telephone and face-to-face modalities. Public Opin Q. 1983;47:405–418. [
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Public%20Opin%20Q.&volume=47&publication_year=1983&pages=405&)]
+-
+14.Herzog AR, Rodgers RL. Interviewing older adults: mode comparison using data from a face-to-face survey and telephone resurvey. Public Opin Q. 1988;52:84–99. [
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Public%20Opin%20Q.&volume=52&publication_year=1988&pages=84&)]
+- 15.Massey JT, O’Connor D, Krotki K. Response rates in random digit dialing (RDD) telephone surveys. In: Proceedings of the 1997 American Statistical Association Section on Survey Research Methods, Anaheim, Calif, August 1997. Alexandria, Va: American Statistical Association; 1997:707–712.
+- 16.Thornberry OT, Massey JT. Trends in United States telephone coverage across time and subgroups. In: Groves RM, Biemer PP, Lyberg LE, Massey JT, Nicholls WL, Waksberg J, eds. Telephone Survey Methodology. New York, NY: John Wiley & Sons Inc; 1988:25–49.
+- 17.US Bureau of the Census. Statistical Brief: Phoneless in America. Washington, DC: US Dept of Commerce, Economics and Statistics Administration; 1994.
+- 18.1997 National Health Interview Survey (NHIS) Public Use Data Release, NHIS Survey Description. Hyattsville, Md: National Center for Health Statistics; 2000.
+-
+19.Centers for Disease Control and Prevention. Behavioral Risk Factor Surveillance System technical documents and survey data. Available at:
+[http://www.cdc.gov/nccdphp/brfss/ti-docs.htm](http://www.cdc.gov/nccdphp/brfss/ti-docs.htm). Accessed May 22, 2001.
+- 20.Iachan R, Schulman J, Black R, Collins S, Ellis B. Evaluation of the Behavioral Risk Factor Surveillance System as a Source for National Estimates of Selected Health Risk Behaviors. Baltimore, Md: Battelle Inc; 1999.
+- 21.White AA. Response rate calculation in RDD telephone health surveys: current practices. In: American Statistical Association 1983 Proceedings of the Section on Survey Research Methods. Washington, DC: American Statistical Association; 1984:277–282.
+- 22.1997 Behavioral Risk Factor Surveillance System Summary Quality Control Report. Atlanta, Ga: Centers for Disease Control and Prevention; 1998.
+- 23.Shah BV, Barnwell BG, Bieler GS. SUDAAN: Software for the Statistical Analysis of Correlated Data. User’s Manual, Release 7.0. Research Triangle Park, NC: Research Triangle Institute; 1996.
+-
+24.Schenker N, Gentleman JF. On judging the significance of differences by examining the overlap between confidence intervals. Am Statistician. 2001;55:182–186. [
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20Statistician.&volume=55&publication_year=2001&pages=182&)]
+-
+25.Anda RF, Dodson DL, Williamson DF, Remington PL. Health promotion data for state health departments: telephone versus in-person survey estimates of smoking and alcohol use. Am J Health Promotion. 1989;4:32–36. [
+[DOI](https://doi.org/10.4278/0890-1171-4.1.32)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22204356/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Health%20Promotion.&volume=4&publication_year=1989&pages=32&pmid=22204356&doi=10.4278/0890-1171-4.1.32&)]
+-
+26.Arday DR, Tomar SL, Nelson DE, Merritt RK, Schooley MW, Mowery P. State smoking prevalence estimates: a comparison between the Behavioral Risk Factor Surveillance System and Current Population Surveys. Am J Public Health. 1997;87:1665–1669. [
+[DOI](https://doi.org/10.2105/ajph.87.10.1665)] [ [PMC free article](/articles/PMC1381131/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/9357350/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Public%20Health.&volume=87&publication_year=1997&pages=1665&pmid=9357350&doi=10.2105/ajph.87.10.1665&)]
+-
+27.Anderson JE, Nelson DE, Wilson RW. Telephone coverage and measurement of health risk indicators: data from the National Health Interview Survey. Am J Public Health. 1998;88:1392–1395. [
+[DOI](https://doi.org/10.2105/ajph.88.9.1392)] [ [PMC free article](/articles/PMC1509082/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/9736886/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Public%20Health.&volume=88&publication_year=1998&pages=1392&pmid=9736886&doi=10.2105/ajph.88.9.1392&)]
+-
+28.Jackson C, Jatulis DE, Fortmann SP. The Behavioral Risk Factor Survey and the Stanford Five-City Project Survey: a comparison of cardiovascular risk behavior estimates. Am J Public Health. 1992;82:412–416. [
+[DOI](https://doi.org/10.2105/ajph.82.3.412)] [ [PMC free article](/articles/PMC1694372/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/1536358/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Public%20Health.&volume=82&publication_year=1992&pages=412&pmid=1536358&doi=10.2105/ajph.82.3.412&)]
+-
+29.Najar MF, Rowland M. Anthropometric reference data and prevalence of overweight, United States, 1976–80. Vital Health Stat 11. 1987;No. 238. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/3424692/)]
+-
+30.Rowland M. Reporting bias in height and weight data. Stat Bull Metrop Insur Co. 1989;70:2–11. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/2786259/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Stat%20Bull%20Metrop%20Insur%20Co.&volume=70&publication_year=1989&pages=2&pmid=2786259&)]
+- 31.MacKay AP, Fingerhut LA, Duran CR. Health, United States, 2000 With Adolescent Chart Book. Hyattsville, Md: National Center for Health Statistics; 2000. DHHS publication 00-1232.
+-
+32.Galuska DA, Serdula M, Pamuk E, Siegel PZ, Byers T. Trends in overweight among US adults from 1987 to 1993: a multistate telephone survey. Am J Public Health. 1996;86:1729–1735. [
+[DOI](https://doi.org/10.2105/ajph.86.12.1729)] [ [PMC free article](/articles/PMC1380725/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/9003129/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Public%20Health.&volume=86&publication_year=1996&pages=1729&pmid=9003129&doi=10.2105/ajph.86.12.1729&)]
+-
+33.Mokdad AH, Serdula MK, Dietz WH, Bowman BA, Marks JS, Koplan JP. The spread of the obesity epidemic in the United States, 1991–1998. JAMA. 1999;282:1519–1522. [
+[DOI](https://doi.org/10.1001/jama.282.16.1519)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/10546690/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=JAMA.&volume=282&publication_year=1999&pages=1519&pmid=10546690&doi=10.1001/jama.282.16.1519&)]
+-
+34.Mokdad AH, Serdula MK, Dietz WH, Bowman BA, Marks JS, Koplan JP. The continuing epidemic of obesity in the United States. JAMA. 2000;284:1650–1651. [
+[DOI](https://doi.org/10.1001/jama.284.13.1650)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11015792/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=JAMA.&volume=284&publication_year=2000&pages=1650&pmid=11015792&doi=10.1001/jama.284.13.1650&)]
+-
+35.Joint National Committee. Hypertension prevalence and the status of awareness, treatment, and control in the United States: final report. Hypertension. 1985;7:456–468. [
+[DOI](https://doi.org/10.1161/01.hyp.7.3_pt_1.457)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/3997227/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Hypertension.&volume=7&publication_year=1985&pages=456&pmid=3997227&doi=10.1161/01.hyp.7.3_pt_1.457&)]
+-
+36.Kovar MG, Harris MI, Hadden WC. The scope of diabetes in the United States population. Am J Public Health. 1987;77:1549–1550. [
+[DOI](https://doi.org/10.2105/ajph.77.12.1549)] [ [PMC free article](/articles/PMC1647163/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/3674257/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Public%20Health.&volume=77&publication_year=1987&pages=1549&pmid=3674257&doi=10.2105/ajph.77.12.1549&)]
+-
+37.MacDonald R, Baken L, Nelson A, et al. Validation of self-report of influenza and pneumococcal vaccination status in elderly outpatients. Am J Prev Med. 1999;16:173–177. [
+[DOI](https://doi.org/10.1016/s0749-3797(98)00159-7)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/10198654/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Prev%20Med.&volume=16&publication_year=1999&pages=173&pmid=10198654&doi=10.1016/s0749-3797(98)00159-7&)]
+-
+38.Martin LM, Leff M, Calonge N, et al. Validation of self-reported chronic disease and health services data in a managed care population. Am J Prev Med. 2000;18:215–218. [
+[DOI](https://doi.org/10.1016/s0749-3797(99)00158-0)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/10722987/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Prev%20Med.&volume=18&publication_year=2000&pages=215&pmid=10722987&doi=10.1016/s0749-3797(99)00158-0&)]
+- 39.1991 Behavioral Risk Factor Surveillance System Quality Control Report. Atlanta, Ga: Centers for Disease Control and Prevention; 1992.
+- 40.1999 Behavioral Risk Factor Surveillance System Quality Control Report. Atlanta, Ga: Centers for Disease Control and Prevention; 2000.
+-
+41.Adams PF, Benson V. Current Estimates From the National Health Interview Survey, 1991. Hyattsville, Md: National Center for Health Statistics; 1992. DHHS publication PHS 93-1512. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/1471337/)]

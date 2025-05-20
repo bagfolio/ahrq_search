@@ -1,0 +1,14 @@
+Europe PMC requires Javascript to function effectively.
+Either your web browser doesn't support Javascript or it is currently turned off. In the latter case, please
+turn on Javascript support in your web browser and reload this page.
+Follow us
+Europe PMC is developed by
+EMBL-EBI with support from the
+Europe PMC Funders' Group, in collaboration with the
+National Library of Medicine (NLM), as part of the
+PubMed Central International
+archive network.
+Europe PMC is an
+ELIXIR Core Data Resource,
+Global Core Biodata Resource, and conforms with
+EMBL-EBI’s long term data preservation policies.

@@ -1,0 +1,38 @@
+Abstract
+This chapter describes some successful terminological systems. It is not possible to describe all terminological efforts as there are too many; however, I will cover examples of the most commonly employed types of software that are used to build, maintain, distribute, use, or employ terminological systems. Some categories are so large that I will provide multiple examples. We have used some of the publically available materials and statements regarding the descriptions of vended systems used as examples of types of terminological systems in this chapter. The categories and systems that will be discussed in their historical order of appearance are:
+Access this chapter
+Subscribe and save
+[Subscribe now](https://link.springer.com/product/springer-plus)
+Buy Now
+Tax calculation will be finalised at checkout
+Purchases are for personal use only
+Similar content being viewed by others
+References
+Musen MA, Gennari JH, Eriksson H, Tu SW, Puerta AR. PROTEGE-II: computer support for development of intelligent systems from libraries of components. Medinfo. 1995;8(Pt 1):766–70.
+Friedman C. A broad-coverage natural language processing system. Proc AMIA Symp. 2000:270–4.
+Joint Commission on Accreditation of Healthcare Organizations. 2005–2006 Standards for ambulatory care. Oakbrook Terrace: JCAHO; 2005.
+Weed L. The problem-oriented record-its organizing principles and its structure. League Exch. 1975;103:3–6.
+Elkin PL, Brown SH, Husser CS, Bauer BA, Wahner-Roedler D, Rosenbloom ST, Speroff T. Evaluation of the content coverage of SNOMED CT: ability of SNOMED clinical terms to represent clinical problem lists. Mayo Clin Proc. 2006;81(6):741–8.
+Brown SH, Speroff T, Fielstein EM, Bauer BA, Wahner-Roedler DL, Greevy R, Elkin PL. eQuality: Automatic assessment from narrative clinical reports. Mayo Clin Proc. 2006;81(11):1472–81.
+Brown SH, Elkin PL, Fielstein E, Speroff T. eQuality for all – extending automated quality measurement from free text. AMIA Annu Symp Proc. 2008;6:71–5.
+Aronson AR, Lang FM. An Overview of MetaMap: Historical Perspectives and recent advances. J Am Med Inform Assoc. 2010;17:229–36.
+Chapman WW, Bridewell W, Hanbury P, Cooper GF, Buchanan BG. A simple algorithm for identifying negated findings and diseases in discharge summaries. J Biomed Inform. 2001;34(5):301–10.
+Elkin PL, Tuttle M, Trusko B, Brown SH. Bioprospecting: Novel marker discover obtained from the bibleome. BMC Bioinformatics. 2009;10 Suppl 2:S9.
+Elkin PL, Trusko BE, Koppel R, Speroff T, Mohrer D, Sakji S, Gurewitz I, Tuttle M, Brown SH. Secondary use of clinical data. Stud Health Technol Inform. 2010;155:14–29.
+Elkin PL, Carter JS, Nabar M, Tuttle M, Lincoln M, Brown SH. Drug knowledge expressed as computable semantic triples. Stud Health Technol Inform. 2011;166:38–47.
+Editor information
+Editors and Affiliations
+Rights and permissions
+Copyright information
+© 2012 Springer-Verlag London
+About this chapter
+Cite this chapter
+Elkin, P.L., Tuttle, M.S. (2012). Terminological Systems. In: Elkin, P. (eds) Terminology and Terminological Systems. Health Informatics. Springer, London. https://doi.org/10.1007/978-1-4471-2816-8_9
+Download citation
+DOI: https://doi.org/10.1007/978-1-4471-2816-8_9
+Published:
+Publisher Name: Springer, London
+Print ISBN: 978-1-4471-2815-1
+Online ISBN: 978-1-4471-2816-8
+eBook Packages:
+[Medicine](/search?facet-content-type=%22Book%22&package=11650&facet-start-year=2012&facet-end-year=2012) [Medicine (R0)](/search?facet-content-type=%22Book%22&package=43714&facet-start-year=2012&facet-end-year=2012)

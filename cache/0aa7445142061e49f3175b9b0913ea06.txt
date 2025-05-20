@@ -1,0 +1,436 @@
+Abstract
+Objectives. The Centers for Disease Control and Prevention’s HIV/AIDS Prevention Research Synthesis Team conducted a systematic review of US-based HIV behavioral intervention research literature from 2000 through 2004 to identify interventions demonstrating best evidence of efficacy for reducing HIV risk.
+Methods. Standard systematic review methods were used. Each eligible study was reviewed on the basis of Prevention Research Synthesis Team efficacy criteria that focused on 3 domains: study design, implementation and analysis, and strength of evidence.
+Results. Eighteen interventions met the criteria for best evidence. Four targeted HIV-positive individuals. Of those targeting populations at risk for HIV, 4 targeted drug users, 6 targeted adults at risk because of heterosexual behaviors only, 2 targeted men who have sex with men, and 2 targeted youths at high risk. Eight interventions focused on women, and 13 had study samples with more than 50% minority participants. Significant intervention effects included increased condom use and reductions in unprotected sexual intercourse, number of sexual partners, injection drug use or needle sharing, and newly acquired sexually transmitted infections.
+Conclusions. Most of the best-evidence interventions are directly applicable for populations in greatest need of effective prevention programs; however, important gaps still exist.
+The United States continues to experience steady increases in the estimated numbers of persons living with HIV/AIDS and relatively stable overall trends in HIV diagnoses.
+[1](#r1), [2](#r2) Given the challenges of further reducing HIV infection rates and developing an effective vaccine, [3](#r3), [4](#r4) it is critical to focus on behavioral prevention efforts that are based on the best available scientific evidence. The Institute of Medicine has called for evidence-based deci-sionmaking across all public health sectors [5](#r5) and recommends that HIV-prevention efforts utilize interventions of proven efficacy to avert as many new infections as possible. [6](#r6) In accordance with the Institute of Medicine, the Centers for Disease Control and Prevention (CDC) emphasizes evidence-based behavioral interventions as part of its national HIV-prevention strategic plan and recommends that health departments [7](#r7), [8](#r8) and community-based organizations [9](#r9) implement evidence-based behavioral interventions.
+Given the vast amount and heterogeneity of scientific literature available, identifying evidence-based behavioral interventions is a daunting task. The complexity and variation in study designs, evaluation methods, analytic approaches, and data reporting make it extremely difficult to assess the quality of, and interpret the findings from, an evaluation study. As a result, an entire area of research has focused on reviewing the quality of individual studies and grading the totality of the scientific evidence for decisionmaking.
+[10](#r10)– [15](#r15) Therefore, it is unrealistic to expect all HIV-prevention providers to be able to critically evaluate the literature and accurately identify interventions with proven efficacy. For this reason, the identification of evidence-based behavioral interventions would serve as a valuable resource for those responsible for developing national, state, and local HIV prevention plans.
+Many investigators have performed quantitative systematic reviews, including meta-analyses, to estimate the overall effectiveness of subsets of HIV interventions
+[16](#r16)– [23](#r23) or qualitative systematic reviews to identify effective strategies within a particular subgroup of individuals. [24](#r24)– [27](#r27) To our knowledge, none has sought to systematically review the literature across all populations to identify each HIV behavioral intervention that met rigorous scientific criteria and demonstrated efficacy. The CDC’s HIV/AIDS Prevention Research Synthesis (PRS) Team developed such a process, which utilized standard systematic review methods. [28](#r28), [29](#r29) The evidence-based interventions identified in the first PRS review from 1988 to 1996 were published in the Compendium of HIV Prevention Interventions With Evidence of Effectiveness. [30](#r30) This Compendium was later updated to include proven interventions published up to 2000. [31](#r31)
+The selection criteria used in the Compendium
+[30](#r30), [31](#r31) reflected the state of the science at that time, and neither the criteria nor the findings have been updated in several years. In an effort to update previous work and focus on the most relevant scientific evidence reflecting the current state of the HIV epidemic, the PRS Team conducted a systematic review of the US-based HIV behavioral intervention research literature from 2000 through 2004. The purpose of our review was to help CDC’s HIV-prevention partners with their strategic planning process by evaluating the quality of scientific evidence from each intervention study and identifying specific behavioral interventions that have demonstrated the best scientific evidence of efficacy (best-evidence interventions) in reducing HIV-related risk behaviors, sexually transmitted disease (STD), or HIV incidence.
+METHODS
+Search Strategy
+The PRS Team developed a cumulative database of HIV/AIDS and STD behavioral prevention research literature through a comprehensive systematic search strategy, including automated and manual search components. The automated search is conducted annually in 4 electronic databases (EMBASE, MEDLINE, PsycINFO, and SocioFile, including AIDSLINE before December 2000) and was most recently conducted for our review in November 2004.
+[32](#r32)– [35](#r35)
+Manual searches were conducted biannually to identify articles not yet indexed, with the most recent search for our review occurring in January 2005. Members of the PRS Team screened all issues published within the most recent 6 months of 32 prespecified journals to locate relevant reports. The PRS Team also examined the reference lists, screened HIV/AIDS e-mail discussion lists, and reviewed unpublished manuscripts submitted to the team by study authors.
+Eligibility of Citations
+The citation inclusion criteria are available as a supplement to the online version of this article. Citations included in our review must have focused on outcome evaluations of HIV/ AIDS or STD behavioral interventions conducted in the United States or its territories and must be published or accepted for publication between 2000 and 2004. In addition, eligible citations had to present data for relevant biological measures, HIV-testing behavior, or sexual or drug-injection behaviors that directly impact the risk of HIV transmission.
+Our review focused only on behavioral interventions delivered to the individual or small group. Interventions delivered to the entire community, or a segment of a community, are typically evaluated using serial cross-sectional samples (unlinked over time). Because many of the criteria used in our review to determine best evidence of efficacy are not applicable to this type of evaluation design, interventions delivered to the community were excluded (n = 10) and will be evaluated in a separate review.
+For our review, particular attention was given to behavioral interventions or prevention activities supported by CDC HIV-prevention funds for which national guidelines or recommendations do not already exist. Because substance-abuse treatment and needle-exchange programs are not supported by CDC HIV-prevention funds and our review was to help CDC’s HIV-prevention partners, those programs were not included. These strategies were shown to be effective in previous reviews and, thus, should be considered in comprehensive prevention programs.
+[36](#r36), [37](#r37) Interventions that strictly address HIV testing or partner counseling and referral services were not included because the CDC already requires all grantees to conduct these programs on the basis of existing CDC guidelines. [38](#r38)– [40](#r40) Interventions explicitly targeting school-based youths were not included in our review because the CDC’s Division of Adolescent and School Health focuses on evidence-based recommendations for school-based HIV-prevention programs. [41](#r41)– [43](#r43) In addition, policy interventions (e.g., changing pharmacy or HIV name reporting laws) were not considered because they are not readily implemented by health departments, community-based organizations, or other prevention providers.
+Efficacy Criteria for Best Evidence
+The criteria developed for our review were based on a thorough PRS review of the literature
+[44](#r44) and repeated consultations with methodology experts and behavioral intervention research scientists. The resulting efficacy criteria focus on several aspects of a study: quality of study design, quality of implementation and analysis, and strength of evidence. For an intervention to be determined as providing best evidence of efficacy, each of the criteria must be met (available as a supplement to the online version of this article). More detailed rationale for the criteria are provided elsewhere. [45](#r45)
+First, a clear description of the intervention was required in order to understand what was being tested. A member of the PRS Team contacted the first author to request formal documentation (e.g., intervention manuals) that would provide more details than a publication. The criteria for quality of study design included a prospective design, an appropriate and concurrent comparison arm, and assignment to study arms either by randomization or a method with minimal bias. For quality of study implementation, the criteria included assessing the outcome(s) at least 3 months after the intervention while retaining at least 70% of enrolled participants in each arm. The criteria for quality of analysis included the performance of appropriate cluster-level analyses when assignment was done at the cluster level, the analysis of participants in study arms as originally assigned, and the analysis of participants regardless of intervention exposure.
+To meet the strength of evidence criteria, a study must have demonstrated significant positive evidence and no significant negative evidence for the intervention in reducing HIV risk. The statistically significant (P ≤ .05) and positive intervention effect had to be evident for at least 1 relevant outcome measure, at least 3 months postintervention, and with a minimum retention rate of 70% for both study arms. Finally, the evaluation study could not be based on fewer than 50 participants per arm nor exhibit any additional limitations considered to be a fatal flaw.
+Qualitative Data Coding
+For each eligible citation, linked citations reporting on a single study were identified. Pairs of trained content analysts independently coded the efficacy criteria for each eligible study, including all linked citations. All discrepancies were reconciled. The first author was contacted to provide missing data or clarifications as needed. Final efficacy determination for each study was reached by PRS group consensus.
+RESULTS
+By the end of January 2005, the comprehensive search strategy identified 100 unique studies that were eligible for this efficacy review (Figure 1
+[ ▶](#f1)). Of these studies, 18 behavioral interventions (18%) were identified as best evidence, [46](#r46)– [76](#r76) which means they were determined to have sufficient quality and strength of evidence to infer a significant effect on reducing HIV risk. The study population and intervention characteristics of the 18 interventions are described in Tables 1 [ ▶](#t1) and 2 [ ▶](#t2), respectively. Table 3 [ ▶](#t3) provides the contact information for intervention materials or technical assistance.
+TABLE 1—
+|Race, %|
+|Author, Year||Target Populationa,b||Target Group||No.c||Gender, % Male/Female||African American||Hispanic||White||Other||Asian/Pacific Islander||American Indian/ Alaska Native||Mean Age (Range)|
+|Baker, 2003
+|[47](#r47) [48](#r48) [49](#r49) [50](#r50)– [52](#r52) [53](#r53)– [55](#r55) [56](#r56)– [58](#r58) [59](#r59) [60](#r60), [61](#r61) [62](#r62) [63](#r63) [64](#r64) [65](#r65), [66](#r66) [67](#r67)– [70](#r70) [71](#r71) [72](#r72) [73](#r73), [74](#r74) [75](#r75), [76](#r76)
+Notes. MSM = men who have sex with men; HIV– = HIV-negative; HIV+ = HIV-positive; STD = sexually transmitted disease; IDU = injection drug using; NR = not reported. Additional information about the efficacy review and the interventions identified can be found at http://www.cdc.gov/hiv/topics/research/prs/index.htm.
+aBaseline sample, some information obtained from authors.
+bAs specified by author.
+cStudy sample at assignment or enrollment (many include more than 2 study arms).
+dEligibility criteria.
+eCouples.
+fPercentages based on all subjects; 6% includes White, Asian/Pacific Islander, and other.
+TABLE 2—
+|Author, Year||Intervention Namea,b||Target Group||Type of Setting||Unit of Delivery||Deliverer||No. of Sessions||Total Time, Hours||Intervention Effectsc|
+|Baker, 2003
+|[47](#r47) [48](#r48) [49](#r49) [50](#r50)– [52](#r52) [53](#r53)– [55](#r55) [56](#r56)– [58](#r58) [59](#r59) [60](#r60), [61](#r61) [62](#r62) [63](#r63) [64](#r64) [65](#r65), [66](#r66) [67](#r67)– [70](#r70) [71](#r71) [72](#r72) [73](#r73), [74](#r74) [75](#r75), [76](#r76)
+Notes. NR = not reported; ↓ = decrease in or lower levels of; ↑ = increase in or greater levels of; STD = sexually transmitted disease; UVI = unprotected vaginal intercourse; MSM = men who have sex with men; HIV C&T = HIV/AIDS counseling and testing; UAI = unprotected anal intercourse; VI = vaginal intercourse; AI = anal intercourse; URAI = unprotected receptive anal intercourse; HIV+ = HIV-positive; IDU = injection drug use; HIV– = HIV-negative. Additional information about the efficacy review and the interventions identified can be found at http://www.cdc.gov/hiv/topics/research/prs/index.htm.
+a Some information obtained from personal correspondence with authors.
+b Acronym for intervention name was used as reported or as obtained from author; if not, a short description or study name was used.
+c Statistically significant intervention effects on relevant outcome measures as compared with the control or standard of care comparison group.
+d The Personalized Cognitive Risk-Reduction Counseling plus diary intervention was also found to be efficacious, but was not shown to be more efficacious than the Personalized Cognitive Risk-Reduction Counseling intervention.
+e This intervention was found to be effective only after 1 maintenance session (12 months after baseline) and after 2 maintenance sessions (18 months after baseline); both findings were 3 months after maintenance session.
+f Non-HIV+ refers to those individuals who are not known to be HIV-positive (they could be HIV-negative or not know their HIV status).
+g SAFE enhanced was also found to be efficacious, but was not shown to be more efficacious than SAFE standard.
+h The intervention with the boosters was found to have insufficient evidence of efficacy.
+TABLE 3—
+|Author, Year||Intervention Namea||Contact Informationb|
+|Baker, 2003
+|[47](#r47) [48](#r48) [49](#r49) [50](#r50)– [52](#r52) [53](#r53)– [55](#r55) [56](#r56)– [58](#r58) [59](#r59) [60](#r60), [61](#r61) [62](#r62) [63](#r63) [64](#r64) [65](#r65), [66](#r66) [67](#r67)– [70](#r70) [71](#r71) [72](#r72) [73](#r73), [74](#r74) [75](#r75), [76](#r76)
+Note. CDC = Centers for Disease Control and Prevention. Additional information about the efficacy review and the interventions identified can be found at http://www.cdc.gov/hiv/topics/research/prs/index.htm.
+aIf intervention name was not reported or obtained from author, a short description or study name was used.
+bIdentifying an intervention as having best evidence for efficacy does not necessarily mean it should be packaged and disseminated.
+Population Characteristics
+Among the target groups (Table 1
+[ ▶](#t1)), which are not mutually exclusive, the majority (n = 9) of the best-evidence interventions targeted heterosexual adults. Five interventions targeted drug users, 4 targeted HIV-positive individuals, and 3 targeted high-risk youths. Three targeted men who have sex with men (MSM) and included both gay- and non–gay-identified, predominantly older White men.
+Thirteen of the 18 best-evidence interventions had study samples consisting of greater than 50% minority participants (range, 58%–100%). Four of these included only African Americans
+[48](#r48), [67](#r67)– [71](#r71), [75](#r75), [76](#r76); 1 included only Hispanics [63](#r63); and 1 included only African Americans and Hispanics. [65](#r65), [66](#r66) The 5 interventions comprised mostly of White participants had study samples with sizeable proportions of minority participants (range, 26% to 49%).
+Overall, 8 interventions focused exclusively on women or adolescent females,
+[46](#r46), [48](#r48), [50](#r50)– [52](#r52), [59](#r59), [65](#r65)– [72](#r72) and another intervention targeted women in relationships while including their male partners in the study sample (i.e., 50% women). [53](#r53)– [55](#r55) Of the 9 interventions for women, 8 included mostly minority women (range, 58%–100%). [48](#r48), [50](#r50)– [55](#r55), [59](#r59), [65](#r65)– [72](#r72) All 5 interventions that targeted drug users included mostly minority participants (range, 77%–100%), with 2 interventions focusing exclusively on African American women [67](#r67)– [71](#r71) and 1 focusing exclusively on Hispanic drug injectors. [63](#r63) Of the 3 interventions targeting high-risk youths, [48](#r48), [64](#r64), [75](#r75), [76](#r76) 2 targeted African American youths. [48](#r48), [75](#r75), [76](#r76)
+Of the 4 interventions that targeted persons living with HIV, 1 focused on sexually active women, 2 focused on both males and females and also included large proportions of gay or bisexual men, and 1 targeted MSM.
+[60](#r60), [61](#r61), [64](#r64), [72](#r72)– [74](#r74) All 4 of these interventions for persons living with HIV included large proportions of minorities (range, 49%–85%).
+All interventions were evaluated in urban geographical areas, except 1 intervention for drug users was implemented among residents of a semirural community in Puerto Rico.
+[63](#r63) Most of the interventions were evaluated among participants with relatively low socioeconomic status. Nine of the 10 reporting unemployment status consisted of mostly unemployed participants. [46](#r46), [47](#r47), [53](#r53)– [55](#r55), [59](#r59), [62](#r62), [67](#r67)– [74](#r74) An additional 4 studies provided information regarding income or public housing that indicated participants were of low socioeconomic status. [50](#r50)– [52](#r52), [60](#r60), [61](#r61), [65](#r65), [66](#r66), [75](#r75), [76](#r76)
+Intervention Characteristics
+All best-evidence interventions relied on at least 1 behavioral change theory or model, with the most common being Social Cognitive Theory (n = 7), Social Learning Theory (n = 4), AIDS Risk Reduction Model (n = 3), Information-Motivation-Behavior Model (n = 3), and the Theory of Gender and Power (n = 3) (not mutually exclusive). As shown in Table 2
+[ ▶](#t2), the most frequent intervention settings were research sites (n = 8), community or public areas (n = 5), health care clinics (n = 4), HIV or STD service clinics (n = 3), and community-based agencies (n = 3). The most commonly reported types of staff delivering the interventions were nonpeer “facilitator” or “group leader” (n = 7), peer (n = 6), counselor (n = 4), or therapist (n = 3) and they matched the target population on gender, race/ethnicity, HIV-seropositivity, or drug use for 12 of the interventions.
+The duration of the interventions varied, with 2 delivered in 1 to 3 sessions, 8 delivered in 4 to 6 sessions, and 8 delivered in more than 6 sessions (Table 2
+[ ▶](#t2)). Three interventions provided services on repeated occasions (e.g., case management) [56](#r56)– [58](#r58), [63](#r63), [65](#r65), [66](#r66) and 2 provided booster or maintenance sessions. [50](#r50)– [52](#r52), [56](#r56)– [58](#r58) The total amount of intended intervention exposure ranged from 1 to 32 hours, with most interventions having a moderate length, ranging from 9 to 18 hours. The 3 that provided repeated services were probably moderate in length although total exposure time was not reported.
+Although the content of these interventions differed, most interventions included skill building: technical (e.g., condom use), personal (e.g., relaxation), or interpersonal (e.g., communication). Live demonstrations or the opportunity to practice the application of male condoms was provided in 14 interventions; 4 of these included female condoms as well. Ten interventions included personal skills building components for decisionmaking or problem solving. Six interventions, 3 of which targeted persons who are HIV-positive, included components for stress reduction, stress management, or relaxation. Communication skills, such as negotiation or assertiveness for safer sex, were demonstrated, practiced, or role-played in 13 interventions. In addition, 16 interventions involved the development of plans or setting goals for risk reduction, and 9 addressed the identification and management of triggers for risky sex. Five interventions explicitly encouraged social or group support for participants. Finally, the 2 interventions that targeted African American youths included a sexual abstinence component within the broader framework of a more comprehensive risk-reduction message.
+[48](#r48), [75](#r75), [76](#r76)
+Effects of the Interventions
+The majority of the significant intervention effects corresponded to the reduction of unprotected sexual intercourse (n = 12 studies). The 3 interventions that targeted MSM significantly reduced any unprotected anal intercourse or unprotected receptive anal intercourse. Although not all behaviors were assessed in every study, other significant intervention effects reported were increased condom use (n = 8), reduced number of sexual partners (n = 3), and reduced injection drug use or needle-sharing behavior (n = 3). All 5 interventions for drug users targeted sex-related risk behaviors; 4 were successful in reducing those behaviors.
+[62](#r62), [64](#r64), [67](#r67)– [71](#r71) Three of the 5 interventions for drug users targeted and successfully reduced injection-related risk behaviors. [62](#r62), [63](#r63), [67](#r67)– [70](#r70)
+Significant intervention effects on behaviors were identified over a range of follow-up times, from 3 to 12 months after the intervention. Four interventions were identified as having produced a significant reduction in new STDs over a minimum of 12 months after exposure to the intervention. The intervention that measured HIV incidence did not significantly reduce the number of new infections.
+[56](#r56)– [58](#r58)
+DISCUSSION
+Our review identified 18 behavioral interventions, reported from 2000 through 2004, with the best evidence of efficacy in reducing HIV risk. Most importantly, many of these newly identified efficacious interventions targeted populations disproportionately affected by the HIV/AIDS epidemic and in need of effective prevention tools. There are 6 newly identified best-evidence interventions that are directly applicable for African American or Hispanic heterosexual women at risk for HIV infection
+[50](#r50)– [55](#r55), [59](#r59), [65](#r65)– [71](#r71) and 2 directly applicable for African American youths at high risk. [48](#r48), [75](#r75), [76](#r76) Three best-evidence interventions are appropriate for minority injection drug users [62](#r62), [63](#r63), [67](#r67)– [70](#r70); 1 directly applicable for injection drug–using women. [67](#r67)– [70](#r70) In alignment with 1 of the key strategies of the CDC’s Advancing HIV Prevention Initiative, [77](#r77) 4 best-evidence interventions for persons living with HIV were identified. [60](#r60), [61](#r61), [64](#r64), [72](#r72)– [74](#r74)
+This set of best-evidence interventions can serve as an important resource for the development of HIV-prevention strategic plans at the national, state, and local levels. Providers of HIV prevention can use the findings of our review to select evidence-based intervention(s) best suited for their community’s needs. To remain a valuable resource to all HIV-prevention providers, our review must be updated frequently to incorporate new scientific evidence. The PRS Team continually updates its database system and plans to report on the updated efficacy findings annually.
+Research Gaps
+Although it is encouraging that many efficacious interventions identified in our review target important populations, several gaps still remain. Some of the populations hardest hit by the HIV/AIDS epidemic or at greatest risk of infection or transmission were not represented. These populations include African American, Hispanic, and other MSM of color
+[2](#r2), [78](#r78)– [81](#r81); young MSM, particularly young African American and Hispanic MSM [81](#r81)– [84](#r84); substance-using MSM [85](#r85)– [87](#r87); transgender persons [87](#r87)– [90](#r90); HIV-positive intravenous drug users [91](#r91); and rural populations. [92](#r92) The identification of effective intervention approaches with these populations should be accorded the highest priority in future research.
+Future research should also focus on broadening the applicability of already proven interventions through assessing their generalizability, studying their effectiveness, and adapting them when necessary. Within our review, the interventions were identified as efficacious after being evaluated with a particular target population, in a particular setting, and often within a single site. It is unclear whether these findings would extend beyond the particular target population or setting used in the original research. Additional research should be conducted to determine whether these efficacious interventions work among other high-risk groups or in settings not represented in the original study.
+Related to generalizability is the issue of effectiveness. These interventions were evaluated in relatively rigorous and controlled research environments, which typically do not reflect real-world circumstances. An efficacious intervention does not necessarily translate into an effective real-world program; it also depends on other factors such as the quality of program implementation, availability, and acceptance.
+[93](#r93)– [96](#r96) The extent to which these proven interventions will work once translated into practice has yet to be systematically evaluated. In addition, interventions often need to be adapted to address different social, cultural, or contextual factors of various settings and populations as a way to fulfill unmet prevention needs until additional evidence is available. Although the adaptation of a proven intervention may have a better chance of being effective than the implementation of a newly developed and untested intervention, rigorous effectiveness studies would help evaluate this. Thus, targeted research is needed to determine ways to improve an intervention’s effectiveness in real-world settings, particularly when it has been adapted.
+Implications for Prevention
+This efficacy review is intended to serve as a resource through its identification of evidence-based behavioral interventions that should be considered for use in HIV-prevention efforts. It is not meant to guide intervention implementation once an intervention has been chosen. Many aspects of the intervention that are not provided here (e.g., intervention manuals) are necessary for translating these interventions into practice. Two CDC projects—Replicating Effective Programs
+[97](#r97) and Diffusion of Effective Behavioral Interventions [94](#r94)—were initiated to help prevention providers with translating research into practice by packaging and disseminating evidence-based behavioral interventions. Six interventions identified in our review have completed this process [60](#r60), [61](#r61) or are currently going through this process and will soon be disseminated [48](#r48), [63](#r63), [64](#r64), [72](#r72), [75](#r75), [76](#r76) (Table 3 [ ▶](#t3)). The remaining interventions will be considered by these 2 CDC projects for future packaging and dissemination.
+Limitations
+It is worthwhile to note that several interventions considered in our review narrowly missed the best-evidence criteria for reasons such as group retention rates slightly lower than 70% or follow-up time less than 3 months after the intervention.
+[99](#r99)– [109](#r109) These interventions, which consisted of innovative approaches or targeted high-risk groups, are promising and should be considered for more rigorous evaluations in the future to definitively determine efficacy. Although it is important to acknowledge that the community-level interventions excluded from our review may be efficacious, they will be evaluated in a separate review that utilizes criteria more suitable for community-level studies. [95](#r95) In addition, other efficacious interventions may exist that were not adequately evaluated (e.g., no comparison arm) or that have not yet been evaluated. Until these interventions are rigorously evaluated, evidence for causality is lacking.
+Our review did not attempt to rank the interventions or their evaluations, which clearly vary in terms of the type and complexity of intervention, study quality, and magnitude, significance, and consistency of findings. Some interventions, for example, led to long-term reductions in several risk behaviors, whereas others produced short-term reductions that were not maintained over time. All of these best-evidence interventions met the minimal PRS criteria for scientific evidence of efficacy; however, some may be more appropriate, feasible, effective, or sustainable in real-world settings than others. In addition, our review did not assess cost-effectiveness. Future studies on the cost-effectiveness and potential cost-saving of each of these interventions would contribute to the understanding of their potential public health impact. Consideration of these more practical aspects would help to prioritize which interventions should be translated into practice.
+Finally, our review relied on the information reported in peer-reviewed scientific publications. The information necessary for making our determination of best evidence was often unclear, not reported, or not available from the first author. We encourage authors to follow the Consolidated Standards of Reporting Trials
+[110](#r110), [111](#r111) and Transparent Reporting of Evaluations With Nonrandomized Designs [112](#r112) statements when reporting on their intervention evaluations. This would not only improve the data reporting quality of evaluations but would also improve the quality of systematic reviews including the evaluations. In addition, we were unable to link primary outcome hypotheses to the reported findings, often because of the lack of clarity in reporting study hypotheses. This information could help prioritize the relevance and importance of each intervention. Perhaps the recent efforts in promoting the public registration of all clinical trials will help to resolve this over time. [113](#r113), [114](#r114)
+Conclusions
+Behavioral intervention research efforts for HIV prevention have successfully resulted in many efficacious interventions in recent years. On the basis of the PRS efficacy criteria, this comprehensive systematic review of HIV behavioral interventions from 2000 to 2004 has identified 18 interventions with proven efficacy to reduce HIV-related risk behaviors or sexually transmitted infections. Most of these evidence-based interventions fill current gaps by targeting populations at high risk for HIV infection or transmission. Research is still needed, however, to address some populations with the greatest need for effective prevention tools. As the evidence-based interventions identified in our review are included in national, state, and local HIV prevention plans, prevention efforts will have a better chance of preventing new HIV infections and can collectively make an impact on the HIV epidemic in the United States. Continually incorporating the best scientific evidence into HIV prevention strategic planning will be essential for any sustainable impact.
+Acknowledgments
+The authors thank all principal investigators of the original research who facilitated our review process by providing the necessary additional information or analyses as requested by the PRS staff. The authors also thank the reviewers for their insightful comments on the earlier draft.
+Human Participant Protection No human participants were involved in this study.
+Peer Reviewed
+Note. The findings and conclusions in this report are those of the authors and do not necessarily represent the views of the Centers for Disease Control and Prevention.
+Contributors C. M. Lyles led the writing, abstracted data, and reviewed studies for evidence of efficacy. L. S. Kay, N. Crepaz, and J. H. Herbst helped with writing, abstracted data, and reviewed studies for evidence of efficacy. W.F. Passin, A. S. Kim, and S. M. Rama conducted most of the data abstraction and qualitative data coding from the original evaluation reports and reviewed studies for evidence of efficacy. S. Thadiparthi developed and managed the database used to summarize the data. J. B. DeLuca and M. M. Mullins led the systematic search efforts to identify all relevant evaluation studies.
+References
+-
+1.Centers for Disease Control and Prevention. Cases of HIV infection and AIDS in the United States, 2003. HIV AIDS Surveill Rep. 2004;15:1–46. [
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=HIV%20AIDS%20Surveill%20Rep&volume=15&publication_year=2004&pages=1&)]
+-
+2.Centers for Disease Control and Prevention. Trends in HIV/AIDS diagnoses—33 states, 2001–2004. MMWR Morb Mortal Wkly Rep. 2005;54:1149–1153. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/16292247/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=MMWR%20Morb%20Mortal%20Wkly%20Rep&volume=54&publication_year=2005&pages=1149&pmid=16292247&)]
+-
+3.Lemckert AA, Goudsmit J, Barouch DH. Challenges in the search for an HIV vaccine. Eur J Epidemiol. 2004;19:513–516. [
+[DOI](https://doi.org/10.1023/b:ejep.0000032423.87658.68)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15330122/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Eur%20J%20Epidemiol&author=AA%20Lemckert&volume=19&publication_year=2004&pages=513&pmid=15330122&doi=10.1023/b:ejep.0000032423.87658.68&)]
+-
+4.Letvin NL. Progress toward an HIV vaccine. Annu Rev Med. 2005;56:213–223. [
+[DOI](https://doi.org/10.1146/annurev.med.54.101601.152349)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15660510/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Annu%20Rev%20Med&author=NL%20Letvin&volume=56&publication_year=2005&pages=213&pmid=15660510&doi=10.1146/annurev.med.54.101601.152349&)]
+- 5.Institute of Medicine. The Future of the Public’s Health in the 21st Century. Washington, DC: National Academies Press; 2003.
+-
+6.Institute of Medicine. Report Brief. No Time to Lose: Getting the Most From HIV Prevention. Washington, DC: National Academies Press; 2001. Available at:
+[http://www.iom.edu/file.asp?id=4131](http://www.iom.edu/file.asp?id=4131). Accessed May 27, 2005.
+-
+7.Centers for Disease Control and Prevention. HIV prevention projects: notice of availability of funds. Federal Register. 2003;68:41138–41147. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/10557610/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Federal%20Register&volume=68&publication_year=2003&pages=41138&pmid=10557610&)]
+-
+8.Centers for Disease Control and Prevention. 2003–2008 HIV prevention community planning guide. Available at:
+[http://www.cdc.gov/hiv/pubs/hiv-cp.htm](http://www.cdc.gov/hiv/pubs/hiv-cp.htm). Accessed May 27, 2005.
+-
+9.Centers for Disease Control and Prevention. Procedural guidance for selected strategies and interventions for community based organizations funded under program announcement 04064. Available at:
+[http://www.cdc.gov/hiv/partners/pa04064_cbo.htm](http://www.cdc.gov/hiv/partners/pa04064_cbo.htm). Accessed May 27, 2005.
+-
+10.Moher D, Jadad AR, Nichol G, Penman M, Tugwell P, Walsh S. Assessing the quality of randomized controlled trials: an annotated bibliography of scales and checklists. Control Clin Trials. 1995;16: 62–73. [
+[DOI](https://doi.org/10.1016/0197-2456(94)00031-w)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/7743790/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Control%20Clin%20Trials&author=D%20Moher&volume=16&publication_year=1995&pages=62&pmid=7743790&doi=10.1016/0197-2456(94)00031-w&)]
+-
+11.Briss PA, Zaza S, Pappaioanou M, et al. Developing an evidence-based Guide to Community Preventive Services—methods. Am J Prev Med. 2000;18(suppl 1): S35–S43. [
+[DOI](https://doi.org/10.1016/s0749-3797(99)00119-1)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/10806978/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Prev%20Med&author=PA%20Briss&volume=18&publication_year=2000&pages=S35&pmid=10806978&doi=10.1016/s0749-3797(99)00119-1&)]
+- 12.Juni P, Altman DG, Egger M. Assessing the quality of randomized controlled trials. In: Egger M, Smith GD, Altman DG, eds. Systematic Reviews in Health Care: Meta-analysis in Context. 2nd ed. London, England: BMJ;2001:87–121.
+-
+13.Davidson KW, Trudeau KJ, Ockene JK, Orleans CT, Kaplan RM. A primer on current evidence-based review systems and their implications for behavioral medicine. Ann Behav Med. 2004;28: 226–238. [
+[DOI](https://doi.org/10.1207/s15324796abm2803_11)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15576261/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Ann%20Behav%20Med&author=KW%20Davidson&volume=28&publication_year=2004&pages=226&pmid=15576261&doi=10.1207/s15324796abm2803_11&)]
+-
+14.Dzewaltowski DA, Glasgow RE, Klesges LM, Estabrooks PA, Brock E. RE-AIM: evidence-based standards and a web resource to improve translation of research into practice. Ann Behav Med. 2004;28: 75–80. [
+[DOI](https://doi.org/10.1207/s15324796abm2802_1)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15454353/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Ann%20Behav%20Med&author=DA%20Dzewaltowski&volume=28&publication_year=2004&pages=75&pmid=15454353&doi=10.1207/s15324796abm2802_1&)]
+-
+15.Atkins D, Best D, Briss PA, et al. Grading quality of evidence and strength of recommendations. BMJ. 2004;328:1490–1497. [
+[DOI](https://doi.org/10.1136/bmj.328.7454.1490)] [ [PMC free article](/articles/PMC428525/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15205295/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMJ&author=D%20Atkins&volume=328&publication_year=2004&pages=1490&pmid=15205295&doi=10.1136/bmj.328.7454.1490&)]
+-
+16.Weinhardt LS, Carey MP, Johnson BT, Bickham NL. Effects of HIV counseling and testing on sexual risk behavior: a meta-analytic review of published research, 1985–1997. Am J Public Health. 1999;89: 1397–1405. [
+[DOI](https://doi.org/10.2105/ajph.89.9.1397)] [ [PMC free article](/articles/PMC1508752/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/10474559/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Public%20Health&author=LS%20Weinhardt&volume=89&publication_year=1999&pages=1397&pmid=10474559&doi=10.2105/ajph.89.9.1397&)]
+-
+17.Mize SJ, Robinson BE, Bockting WO, Scheltema KE. Meta-analysis of the effectiveness of HIV prevention interventions for women. AIDS Care. 2002;14:163–180. [
+[DOI](https://doi.org/10.1080/09540120220104686)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11940276/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=AIDS%20Care&author=SJ%20Mize&volume=14&publication_year=2002&pages=163&pmid=11940276&doi=10.1080/09540120220104686&)]
+-
+18.Semaan S, Des Jarlais DC, Sogolow E, et al. A meta-analysis of the effect of HIV prevention interventions on the sex behaviors of drug users in the United States. J Acquir Immune Defic Syndr. 2002;30(suppl 1): S73–S93. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/12107362/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Acquir%20Immune%20Defic%20Syndr&author=S%20Semaan&volume=30&publication_year=2002&pages=S73&pmid=12107362&)]
+-
+19.Mullen PD, Ramirez G, Strouse D, Hedges LV, Sogolow E. Meta-analysis of the effects of behavioral HIV prevention interventions on the sexual risk behavior of sexually experienced adolescents in controlled studies in the United States. J Acquir Immune Defic Syndr. 2002;30(suppl 1):S94–S105. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/12107363/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Acquir%20Immune%20Defic%20Syndr&author=PD%20Mullen&volume=30&publication_year=2002&pages=S94&pmid=12107363&)]
+-
+20.Neumann MS, Johnson WD, Semaan S, et al. Review and meta-analysis of HIV prevention intervention research for heterosexual adult populations in the United States. J Acquir Immune Defic Syndr. 2002; 30(suppl 1):S106–S117. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/12107364/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Acquir%20Immune%20Defic%20Syndr&author=MS%20Neumann&volume=30&publication_year=2002&pages=S106&pmid=12107364&)]
+-
+21.Johnson WD, Hedges LV, Ramirez G, et al. HIV prevention research for men who have sex with men: a systematic review and meta-analysis. J Acquir Immune Defic Syndr. 2002;30(suppl 1):S118–S129. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/12107365/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Acquir%20Immune%20Defic%20Syndr&author=WD%20Johnson&volume=30&publication_year=2002&pages=S118&pmid=12107365&)]
+-
+22.Logan TK, Cole J, Leukefeld C. Women, sex, and HIV: social and contextual factors, meta-analysis of published interventions, and implications for practice and research. Psychol Bull. 2002;128:851–885. [
+[DOI](https://doi.org/10.1037/0033-2909.128.6.851)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12405135/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Psychol%20Bull&author=TK%20Logan&volume=128&publication_year=2002&pages=851&pmid=12405135&doi=10.1037/0033-2909.128.6.851&)]
+-
+23.Johnson BT, Carey MP, Marsh KL, Levin KD, Scott-Sheldon LA. Interventions to reduce sexual risk for the human immunodeficiency virus in adolescents, 1985–2000: a research synthesis. Arch Pediatr Adolesc Med. 2003;157:381–388. [
+[DOI](https://doi.org/10.1001/archpedi.157.4.381)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12695235/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Arch%20Pediatr%20Adolesc%20Med&author=BT%20Johnson&volume=157&publication_year=2003&pages=381&pmid=12695235&doi=10.1001/archpedi.157.4.381&)]
+-
+24.Herbst JH, Sherba RT, Crepaz N, et al. A meta-analytic review of HIV behavioral interventions for reducing sexual risk behavior of men who have sex with men. J Acquir Immune Defic Syndr. 2005;39: 228–241. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/15905741/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Acquir%20Immune%20Defic%20Syndr&author=JH%20Herbst&volume=39&publication_year=2005&pages=228&pmid=15905741&)]
+-
+25.Exner TM, Seal DW, Ehrhardt AA. A review of HIV interventions for at-risk women. AIDS Behav. 1997;1:93–124. [
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=AIDS%20Behav&author=TM%20Exner&volume=1&publication_year=1997&pages=93&)]
+-
+26.Elwy AR, Hart GJ, Hawkes S, Petticrew M. Effectiveness of interventions to prevent sexually transmitted infections and human immunodeficiency virus in heterosexual men: a systematic review. Arch Intern Med. 2002;162:1818–1830. [
+[DOI](https://doi.org/10.1001/archinte.162.16.1818)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12196079/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Arch%20Intern%20Med&author=AR%20Elwy&volume=162&publication_year=2002&pages=1818&pmid=12196079&doi=10.1001/archinte.162.16.1818&)]
+-
+27.Robin L, Dittus P, Whitaker D, et al. Behavioral interventions to reduce incidence of HIV, STD, and pregnancy among adolescents: a decade in review. J Adolesc Health. 2004;23:3–26. [
+[DOI](https://doi.org/10.1016/s1054-139x(03)00244-1)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/14706401/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Adolesc%20Health&author=L%20Robin&volume=23&publication_year=2004&pages=3&pmid=14706401&doi=10.1016/s1054-139x(03)00244-1&)]
+- 28.Cooper H, Hedges LV. The Handbook of Research Synthesis. New York, NY: Russell Sage Foundation; 1994.
+- 29.Egger M, Smith GD, Altman DG. Systematic Reviews in Health Care: Meta-analysis in Context. 2nd ed. London, England: BMJ; 2001.
+- 30.HIV/AIDS Prevention Research Synthesis Project. Compendium of HIV Prevention Interventions With Evidence of Effectiveness. Revised ed. Atlanta, Ga: Centers for Disease Control and Prevention; 1999.
+- 31.Kay L, Crepaz N, Lyles C, et al. Update of the Compendium of HIV Prevention Interventions With Evidence of Effectiveness. Paper presented at: National HIV Prevention Conference; July 27–30, 2003; Atlanta, Ga.
+- 32.OVID-EMBASE. [online database]. New York, NY: Wolters Kluwer; 1988.
+- 33.OVID-MEDLINE. [online database]. New York, NY: Wolters Kluwer; 1988.
+- 34.OVID-PsycINFO. [online database]. New York, NY: Wolters Kluwer; 1988.
+- 35.OVID-SocioFILE. [online database]. New York, NY: Wolters Kluwer; 1988.
+-
+36.Farrell M, Gowing L, Marsden J, Ling W, Ali R. Effectiveness of drug dependence treatment in HIV prevention. Int J Drug Policy. 2005;16(suppl 1): S67–S75. [
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int%20J%20Drug%20Policy&author=M%20Farrell&volume=16&publication_year=2005&pages=S67&)]
+-
+37.Wodak A, Cooney A. Effectiveness of sterile needle and syringe programmes. Int J Drug Policy. 2005;16(suppl 1):S31–S44. [
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int%20J%20Drug%20Policy&author=A%20Wodak&volume=16&publication_year=2005&pages=S31&)]
+-
+38.Centers for Disease Control and Prevention. Revised guidelines for HIV counseling, testing, and referral. MMWR Recomm Rep. 2001;50(RR-19):1–57. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/11718472/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=MMWR%20Recomm%20Rep&volume=50&publication_year=2001&pages=1&pmid=11718472&)]
+-
+39.Centers for Disease Control and Prevention. Rapid HIV testing. Available at:
+[http://www.cdc.gov/hiv/rapid_testing](http://www.cdc.gov/hiv/rapid_testing). Accessed May 27, 2005.
+-
+40.Centers for Disease Control and Prevention. HIV partner counseling and referral services. Available at:
+[http://www.cdc.gov/hiv/pubs/pcrs.htm](http://www.cdc.gov/hiv/pubs/pcrs.htm). Accessed May 27, 2005.
+-
+41.Centers for Disease Control and Prevention. Guidelines for effective school health education to prevent the spread of AIDS. MMWR Morb Mortal Wkly Rep. 1988;37(suppl 2):1–14. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/2826985/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=MMWR%20Morb%20Mortal%20Wkly%20Rep&volume=37&publication_year=1988&pages=1&pmid=2826985&)]
+-
+42.Kirby D, Short L, Collins J, et al. School-based programs to reduce sexual risk behaviors: a review of effectiveness. Public Health Rep. 1994;109:339–360. [
+[PMC free article](/articles/PMC1403498/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/8190857/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Public%20Health%20Rep&author=D%20Kirby&volume=109&publication_year=1994&pages=339&pmid=8190857&)]
+-
+43.Brener NC, Collins JL, Kann L, Small ML. Assessment of practices in school-based HIV/AIDS education. J Health Educ. 1999;30(suppl 5):S28–S33. [
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Health%20Educ&author=NC%20Brener&volume=30&publication_year=1999&pages=S28&)]
+-
+44.Flores SA, Crepaz N, for the HIV Prevention Research Synthesis Team. Quality of study methods in individual- and group-level HIV intervention research: critical reporting elements. AIDS Educ Prev. 2004;16: 341–352. [
+[DOI](https://doi.org/10.1521/aeap.16.4.341.40396)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15342336/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=AIDS%20Educ%20Prev&author=SA%20Flores&volume=16&publication_year=2004&pages=341&pmid=15342336&doi=10.1521/aeap.16.4.341.40396&)]
+-
+45.Lyles CM, Crepaz N, Herbst JH, Kay LS, for the HIV/AIDS Prevention Research Synthesis Team. Evidence-based HIV behavioral prevention from the perspective of CDC’s HIV/AIDS Prevention Research Synthesis Team. AIDS Educ Prev. 2006:18(suppl A): 21–31. [
+[DOI](https://doi.org/10.1521/aeap.2006.18.supp.21)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16987086/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=AIDS%20Educ%20Prev&author=CM%20Lyles&volume=18&publication_year=2006&pages=21&pmid=16987086&doi=10.1521/aeap.2006.18.supp.21&)]
+-
+46.Baker SA, Beadnell B, Stoner S, et al. Skills training versus health education to prevent STDs/HIV in heterosexual women: a randomized controlled trial utilizing biological outcomes. AIDS Educ Prev. 2003;15: 1–14. [
+[DOI](https://doi.org/10.1521/aeap.15.1.1.23845)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12627740/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=AIDS%20Educ%20Prev&author=SA%20Baker&volume=15&publication_year=2003&pages=1&pmid=12627740&doi=10.1521/aeap.15.1.1.23845&)]
+-
+47.Carey MP, Carey KB, Maisto SA, Gordon CM, Schroder KE, Vanable PA. Reducing HIV-risk behavior among adults receiving outpatient psychiatric treatment: results from a randomized controlled trial. J Consult Clin Psychol. 2004;72:252–268. [
+[DOI](https://doi.org/10.1037/0022-006X.72.2.252)] [ [PMC free article](/articles/PMC1262645/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15065959/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Consult%20Clin%20Psychol&author=MP%20Carey&volume=72&publication_year=2004&pages=252&pmid=15065959&doi=10.1037/0022-006X.72.2.252&)]
+-
+48.DiClemente RJ, Wingood GM, Harrington KF, et al. Efficacy of an HIV prevention intervention for African American adolescent girls: a randomized controlled trial. JAMA. 2004;292:171–179. [
+[DOI](https://doi.org/10.1001/jama.292.2.171)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15249566/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=JAMA&author=RJ%20DiClemente&volume=292&publication_year=2004&pages=171&pmid=15249566&doi=10.1001/jama.292.2.171&)]
+-
+49.Dilley JW, Woods WJ, Sabatino J, et al. Changing sexual behavior among gay male repeat testers for HIV: a randomized, controlled trial of a single-session intervention. J Acquir Immune Defic Syndr. 2002;30: 177–186. [
+[DOI](https://doi.org/10.1097/00042560-200206010-00006)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12045680/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Acquir%20Immune%20Defic%20Syndr&author=JW%20Dilley&volume=30&publication_year=2002&pages=177&pmid=12045680&doi=10.1097/00042560-200206010-00006&)]
+-
+50.Ehrhardt AA, Exner TM, Hoffman S, et al. A gender-specific HIV/STD risk reduction intervention for women in a health care setting: short- and long-term results of a randomized clinical trial. AIDS Care. 2002;14:147–161. [
+[DOI](https://doi.org/10.1080/09540120220104677)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11940275/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=AIDS%20Care&author=AA%20Ehrhardt&volume=14&publication_year=2002&pages=147&pmid=11940275&doi=10.1080/09540120220104677&)]
+-
+51.Miller S, Exner TM, Williams SP, Ehrhardt AA. A gender-specific intervention for at-risk women in the USA. AIDS Care. 2000;12:603–612. [
+[DOI](https://doi.org/10.1080/095401200750003789)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11218546/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=AIDS%20Care&author=S%20Miller&volume=12&publication_year=2000&pages=603&pmid=11218546&doi=10.1080/095401200750003789&)]
+-
+52.Melendez RM, Hoffman S, Exner T, Leu CS, Ehrhardt AA. Intimate partner violence and safer sex negotiation: effects of a gender-specific intervention. Arch Sex Behav. 2003;32:499–511. [
+[DOI](https://doi.org/10.1023/a:1026081309709)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/14574094/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Arch%20Sex%20Behav&author=RM%20Melendez&volume=32&publication_year=2003&pages=499&pmid=14574094&doi=10.1023/a:1026081309709&)]
+-
+53.El-Bassel N, Witte SS, Gilbert L, et al. The efficacy of a relationship-based HIV/STD prevention program for heterosexual couples. Am J Public Health. 2003;93: 963–969. [
+[DOI](https://doi.org/10.2105/ajph.93.6.963)] [ [PMC free article](/articles/PMC1447878/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12773363/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Public%20Health&author=N%20El-Bassel&volume=93&publication_year=2003&pages=963&pmid=12773363&doi=10.2105/ajph.93.6.963&)]
+-
+54.El-Bassel N, Witte SS, Gilbert L, et al. HIV prevention for intimate couples: a relationship-based model. Fam Syst Health. 2001;19:379–395. [
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Fam%20Syst%20Health&author=N%20El-Bassel&volume=19&publication_year=2001&pages=379&)]
+-
+55.El-Bassel N, Witte SS, Gilbert L, et al. Long-term effects of an HIV/STI sexual risk reduction intervention for heterosexual couples. AIDS Behav. 2005;9: 1–13. [
+[DOI](https://doi.org/10.1007/s10461-005-1677-0)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15812609/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=AIDS%20Behav&author=N%20El-Bassel&volume=9&publication_year=2005&pages=1&pmid=15812609&doi=10.1007/s10461-005-1677-0&)]
+-
+56.Koblin B, Chesney M, Coates T, et al. for the EXPLORE Study Team. Effects of a behavioural intervention to reduce acquisition of HIV infection among men who have sex with men: the EXPLORE randomised controlled study. Lancet. 2004;364:41–50. [
+[DOI](https://doi.org/10.1016/S0140-6736(04)16588-4)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15234855/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet&author=B%20Koblin&volume=364&publication_year=2004&pages=41&pmid=15234855&doi=10.1016/S0140-6736(04)16588-4&)]
+-
+57.Chesney MA, Koblin BA, Barresi PJ, et al. An individually tailored intervention for HIV prevention: baseline data from the EXPLORE Study. Am J Public Health. 2003;93:933–938. [
+[DOI](https://doi.org/10.2105/ajph.93.6.933)] [ [PMC free article](/articles/PMC1447873/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12773358/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Public%20Health&author=MA%20Chesney&volume=93&publication_year=2003&pages=933&pmid=12773358&doi=10.2105/ajph.93.6.933&)]
+-
+58.Koblin BA, Chesney MA, Husnik MH, et al. High-risk behaviors among men who have sex with men in 6 US cities: baseline data from the EXPLORE Study. Am J Public Health. 2003;93:926–932. [
+[DOI](https://doi.org/10.2105/ajph.93.6.926)] [ [PMC free article](/articles/PMC1447872/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12773357/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Public%20Health&author=BA%20Koblin&volume=93&publication_year=2003&pages=926&pmid=12773357&doi=10.2105/ajph.93.6.926&)]
+-
+59.Hobfoll SE, Jackson AP, Lavin J, Johnson RJ, Schroder KE. Effects and generalizability of communally oriented HIV-AIDS prevention versus general health promotion groups for single, inner-city women in urban clinics. J Consult Clin Psychol. 2002;70: 950–960. [
+[DOI](https://doi.org/10.1037//0022-006x.70.4.950)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12182278/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Consult%20Clin%20Psychol&author=SE%20Hobfoll&volume=70&publication_year=2002&pages=950&pmid=12182278&doi=10.1037//0022-006x.70.4.950&)]
+-
+60.Kalichman SC, Rompa D, Cage M, et al. Effectiveness of an intervention to reduce HIV transmission risks in HIV-positive people. Am J Prev Med. 2001;21: 84–92. [
+[DOI](https://doi.org/10.1016/s0749-3797(01)00324-5)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11457627/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Prev%20Med&author=SC%20Kalichman&volume=21&publication_year=2001&pages=84&pmid=11457627&doi=10.1016/s0749-3797(01)00324-5&)]
+-
+61.Kalichman SC, Rompa D, Cage M. Group intervention to reduce HIV transmission risk behavior among persons living with HIV/AIDS. Behav Modif. 2005;29:256–285. [
+[DOI](https://doi.org/10.1177/0145445504272603)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15657411/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Behav%20Modif&author=SC%20Kalichman&volume=29&publication_year=2005&pages=256&pmid=15657411&doi=10.1177/0145445504272603&)]
+-
+62.Latkin CA, Sherman S, Knowlton A. HIV prevention among drug users: outcome of a network-oriented peer outreach intervention. Health Psychol. 2003;22: 332–339. [
+[DOI](https://doi.org/10.1037/0278-6133.22.4.332)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12940388/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Health%20Psychol&author=CA%20Latkin&volume=22&publication_year=2003&pages=332&pmid=12940388&doi=10.1037/0278-6133.22.4.332&)]
+-
+63.Robles RR, Reyes JC, Colon HM, et al. Effects of combined counseling and case management to reduce HIV risk behaviors among Hispanic drug injectors in Puerto Rico: a randomized controlled study. J Subst Abuse Treat. 2004;27:145–152. [
+[DOI](https://doi.org/10.1016/j.jsat.2004.06.004)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15450647/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Subst%20Abuse%20Treat&author=RR%20Robles&volume=27&publication_year=2004&pages=145&pmid=15450647&doi=10.1016/j.jsat.2004.06.004&)]
+-
+64.Rotheram-Borus MJ, Swendeman D, Comulada WS, Weiss RE, Lee M, Lightfoot M. Prevention for substance-using HIV-positive young people: telephone and in-person delivery. J Acquir Immune Defic Syndr. 2004; 37(suppl 2):S68–S77. [
+[DOI](https://doi.org/10.1097/01.qai.0000140604.57478.67)] [ [PMC free article](/articles/PMC2843590/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15385902/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Acquir%20Immune%20Defic%20Syndr&author=MJ%20Rotheram-Borus&volume=37&publication_year=2004&pages=S68&pmid=15385902&doi=10.1097/01.qai.0000140604.57478.67&)]
+-
+65.Shain RN, Piper JM, Holden AE, et al. Prevention of gonorrhea and chlamydia through behavioral intervention: results of a two-year controlled randomized trial in minority women. Sex Transm Dis. 2004;31: 401–408. [
+[DOI](https://doi.org/10.1097/01.olq.0000135301.97350.84)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15215694/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sex%20Transm%20Dis&author=RN%20Shain&volume=31&publication_year=2004&pages=401&pmid=15215694&doi=10.1097/01.olq.0000135301.97350.84&)]
+-
+66.Shain RN, Piper JM, Newton ER, et al. A randomized, controlled trial of a behavioral intervention to prevent sexually transmitted disease among minority women. N Engl J Med. 1999;340:93–100. [
+[DOI](https://doi.org/10.1056/NEJM199901143400203)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/9887160/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&author=RN%20Shain&volume=340&publication_year=1999&pages=93&pmid=9887160&doi=10.1056/NEJM199901143400203&)]
+-
+67.Sterk CE, Theall KP, Elifson KW. Effectiveness of a risk reduction intervention among African American women who use crack cocaine. AIDS Educ Prev. 2003; 15:15–32. [
+[DOI](https://doi.org/10.1521/aeap.15.1.15.23843)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12627741/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=AIDS%20Educ%20Prev&author=CE%20Sterk&volume=15&publication_year=2003&pages=15&pmid=12627741&doi=10.1521/aeap.15.1.15.23843&)]
+-
+68.Sterk CE, Theall KP, Elifson KW, Kidder D. HIV risk reduction among African-American women who inject drugs: a randomized controlled trial. AIDS Behav. 2003;7:73–86. [
+[DOI](https://doi.org/10.1023/a:1022565524508)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/14534392/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=AIDS%20Behav&author=CE%20Sterk&volume=7&publication_year=2003&pages=73&pmid=14534392&doi=10.1023/a:1022565524508&)]
+-
+69.Sterk CE. The Health Intervention Project: HIV risk reduction among African American women drug users. Public Health Rep. 2002;117(suppl 1):S88–S95. [
+[PMC free article](/articles/PMC1913694/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12435832/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Public%20Health%20Rep&author=CE%20Sterk&volume=117&publication_year=2002&pages=S88&pmid=12435832&)]
+-
+70.Sterk CE, Theall KP, Elifson KW. Who’s getting the message? Intervention response rates among women who inject drugs and/or smoke crack cocaine. Prev Med. 2003;37:119–128. [
+[DOI](https://doi.org/10.1016/s0091-7435(03)00090-2)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12855211/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Prev%20Med&author=CE%20Sterk&volume=37&publication_year=2003&pages=119&pmid=12855211&doi=10.1016/s0091-7435(03)00090-2&)]
+-
+71.Wechsberg WM, Lam WK, Zule WA, Bobashev G. Efficacy of a woman-focused intervention to reduce HIV risk and increase self-sufficiency among African American crack abusers. Am J Public Health. 2004;94: 1165–1173. [
+[DOI](https://doi.org/10.2105/ajph.94.7.1165)] [ [PMC free article](/articles/PMC1448416/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15226138/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Public%20Health&author=WM%20Wechsberg&volume=94&publication_year=2004&pages=1165&pmid=15226138&doi=10.2105/ajph.94.7.1165&)]
+-
+72.Wingood GM, DiClemente RJ, Mikhail I, et al. A randomized controlled trial to reduce HIV transmission risk behaviors and sexually transmitted diseases among women living with HIV: The WiLLOW Program. J Acquir Immune Defic Syndr. 2004;37(suppl 2):S58–S67. [
+[DOI](https://doi.org/10.1097/01.qai.0000140603.57478.a9)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15385901/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Acquir%20Immune%20Defic%20Syndr&author=GM%20Wingood&volume=37&publication_year=2004&pages=S58&pmid=15385901&doi=10.1097/01.qai.0000140603.57478.a9&)]
+-
+73.Wolitski RJ, Gomez CA, Parsons JT, et al. for the SUMIT Study Group. Effects of a peer-led behavioral intervention to reduce HIV transmission and promote serostatus disclosure among HIV-seropositive gay and bisexual men. AIDS. 2005;19(suppl 1):S99–S109. [
+[DOI](https://doi.org/10.1097/01.aids.0000167356.94664.59)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15838199/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=AIDS&author=RJ%20Wolitski&volume=19&publication_year=2005&pages=S99&pmid=15838199&doi=10.1097/01.aids.0000167356.94664.59&)]
+-
+74.Wolitski RJ, Parsons JT, Gomez CA, Purcell DW, Hoff CC, Halkitis PN. Prevention with gay and bisexual men living with HIV: rationale and methods of the Seropositive Urban Men’s Intervention Trial (SUMIT). AIDS. 2005;19(suppl 1):S1–S11. [
+[DOI](https://doi.org/10.1097/01.aids.0000167347.77632.cd)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15838188/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=AIDS&author=RJ%20Wolitski&volume=19&publication_year=2005&pages=S1&pmid=15838188&doi=10.1097/01.aids.0000167347.77632.cd&)]
+-
+75.Wu Y, Stanton BF, Galbraith J, et al. Sustaining and broadening intervention impact: a longitudinal randomized trial of 3 adolescent risk reduction approaches. Pediatrics. 2003;111:e32–e38. [
+[DOI](https://doi.org/10.1542/peds.111.1.e32)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12509592/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Pediatrics&author=Y%20Wu&volume=111&publication_year=2003&pages=e32&pmid=12509592&doi=10.1542/peds.111.1.e32&)]
+-
+76.Stanton B, Cole M, Galbraith J, et al. Randomized trial of a parent intervention: parents can make a difference in long-term adolescent risk behaviors, perceptions, and knowledge. Arch Pediatr Adolesc Med. 2004; 158:947–955. [
+[DOI](https://doi.org/10.1001/archpedi.158.10.947)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15466681/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Arch%20Pediatr%20Adolesc%20Med&author=B%20Stanton&volume=158&publication_year=2004&pages=947&pmid=15466681&doi=10.1001/archpedi.158.10.947&)]
+-
+77.Centers for Disease Control and Prevention. Advancing HIV prevention: new strategies for a changing epidemic—United States, 2003. MMWR Morb Mortal Wkly Rep. 2003;52:329–332. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/12733863/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=MMWR%20Morb%20Mortal%20Wkly%20Rep&volume=52&publication_year=2003&pages=329&pmid=12733863&)]
+-
+78.Miller M, Serner M, Wagner M. Sexual diversity among black men who have sex with men in an inner-city community. J Urban Health. 2005;82(1 suppl 1): i26–i34. [
+[DOI](https://doi.org/10.1093/jurban/jti021)] [ [PMC free article](/articles/PMC3456163/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15738323/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Urban%20Health&author=M%20Miller&volume=82&publication_year=2005&pages=i26&pmid=15738323&doi=10.1093/jurban/jti021&)]
+-
+79.Wohl AR, Johnson DF, Lu S, et al. HIV risk behaviors among African American men in Los Angeles County who self-identify as heterosexual. J Acquir Immune Defic Syndr. 2002;31:354–360. [
+[DOI](https://doi.org/10.1097/00126334-200211010-00013)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12439213/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Acquir%20Immune%20Defic%20Syndr&author=AR%20Wohl&volume=31&publication_year=2002&pages=354&pmid=12439213&doi=10.1097/00126334-200211010-00013&)]
+-
+80.Millett G, Malebranche D, Mason B, Spikes P. Focusing “down low”: bisexual black men, HIV risk and heterosexual transmission. J Natl Med Assoc. 2005; 97(suppl 7):S52–S59. [
+[PMC free article](/articles/PMC2640641/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16080458/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Natl%20Med%20Assoc&author=G%20Millett&volume=97&publication_year=2005&pages=S52&pmid=16080458&)]
+-
+81.Centers for Disease Control and Prevention. HIV prevalence, unrecognized infection, and HIV testing among men who have sex with men—five US cities, June 2004–April 2005. MMWR Morb Mortal Wkly Rep. 2005;54:597–601. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/15973239/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=MMWR%20Morb%20Mortal%20Wkly%20Rep&volume=54&publication_year=2005&pages=597&pmid=15973239&)]
+-
+82.Centers for Disease Control and Prevention. HIV incidence among young men who have sex with men—seven US cities, 1994–2000. MMWR Morb Mortal Wkly Rep. 2001;50:440–444. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/11475380/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=MMWR%20Morb%20Mortal%20Wkly%20Rep&volume=50&publication_year=2001&pages=440&pmid=11475380&)]
+-
+83.Valleroy LA, MacKellar DA, Karon JM, et al. HIV prevalence and associated risks in young men who have sex with men. Young Men’s Survey Study Group. JAMA. 2000;284:198–204. [
+[DOI](https://doi.org/10.1001/jama.284.2.198)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/10889593/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=JAMA&author=LA%20Valleroy&volume=284&publication_year=2000&pages=198&pmid=10889593&doi=10.1001/jama.284.2.198&)]
+-
+84.Centers for Disease Control and Prevention. HIV transmission among black college student and nonstudent men who have sex with men—North Carolina, 2003. MMWR Morb Mortal Wkly Rep. 2004;53: 731–734. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/15318156/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=MMWR%20Morb%20Mortal%20Wkly%20Rep&volume=53&publication_year=2004&pages=731&pmid=15318156&)]
+-
+85.Colfax G, Coates TJ, Husnik MJ, et al. Longitudinal patterns of methamphetamine, popper (amyl nitrite), and cocaine use and high-risk sexual behavior among a cohort of San Francisco men who have sex with men. J Urban Health. 2005;82(1 suppl 1): i62–i70. [
+[DOI](https://doi.org/10.1093/jurban/jti025)] [ [PMC free article](/articles/PMC3456172/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15738319/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Urban%20Health&author=G%20Colfax&volume=82&publication_year=2005&pages=i62&pmid=15738319&doi=10.1093/jurban/jti025&)]
+-
+86.Fernandez MI, Perrino T, Collazo JB, et al. Surfing new territory: club-drug use and risky sex among Hispanic men who have sex with men recruited on the Internet. J Urban Health. 2005;82(1 suppl 1):i79–i88. [
+[DOI](https://doi.org/10.1093/jurban/jti027)] [ [PMC free article](/articles/PMC3456161/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15738317/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Urban%20Health&author=MI%20Fernandez&volume=82&publication_year=2005&pages=i79&pmid=15738317&doi=10.1093/jurban/jti027&)]
+-
+87.Kral AH, Lorvick J, Ciccarone D, et al. HIV prevalence and risk behaviors among men who have sex with men and inject drugs in San Francisco. J Urban Health. 2005;82(1 suppl 1):i43–i50. [
+[DOI](https://doi.org/10.1093/jurban/jti023)] [ [PMC free article](/articles/PMC3456175/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15738321/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Urban%20Health&author=AH%20Kral&volume=82&publication_year=2005&pages=i43&pmid=15738321&doi=10.1093/jurban/jti023&)]
+-
+88.Clements-Nolle K, Marx R, Guzman R, Katz M. HIV prevalence, risk behaviors, health care use, and mental health status of transgender persons: implications for public health intervention. Am J Public Health. 2001;91:915–921. [
+[DOI](https://doi.org/10.2105/ajph.91.6.915)] [ [PMC free article](/articles/PMC1446468/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11392934/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Public%20Health&author=K%20Clements-Nolle&volume=91&publication_year=2001&pages=915&pmid=11392934&doi=10.2105/ajph.91.6.915&)]
+-
+89.Kellogg TA, Clements-Nolle K, Dilley J, Katz MH, McFarland W. Incidence of human immunodeficiency virus among male-to-female transgendered persons in San Francisco. J Acquir Immune Defic Syndr. 2001;28: 380–384. [
+[DOI](https://doi.org/10.1097/00126334-200112010-00012)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11707676/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Acquir%20Immune%20Defic%20Syndr&author=TA%20Kellogg&volume=28&publication_year=2001&pages=380&pmid=11707676&doi=10.1097/00126334-200112010-00012&)]
+-
+90.Nemoto T, Operario D, Keatley J, Han L, Soma T. HIV risk behaviors among male-to-female transgender persons of color in San Francisco. Am J Public Health. 2004;94:1193–1199. [
+[DOI](https://doi.org/10.2105/ajph.94.7.1193)] [ [PMC free article](/articles/PMC1448420/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15226142/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Public%20Health&author=T%20Nemoto&volume=94&publication_year=2004&pages=1193&pmid=15226142&doi=10.2105/ajph.94.7.1193&)]
+-
+91.Knight KR, Purcell DW, Dawson-Rose C, Halkitis PN, Gomez CA, and the Seropositive Urban Injectors Study Team. Sexual risk taking among HIV-positive injection drug users: contexts, characteristics, and implications for prevention. AIDS Educ Prev. 2005;17(1 suppl A): 76–88. [
+[DOI](https://doi.org/10.1521/aeap.17.2.76.58692)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15843119/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=AIDS%20Educ%20Prev&author=KR%20Knight&volume=17&publication_year=2005&pages=76&pmid=15843119&doi=10.1521/aeap.17.2.76.58692&)]
+-
+92.Centers for Disease Control and Prevention. Risks for HIV infection among persons residing in rural areas and small cities—selected sites, Southern United States, 1995–1996. MMWR Morb Mortal Wkly Rep. 1998; 47:974–978. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/9843355/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=MMWR%20Morb%20Mortal%20Wkly%20Rep&volume=47&publication_year=1998&pages=974&pmid=9843355&)]
+-
+93.Flay BR. Efficacy and effectiveness trials (and other phases of research) in the development of health promotion programs. Prev Med. 1986;15:451–474. [
+[DOI](https://doi.org/10.1016/0091-7435(86)90024-1)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/3534875/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Prev%20Med&author=BR%20Flay&volume=15&publication_year=1986&pages=451&pmid=3534875&doi=10.1016/0091-7435(86)90024-1&)]
+-
+94.Kupfer C. Outcomes research—translating efficacy into effectiveness. Optom Vis Sci. 1998;75:235–236. [
+[DOI](https://doi.org/10.1097/00006324-199804000-00001)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/9586746/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Optom%20Vis%20Sci&author=C%20Kupfer&volume=75&publication_year=1998&pages=235&pmid=9586746&doi=10.1097/00006324-199804000-00001&)]
+-
+95.Glasgow RE, Vogt TM, Boles SM. Evaluating the public health impact of health promotion interventions: the RE-AIM framework. Am J Public Health. 1999;89: 1322–1327. [
+[DOI](https://doi.org/10.2105/ajph.89.9.1322)] [ [PMC free article](/articles/PMC1508772/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/10474547/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Public%20Health&author=RE%20Glasgow&volume=89&publication_year=1999&pages=1322&pmid=10474547&doi=10.2105/ajph.89.9.1322&)]
+-
+96.Glasgow RE, Lichtenstein E, Marcus AC. Why don’t we see more translation of health promotion research to practice? Rethinking the efficacy-to-effectiveness transition. Am J Public Health. 2003;93: 1261–1267. [
+[DOI](https://doi.org/10.2105/ajph.93.8.1261)] [ [PMC free article](/articles/PMC1447950/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12893608/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Public%20Health&author=RE%20Glasgow&volume=93&publication_year=2003&pages=1261&pmid=12893608&doi=10.2105/ajph.93.8.1261&)]
+-
+97.Centers for Disease Control and Prevention. Replicating Effective Interventions Web site. Available at:
+[http://www.cdc.gov/hiv/projects/rep](http://www.cdc.gov/hiv/projects/rep). Accessed June 12, 2005.
+-
+98.Centers for Disease Control and Prevention. Diffusion of Effective Behavioral Interventions Web site. Available at:
+[http://effectiveinterventions.org](http://effectiveinterventions.org). Accessed June 12, 2005.
+-
+99.Rotheram-Borus MJ, Lee MB, Murphy DA, et al. Efficacy of a preventive intervention for youths living with HIV. Am J Public Health. 2001;91:400–405. [
+[DOI](https://doi.org/10.2105/ajph.91.3.400)] [ [PMC free article](/articles/PMC1446609/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11236404/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Public%20Health&author=MJ%20Rotheram-Borus&volume=91&publication_year=2001&pages=400&pmid=11236404&doi=10.2105/ajph.91.3.400&)]
+-
+100.Margolin A, Avants SK, Warburton LA, Hawkins KA, Shi J. A randomized clinical trial of a manual-guided risk reduction intervention for HIV-positive injection drug users. Health Psychol. 2003;22:223–228. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/12683743/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Health%20Psychol&author=A%20Margolin&volume=22&publication_year=2003&pages=223&pmid=12683743&)]
+-
+101.Richardson JL, Milam J, McCutchan A, et al. Effect of brief safer-sex counseling by medical providers to HIV-1 seropositive patients: a multiclinic assessment. AIDS. 2004;18:1179–1186. [
+[DOI](https://doi.org/10.1097/00002030-200405210-00011)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15166533/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=AIDS&author=JL%20Richardson&volume=18&publication_year=2004&pages=1179&pmid=15166533&doi=10.1097/00002030-200405210-00011&)]
+- 102.Rhodes F, Wood MM, Hershberger SL. A cognitive-behavioral intervention to reduce HIV risks among active drug users: efficacy study. Sacramento: California Dept of Health Services, Office of AIDS; 2000.
+-
+103.Hershberger SL, Wood MM, Fisher DG. A cognitive-behavioral intervention to reduce HIV risk behaviors in crack and injection drug users. AIDS Behav. 2003; 7:229–243. [
+[DOI](https://doi.org/10.1023/a:1025487501743)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/14586186/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=AIDS%20Behav&author=SL%20Hershberger&volume=7&publication_year=2003&pages=229&pmid=14586186&doi=10.1023/a:1025487501743&)]
+-
+104.Rotheram-Borus MJ, Song J, Gwadz M, Lee M, Van Rossem R, Koopman C. Reductions in HIV risk among runaway youths. Prev Sci. 2003;4:173–187. [
+[DOI](https://doi.org/10.1023/a:1024697706033)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12940468/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Prev%20Sci&author=MJ%20Rotheram-Borus&volume=4&publication_year=2003&pages=173&pmid=12940468&doi=10.1023/a:1024697706033&)]
+-
+105.Scholes D, McBride CM, Grothaus L, et al. A tailored minimal self-help intervention to promote condom use in young women: results from a randomized trial. AIDS. 2003;17:1547–1556. [
+[DOI](https://doi.org/10.1097/00002030-200307040-00016)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12824793/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=AIDS&author=D%20Scholes&volume=17&publication_year=2003&pages=1547&pmid=12824793&doi=10.1097/00002030-200307040-00016&)]
+-
+106.Dancy BL, Marcantonio R, Norr K. The long-term effectiveness of an HIV prevention intervention for low-income African American women. AIDS Educ Prev. 2000;12:113–125. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/10833037/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=AIDS%20Educ%20Prev&author=BL%20Dancy&volume=12&publication_year=2000&pages=113&pmid=10833037&)]
+-
+107.Boyer CB, Shafer MB, Shaffer RA, et al. Prevention of sexually transmitted diseases and HIV in young military men: evaluation of a cognitive-behavioral skills-building intervention. Sex Transm Dis. 2001;28: 349–355. [
+[DOI](https://doi.org/10.1097/00007435-200106000-00009)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11403194/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sex%20Transm%20Dis&author=CB%20Boyer&volume=28&publication_year=2001&pages=349&pmid=11403194&doi=10.1097/00007435-200106000-00009&)]
+-
+108.Raj A, Amaro H, Cranston K, et al. Is a general women’s health promotion program as effective as an HIV-intensive prevention program in reducing HIV risk among Hispanic women? Public Health Rep. 2001;116: 599–607. [
+[DOI](https://doi.org/10.1093/phr/116.6.599)] [ [PMC free article](/articles/PMC1497375/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12196620/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Public%20Health%20Rep&author=A%20Raj&volume=116&publication_year=2001&pages=599&pmid=12196620&doi=10.1093/phr/116.6.599&)]
+-
+109.Peragallo N, Deforge B, O’Campo P, et al. A randomized clinical trial of an HIV-risk-reduction intervention among low-income Latina women. Nurs Res. 2005; 54:108–118. [
+[DOI](https://doi.org/10.1097/00006199-200503000-00005)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15778652/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nurs%20Res&author=N%20Peragallo&volume=54&publication_year=2005&pages=108&pmid=15778652&doi=10.1097/00006199-200503000-00005&)]
+-
+110.Moher D, Schulz KF, Altman D, for the CONSORT Group. The CONSORT Statement: revised recommendations for improving the quality of reports of parallel-group randomized trials. JAMA. 2001;285:1987–1991. [
+[DOI](https://doi.org/10.1001/jama.285.15.1987)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11308435/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=JAMA&author=D%20Moher&volume=285&publication_year=2001&pages=1987&pmid=11308435&doi=10.1001/jama.285.15.1987&)]
+-
+111.Campbell MK, Elbourne DR, Altman DG, for the CONSORT Group. CONSORT statement: extension to cluster randomised trials. BMJ. 2004;328:702–708. [
+[DOI](https://doi.org/10.1136/bmj.328.7441.702)] [ [PMC free article](/articles/PMC381234/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15031246/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMJ&author=MK%20Campbell&volume=328&publication_year=2004&pages=702&pmid=15031246&doi=10.1136/bmj.328.7441.702&)]
+-
+112.Des Jarlais DC, Lyles CM, Crepaz N, and the TREND Group. Improving the reporting quality of nonrandomized evaluations of behavioral and public health interventions: the TREND statement. Am J Public Health. 2004;94:361–366. [
+[DOI](https://doi.org/10.2105/ajph.94.3.361)] [ [PMC free article](/articles/PMC1448256/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/14998794/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Public%20Health&author=DC%20Des%20Jarlais&volume=94&publication_year=2004&pages=361&pmid=14998794&doi=10.2105/ajph.94.3.361&)]
+-
+113.US National Library of Medicine. Clinical trials Web site.
+[http://www.clinicaltrials.gov](http://www.clinicaltrials.gov). Accessed June 12, 2005.
+-
+114.De Angelis CD, Drazen JM, Frizelle FA, et al. Is this clinical trial fully registered? A statement from the International Committee of Medical Journal Editors. Lancet. 2005;365:1827–1829. [
+[DOI](https://doi.org/10.1016/S0140-6736(05)66588-9)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15924965/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet&author=CD%20De%20Angelis&volume=365&publication_year=2005&pages=1827&pmid=15924965&doi=10.1016/S0140-6736(05)66588-9&)]

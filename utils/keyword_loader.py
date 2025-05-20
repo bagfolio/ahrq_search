@@ -80,3 +80,15 @@ class KeywordLoader:
             if term in terms:
                 return category
         return "unknown"
+        
+    def get_context_terms(self) -> List[str]:
+        """Get the context terms for relevance scoring."""
+        return self.keywords.get('context_terms', [])
+
+    def get_negative_filters(self) -> List[str]:
+        """Get negative filters that reduce relevance score."""
+        return self.keywords.get('negative_filters', [])
+
+    def get_journal_whitelist(self) -> List[str]:
+        """Get whitelist of journals that increase relevance score."""
+        return self.keywords.get('journal_whitelist', [])

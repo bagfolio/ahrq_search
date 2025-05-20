@@ -1,0 +1,38 @@
+Id
+. See also Gerstein, J.
+, “New Technique Lets Bloggers Tackle Late-Night News Dumps,” The Sun
+(New York
+), March 21, 2007
+, available at
+<
+[http://www.nysun.com/article/50895](http://www.nysun.com/article/50895)
+> (last visited June 25, 2008); Nakata, N.
+, Fukuda, Y.
+, Fukuda, K.
+, and Suzuki, N.
+, “DICOM Wiki: Web-Based Collaboration and Knowledge Database System for Radiologists,” International Congress Series 1281
+(2005): 980-985; TED (Technology, Entertainment, Design), “Theme: The Rise of Collaboration,” available at
+<
+[http://www.ted.com/themes/view/id/19](http://www.ted.com/themes/view/id/19)
+> (last visited June 25, 2008). Web 2.0-driven technologies also are finding their way into health care and health education settings. M. N. Kamel Boulos and Wheeler, S.
+, “The Emerging Web 2.0 Social Software: An Enabling Suite of Sociable Technologies in Health and Health Care Education,” Health Information and Libraries Journal
+24, no. 1 (2007): 2-23. Supporters of the benefits of such technologies in the scientific community also frequently champion the cause of Open Access to research data and publications. Open Access is defined by Wikipedia as “free, immediate, permanent, full-text, online access, for any user, web-wide, to digital scientific and scholarly material, primarily research articles published in peer-reviewed journals. OA means that any individual user, anywhere, who has access to the Internet, may link, read, download, store, print-off, use, and datamine the digital content of that article. An OA article usually has limited copyright and licensing restrictions.” Wikipedia entry on Open Access, available at
+<
+[http://en.wikipedia.org/wiki/Open_access](https://en.wikipedia.org/wiki/Open_access)
+> (citations omitted) (last visited July 17, 2008). See also Walport, M.
+and Kiley, R.
+, “Open Access, U.K. PubMed Central and the Wellcome Trust,” Journal of the Royal Society of Medicine
+99, no. 9 (2006): 438-439; Doyle, H.
+, Gass, A.
+, and Kennison, R.
+, “Open Access and Scientific Societies,” Public Library of Science (PLoS) Biology
+2, no. 5 (2004): E156; Yuille, M.
+, Korn, B.
+, Moore, T.
+, Farmer, A. A.
+, Carrino, J.
+, Prange, C.
+, and Hayashizaki, Y.
+, “The Responsibility to Share: Sharing the Responsibility,” Genome Research 14
+, no. 10B (2004): 2015-2019.
+[Google Scholar](https://scholar.google.com/scholar_lookup?title=The+Sun&author=Gerstein+J.&author=Nakata+N.&author=Fukuda+Y.&author=Fukuda+K.&author=Suzuki+N.&author=Wheeler+S.&author=Walport+M.&author=Kiley+R.&author=Doyle+H.&author=Gass+A.&author=Kennison+R.&author=Yuille+M.&author=Korn+B.&author=Moore+T.&author=Farmer+A.+A.&author=Carrino+J.&author=Prange+C.&author=Hayashizaki+Y.&publication+year=2007)

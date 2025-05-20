@@ -49,3 +49,12 @@ SEED_PMID = "30674227"  # 2019 JAMA Methods paper for Compendium
 
 # File hashing (to avoid re-processing)
 HASH_ALGORITHM = "sha256"
+
+# --- stage-2 relevance scoring  ----------------------------
+RELEVANCE_WEIGHTS = {
+    "keyword_hit": 1,
+    "context_term": 1,
+    "journal_whitelist": 1,
+    "negative_filter": -2,
+}
+RELEVANCE_THRESHOLD = 2  # Reduced from 3 to be less strict

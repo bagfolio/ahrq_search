@@ -1,0 +1,343 @@
+Abstract
+Racial–ethnic minorities receive lower quality and intensity of health care compared with whites across a wide range of preventive, diagnostic, and therapeutic services and disease entities. These disparities in health care contribute to continuing racial–ethnic disparities in the burden of illness and death. Several national medical organizations and the Institute of Medicine have issued position papers and recommendations for the elimination of health care disparities. However, physicians in practice are often at a loss for how to translate these principles and recommendations into specific interventions in their own clinical practices. This paper serves as a blueprint for translating principles for the elimination of racial–ethnic disparities in health care into specific actions that are relevant for individual clinical practices. We describe what is known about reducing racial–ethnic disparities in clinical practice and make recommendations for how clinician leaders can apply this evidence to transform their own practices.
+KEY WORDS: racial disparities, race, ethnicity, health care delivery, cultural competence, ethnic groups, continental population groups
+INTRODUCTION
+Racial and ethnic disparities in health care have been consistently documented across a wide range of medical conditions and health care services.
+[1](#CR1)– [5](#CR5) Examples include disparities in receipt of surgical procedures, cancer care, intensity of hospital services, and treatment of pain. [2](#CR2), [3](#CR3), [6](#CR6)– [9](#CR9) The Institute of Medicine (IOM) defines disparities in health care as racial or ethnic differences in the quality of health care that are not caused by differences in clinical need, patient preferences, or appropriateness of intervention. [10](#CR10) Although many of the differences in health and health care use are related to differences in socioeconomic factors and access to care, most research has found that racial–ethnic disparities persist even after adjustment for these factors. [1](#CR1)– [5](#CR5), [8](#CR8), [11](#CR11), [12](#CR12) Elimination of racial–ethnic health care disparities requires action on multiple levels of health care organization and delivery. The IOM’s report, “Unequal Treatment: Confronting Racial and Ethnic Disparities in Health Care,” makes recommendations aimed at the health care system or institutional level. [10](#CR10) However, practicing physicians are often at a loss for how to translate these principles and recommendations into specific interventions in their own clinical practices.
+The aim of this paper is to describe ways in which health care delivery at the clinical practice level can be transformed to reduce racial–ethnic disparities. We provide a perspective on what is known about reducing racial–ethnic disparities in clinical practice and suggest actions that clinicians can take to reduce racial–ethnic disparities in the care of their own patient populations.
+To identify aspects of the clinical arena that need to be transformed to address racial–ethnic health care disparities, we used an adaptation of the IOM framework for defining equitable access to health care.
+[13](#CR13), [14](#CR14) This framework posits that personal, structural, and financial barriers cause underuse of services, and that mediators such as treatment appropriateness and quality affect health outcomes and equity of services. Personal barriers include language and literacy, with low health literacy exerting an effect independent of race–ethnicity or insurance status. [15](#CR15)– [18](#CR18) Structural barriers include the availability of interpreters, racial–ethnic concordant staff, and the physical environment of a clinical practice. The adapted framework also emphasizes provider interpersonal skills and cultural and linguistic competence because studies document that the quality of interpersonal care, particularly patient–provider communication, differs by patient ethnicity. [19](#CR19) Additionally, it incorporates patient views about health care because these have emerged as important outcomes that differ by race–ethnicity. [20](#CR20)
+This paper discusses those aspects of the model that are most easily affected by providers. We used literature review and expert judgments of the Society of General Internal Medicine Disparities Task Force to formulate the perspectives and recommendations herein. For each aspect discussed, we describe the rationale for transforming it to reduce racial–ethnic health care disparities, make specific recommendations for interventions (Table
+[1](#Tab1)), and list resources for implementing our recommendations (Table [2](#Tab2)).
+Table 1.
+|Aspect||Strategy|
+|Financial aspects of healthcare delivery||1. Enroll in programs that reimburse you for delivering covered services to low-income patients (e.g., “free” pap smear programs)|
+|2. Provide patients with referral information for pharmaceutical manufacturer assistance programs (e.g., the Together Rx Access Card), and prescribe lower cost, equivalently effective medications, when available|
+|3. Have referral information available for your patients for the social work department at your affiliated hospital(s)|
+|4. Incorporate sliding scale and/or flexible payment plans when possible|
+|Structural aspects of clinical practice||5. Hire clinical and office staff who are culturally and linguistically representative of the communities your practice serves|
+|6. Market or advertise the diversity of office and clinical staff, emphasizing the presence of multilingual staff as a way to recruit diverse staff and inform patients|
+|7. Explore the current organizational climate, culture, policies, and training related to diversity in your practice setting|
+|8. Review the decor and substitute potentially offensive pieces with more culturally appropriate decor|
+|Communication and cultural/linguistic competence||9. Have available signage, language services, and printed patient information material that is appropriate for the cultures, languages, and literacy levels of patients in your practice|
+|10. Provide training for providers in patient-centered communication skills that focus on increasing participatory decision-making|
+|11. Provide cultural competence training for providers and staff in your setting|
+|Quality of care monitoring and assessing patient views of care||12. Measure the quality of care delivered in your clinical setting stratified by patient race–ethnicity|
+|13. Assess patient perceptions of care, e.g., using periodic self-administered surveys|
+|14. Provide a “suggestions box” so that patients can provide immediate feedback at the time of their visit|
+Table 2.
+|Aspect||Resource|
+|Financial aspects of health care delivery||The HRSA web site (
+|[www.togetherRxAccess.com](http://www.togetherRxAccess.com), accessed October 9, 2007), a program launched by a coalition of 10 pharmaceutical companies, may provide significant prescription drug savings for the uninsured. People without insurance can use this card at their pharmacy to receive savings on more than 275 generic and brand-name prescription medicines. Cardholders can save an average of 25 to 40% on their prescriptions [http://depts.washington.edu/ccph/guide.html](http://depts.washington.edu/ccph/guide.html), accessed October 9, 2007 [http://www.iom.edu/report.asp?id=18287](http://www.iom.edu/report.asp?id=18287), accessed October 9, 2007. This IOM report examines institutional and policy-level strategies to increase diversity among health professionals [http://www.futurehealth.ucsf.edu/cnetwork/index.html](http://www.futurehealth.ucsf.edu/cnetwork/index.html)(accessed October 9, 2007) provides access to educational and training resources including curriculum materials and training and consultative services [http://www.msh.org/programs/providers_guide.html](http://www.msh.org/programs/providers_guide.html)(accessed October 9, 2007). The web site provides educational training on patient and provider interaction, health disparities, characteristics of specific cultural groups, and links to additional resources [http://gucchd.georgetown.edu/nccc/index.html](http://gucchd.georgetown.edu/nccc/index.html)(accessed October 9, 2007) [www.cmwf.org](http://www.cmwf.org), Health Care Quality Program: Underserved Populations/Minority Health link ( [http://www.cmwf.org/topics/topics.htm?attrib_id=12024](http://www.cmwf.org/topics/topics.htm?attrib_id=12024), accessed October 9, 2007) provides a listing of Fund publications and journal articles relevant to cross-cultural communication and language [www.kff.org](http://www.kff.org), Minority Health/Racial Disparities link ( [http://www.kff.org/minorityhealth/disparities.cfm](http://www.kff.org/minorityhealth/disparities.cfm), accessed October 9, 2007) provides a listing of Foundation publications relevant to cross-cultural communication and language. One such link is the Compendium of Cultural Competence in Health Care, available at: [http://www.kff.org/uninsured/6067-index.cfm](http://www.kff.org/uninsured/6067-index.cfm)(accessed October 9, 2007) [http://www.diversityrx.org](http://www.diversityrx.org), serves as a clearinghouse for information on model programs and approaches to cross cultural health program development and implementation. One such model program is the Models and Practices, Bilingual Interpreter Services: Models Programs link, available at: [http://www.diversityrx.org/HTML/MOBISA.htm](http://www.diversityrx.org/HTML/MOBISA.htm)(accessed October 9, 2007) [www.healthdisparities.net](http://www.healthdisparities.net)(accessed October 9, 2007), includes information about models for changing practice that are relevant to cross-cultural communication and language [http://www.iom.edu/report.asp?id=4471](http://www.iom.edu/report.asp?id=4471)(accessed October 9, 2007). This IOM report addresses the challenge of improving health communications in a racially and culturally diverse society [http://www.cmwf.org/publications/publications_show.htm?doc_id=221320](http://www.cmwf.org/publications/publications_show.htm?doc_id=221320), accessed October 9, 2007 [http://www.cahealthliteracy.org/](http://www.cahealthliteracy.org/), accessed October 9, 2007) hosts the Health Literacy Resource Center, which is a resource for health literacy information and training [http://www.healthyroadsmedia.org/](http://www.healthyroadsmedia.org/), accessed October 9, 2007) contains free audio, written, and multimedia health education materials for a variety of chronic conditions in multiple languages, and targeting lower literacy populations [https://www.cahps.ahrq.gov/default.asp](https://www.cahps.ahrq.gov/default.asp). Accessed October 9, 2007 [http://www.ahrq.gov/qual/nhdr06/nhdr06.htm](http://www.ahrq.gov/qual/nhdr06/nhdr06.htm), accessed October 9, 2007 [http://www.qualitytools.ahrq.gov](http://www.qualitytools.ahrq.gov)and [http://www.qualitymeasures.ahrq.gov](http://www.qualitymeasures.ahrq.gov), accessed October 9, 2007 [http://www.cdc.gov/data/index.htm](http://www.cdc.gov/data/index.htm), accessed October 9, 2007
+HRSA = Health Resources and Services Administration, IOM = Institute of Medicine, UCSF = University of California at San Francisco, DHHS = Department of Health and Human Services, MSH = Management Sciences for Health, RCCHC = Resource for Cross Cultural Health Care, AHRQ = Agency for Healthcare Research and Quality, CAHPS = Consumer Assessment of Health Plans, CDC = Centers for Disease Control and Prevention
+FINANCIAL ASPECTS OF HEALTHCARE DELIVERY
+Rationale
+Access to health care – the timely use of personal health services to achieve the best health outcomes – is an essential prerequisite to obtaining high-quality care and increasing the quality and length of life.
+[14](#CR14), [21](#CR21) In the United States, financial barriers – particularly lack of health insurance – can impede access to care. For example, people without insurance are less likely to have a physician visit within a year or a regular source of care and more likely to have difficulty procuring medications. [22](#CR22)– [27](#CR27) Financial barriers reduce not only access but also quality of care. Uninsured adults are less likely to receive preventive services, appropriate care for chronic conditions, or care for serious conditions. [20](#CR20), [24](#CR24), [28](#CR28)– [31](#CR31)
+Compared to non-Hispanic whites, African Americans are twice as likely and Hispanics are 3 times as likely to be uninsured.
+[20](#CR20), [32](#CR32), [33](#CR33) Medicaid beneficiaries are also disproportionately African-American and Hispanic. Because Medicaid reimbursement for physician, specialty, and elective care is relatively low compared to other payers, many physicians limit acceptance of Medicaid insurance, causing Medicaid beneficiaries to face barriers similar to those of the uninsured. Racial–ethnic disparities in health service use are markedly diminished in health care systems such as the Department of Veterans Affairs that eliminate financial access barriers for those with low incomes. [4](#CR4), [5](#CR5) Indeed, the IOM asserts that access-related factors may be the most significant barriers to equitable care, and they must be addressed as an important first step toward eliminating health care disparities. [10](#CR10)
+Recommendations
+A national survey of primary care Internists in private practice found that two-thirds provide some charity care, generally by reducing or waiving fees for office visits to their existing patients who have become uninsured.
+[34](#CR34) Although charity care alone cannot adequately address the needs of the rising numbers of uninsured Americans, we recommend that practices consider incorporating sliding scale and/or flexible payment plans when possible and making these plans known to patients. [35](#CR35), [36](#CR36) Front desk staff often make decisions regarding charitable care in lieu of physicians [37](#CR37); therefore, practices should clearly communicate their flexible payment policies to front-line staff. The national survey of primary care Internists also found that only 45% of practices were accepting new patients with Medicaid. [34](#CR34) Practices might consider the cause of eliminating racial inequities in our society as an additional motivation to accept Medicaid patients.
+Patients often need services beyond the office visit, such as laboratory tests, diagnostic procedures, and medications. We recommend that clinical practices enroll in the many available programs that reimburse practices for the cost of delivering covered services to low-income patients. We also recommend that practices have referral information available for their patients for pharmaceutical manufacturer assistance programs. Over half of the top 200 prescribed medications in 1999 were offered through assistance programs to indigent patients.
+[38](#CR38), [39](#CR39) Clinicians’ involvement is brief but necessary for patient enrollment into these programs. Finally, we recommend that practices meet with representatives of their social work departments at their affiliated hospitals or health centers to identify available programs, determine how to easily enroll patients, and facilitate referrals for needed services.
+STRUCTURAL ASPECTS OF HEALTHCARE DELIVERY
+Rationale
+Structural aspects of health care delivery encompass the organization of care, appointment hours and length, and the degree to which components of the system (such as the physical environment, language and literacy of patient education materials, and staff diversity) are culturally appropriate for the patient population served. In 2001, the Department of Health and Human Services Office of Minority Health published national standards for culturally and linguistically appropriate services (CLAS) in health care.
+[40](#CR40) These standards include an appropriate mix of a culturally diverse staff at all levels of the organization that reflect the communities served, posted signage and instructional literature that is linguistically and culturally appropriate, provision of interpreters, cultural competence training for providers, and organizational support for CLAS through auditing of patient outcomes and satisfaction. These cultural-sensitivity interventions have the potential to improve health outcomes, patient satisfaction and adherence, and efficiency of services. [41](#CR41)– [43](#CR43)
+Recommendations
+We recommend that clinical settings aim to recruit and retain clinical and nonclinical staff who are culturally and linguistically representative of the communities they serve. Some institutions garner impetus for change by making the business case, that a diverse, culturally competent staff will help an institution gain market share by attracting minority consumers and purchasers interested in quality of care and satisfaction and by improving cost-effective care through provision of more appropriate services.
+[44](#CR44) Others make the case that diversity improves provision of equitable and high-quality care. [45](#CR45) Regardless of the justification, we recommend that clinical leaders first explore the current organizational climate, culture, policies, and training related to diversity, including confidential assessments of minority staff and leaders’ experiences in the organization. This information will portray how that setting integrates diversity, creates a work environment that welcomes or alienates minority staff and patients, and responds to cultural and racial tensions. Using this approach, organizations can then develop and implement a strategic plan for education, recruitment, and community involvement that is specific and linked to measurable outcomes and rewards for change agents. [46](#CR46), [47](#CR47) Clinical settings could also actively involve local community representatives in efforts to improve staffing and the physical environment.
+There is an increasing demand for low-literacy materials to be available to members of racial–ethnic minority groups who have the highest rates of inadequate health literacy.
+[15](#CR15), [16](#CR16), [48](#CR48) Presenting health educational materials in a format that is both familiar and readable increases the likelihood that it will be comprehended. [49](#CR49) Therefore, we recommend that the physical environment (including brochures, artwork, and signage) reflects and welcomes the population that is served in terms of language, literacy, and culture.
+COMMUNICATION AND CULTURAL/LINGUISTIC COMPETENCE
+Rationale
+Patient–provider communication is strongly and positively linked to health care processes and outcomes such as patient recall of information, adherence, satisfaction, and improved health status.
+[20](#CR20), [50](#CR50) Studies of patient–physician communication have documented racial–ethnic disparities in interpersonal aspects of care. Physicians exhibit less nonverbal attention, empathy, courtesy, and information giving [51](#CR51); adopt a more “narrowly biomedical” communication style [52](#CR52); spend a lower proportion of time intervals providing health education, chatting, and answering questions [53](#CR53); and are more verbally dominant and less patient-centered in the visits of ethnic minority patients. [19](#CR19) Longer visit lengths have been noted in racial-concordant provider–patient interactions (15.4 minutes versus 13.9 minutes for racial-discordant interactions). [54](#CR54) When ethnic minority patients are seen by same-race physicians, the pace of speech is slower and the emotional tone of patients is more positive. [54](#CR54) Patients also rate participatory decision-making and satisfaction higher in racial–ethnic concordant visits with physicians. [54](#CR54)– [56](#CR56)
+Language concordance between patients and providers and use of professional interpreter services (i.e., trained, fluent staff) have also been associated with better patient–physician communication, preventive care, rates of patient adherence, and patient ratings of care.
+[57](#CR57)– [65](#CR65) The evidence for the effectiveness of professional interpreter services is particularly strong, with several studies documenting improvements in the use of health services, patient satisfaction, patient understanding and recall of information, and reduction in medical errors. [61](#CR61)– [64](#CR64) By contrast, use of ad hoc interpreters such as family members or untrained nonclinical employees may have negative clinical consequences. [62](#CR62)
+Recommendations
+We recommend that interventions to reduce racial–ethnic disparities in health care address communication barriers, particularly those that are cultural and linguistic in nature. Physician communication skills training programs that emphasize patient-centeredness and affective dimensions such as rapport-building and emotion-handling have been shown to be effective at improving patient–physician interactions and patient outcomes.
+[66](#CR66), [67](#CR67) Numerous Internet-based resources are readily available as well (Table [2](#Tab2)). We recommend that clinicians consider participating in such programs, as they have the potential to improve quality for all patients, as well as to reduce racial–ethnic health care disparities. In addition to being mindful about their communication styles, providers should also be cognizant of how they use the time in patient encounters. [53](#CR53), [54](#CR54), [68](#CR68) Although time pressures often constrain visit length, providers should increase the visit length for cross-cultural interactions by at least the 2–3 extra minutes that they spend in race-concordant visits.
+Cultural and linguistic competence training often includes awareness of differences between physician culture and patient culture, training in the effective use of interpreter services, and language training. A recent systematic review shows that cultural competence training improves health professionals’ knowledge, attitudes, and skills, and a small number of studies have examined the effect of cultural competence training on improved appropriateness of care, patient adherence, and patient outcomes.
+[69](#CR69) We recommend that clinicians consider acquiring cultural competence training that addresses general cultural knowledge and skills, as well as specific cultural concepts for the patient populations served by their practices. While being aware of the diversity of cultural norms within given patient populations, physicians should remain mindful not to make automatic assumptions about patients based on their cultural affiliations.
+QUALITY-OF-CARE MONITORING
+Rationale
+Despite compelling evidence of the pervasiveness of racial–ethnic disparities in health care,
+[10](#CR10), [11](#CR11), [70](#CR70), [71](#CR71) most physicians responding to a 2001 survey disagreed with the statement that “our healthcare system treats people unfairly based on their race or ethnic background.” [72](#CR72) Agreement with this statement differed by physician race, with 77% of black physicians versus 25% of white physicians believing that disparities were common. Lack of awareness or recognition of racial disparities in health care is an obvious barrier to reducing them. The federal Agency for Healthcare Research and Quality (AHRQ) developed the National Healthcare Disparities Report (NHDR), a national “report card” on disparities, in recognition that an essential component to reducing disparities in the quality of health care is measuring and tracking them. [73](#CR73)– [74](#CR74)
+Recommendations
+While the NHDR may promote the cause of reducing disparities nationally, real change will only occur if individual hospitals, health plans, and practitioners begin to acknowledge and take action to reduce disparities.
+[75](#CR75), [76](#CR76) To this end, we recommend that practitioners, group practices, hospitals, and health plans implement methods to collect data on the quality of care they provide, stratified by patient race–ethnicity. The race and/or ethnicity groupings should be appropriate to the patient population or to the local community, and it should account for heterogeneity within minority populations because subgroup variations may have important implications for service delivery. [77](#CR77) Monitoring should also include whether referrals were made for indicated care and should track patients across clinical settings.
+There are several potential barriers to monitoring disparities in quality of care. First, there may be a perception among patients, clinicians, and/or administrators that collecting data on race–ethnicity may be considered intrusive, offensive, or illegal.
+[78](#CR78) While collecting these data is almost universally legal and, in some settings, required, [77](#CR77), [79](#CR79) the concern about the acceptability to patients is a legitimate one. Given the historical use of race as a means to discriminate against minority groups, some patients may react negatively to being asked about their race. However, data from patient surveys indicate that, while minority patients are wary of providing information about their race, they are generally willing to do so if it is clear that the purpose of collecting the data is to improve the quality of care. [80](#CR80) We recommend that clinical settings first determine how data on race–ethnicity are currently collected, then improve data collection by training staff to sensitively and accurately capture these data (and also data on preferred language).
+Another potential barrier to monitoring quality of care by race–ethnicity is the availability of data on quality. For clinical practices, quality indicator data are cumbersome to retrieve in the absence of electronic medical record systems. As these systems become more prevalent, efforts should be made to design them such that data can be entered in a way that allows quality reports to be generated. In the meantime, one aspect of quality – patient satisfaction – can be measured readily using self-administered surveys, such as the publicly available Consumer Assessment of Health Plans that assesses patients’ perceptions of their health plans and health care providers.
+[81](#CR81)– [83](#CR83) Surveys can be orally administered in populations with limited literacy. In addition to conducting periodic patient satisfaction surveys, we also recommend that clinical practices provide a “suggestions box” so that patients can provide immediate feedback at the time of their visits.
+DISCUSSION
+Eliminating racial–ethnic health care disparities requires thoughtful approaches in the way we deliver clinical care, conduct research, and educate current and future physicians.
+[84](#CR84) Moving forward to eliminate disparities will require comprehensive approaches and well-designed interventions at the practice, institutional, community, and national levels. [84](#CR84)– [86](#CR86)
+The state of the science for evidence-based interventions that are directly linked to eliminating health care disparities is still in an early stage.
+[13](#CR13) However, a recent review that summarizes the evidence for interventions to improve cultural appropriateness of care, doctor–patient communication, and patient views of the health care experience suggests that these mediators of equitable health care for racial–ethnic groups are linked to patient outcomes and, thus, associated with health and health care disparities. [87](#CR87) While much more research is required to define the most effective methods for eliminating disparities, specific recommendations are needed today for actions to incorporate the IOM and professional society guidelines into current clinical practice. The recommendations herein are measures that clinicians in practice can implement today to reduce racial–ethnic health care disparities among their own patient populations.
+Acknowledgements
+The authors gratefully acknowledge Judy Ann Bigby, Society of General Internal Medicine (SGIM) past President, who originated the idea for this paper, and members of the SGIM Disparities Task Force for valuable reflection and feedback. Drs. Washington (#RCD-00-017), Saha (#RCD-00-028), and Moody (#RCD-03-183) are supported by career development awards from the Department of Veterans Affairs, Health Services Research and Development Service. Dr. Saha is supported by a Generalist Physician Faculty Scholar award from the Robert Wood Johnson Foundation (RWJF). Drs. Horowitz (#P60 MD00270) and Brown (#P20MD00148) are supported by grants from the National Center on Minority Health and Health Disparities (NCMHD). Dr. Brown also received support from the University of California, Los Angeles, Resource Center in Minority Aging Research (#AG02004) and the Beeson Career Development Award (#AG26748). Dr. Cooper is supported by a grant from the National Heart, Lung, and Blood Institute (NHLBI) (K24HL083113). The views expressed within are solely those of the authors and do not necessarily reflect the views of the Department of Veterans Affairs, the RWJF, NCMHD, or NHLBI.
+Conflict of Interest Dr. Stone reports both consultancies for and receiving honoraria from Pfizer, Gilead Sciences, Bristol Myers Squibb, and Abbott Labs. Dr. Stone has also received honoraria from GlaxoSmithKline. Dr. Cooper has received research grant funding from Amgen. No other authors have conflicts of interest to report.
+Footnotes
+Funding: Drs. Washington (#RCD-00-017), Saha (#RCD-00-028), and Moody (#RCD-03-183) are supported by grants from the Department of Veterans Affairs, Health Services Research and Development Service. Dr. Saha is supported by a Generalist Physician Faculty Scholar award from the Robert Wood Johnson Foundation. Drs. Horowitz (#P60 MD00270) and Brown (#P20MD00148) are supported by grants from the National Center on Minority Health and Health Disparities. Dr. Brown also received support from the University of California, Los Angeles, Resource Center in Minority Aging Research (#AG02004) and the Beeson Career Development Award (#AG26748). Dr. Cooper is supported by a grant from the National Heart, Lung, and Blood Institute (K24HL083113).
+Contributor Information
+Donna L. Washington, Phone: +1-310-4783711, FAX: +1-310-2684933, Email: donna.washington@va.gov.
+Jacqueline Bowles, Email: Jacqueline.Bowles@va.gov.
+Somnath Saha, Email: sahas@ohsu.edu.
+Carol R. Horowitz, Email: Carol.Horowitz@msnyuhealth.org.
+Sandra Moody-Ayers, Email: Sandra.Moody@va.gov.
+Arleen F. Brown, Email: ABrown@mednet.ucla.edu.
+Valerie E. Stone, Email: VStone@partners.org.
+Lisa A. Cooper, Email: lisa.cooper@jhmi.edu.
+References
+- 1.Geiger HJ. Racial and ethnic disparities in diagnosis and treatment: A review of the evidence and a consideration of causes. In: Smedley BD, Stith AY, Nelson AR, eds. Unequal Treatment: Confronting Racial and Ethnic Disparities in Health Care. A Report of the Institute of Medicine. Washington, DC: National Academy Press; 2002.
+-
+2.Sheifer SE, Escarce JJ, Schulman KA. Race and sex differences in the management of coronary artery disease. Am Heart J. 2000;139(5):848–57. [
+[DOI](https://doi.org/10.1016/S0002-8703(00)90017-6)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/10783219/)]
+-
+3.Kressin NR, Petersen LA. Racial differences in the use of invasive cardiovascular procedures: Review of the literature and prescription for future research. Ann Intern Med. 2001;135(5):352–66. [
+[DOI](https://doi.org/10.7326/0003-4819-135-5-200109040-00012)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11529699/)]
+-
+4.Washington DL, Harada ND, Villa VM, et al. Racial variations in department of veterans affairs ambulatory care use and unmet health care needs. Mil Med. 2002;167(3):235–41. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/11901574/)]
+-
+5.Washington DL, Villa V, Brown A, Damron-Rodriguez J, Harada N. Racial/ethnic variations in veterans’ ambulatory care use. Am J Public Health. 2005;95(12):2231–7. [
+[DOI](https://doi.org/10.2105/AJPH.2004.043570)] [ [PMC free article](/articles/PMC1449512/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16257951/)]
+-
+6.Jha AK, Fisher ES, Li Z, Oray EJ, Epstein AM. Racial trends in the use of major procedures. N Engl J Med. 2005;353:683–91. [
+[DOI](https://doi.org/10.1056/NEJMsa050672)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16107621/)]
+-
+7.Kolb B, Wallace AM, Hill D, Royce M. Disparities in cancer care among racial and ethnic minorities. Oncology. 2006;20:1256–61. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/17024873/)]
+-
+8.Yergan J, Flood AB, LoGerfo JP, Diehr P. Relationship between patient race and the intensity of hospital services. Med Care. 1987;25:592–603. [
+[DOI](https://doi.org/10.1097/00005650-198707000-00003)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/3695664/)]
+-
+9.Cintron A, Morrison RS. Pain and ethnicity in the United States: A systematic review. J Palliat Med. 2006;9:1454–73. [
+[DOI](https://doi.org/10.1089/jpm.2006.9.1454)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/17187552/)]
+-
+10.Smedley BD, Stith AY, Nelson AR, eds.. In: Unequal Treatment: Confronting Racial and Ethnic Disparities in Health Care. A Report of the Institute of Medicine. Washington, DC: National Academy Press; 2002. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/25032386/)]
+-
+11.Mayberry RM, Mili F, Ofili E. Racial and ethnic differences in access to medical care. Med Care Res Rev. 2000;57(suppl 1):108–45. [
+[DOI](https://doi.org/10.1177/107755800773743628)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11092160/)]
+-
+12.Kirby JB, Taliaferro G, Zuvekas SH. Explaining racial and ethnic disparities in health care. Med Care. 2006;44(suppl 5):I64–72. [
+[DOI](https://doi.org/10.1097/01.mlr.0000208195.83749.c3)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16625066/)]
+-
+13.Cooper LA, Hill MN, Powe NR. Designing and evaluating interventions to eliminate racial and ethnic disparities in health care. J Gen Intern Med. 2002;17:477–86. [
+[DOI](https://doi.org/10.1046/j.1525-1497.2002.10633.x)] [ [PMC free article](/articles/PMC1495065/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12133164/)]
+- 14.Institute of Medicine, Committee on Monitoring Access to Personal Health Care Services. Access to health care in America: A model for monitoring access. Millman M. (Ed.). Washington, DC: National Academy Press; 1993.
+-
+15.Wilson JF. The crucial link between literacy and health. Ann Intern Med. 2003;139:875–8. [
+[DOI](https://doi.org/10.7326/0003-4819-139-10-200311180-00038)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/14623636/)]
+-
+16.Berkman ND, DeWalt DA, Pignone MP, et al. Literacy and Health Outcomes. Summary, Evidence Report/Technology Assessment: Number 87. AHRQ Publication Number 04-E007-1, January 2004. Agency for Healthcare Research and Quality, Rockville, MD. Available at:
+[http://www.ahrq.gov/clinic/epcsums/litsum.htm](http://www.ahrq.gov/clinic/epcsums/litsum.htm). Accessed October 9, 2007.
+-
+17.Sentell TL, Halpin HA. Importance of adult literacy in understanding health disparities. J Gen Intern Med. 2006;21:862–6. [
+[DOI](https://doi.org/10.1111/j.1525-1497.2006.00538.x)] [ [PMC free article](/articles/PMC1831569/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16881948/)]
+-
+18.Howard DH, Sentell T, Gazmararian JA. Impact of health literacy on socioeconomic and racial differences in health in an elderly population. J Gen Intern Med. 2006;21:857–61. [
+[DOI](https://doi.org/10.1111/j.1525-1497.2006.00530.x)] [ [PMC free article](/articles/PMC1831584/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16881947/)]
+-
+19.Johnson RL, Roter D, Powe NR, Cooper LA. Patient race and the quality of patient–physician communication during medical visits. Am J Public Health. 2004;94:2084–90. [
+[DOI](https://doi.org/10.2105/AJPH.94.12.2084)] [ [PMC free article](/articles/PMC1448596/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15569958/)]
+-
+20.Institute of Medicine. Crossing the Quality Chasm: a New Health System for the 21st Century. Washington, DC: National Academy Press; 2001. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/25057539/)]
+-
+21.Institute of Medicine, Committee on Guidance for Designing a National Healthcare Disparities Report. Guidance for the National Healthcare Disparities Report. Swift EK (Ed.). Washington, DC: National Academies Press; 2002, p. 20. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/25057628/)]
+-
+22.Andersen R, Aday LA. Access to medical care in the U.S.: realized and potential. Med Care. 1978;16:533–46. [
+[DOI](https://doi.org/10.1097/00005650-197807000-00001)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/672266/)]
+-
+23.Aday LA, Andersen RM. The national profile of access to medical care: where do we stand? Am J Public Health. 1984;74:1331–9. [
+[DOI](https://doi.org/10.2105/AJPH.74.12.1331)] [ [PMC free article](/articles/PMC1652683/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/6507684/)]
+-
+24.Hafner-Eaton C. Physician utilization disparities between the uninsured and insured: Comparisons of the chronically ill, acutely ill, and well nonelderly populations. JAMA. 1993;269:787–92. [
+[DOI](https://doi.org/10.1001/jama.269.6.787)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/8423663/)]
+-
+25.Weissman JS, Makadon HJ, Seage GR 3rd, et al.. Changes in insurance status and access to care for persons with AIDS in the Boston Health Study. Am J Public Health. 1994;84:1997–2000. [
+[DOI](https://doi.org/10.2105/AJPH.84.12.1997)] [ [PMC free article](/articles/PMC1615398/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/7998646/)]
+-
+26.Newacheck PW, Stoddard JJ, Hughes DC, Pearl M. Health insurance and access to primary care for children. N Engl J Med. 1998;338:513–519. [
+[DOI](https://doi.org/10.1056/NEJM199802193380806)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/9468469/)]
+-
+27.Becker G. Effects of being uninsured on ethnic minorities’ management of chronic illness. West J Med. 2001;175:19–23. [
+[DOI](https://doi.org/10.1136/ewjm.175.1.19)] [ [PMC free article](/articles/PMC1071457/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11431394/)]
+-
+28.Ayanian JZ, Weissman JS, Schneider EC, Ginsburg JA, Zaslavsky AM. Unmet health needs of uninsured adults in the United States. JAMA. 2000;284:2061–69. [
+[DOI](https://doi.org/10.1001/jama.284.16.2061)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11042754/)]
+-
+29.Burstin HR, Swartz K, O’Neil AC, Orav EJ, Brennan TA. The effect of change of health insurance on access to care. Inquiry. 1998–1999;35:389–97. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/10047769/)]
+-
+30.Schoen C, DesRoches C. Uninsured and unstably insured: the importance of continuous insurance coverage. Health Serv Res. 2000;35(1 Pt 2):187–206. [
+[PMC free article](/articles/PMC1089095/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/10778809/)]
+-
+31.Baker DW, Shapiro MF, Schur CL. Health insurance and access to care for symptomatic conditions. Arch Intern Med. 2000;160:1269–74. [
+[DOI](https://doi.org/10.1001/archinte.160.9.1269)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/10809029/)]
+-
+32.Hargraves JL, Hadley J. The contribution of insurance coverage and community resources to reducing racial/ethnic disparities in access to care. Health Serv Res. 2003;38:809–29. [
+[DOI](https://doi.org/10.1111/1475-6773.00148)] [ [PMC free article](/articles/PMC1360918/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12822914/)]
+- 33.The Morehouse Medical Treatment and Effectiveness Center. Racial and ethnic differences in access to medical care: a synthesis of the literature. Menlo Park, Calif: The Henry J. Kaiser Family Foundation; 2000.
+-
+34.Fairbrother G, Gusmano MK, Park HL, Scheinmann R. Care for the uninsured in general internists’ private offices. Health Affairs. 2003;22:217–224. [
+[DOI](https://doi.org/10.1377/hlthaff.22.6.217)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/14649449/)]
+-
+35.O’Toole TP, Simms PM, Dixon BW. Primary care office policies regarding care of uninsured adult patients. J Gen Intern Med. 2001;16:693–6. [
+[DOI](https://doi.org/10.1111/j.1525-1497.2001.00920.x)] [ [PMC free article](/articles/PMC1495271/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11679037/)]
+-
+36.Saha S, Bindman AB. The mirage of available health care for the uninsured. J Gen Intern Med. 2001;16:714–6. [
+[DOI](https://doi.org/10.1111/j.1525-1497.2001.10817.x)] [ [PMC free article](/articles/PMC1495281/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11679041/)]
+-
+37.Weiner SJ, Laporte M, Abrams RI, Moswin A, Warnecke R. Rationing access to care to the medically uninsured: the role of bureaucratic front-line discretion at large healthcare institutions. Med Care. 2004;42(4):306–12. [
+[DOI](https://doi.org/10.1097/01.mlr.0000118706.49341.49)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15076806/)]
+-
+38.Chisholm MA, DiPiro JT. Pharmaceutical manufacturer assistance programs. Arch Intern Med. 2002;162:780–784. [
+[DOI](https://doi.org/10.1001/archinte.162.7.780)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11926851/)]
+-
+39.Together Rx Access Pharmaceutical Savings Program. Available at:
+[www.togetherRxAccess.com](http://www.togetherRxAccess.com). Accessed October 9, 2007.
+-
+40.U.S. Department of Health and Human Services, Office of Minority Health. National standards for culturally and linguistically appropriate services in health care: final report. 2001. Available at:
+[www.omhrc.gov/clas/](http://www.omhrc.gov/clas/). Accessed October 9, 2007.
+-
+41.Brach C, Frasier I. Can cultural competency reduce racial and ethnic disparities? A review and conceptual model. Med Care Res Rev. 2000;57suppl 1181–217. [
+[DOI](https://doi.org/10.1177/107755800773743655)] [ [PMC free article](/articles/PMC5091811/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11092163/)]
+-
+42.Ley P. Satisfaction, compliance and communication. Br J Clin Psychol. 1982;21(Pt 4)241–54. [
+[DOI](https://doi.org/10.1111/j.2044-8260.1982.tb00562.x)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/7171877/)]
+-
+43.Betancourt JR, Green AR, Carrillo JE, Ananeh-Firempong O. Defining cultural competence: a practical framework for addressing racial/ethnic disparities in health and health care. Pub Health Rep. 2003;118:293–302. [
+[DOI](https://doi.org/10.1016/S0033-3549(04)50253-4)] [ [PMC free article](/articles/PMC1497553/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12815076/)]
+-
+44.Brach C, Fraser I. Reducing disparities through culturally competent care: an analysis of the business case. Qual Manag Health Care. 2002;10:15–28. [
+[DOI](https://doi.org/10.1097/00019514-200210040-00005)] [ [PMC free article](/articles/PMC5094358/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12938253/)]
+-
+45.Cohen JJ, Gabriel BA, Terrell C. The case for diversity in the health care workforce. Health Affairs. 2002;21:90–102. [
+[DOI](https://doi.org/10.1377/hlthaff.21.5.90)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12224912/)]
+-
+46.Frusti DK, Niesen KM, Campion JK. Creating a culturally competent organization: use of the diversity competency model. J Adv Nurs. 2003;33:31–38. [
+[DOI](https://doi.org/10.1097/00005110-200301000-00007)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12544623/)]
+-
+47.Dreachslin JL. Diversity leadership and organizational transformation: performance indicators for health services organizations. J Healthc Manag. 1999;44:427–39. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/10662430/)]
+-
+48.Tucker CM, Herman KC, Pedersen TR, Higley B, Montrichard M, Ivery P. Cultural sensitivity in physician–patient relationships: perspectives of an ethnically diverse sample of low-income primary care patients. Med Care. 2003;41:859–70. [
+[DOI](https://doi.org/10.1097/00005650-200307000-00010)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12835610/)]
+-
+49.Wells JA. Readability of HIV/AIDS education materials: the role of the medium of communication, target audience, and producer characteristics. Patient Educ Couns. 1994;24:249–59. [
+[DOI](https://doi.org/10.1016/0738-3991(94)90068-X)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/7753718/)]
+-
+50.Stewart M, Brown JB, Boon H, Galajda J, Meredith L, Sangster M. Evidence on patient–doctor communication. Cancer Prev Control. 1999;3(1):25–30. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/10474749/)]
+-
+51.Hooper EM, Comstock LM, Goodwin JM, Goodwin JS. Patient characteristics that influence physician behavior. Med Care. 1982;20:630–8. [
+[DOI](https://doi.org/10.1097/00005650-198206000-00009)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/7109746/)]
+-
+52.Roter DL, Stewart M, Putnam SM, Lipkin M Jr., Stiles W, Inui TS. Communication patterns of primary care physicians. JAMA. 1997;277:350–6. [
+[DOI](https://doi.org/10.1001/jama.277.4.350)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/9002500/)]
+-
+53.Oliver MN, Goodwin MA, Gotler RS, Gregory PM, Stange KC. Time use in clinical encounters: are African-American patients treated differently. J Natl Med Assoc. 2001;93(10):380–5. [
+[PMC free article](/articles/PMC2594073/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11688918/)]
+-
+54.Cooper LA, Roter DL, Johnson RL, Ford DE, Steinwachs DM, Powe NR. Patient-centered communication, ratings of care, and concordance of patient and physician race. Ann Intern Med. 2003;139:907–15. [
+[DOI](https://doi.org/10.7326/0003-4819-139-11-200312020-00009)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/14644893/)]
+-
+55.Cooper-Patrick L, Gallo JJ, Gonzales JJ, et al.. Race, gender, and partnership in the patient–physician relationship. JAMA. 1999;282(6):583–9. [
+[DOI](https://doi.org/10.1001/jama.282.6.583)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/10450723/)]
+-
+56.Saha S, Komaromy M, Koepsell TD, Bindman AB. Patient–physician racial concordance and the perceived quality and use of health care. Arch Intern Med. 1999;159:997–1004. [
+[DOI](https://doi.org/10.1001/archinte.159.9.997)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/10326942/)]
+-
+57.Manson A. Language concordance as a determinant of patient compliance and emergency room use in patients with asthma. Med Care. 1988;26(12):1119–28. [
+[DOI](https://doi.org/10.1097/00005650-198812000-00003)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/3199910/)]
+-
+58.Seijo R, Gomez H, Freidenberg J. Language is a communication barrier in medical care for Latino patients. Hisp J Behav Sci. 1991;13:363. [
+[DOI](https://doi.org/10.1177/07399863910134001)]
+-
+59.David RA, Rhee M. The impact of language as a barrier to effective health care in an underserved urban Hispanic community. Mt Sinai J Med. 1998;65(5–6):393–7. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/9844369/)]
+-
+60.Baker DW, Parker RM, Williams MV, Coates WC, Pitkin K. Use and effectiveness of interpreters in an emergency department. JAMA. 1996;275(10):783–8. [
+[DOI](https://doi.org/10.1001/jama.275.10.783)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/8598595/)]
+-
+61.Hornberger JC, Gibson CD Jr, Wood W, et al. Eliminating language barriers for non-English-speaking patients. Med Care. 1996;34(8):845–56. [
+[DOI](https://doi.org/10.1097/00005650-199608000-00011)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/8709665/)]
+-
+62.Jacobs EA, Lauderdale DS, Meltzer D, Shorey JM, Levinson W, Thisted RA. Impact of interpreter services on delivery of health care to limited-English-proficient patients. J Gen Intern Med. 2001;16(7):493–5. [
+[DOI](https://doi.org/10.1046/j.1525-1497.2001.016007468.x)] [ [PMC free article](/articles/PMC1495243/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11520385/)]
+-
+63.Lee LJ, Batal HA, Maselli JH, Kutner JS. Effect of Spanish interpretation method on patient satisfaction in an urban walk-in clinic. J Gen Intern Med. 2002;17(8):641–5. [
+[DOI](https://doi.org/10.1046/j.1525-1497.2002.10742.x)] [ [PMC free article](/articles/PMC1495083/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12213146/)]
+-
+64.Flores G, Laws MB, Mayo SJ, et al. Errors in medical interpretation and their potential clinical consequences in pediatric encounters. Pediatrics. 2003;111(1):6–14. [
+[DOI](https://doi.org/10.1542/peds.111.1.6)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12509547/)]
+-
+65.Mazor SS, Hampers LC, Chande VT, Krug SE. Teaching Spanish to pediatric emergency physicians: effects on patient satisfaction. Arch Pediatr Adolesc Med. 2002;156(7):693–5. [
+[DOI](https://doi.org/10.1001/archpedi.156.7.693)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12090837/)]
+-
+66.Roter DL, Cole KA, Kern DE, Barker LR, Grayson M. An evaluation of residency training in interviewing skills and the psychosocial domain of medical practice. J Gen Intern Med. 1990;5:347–54. [
+[DOI](https://doi.org/10.1007/BF02600404)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/2197377/)]
+-
+67.Levinson W, Roter D. The effects of two continuing medical education programs on communication skills of practicing primary care physicians. J Gen Intern Med. 1993;8:318–24. [
+[DOI](https://doi.org/10.1007/BF02600146)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/8320576/)]
+-
+68.Fiscella K, Meldrum S, Franks P, et al.. Patient trust: is it related to patient-centered behavior of primary care physicians? Med Care. 2004;42:1049–55. [
+[DOI](https://doi.org/10.1097/00005650-200411000-00003)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15586831/)]
+-
+69.Beach MC, Price EG, Gary TL, et al. Cultural competence: A systematic review of health care provider educational interventions. Med Care. 2005;43(4):356–73. [
+[DOI](https://doi.org/10.1097/01.mlr.0000156861.58905.96)] [ [PMC free article](/articles/PMC3137284/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15778639/)]
+-
+70.Physicians for Human Rights, Panel on Racial and Ethnic Disparities in Medical Care. The Right to Equal Treatment: An Action Plan to End Racial and Ethnic Disparities in Clinical Diagnosis and Treatment in the United States. September 2003. Available at:
+[http://physiciansforhumanrights.org/library/report-equaltreatment-2003.html](http://physiciansforhumanrights.org/library/report-equaltreatment-2003.html). Accessed October 9, 2007.
+-
+71.Weinick RM, Zuvekas SH, Cohen JW. Racial and ethnic differences in access to and use of health care services, 1977 to 1996. Med Care Res Rev. 2000;57:36–54. [
+[DOI](https://doi.org/10.1177/107755800773743592)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11092157/)]
+- 72.Kaiser Family Foundation. National Survey of Physicians. Part I: Doctors on Disparities in Medical Care. Menlo Park, CA: Kaiser Family Foundation; 2002.
+- 73.Agency for Healthcare Research and Quality. National Healthcare Disparities Report. Rockville, MD: Agency for Healthcare Research and Quality; 2003.
+-
+74.Fiscella K, Franks P, Gold MR, Clancy CM. Inequality in quality: addressing socioeconomic, racial, and ethnic disparities in health care. JAMA. 2000;283:2579–84. [
+[DOI](https://doi.org/10.1001/jama.283.19.2579)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/10815125/)]
+-
+75.Sehgal AR. Impact of quality improvement efforts on race and sex disparities in hemodialysis. JAMA. 2003;289:996–1000. [
+[DOI](https://doi.org/10.1001/jama.289.8.996)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12597751/)]
+-
+76.Felix Aaron K, Clancy CM. Improving quality and reducing disparities, toward a common pathway. JAMA. 2003;289:1033–34. [
+[DOI](https://doi.org/10.1001/jama.289.8.1033)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12597759/)]
+-
+77.Mays VM, Ponce NA, Washington DL, Cochran SD. Classification of race and ethnicity: implications for public health. Annu Rev Public Health. 2003;24:83–110. [
+[DOI](https://doi.org/10.1146/annurev.publhealth.24.100901.140927)] [ [PMC free article](/articles/PMC3681827/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12668755/)]
+-
+78.Hargraves JL. Community efforts to reduce racial or ethnic disparities in health. Academy Health Annual Meeting Abstracts, 2003. Available at
+[http://www.academyhealth.org/arm/ViewAbstract.cfm?uid=D058](http://www.academyhealth.org/arm/ViewAbstract.cfm?uid=D058). Accessed October 9, 2007.
+- 79.Perot RT, Youdelman M. Racial, Ethnic, and Primary Language Data Collection in the Health Care System: An Assessment of Federal Policies and Practices. New York: Commonwealth Fund; 2001.
+-
+80.Baker DW, Cameron KA, Feinglass J, et al. Patients’ attitudes toward health care providers collecting information about their race and ethnicity. J Gen Intern Med. 2005;20(10):895–900. [
+[DOI](https://doi.org/10.1111/j.1525-1497.2005.0195.x)] [ [PMC free article](/articles/PMC1490236/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16191134/)]
+-
+81.Hargraves JL, Hays RD, Cleary PD, et al.. Psychometric properties of the Consumer Assessment of Health Plans Study (CAHPS) 2.0 adult core survey. Health Serv Res. 2003;38:1509–27. [
+[DOI](https://doi.org/10.1111/j.1475-6773.2003.00190.x)] [ [PMC free article](/articles/PMC1360961/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/14727785/)]
+-
+82.Hays RD, Chong K, Brown J, Spritzer KL, Horne K. Patient reports and ratings of individual physicians: an evaluation of the Doctor Guide and Consumer Assessment of Health Plans Study provider-level surveys. Am J Med Qual. 2003;18:190–6. [
+[DOI](https://doi.org/10.1177/106286060301800503)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/14604271/)]
+-
+83.Agency for Healthcare Research and Quality. The CAHPS Health Plan Survey. Agency for Healthcare Research and Quality, 2002. Available at
+[https://www.cahps.ahrq.gov](https://www.cahps.ahrq.gov). Accessed October 9, 2007.
+-
+84.Bigby J. The challenge of eliminating disparities in health. J Gen Intern Med. 2002;17:489–90. [
+[DOI](https://doi.org/10.1046/j.1525-1497.2002.20509.x)] [ [PMC free article](/articles/PMC1495060/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12133166/)]
+-
+85.Lavizzo-Mourey R, Lumpkin JR. From unequal treatment to quality care. Ann Intern Med. 2004;141:221. [
+[DOI](https://doi.org/10.7326/0003-4819-141-3-200408030-00011)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15289219/)]
+-
+86.King TE, Wheeler MB. Inequality in health care: unjust, inhumane, and unattended!. Ann Intern Med. 2004;141:815–17. [
+[DOI](https://doi.org/10.7326/0003-4819-141-10-200411160-00015)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15545683/)]
+-
+87.Long JA, Chang VW, Ibrahim SA, Asch DA. Update on the health disparities literature. Ann Intern Med. 2004;141:805–12. [
+[DOI](https://doi.org/10.7326/0003-4819-141-10-200411160-00013)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15545681/)]

@@ -1,14 +1,12 @@
 # ------------------------------------------------------------
-# Compendium of U.S. Health Systems — Keyword & URL Master List
-# Generated: 2025-05-20
-# Purpose: Feed these terms/links into PubMed, OpenAlex, Google
-# Scholar, and regex classifiers so the pipeline captures every
-# article that cites *or* uses the AHRQ Compendium.
+# AHRQ Compendium of U.S. Health Systems — Keyword & URL Master List
+# Generated: 2025-05-20  (auto-update years & URLs in release script)
 # ------------------------------------------------------------
 
-# 1. EXACT landing‑page URLs
+# 1. EXACT landing-page URLs (keep these literal so "site:" searches match)
 exact_urls:
   - "https://www.ahrq.gov/chsp/data-resources/compendium.html"
+  - "https://www.ahrq.gov/chsp/data-resources/compendium-2024.html"
   - "https://www.ahrq.gov/chsp/data-resources/compendium-2023.html"
   - "https://www.ahrq.gov/chsp/data-resources/compendium-2022.html"
   - "https://www.ahrq.gov/chsp/data-resources/compendium-2021.html"
@@ -16,7 +14,7 @@ exact_urls:
   - "https://www.ahrq.gov/chsp/data-resources/compendium-2018.html"
   - "https://www.ahrq.gov/chsp/data-resources/compendium-2016.html"
 
-# 2. DATA‑brief PDF URLs (include full paths so link searches match)
+# 2. DATA-brief PDF URLs (full paths so they hit in citation lists)
 pdf_urls:
   - "https://www.ahrq.gov/sites/default/files/wysiwyg/chsp/data/chsp-brief8-nursinghomes.pdf"
   - "https://www.ahrq.gov/sites/default/files/wysiwyg/chsp/data/chsp-brief7-ma-plans.pdf"
@@ -27,38 +25,80 @@ pdf_urls:
   - "https://www.ahrq.gov/sites/default/files/wysiwyg/chsp/data/chsp-brief2-us-health-system-characteristics-2016.pdf"
   - "https://www.ahrq.gov/sites/default/files/wysiwyg/chsp/data/chsp-brief1-snapshot-of-us-health-systems-2016.pdf"
 
-# 3. TITLES & PHRASE VARIANTS (use quotes when passing to APIs)
+# 3. FORMAL TITLES & CORE PHRASES (wrap in quotes when hitting string-based APIs)
 phrase_variants:
   - "Compendium of U.S. Health Systems"
   - "Compendium of US Health Systems"
   - "AHRQ Compendium of U.S. Health Systems"
-  - "AHRQ Compendium"
+  - "AHRQ Compendium of US Health Systems"
+  - "AHRQ Compendium dataset"
   - "AHRQ health system compendium"
+  - "Compendium hospital database"
 
-# 4. YEAR‑SPECIFIC COMBO QUERIES (for Scholar / OpenAlex filters)
+# 4. YEAR-COMBO QUERIES (for Scholar / OpenAlex; update yearly)
 year_combos:
-  - "\"Compendium 2024\" AND AHRQ"
-  - "\"Compendium 2023\" AND AHRQ"
-  - "\"Compendium 2022\" AND AHRQ"
-  - "\"Compendium 2021\" AND AHRQ"
-  - "\"Compendium 2020\" AND AHRQ"
-  - "\"Compendium 2018\" AND AHRQ"
-  - "\"Compendium 2016\" AND AHRQ"
+  - "Compendium 2024 AND AHRQ"
+  - "Compendium 2023 AND AHRQ"
+  - "Compendium 2022 AND AHRQ"
+  - "Compendium 2021 AND AHRQ"
+  - "Compendium 2020 AND AHRQ"
+  - "Compendium 2019 AND AHRQ"
+  - "Compendium 2018 AND AHRQ"
+  - "Compendium 2017 AND AHRQ"
+  - "Compendium 2016 AND AHRQ"
 
-# 5. AHRQ + COMPENDIUM GENERAL COMBOS
+# 5. CONTEXT TERMS  (bonus points in relevance model)
+context_terms:
+  - hospital
+  - "health system"
+  - "health-system"
+  - merger
+  - acquisition
+  - consolidation
+  - "vertical integration"
+  - affiliation
+  - ownership
+
+# 6. AHRQ-specific combos (non-year)
 ahrq_combos:
-  - "\"AHRQ\" AND \"Compendium of U.S. Health Systems\""
-  - "AHRQ Compendium health systems"
+  - "AHRQ AND Compendium of U.S. Health Systems"
   - "AHRQ dataset Compendium"
+  - "Agency for Healthcare Research and Quality Compendium"
+  - "AHRQ hospital compendium"
 
-# 6. FUNDING / ACKNOWLEDGMENT PHRASES (captures methods sections)
+# 7. FUNDING / ACKNOWLEDGMENT PHRASES (catch methods sections)
 funding_acknowledgment:
-  - "\"Agency for Healthcare Research and Quality\" AND Compendium"
-  - "\"Agency for Healthcare Research and Quality\" funding AND Compendium"
+  - "Agency for Healthcare Research and Quality AND Compendium"
+  - "Agency for Healthcare Research and Quality funding AND Compendium"
   - "AHRQ grant AND Compendium"
+  - "R01 AND Compendium of U.S. Health Systems"
 
-# 7. REGEX PATTERNS for full‑text usage detection (Python re syntax)
+# 8. NEGATIVE FILTERS (immediate reject if hits – chemistry, genetics, etc.)
+negative_filters:
+  - imidazoline
+  - solvolysis
+  - aminotransferase
+  - desaturase
+  - catalysis
+  - nanoparticle
+  - electrochemical
+  - microfluidic
+  - polymerase
+
+# 9. REGEX PATTERNS for full-text usage detection (Python re syntax)
 regex_usage_patterns:
-  - "(?:used|utili[sz]ed|linked|merged|drew)\\s+(?:the\\s+)?(?:ahrq\\s+)?compendium"
-  - "ahrq\\.gov/.+compendium-[0-9]{4}\\.html"
+  # direct usage verbs near compendium
+  - "(?:used|utili[sz]ed|linked|merged|drew|leverag(?:ed|ing))\\s+(?:the\\s+)?(?:ahrq\\s+)?compendium"
+  # references to specific PDF briefs
   - "chsp-brief[0-9]+-[a-z0-9-]+\\.pdf"
+  # any year-specific landing page URL inside the text
+  - "ahrq\\.gov/.+compendium-[0-9]{4}\\.html"
+
+# 10. OPTIONAL  journal whitelist / blacklist for scoring (not used in regex)
+journal_whitelist:
+  - "Health Affairs"
+  - "Health Services Research"
+  - "Medical Care"
+  - "JAMA"
+  - "American Journal of Managed Care"
+  - "Health Care Management Review"

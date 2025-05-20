@@ -51,10 +51,24 @@ SEED_PMID = "30674227"  # 2019 JAMA Methods paper for Compendium
 HASH_ALGORITHM = "sha256"
 
 # --- stage-2 relevance scoring  ----------------------------
+# Signal class weights for the enhanced scoring system
 RELEVANCE_WEIGHTS = {
-    "keyword_hit": 1,
-    "context_term": 1,
-    "journal_whitelist": 1,
-    "negative_filter": -2,
+    # Positive signals
+    "keyword_hit": 0.5,          # Baseline: we fetched it
+    "canonical_term": 2.0,       # A: Almost a sure thing
+    "dataset_author_seed": 1.5,  # B: Cites seed PMID or matches known author
+    "integration_term": 1.0,     # C: Integration/market structure term
+    "scope_term": 1.0,          # D: US health-system scope cue
+    "journal_whitelist": 0.5,    # E: Journal in whitelist
+    
+    # Negative signals
+    "neg_geography": -1.0,       # F: Negative geography term
+    "neg_domain": -1.0,         # G: Negative domain term
+    
+    # Minor heuristics
+    "short_title": 0.0,        # Titles < 5 words (often editorials)
+    "old_paper": -0.5,          # Year < 2008 (Compendium launched 2016)
 }
-RELEVANCE_THRESHOLD = 2  # Reduced from 3 to be less strict
+
+# Keep anything with composite score >= 0
+RELEVANCE_THRESHOLD = 0.0

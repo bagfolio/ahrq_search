@@ -47,7 +47,7 @@ year_combos:
   - "Compendium 2017 AND AHRQ"
   - "Compendium 2016 AND AHRQ"
 
-# 5. CONTEXT TERMS  (bonus points in relevance model)
+# 5. CONTEXT TERMS (deprecated - kept for backward compatibility)
 context_terms:
   - hospital
   - "health system"
@@ -58,6 +58,45 @@ context_terms:
   - "vertical integration"
   - affiliation
   - ownership
+
+# NEW SIGNAL CATEGORIES FOR ENHANCED SCORING
+# A - Canonical Compendium mentions
+canonical_terms:
+  - "Compendium of U.S. Health Systems"
+  - "AHRQ Compendium"
+
+# B - Dataset / author seeds (exact match OR fuzzy ≈ 0.85)
+dataset_author_seeds:
+  - 30674227              # seed PMID
+  - Furukawa
+  - "Lewis VA"
+  - "Machta RM"
+  - "Shortell SM"
+  - "O'Malley AJ"
+
+# C - Integration / market structure lexicon
+integration_terms:
+  - "vertical integration"
+  - "horizontal integration"
+  - "hospital merger"
+  - acquisition
+  - "private equity"
+  - "market consolidation"
+  - "CJR model"
+  - "bundled payment"
+  - "ACO participation"
+  - "system membership"
+
+# D - US health-system scope cues
+scope_terms:
+  - "U.S. health system"
+  - "U.S. hospital"
+  - Medicare
+  - CMS
+  - "acute-care hospital"
+  - "community hospital"
+  - "academic medical center"
+  - "multisite health system"
 
 # 6. AHRQ-specific combos (non-year)
 ahrq_combos:
@@ -94,11 +133,44 @@ regex_usage_patterns:
   # any year-specific landing page URL inside the text
   - "ahrq\\.gov/.+compendium-[0-9]{4}\\.html"
 
-# 10. OPTIONAL  journal whitelist / blacklist for scoring (not used in regex)
+# 10. Journal whitelist for scoring (Signal class E)
 journal_whitelist:
   - "Health Affairs"
   - "Health Services Research"
   - "Medical Care"
   - "JAMA"
+  - "JAMA Network Open"
+  - "JAMA Surgery"
+  - "JAMA Health Forum"
   - "American Journal of Managed Care"
   - "Health Care Management Review"
+  - "Annals of Surgery"
+  - "Medical Care Research and Review"
+
+# 11. Negative geography terms (Signal class F)
+neg_geography:
+  - China
+  - sub-Saharan
+  - India
+  - Canada
+  - Australia
+  - Europe
+  - Africa
+  - Asia
+  - "province"            # triggers many non-US hospital studies
+
+# 12. Negative domain terms (Signal class G)
+neg_domain:
+  - paediatric
+  - pediatric
+  - neonate
+  - antimicrobial resistance
+  - bacteriology
+  - dengue
+  - ivermectin
+  - cattle
+  - equine
+  - veterinary
+  - "One Health"
+  - fish
+  - mice

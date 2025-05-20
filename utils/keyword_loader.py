@@ -82,13 +82,38 @@ class KeywordLoader:
         return "unknown"
         
     def get_context_terms(self) -> List[str]:
-        """Get the context terms for relevance scoring."""
+        """Get the context terms for relevance scoring (deprecated)."""
         return self.keywords.get('context_terms', [])
 
     def get_negative_filters(self) -> List[str]:
-        """Get negative filters that reduce relevance score."""
+        """Get negative filters that reduce relevance score (deprecated)."""
         return self.keywords.get('negative_filters', [])
 
     def get_journal_whitelist(self) -> List[str]:
-        """Get whitelist of journals that increase relevance score."""
+        """Get whitelist of journals that increase relevance score (Signal class E)."""
         return self.keywords.get('journal_whitelist', [])
+        
+    # New getters for enhanced scoring system
+    def get_canonical_terms(self) -> List[str]:
+        """Get canonical Compendium mentions (Signal class A)."""
+        return self.keywords.get('canonical_terms', [])
+        
+    def get_dataset_author_seeds(self) -> List[str]:
+        """Get dataset/author seeds (Signal class B)."""
+        return self.keywords.get('dataset_author_seeds', [])
+        
+    def get_integration_terms(self) -> List[str]:
+        """Get integration/market structure terms (Signal class C)."""
+        return self.keywords.get('integration_terms', [])
+        
+    def get_scope_terms(self) -> List[str]:
+        """Get US health-system scope cues (Signal class D)."""
+        return self.keywords.get('scope_terms', [])
+        
+    def get_neg_geography(self) -> List[str]:
+        """Get negative geography terms (Signal class F)."""
+        return self.keywords.get('neg_geography', [])
+        
+    def get_neg_domain(self) -> List[str]:
+        """Get negative domain terms (Signal class G)."""
+        return self.keywords.get('neg_domain', [])

@@ -19,7 +19,6 @@ import os
 import sys
 import argparse
 import logging
-from datetime import datetime
 import time
 import pathlib
 import concurrent.futures
@@ -135,139 +134,6 @@ class CompendiumTracker:
         "funding_acknowledgment": {"pubmed": True, "openalex": True, "scholar": True},
     }
     
-    # -----------------------------------------------------------
-    #  Light-weight "rank & prune" scorers (title / abstract only)
-    # -----------------------------------------------------------
-    def _score_row(self, row: pd.Series) -> float:
-        """Score a citation row using the enhanced multi-signal scoring system.
-        
-        Args:
-            row: DataFrame row containing citation data
-            
-        Returns:
-            float: The composite score, higher values indicate more relevance
-        """
-        w = config.RELEVANCE_WEIGHTS
-        score = 0.0
-        details = []
-        flags = {}
-        
-        # Get text fields for scoring
-        title = str(row.get('title', '')).strip()
-        abstract = str(row.get('abstract', '')).strip()
-        authors = str(row.get('author_string', '')).strip()
-        journal = str(row.get('journal', '')).strip()
-        year = row.get('year')
-        pmid = str(row.get('pmid', '')).strip()
-        
-        # Combined text for term matching
-        text = f"{title} {abstract}".lower()
-
-        # ---------- POSITIVE SIGNALS ----------
-        
-        # Baseline: we fetched it
-        score += w["keyword_hit"]
-        details.append(f"keyword_hit: +{w['keyword_hit']}")
-        flags["keyword_hit"] = True
-        
-        # A: Canonical Compendium mentions
-        matching_canonical = [term for term in self.keyword_loader.get_canonical_terms() 
-                             if term.lower() in text]
-        if matching_canonical:
-            score += w["canonical_term"]
-            details.append(f"canonical_term: +{w['canonical_term']} (matches: {', '.join(matching_canonical[:3])})")
-            flags["canonical_term"] = True
-            
-        # B: Dataset author seeds
-        seed_pmid = "30674227"  # Primary seed PMID
-        seed_terms = self.keyword_loader.get_dataset_author_seeds()
-        
-        # Split into PMIDs and author names
-        seed_pmids = [str(item) for item in seed_terms if isinstance(item, int) or (isinstance(item, str) and item.isdigit())]
-        seed_authors = [item for item in seed_terms if isinstance(item, str) and not item.isdigit()]
-        
-        # Check for seed PMID in citation references
-        has_seed_cite = any(p in pmid for p in seed_pmids)
-        
-        # Check for known authors
-        author_matches = [author for author in seed_authors 
-                         if isinstance(author, str) and author.lower() in authors.lower()]
-        
-        if has_seed_cite or author_matches:
-            score += w["dataset_author_seed"]
-            if has_seed_cite:
-                details.append(f"dataset_author_seed: +{w['dataset_author_seed']} (cites seed PMID)")
-            else:
-                details.append(f"dataset_author_seed: +{w['dataset_author_seed']} (author: {', '.join(author_matches[:3])})")
-            flags["dataset_author_seed"] = True
-            
-        # C: Integration terms
-        matching_integration = [term for term in self.keyword_loader.get_integration_terms() 
-                              if term.lower() in text]
-        if matching_integration:
-            score += w["integration_term"]
-            details.append(f"integration_term: +{w['integration_term']} (matches: {', '.join(matching_integration[:3])})")
-            flags["integration_term"] = True
-            
-        # D: Scope terms
-        matching_scope = [term for term in self.keyword_loader.get_scope_terms() 
-                        if term.lower() in text]
-        if matching_scope:
-            score += w["scope_term"]
-            details.append(f"scope_term: +{w['scope_term']} (matches: {', '.join(matching_scope[:3])})")
-            flags["scope_term"] = True
-            
-        # E: Journal whitelist
-        if journal in self.keyword_loader.get_journal_whitelist():
-            score += w["journal_whitelist"]
-            details.append(f"journal_whitelist: +{w['journal_whitelist']} ({journal})")
-            flags["journal_whitelist"] = True
-            
-        # ---------- NEGATIVE SIGNALS ----------
-            
-        # F: Negative geography
-        matching_geography = [term for term in self.keyword_loader.get_neg_geography() 
-                            if term.lower() in text]
-        if matching_geography:
-            score += w["neg_geography"]
-            details.append(f"neg_geography: {w['neg_geography']} (matches: {', '.join(matching_geography[:3])})")
-            flags["neg_geography"] = True
-            
-        # G: Negative domain
-        matching_domain = [term for term in self.keyword_loader.get_neg_domain() 
-                          if term.lower() in text]
-        if matching_domain:
-            score += w["neg_domain"]
-            details.append(f"neg_domain: {w['neg_domain']} (matches: {', '.join(matching_domain[:3])})")
-            flags["neg_domain"] = True
-            
-        # ---------- MINOR HEURISTICS ----------
-            
-        # Short title penalty (often editorials)
-        if len(title.split()) < 5:
-            score += w["short_title"]
-            details.append(f"short_title: {w['short_title']} (title has fewer than 5 words)")
-            flags["short_title"] = True
-            
-        # Old paper penalty (Compendium launched 2016)
-        try:
-            if year and int(year) < 2008:
-                score += w["old_paper"]
-                details.append(f"old_paper: {w['old_paper']} (year: {year})")
-                flags["old_paper"] = True
-        except (ValueError, TypeError):
-            # Skip if year can't be converted to int
-            pass
-            
-        # Add flags to row for auditing
-        row["score_flags"] = ",".join([flag for flag, value in flags.items() if value])
-
-        # Format title for logging
-        title_snippet = title[:50] + '...' if len(title) > 50 else title
-        logging.debug(f"Score for '{title_snippet}': {score:.1f} [{', '.join(details)}]")
-        
-        return score
-    
     def _collect_citations(self) -> Dict[str, pd.DataFrame]:
         """
         Collect citations from all sources.
@@ -301,66 +167,8 @@ class CompendiumTracker:
                     df = collector.search(filtered_terms)
                 
                 if df is not None and not df.empty:
-                    # Apply enhanced relevance scoring and filtering
-                    df["stage2_score"] = df.apply(self._score_row, axis=1)
-                    original_len = len(df)
-                    
-                    # Log score distribution for debugging
-                    score_counts = df["stage2_score"].value_counts().sort_index()
-                    logger.info(f"Score distribution for {name}: {dict(score_counts)}")
-                    
-                    # Log signal flag distribution
-                    if logger.isEnabledFor(logging.INFO):
-                        # Count occurrences of each signal flag
-                        flag_counts = {}
-                        for _, row in df.iterrows():
-                            if pd.notna(row.get('score_flags')):
-                                flags = str(row.get('score_flags')).split(',')
-                                for flag in flags:
-                                    flag_counts[flag] = flag_counts.get(flag, 0) + 1
-                        
-                        # Group by signal class for more readable output
-                        positive_flags = {k: v for k, v in flag_counts.items() 
-                                       if k in ['canonical_term', 'dataset_author_seed', 'integration_term', 
-                                                'scope_term', 'journal_whitelist']}
-                        negative_flags = {k: v for k, v in flag_counts.items() 
-                                        if k in ['neg_geography', 'neg_domain', 'short_title', 'old_paper']}
-                        
-                        logger.info(f"Positive signal distribution: {positive_flags}")
-                        logger.info(f"Negative signal distribution: {negative_flags}")
-                    
-                    # Filter based on threshold (keep anything with score >= 0)
-                    df = df[df["stage2_score"] >= config.RELEVANCE_THRESHOLD]  # prune here
-                    pruned_count = original_len - len(df)
-                    pruned_pct = (pruned_count / original_len * 100) if original_len > 0 else 0
-                    
-                    # Include sample of pruned articles in log for inspection
-                    if pruned_count > 0 and logger.isEnabledFor(logging.DEBUG):
-                        # Get the low-scoring dataframe
-                        low_scores_df = df[~df.index.isin(df[df["stage2_score"] >= config.RELEVANCE_THRESHOLD].index)]
-                        
-                        # Sort by score (ascending) and take first few examples
-                        for _, row in low_scores_df.sort_values("stage2_score").head(min(5, len(low_scores_df))).iterrows():
-                            title = row.get('title', '')
-                            title_snippet = title[:80] + '...' if len(title) > 80 else title
-                            score = row.get('stage2_score')
-                            flags = row.get('score_flags', '')
-                            logger.debug(f"Pruned: '{title_snippet}' score={score:.1f} flags={flags}")
-                    
-                    if not df.empty:
-                        all_citations[name] = df
-                        logger.info(f"{name} collector found {len(df)} citations ({original_len-pruned_count}/{original_len} = {100-pruned_pct:.1f}%) after pruning (threshold: {config.RELEVANCE_THRESHOLD})")
-                    else:
-                        logger.warning(f"{name} collector: all {original_len} results pruned due to low relevance scores (threshold: {config.RELEVANCE_THRESHOLD})")
-                        # If everything was pruned, log top signals that caused rejection
-                        if original_len > 0 and logger.isEnabledFor(logging.INFO):
-                            neg_signals = sorted([(k, v) for k, v in negative_flags.items()], key=lambda x: x[1], reverse=True)
-                            if neg_signals:
-                                logger.info(f"Top rejection signals: {neg_signals[:3]}")
-                    
-                    # Store score_flags for CSV output
-                    if not df.empty:
-                        df["score_flags"] = df["score_flags"].fillna('')
+                    all_citations[name] = df
+                    logger.info(f"{name} collector found {len(df)} citations")
                 else:
                     logger.warning(f"{name} collector returned no results")
             
@@ -420,25 +228,13 @@ class CompendiumTracker:
         logger.info(f"Removed {before_dedup - len(merged_df)} duplicate citations")
         logger.info(f"Final dataset contains {len(merged_df)} unique citations")
         
-        # Keep the stage2_score and score_flags columns for CSV output and debugging
-        # Note: We now keep these columns to provide transparency about the scoring process
-            
         # Save pre-fulltext citations for review
-        try:
-            output_file = os.path.join(config.OUTPUT_DIR, "citations_pre_fulltext.csv")
-            merged_df.to_csv(output_file, index=False)
-            logger.info(f"Saved pre-fulltext citations to {output_file}")
-        except Exception as e:
-            logger.error(f"Error saving pre-fulltext citations: {e}")
-            # Try with minimal columns if too many columns cause issues
-            try:
-                essential_cols = ['title', 'authors', 'journal', 'year', 'doi', 'pmid', 'url', 'source', 'stage2_score', 'score_flags']
-                cols_to_use = [c for c in essential_cols if c in merged_df.columns]
-                merged_df[cols_to_use].to_csv(os.path.join(config.OUTPUT_DIR, "citations_pre_fulltext_minimal.csv"), index=False)
-                logger.info(f"Saved minimal version of pre-fulltext citations")
-            except Exception as e2:
-                logger.error(f"Error saving minimal citations: {e2}")
-                pass
+        merged_df.to_csv(
+            config.OUTPUT_DIR / "citations_pre_fulltext.csv",
+            index=False,
+            encoding="utf-8"
+        )
+        logger.info("Wrote pre-full-text citation list to citations_pre_fulltext.csv")
         
         return merged_df
     
@@ -543,39 +339,13 @@ def main():
     """Main entry point for the script."""
     # Parse command-line arguments
     parser = argparse.ArgumentParser(description='AHRQ Compendium Citation Tracker')
-    parser.add_argument("--debug", action="store_true", help="Enable debug output")
-    parser.add_argument("--no-fulltext", action="store_true", help="Skip fulltext retrieval")
-    parser.add_argument("--headless", action="store_true", help="Run in headless mode")
-    parser.add_argument("--headful", action="store_true", help="Run in headful mode")
-    parser.add_argument("--quiet", action="store_true", help="Reduce console output")
-    parser.add_argument("--logfile", action="store_true", help="Write output to log file")
+    parser.add_argument('--no-fulltext', action='store_true', help='Skip full-text retrieval and classification')
+    parser.add_argument('--debug', action='store_true', help='Enable debug logging')
     args = parser.parse_args()
     
-    # Configure simpler logging
+    # Set logging level
     if args.debug:
         logging.getLogger().setLevel(logging.DEBUG)
-    else:
-        logging.getLogger().setLevel(logging.INFO)
-        
-    # Handle quiet mode by disabling console output
-    if args.quiet:
-        for handler in logging.getLogger().handlers:
-            if isinstance(handler, logging.StreamHandler):
-                handler.setLevel(logging.WARNING)
-    
-    # Create log file if requested
-    if args.logfile:
-        try:
-            os.makedirs('logs', exist_ok=True)
-            log_filename = f"logs/compendium_tracker_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
-            file_handler = logging.FileHandler(log_filename)
-            file_handler.setFormatter(logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s'))
-            file_handler.setLevel(logging.DEBUG if args.debug else logging.INFO)
-            logging.getLogger().addHandler(file_handler)
-            print(f"Logging to file: {log_filename}")
-        except Exception as e:
-            print(f"Error setting up log file: {e}")
-            pass
     
     # Get email from config (loaded from .env)
     email = config.EMAIL

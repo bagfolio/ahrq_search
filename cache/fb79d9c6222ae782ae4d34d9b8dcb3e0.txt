@@ -1,0 +1,295 @@
+Abstract
+Purpose
+Newly enacted policies at the state and federal level in the United States require acute care hospitals to engage in sepsis quality improvement. However, responding to these policies requires considerable resources and may disproportionately burden safety-net hospitals. To better understand this issue, we analyzed the relationship between hospital safety-net status and performance on Medicare’s SEP-1 quality measure.
+Materials and Methods
+We linked multiple publicly-available datasets with information on SEP-1 performance, structural hospital characteristics, hospital financial case mix, and health system affiliation. We analyzed the relationship between hospital safety-net status and SEP-1 performance, as well as whether hospital characteristics moderated that relationship.
+Results
+We analyzed data from 2827 hospitals, defining safety-net hospitals using financial case mix data. The 703 safety-net hospitals performed worse on Medicare’s SEP-1 quality measure (adjusted difference 2.3% compliance, 95% CI −4.0% – −0.6%). This association was most evident in hospitals not affiliated with health systems, in which the difference between safety-net and non-safety-net hospitals was 6.8% compliance (95% CI −10.4% – −3.3%).
+Conclusions
+Existing sepsis policies may harm safety-net hospitals and widen health disparities. Our findings suggest that strategies to promote collaboration among hospitals may be an avenue for sepsis performance improvement in safety-net hospitals.
+Keywords: sepsis, health policy, disparities
+INTRODUCTION
+Sepsis affects over 1.5 million Americans annually and is the most common cause of mortality in hospitalized patients [
+[1](#R1), [2](#R2)]. It is also the most costly hospital diagnosis, accounting for over $20 billion in annual health spending in the United States [ [3](#R3)]. Early sepsis recognition followed by prompt treatment with antibiotics and hemodynamic resuscitation saves lives [ [4](#R4), [5](#R5)]. However, despite widespread dissemination of treatment guidelines and traditional approaches to quality improvement, many patients do not receive optimal care in the critical initial phases of sepsis, resulting in potentially preventable morbidity and mortality [ [6](#R6)].
+Although sepsis is a long-standing clinical problem, only recently has it garnered attention from US policy makers, motivated by some high-profile deaths and a recognition that while early treatment can save lives, existing implementation efforts have failed to close the quality gap. At the state level, the most prominent policy is New York State’s sepsis regulations, which require hospitals to develop and implement evidence-based protocols for sepsis recognition and treatment, and to report their compliance to the state [
+[7](#R7)]. Although these regulations generated considerable controversy regarding the value of mandating specific-evidence-based practices, early data suggest that sepsis mortality is falling in the wake of the policy’s enactment [ [5](#R5), [8](#R8)].
+At the federal level, the Centers for Medicare and Medicaid Services (CMS) implemented a national sepsis quality measurement program in October 2015. The severe sepsis and septic shock early management bundle, known as SEP-1, requires hospitals to collect and report data on adherence to a multicomponent measure for eligible patients with sepsis [
+[9](#R9)]. To comply with SEP-1, hospitals must perform multiple tasks within varying time frames. Initial data suggest that compliance with this measure is generally poor—on average hospitals complete the bundle in only half of eligible patients [ [10](#R10)]. However, performance also varies dramatically across hospitals, with a mean compliance of 48.9%, a standard deviation of 19.4% across hospitals, and a range from 0 to 100% compliance [ [10](#R10)].
+Although there is widespread agreement about the need to improve sepsis treatment and outcomes at the national level, the CMS SEP-1 program has generated substantial debate [
+[11](#R11), [12](#R12)]. SEP-1 is reported as an “all-or-none” measure, meaning that hospitals are penalized equally for failing to administer antibiotics, which is strongly associated with worse outcomes, as they are for failing to obtain blood cultures or measure a lactate, which are not inherently linked to increased survival [ [5](#R5), [13](#R13)]. In addition, the sheer number of different data elements required to track SEP-1 compliance makes the measure unprecedented in complexity. Collecting and reporting SEP-1 data requires extraordinary financial and human resources [ [11](#R11), [14](#R14)]. On top of data collection, improving SEP-1 performance requires additional resources to support initiatives to improve the identification and early treatment of sepsis, committees and working groups to coordinate responses across departments and professions, and dedicated time for individuals to champion sepsis identification and treatment on the front-lines of care [ [11](#R11)]. As we discovered in a series of interviews with hospital leaders, responding effectively to the SEP-1 mandate requires a financial investment that is beyond the reach of many hospitals [ [11](#R11)].
+These resource constraints may be particularly acute in hospitals caring for larger numbers of patients from disadvantaged segments of the population, commonly referred to as “safety-net” hospitals [
+[15](#R15)]. Safety-net hospitals often have lower nurse staffing ratios and are less likely to have fully integrated electronic health records (EHRs) [ [16](#R16)], which is significant given the importance of front-line nurses and an integrated EHR in implementing strategies to recognize and treat sepsis [ [11](#R11)]. Perhaps not surprisingly, patients who are racial or ethnic minorities, or who live in socioeconomically disadvantaged areas, often experience delays in sepsis treatment and worse outcomes—differences driven in part by variation in the quality of the hospitals in which they receive care [ [17](#R17)– [24](#R24)]. Because many safety-net hospitals lack the resources needed to respond effectively to SEP-1, the program may fail to improve, and may in fact exacerbate, existing disparities in sepsis care and outcomes.
+To better understand the potential intersection of sepsis health policy and disparities in sepsis treatment, we evaluated whether existing variation in SEP-1 performance was associated with hospital safety-net status. We looked at safety-net status both in isolation and in the context of other hospital characteristics related to the availability of resources for sepsis-focused quality improvement, such as membership in a health system or hospital size.
+STUDY DATA AND METHODS
+Study design and data sources
+We performed a cross-sectional analysis using multiple publicly-available datasets, linked by unique hospital-specific identifiers. First, we obtained data on hospital performance on the SEP-1 measure from Medicare’s Hospital Compare website, which publicly reports quality data for hospitals participating in Medicare’s Inpatient Quality Reporting Program (IQRP). The SEP-1 data were reported for the period from January 1, 2017 to September 30, 2017. Second, we obtained data on hospital financial case-mix from the Provider Specific File for public use, which contains information on the proportion of Medicare days accounted for by patients receiving supplemental security income (SSI) payments, the proportion of Medicaid days, and total uncompensated care payments. These data were from the October 2018 update. Third, we obtained data on hospital organizational characteristics from Medicare’s Healthcare Cost Reporting Information System (HCRIS). We used HCRIS data from 2016, the most recent year that reliable data were available. Fourth, we used the Medicare Impact File to obtain information on hospitals’ urban and rural status, as indicated by the US Bureau. Finally, we obtained data on hospitals’ affiliation with health systems from the Compendium of U.S. Health Systems 2016, published by the Agency for Healthcare Research and Quality (AHRQ) as part of the Comparative Health Systems Performance (CHSP) initiative. This dataset contains curated information on U.S. health care delivery systems, including whether a hospital is affiliated with a health system [
+[25](#R25)].
+We included hospitals in the United States and the District of Columbia that were short-stay, general, acute care-hospitals. We excluded all other hospitals including VA hospitals, specialty hospitals, and critical access hospitals because they are not required to participate in the IQRP and report SEP-1 data. We also excluded hospitals with data in Hospital Compare but not HCRIS.
+Variables
+Using these datasets we identified four sets of variables: hospital performance on the SEP-1 measure from Hospital Compare, hospital safety-net status from the Medicare Provider Specific File, general hospital characteristics from HCRIS, and health system affiliation from AHRQ.
+SEP-1 performance
+The Hospital Compare data contain the percent compliance with the SEP-1 measure, as reported by hospitals. This measure is reported in an “all-or-none” fashion, so compliance represents the number of patients with severe sepsis or septic shock who received all required bundle elements, divided by the number of eligible patients. The dataset also includes the number of eligible patients reported by the hospital to CMS; this number approximates but does not equal total case volume, because hospitals caring for large numbers of patients with sepsis are allowed to report data on a subsample of eligible patients.
+Safety-net status
+Using data from the Medicare Provider Specific File, we divided hospitals into quartiles based on the proportion of Medicare days occupied by patients receiving SSI payments. We designated hospitals in the top quartile as “high SSI” safety-net hospitals, creating safety-net indicator variable based on SSI payments. We expected this indicator to capture hospitals caring for a disproportionate number of economically disadvantaged patients, as characterized in the Institute of Medicine’s definition of safety-net hospitals [
+[15](#R15)].
+Other hospital characteristics
+Using 2016 HCRIS data, we categorized hospitals according to ownership (nonprofit, for-profit, public/government), teaching status using the resident-to-bed ratio (major teaching if ratio 0.2 or greater), and hospital bed totals (greater or less than 100 beds), as performed previously [
+[26](#R26), [27](#R27)]. The Medicare Impact File contains a categorical variable for urban/rural status, which we used to create a rural indicator variable.
+Health system affiliation
+AHRQ’s Compendium of U.S. Health Systems includes data combined from 2015 and 2016 to identify hospitals that are affiliated with at least one other hospital or physician group under a shared ownership arrangement. We created a variable for health system affiliation indicating whether a hospital that reported SEP-1 data could be linked to a health system in the AHRQ Compendium of Health Systems hospital linkage file.
+Analysis
+We characterized overall differences in SEP-1 performance, hospital characteristics, and health system affiliation between safety-net and non-safety-net hospitals using standard summary statistics.
+To determine whether safety-net status was associated with SEP-1 performance, we fit a hierarchical linear regression model, accounting for clustering of hospitals at the state level. SEP-1 performance was the continuous dependent variable of interest. First, we fit a model with safety-net status as the primary independent variable of interest, without covariate adjustment. Second, we fit the same model with covariates adjusting for SEP-1 reported case volume (as cubic splines), health system affiliation, major teaching status, hospital ownership, hospital size, and rurality, because these variables were potential confounders. They are often associated with safety-net status and previously shown to predict SEP-1 performance [
+[10](#R10), [16](#R16), [18](#R18)]. We assessed the fit of these hierarchical models using the Pearson correlation between the fitted values and the observed values, akin to the r-squared statistic for simple linear regression.
+To understand whether hospital characteristics moderate the relationship between safety-net status and health system performance, we fit the same unadjusted and adjusted models with an interaction term between safety-net status and variables that we hypothesized could be related to resources available for sepsis quality improvement in safety-net hospitals: health system affiliation, hospital size, ownership, teaching status, and rurality. The significance test for the interaction terms indicates whether the difference in the effect of safety-net status varies according to hospital characteristics.
+We used linear combinations of model parameters to determine the difference in SEP-1 performance between safety-net and non-safety-net hospitals by subgroups of hospital characteristics. To visually represent the relationship between safety-net status (as related to SSI payments) and SEP-1 performance, we replaced the binary safety-net indicator with a hospital’s SSI ratio using cubic terms. We then used postestimation margins to create graphs.
+Sensitivity analyses
+We performed sensitivity analyses using two alternative definitions of safety-net hospitals. First, we divided hospitals into quartiles using the proportion of total inpatient days occupied by patients insured by Medicaid, creating a Medicaid safety-net indicator for those in the top quartile. Second, we repeated this process using uncompensated care payments, creating an Uncompensated Care safety-net indicator. For this analysis, we assumed hospitals with no reported uncompensated care payments to be outside the top quartile and therefore non-safety-net hospitals. We then repeated all other aspects of the primary analysis using the Medicaid and Uncompensated Care safety-net indicators.
+We also performed a sensitivity analysis using a different definition for health system affiliation. Whereas the primary definition from AHRQ includes any shared ownership between at least one physician practice and one acute care hospital, our hypothesis was that health system affiliation might moderate the relationship between safety-net status and SEP-1 compliance based on economies of scale for quality improvement resources. Consequently, we created an ordinal variable categorizing hospitals into one of three groups: “stand-alone” acute care hospitals (those unaffiliated with a health system or in a health system containing only one acute care hospital); hospitals in small health systems with 2–4 acute care hospitals; and hospitals in larger health systems with 5 or more acute care hospitals.
+We conducted all analyses using Stata version 15.1 (StataCorp, College Station, TX). This research was reviewed with the University of Pittsburgh Human Research Protection Office and determined not to represent human subjects research because it uses only publicly-available hospital-level data.
+STUDY RESULTS
+We identified 2827 general, short-stay, acute-care hospitals in the United States that reported data for the SEP-1 measure and had HCRIS data on hospital characteristics. There were systematic differences in hospital characteristics between safety-net and non-safety-net hospitals (
+[Table 1](#T1)). Safety-net hospitals were less likely to be affiliated with health systems than non-safety-net hospitals and were more likely to be larger teaching hospitals with public or government ownership.
+Table 1.
+|Non-safety-net Hospitals||Safety-net Hospitals||p-value|
+|2124||703|
+|SEP-1 % Compliance, mean (SD)||49.6 (18.6)||48.3 (20.4)||0.12|
+|SSI Percent, median (IQR)||5.515 (3.71, 7.42)||14.05 (11.65, 19.7)||<0.001|
+|SEP-1 Case Volume, median (IQR)||89 (61, 136)||85 (56, 123)||0.003|
+|Health System Affiliation||Not in Health System||309 (14.5%)||162 (23.0%)||<0.001|
+|In Health System||1815 (85.5%)||541 (77.0%)|
+|Hospital Ownership||Non-profit||1469 (69.2%)||347 (49.4%)||<0.001|
+|For-profit||403 (19.0%)||201 (28.6%)|
+|Public/Gov’t||252 (11.9%)||155 (22.0%)|
+|Teaching Status||Not Major Teaching||1890 (89.0%)||524 (74.5%)||<0.001|
+|Major Teaching||234 (11.0%)||179 (25.5%)|
+|Hospital Size||100 or more beds||1457 (68.6%)||536 (76.2%)||<0.001|
+|Fewer than 100 beds||667 (31.4%)||167 (23.8%)|
+|Urban/Rural||Urban||1640 (77.2%)||526 (74.8%)||0.19|
+|Rural||484 (22.8%)||177 (25.2%)|
+SSI=social security income.
+Safety-net hospitals are those in the top quartile of hospitals based on proportion of Medicare patients receiving SSI payments.
+P-values from t-test for SEP-1 compliance; Kruskal-Wallis test for SSI percent and case volume; and Chi-squared test for categorical variables.
+In an unadjusted analysis, there was a small but statistically significant difference in SEP-1 performance in safety-net hospitals compared to non-safety-net hospitals (difference 2.7%, 95% CI −4.4% – −1.0%, p<0.01); this difference persisted after adjusting for multiple observed hospital characteristics (
+[Table 2](#T2)). In adjusted models including an interaction between safety-net status and hospital characteristics, the effect of safety-net status was most notable in hospitals not affiliated with health systems and in smaller hospitals ( [Table 2](#T2)). [Figure 1](#F1) displays the graphical relationship between a hospital’s SSI ratio and adjusted SEP-1 performance, by subgroups of hospital size and health system affiliation.
+Table 2.
+|Non-Safety-Net Hospitals||Safety-Net Hospitals||Difference in SEP-1 in Safety-Net||P for Difference||95% CI for Difference|
+|All Hospitals||49.2%||46.9%||−2.3%||<0.01||−4.0% – −0.6%|
+|Health System Affiliation||Not in Health System||49.9%||43.0%||−6.8%||<0.001||−10.4% – −3.3%|
+|In Health System||49.1%||47.9%||−1.1%||0.23||−3.0% – 0.7%|
+|P for interaction <0.01|
+|Hospital Ownership||Non-profit||47.1%||46.2%||−0.9%||0.40||−3.2% – 1.3%|
+|For-profit||57.2%||54.6%||−2.6%||0.10||−5.7% – 0.5%|
+|Public/Gov’t||46.7%||40.9%||−5.8%||<0.01||−9.5% – −2.1%|
+|P for interaction=0.08|
+|Teaching Status||Not Major Teaching||50.0%||47.4%||−2.6%||<0.01||−4.5% – −0.7%|
+|Major Teaching||44.1%||43.1%||−1.0%||0.60||−4.6% – 2.6%|
+|P for interaction=0.42|
+|Hospital Size||100 or more beds||47.9%||46.7%||−1.2%||0.22||−3.2% – 0.7%|
+|Fewer than 100 beds||52.1%||46.8%||−5.3%||<0.01||−8.5% – −2.1%|
+|P for interaction=0.03|
+|Urban/Rural||Urban||48.8%||46.6%||−2.2%||0.03||−4.2% – −0.2%|
+|Rural||50.4%||47.8%||−2.5%||0.12||−5.8% – 0.7%|
+|P for interaction=0.85|
+Results from linear regression models with state random intercept and fixed effects for safety-net status, health system affiliation, SEP-1 case volume, bed size, ownership, teaching status, and rurality.
+The
+[online supplementary material](#SD1) provides full details of several sensitivity analyses. In analyses using Medicaid proportions ( [eTables 2](#SD1)– [4](#SD1)) and uncompensated care payments ( [eTables 5](#SD1)– [7](#SD1)) to define safety-net status, safety-net status was consistently associated with lower SEP-1 performance; these results are summarized in [Table 3](#T3). The effect modification from hospital characteristics was less consistent across these different safety-net definitions, owing in part to wide confidence intervals ( [eTables 3](#SD1) and [6](#SD1)). In a sensitivity analysis using an ordinal definition for health system affiliation based on the number of affiliated hospitals ( [eTables 8](#SD1)– [11](#SD1)), the mitigating effect of health system affiliation was most notable in safety-net hospitals affiliated with larger health systems.
+Table 3.
+|Non-Safety-Net Hospitals||Safety-Net Hospitals||Difference in SEP-1 in Safety-Net||P for Difference||95% CI for Difference|
+|Using SSI proportion to define safety-net status|
+|All Hospitals||49.2%||46.9%||−2.3%||<0.01||−4.0% – −0.6%|
+|Health System Affiliation||Not in Health System||49.9%||43.0%||−6.8%||<0.001||−10.4% – −3.3%|
+|In Health System||49.1%||47.9%||−1.1%||0.23||−3.0% – 0.7%|
+|P for interaction <0.01|
+|Using Medicaid proportion to define safety-net status|
+|All Hospitals||49.5%||46.1%||−3.4%||<0.001||−5.1% – −1.7%|
+|Health System Affiliation||Not in Health System||49.5%||43.0%||−6.4%||<0.001||−10.2% – −2.7%|
+|In Health System||49.5%||46.7%||−2.8%||<0.01||−4.6% – −0.9%|
+|P for interaction = 0.07|
+|Using uncompensated care payments to define safety-net status|
+|All Hospitals||49.4%||45.9%||−3.4%||<0.001||−5.2% – −1.7%|
+|Health System Affiliation||Not in Health System||49.2%||43.1%||−6.1%||<0.01||−9.9% – −2.3%|
+|In Health System||49.4%||46.6%||−2.9%||<0.01||−4.8% – −1.0%|
+|P for interaction = 0.12|
+DISCUSSION
+In a national study linking multiple publicly-available data sources, we found that hospital performance on Medicare’s SEP-1 quality measure was lower in safety-net hospitals, though the overall differences were small. This finding was similar regardless of how we defined safety-net hospitals: as hospitals caring for a larger number of low-income patients, hospitals with large Medicaid populations, or as hospitals providing higher amounts of uncompensated care. This association was driven largely by lower SEP-1 performance in safety-net hospitals not affiliated with large health systems, though this interaction varied according to the specific definition of a safety-net hospital.
+Lower SEP-1 performance in safety-net hospitals provides insight into existing disparities in sepsis outcomes, adding a system-wide and mechanistic perspective to a growing body of literature documenting racial and socioeconomic disparities in sepsis treatment and outcomes. Multiple studies, most of which are based on local or regional data, report delays in sepsis care and worse sepsis outcomes across geographic, socioeconomic, and racial demographic factors [
+[17](#R17)– [21](#R21), [28](#R28)]. However, the between-hospital differences tend to be more prominent than the within-hospital differences, suggesting that many observed disparities exist because members of underserved groups tend to receive care at different hospitals, and these hospitals provide overall lower-quality care than hospitals serving predominantly groups with high socioeconomic status. Our findings suggest that socioeconomic differences in sepsis outcomes may be due to lower quality care in safety-net hospitals, and that disparities observed at a local and regional level extend nationwide.
+The fact that resource constraints in safety-net hospitals may contribute to lower quality sepsis care exposes an inherent tension in policy-based approaches to sepsis performance improvement. From a policy perspective it is undesirable to hold safety-net hospitals to a lower quality standard, implicitly or explicitly accepting a status quo in which socioeconomically disadvantaged individuals experience worse sepsis outcomes. At the same time, policy makers should avoid structuring sepsis performance measurement programs in ways that disproportionately penalize already resource-strapped safety-net hospitals, which could in turn exacerbate existing health disparities. For example, policy makers can ease under-performing hospitals into sepsis performance improvement programs by employing a pay-for-reporting period that only penalizes hospitals that fail to measure and report data, as has been the case with the initial phases of SEP-1. When a program eventually transitions into a pay-for-performance phase, financial penalties could be based on relative improvements in sepsis performance, rather than simply whether hospitals meet absolute performance thresholds [
+[29](#R29), [30](#R30)]. Alternatively, as will be the case under the 21st Century Cures Act, policy makers can set performance benchmarks stratified by markers of social risk, thereby comparing safety-net hospitals to other safety-net hospitals that theoretically have similar financial characteristics [ [31](#R31)]. Such an approach may strike a balance between incentivizing hospitals to improve quality and avoiding burdensome penalties for vulnerable under-performing hospitals.
+Our finding of an interaction between safety-net status and hospital characteristics also points to potential strategies to improve sepsis care in safety-net hospitals. Hospitals outside health systems, representing a substantial minority of both safety-net and non-safety hospitals, are particularly vulnerable to financial pressures that may affect resources available for quality improvement and other initiatives [
+[32](#R32)]. Prior qualitative work also suggests that isolated, small hospitals with fewer resources struggled to respond to SEP-1. Larger hospitals and those affiliated with health systems may leverage economies of scale and system-wide assets to support resource-intensive sepsis performance improvement efforts, including investments in data collection and reporting infrastructure, implementation of integrated electronic health records, and automated electronic tools for sepsis screening and early treatment [ [11](#R11)]. Our current findings provide quantitative validation of these hypotheses in safety-net hospitals. Prior studies from the Surviving Sepsis Campaign indicate that collaborative sepsis quality improvement initiatives promote compliance with evidence-based guidelines and may improve sepsis outcomes [ [6](#R6), [33](#R33)]. Leveraging shared resources and economies of scale may thereby mitigate some of the detrimental effects of financial constraints in safety-net hospitals.
+Moving forward, policy makers can help reduce disparities in sepsis care and outcomes in several ways. First, we should pair sepsis performance measurement programs with initiatives that promote sharing of sepsis quality improvement resources and strategies across hospitals and health systems in ways that mitigate local resource limitations. These efforts must not simply attempt to regionalize sepsis care by moving patients from high- to low-performing hospitals [
+[34](#R34)], but should instead work to disseminate best practices from top-performing hospitals to other hospitals in the same region. At the same time, simplifying the SEP-1 measure to allow hospitals to focus on the processes of care most closely linked to better outcomes—such as early sepsis diagnosis and prompt administration of antibiotics—might allow safety-net hospitals to deploy their limited resources more efficiently. In addition, providing more granular feedback to hospitals on the reasons for SEP-1 failures—rather than reporting data in an “all-or-none” fashion—could facilitate more targeted resource investment.
+Our work has several limitations that merit additional consideration. First, the SEP-1 data are self-reported by hospitals and have not undergone external validation, creating the possibility of inaccuracies. However, disparities in sepsis treatment and outcomes are well-documented in other studies using different data sources, which suggests our findings are not an artifact of the SEP-1 data. Second, we identified safety-net hospitals using socioeconomic factors, which captures one domain of what represents a safety-net hospital. Other approaches, which include the proportion of a hospital’s discharges broken down by racial demographics, require patient-level data [
+[17](#R17), [18](#R18)]. The only national dataset that could address this issue is all-payer Medicare data, which are unfortunately not yet available in years that overlap with the SEP-1 data. Ultimately, our findings were relatively consistent across several definitions of a safety-net hospital. Third, we used the definition of health systems provided by AHRQ’s Compendium of Health Systems, which represents a single construct of a “health system,” and it is possible that the observed interaction between safety-net status and health system affiliation would vary using other health system definitions. However, our sensitivity analysis suggests that the moderating effect of health system affiliation is most notable in hospitals affiliated with a greater number of hospitals, which supports our conceptual model of economies of scale and shared resources in sepsis quality improvement. Finally, because the SEP-1 data are from 2017, and national patient-level data are not yet available for that timeframe, we are unable to evaluate whether the observed differences in SEP-1 compliance are connected to variation in patient-centered outcomes. We observed differences in SEP-1 compliance in safety-net hospitals that were statistically significant but small in magnitude, and it is unclear whether they would translate into or fully explain concomitant differences in patient outcomes. Early data from limited hospital samples raise the possibility that SEP-1 compliance may not improve survival [ [35](#R35)]; this is a critical area for future research and evaluation of the SEP-1 policy.
+In a national hospital-level analysis of the first publicly-reported data on Medicare’s SEP-1 sepsis quality measure, we found that SEP-1 performance was lower in safety-net hospitals. This association was driven by lower performance in safety-net hospitals not affiliated with health systems. Our findings suggest that resource limitations in isolated safety-net hospitals may contribute to variation in sepsis treatment and outcomes. Future work should explore ways to improve care in vulnerable hospitals, and how SEP-1 performance affects patient-centered outcomes across the health system.
+Supplementary Material
+Highlights.
+Performance on Medicare’s sepsis quality measure is lower in safety-net hospitals.
+This effect is greatest in safety-net hospitals unaffiliated with health systems.
+Sharing resources across hospitals may improve sepsis quality.
+Sepsis policies may exacerbate existing sepsis health disparities.
+Acknowledgments
+Financial Support: Agency for Healthcare Research and Quality (IJB, K08HS025455), National Institutes of Health (JMK, K24HL133444)
+Footnotes
+Disclosures: none
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+REFERENCES
+-
+[1].Rhee C, Dantes R, Epstein L, Murphy DJ, Seymour CW, Iwashyna TJ, et al.
+Incidence and Trends of Sepsis in US Hospitals Using Clinical vs Claims Data, 2009–2014. JAMA
+2017;318:1241–9. doi: 10.1001/jama.2017.13836. [
+[DOI](https://doi.org/10.1001/jama.2017.13836)] [ [PMC free article](/articles/PMC5710396/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28903154/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=JAMA&title=Incidence%20and%20Trends%20of%20Sepsis%20in%20US%20Hospitals%20Using%20Clinical%20vs%20Claims%20Data,%202009%E2%80%932014&author=C%20Rhee&author=R%20Dantes&author=L%20Epstein&author=DJ%20Murphy&author=CW%20Seymour&volume=318&publication_year=2017&pages=1241-9&pmid=28903154&doi=10.1001/jama.2017.13836&)]
+-
+[2].Liu V, Escobar GJ, Greene JD, Soule J, Whippy A, Angus DC, et al.
+Hospital deaths in patients with sepsis from 2 independent cohorts. JAMA
+2014;312:90–2. doi: 10.1001/jama.2014.5804. [
+[DOI](https://doi.org/10.1001/jama.2014.5804)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24838355/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=JAMA&title=Hospital%20deaths%20in%20patients%20with%20sepsis%20from%202%20independent%20cohorts&author=V%20Liu&author=GJ%20Escobar&author=JD%20Greene&author=J%20Soule&author=A%20Whippy&volume=312&publication_year=2014&pages=90-2&pmid=24838355&doi=10.1001/jama.2014.5804&)]
+-
+[3].Torio CM
+(AHRQ) and Andrews R (AHRQ). National Inpatient Hospital Costs: The Most Expensive Conditions by Payer, 2011.
+HCUP Statistical Brief #160. n.d. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/24199255/)]
+-
+[4].Liu VX, Fielding-Singh V, Greene JD, Baker JM, Iwashyna TJ, Bhattacharya J, et al.
+The Timing of Early Antibiotics and Hospital Mortality in Sepsis. Am J Respir Crit Care Med
+2017;196:856–63. doi: 10.1164/rccm.201609-1848OC. [
+[DOI](https://doi.org/10.1164/rccm.201609-1848OC)] [ [PMC free article](/articles/PMC5649973/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28345952/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Respir%20Crit%20Care%20Med&title=The%20Timing%20of%20Early%20Antibiotics%20and%20Hospital%20Mortality%20in%20Sepsis&author=VX%20Liu&author=V%20Fielding-Singh&author=JD%20Greene&author=JM%20Baker&author=TJ%20Iwashyna&volume=196&publication_year=2017&pages=856-63&pmid=28345952&doi=10.1164/rccm.201609-1848OC&)]
+-
+[5].Seymour CW, Gesten F, Prescott HC, Friedrich ME, Iwashyna TJ, Phillips GS, et al.
+Time to Treatment and Mortality during Mandated Emergency Care for Sepsis. N Engl J Med
+2017;376:2235–44. doi: 10.1056/NEJMoa1703058. [
+[DOI](https://doi.org/10.1056/NEJMoa1703058)] [ [PMC free article](/articles/PMC5538258/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28528569/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=Time%20to%20Treatment%20and%20Mortality%20during%20Mandated%20Emergency%20Care%20for%20Sepsis&author=CW%20Seymour&author=F%20Gesten&author=HC%20Prescott&author=ME%20Friedrich&author=TJ%20Iwashyna&volume=376&publication_year=2017&pages=2235-44&pmid=28528569&doi=10.1056/NEJMoa1703058&)]
+-
+[6].Levy MM, Rhodes A, Phillips GS, Townsend SR, Schorr CA, Beale R, et al.
+Surviving Sepsis Campaign: association between performance metrics and outcomes in a 7.5-year study. Crit Care Med
+2015;43:3–12. doi: 10.1097/CCM.0000000000000723. [
+[DOI](https://doi.org/10.1097/CCM.0000000000000723)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25275252/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Crit%20Care%20Med&title=Surviving%20Sepsis%20Campaign:%20association%20between%20performance%20metrics%20and%20outcomes%20in%20a%207.5-year%20study&author=MM%20Levy&author=A%20Rhodes&author=GS%20Phillips&author=SR%20Townsend&author=CA%20Schorr&volume=43&publication_year=2015&pages=3-12&pmid=25275252&doi=10.1097/CCM.0000000000000723&)]
+-
+[7].Hershey TB, Kahn JM. State Sepsis Mandates — A New Era for Regulation of Hospital Quality. N Engl J Med
+2017:NEJMp1611928. doi: 10.1056/NEJMp1611928. [
+[DOI](https://doi.org/10.1056/NEJMp1611928)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28528558/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=State%20Sepsis%20Mandates%20%E2%80%94%20A%20New%20Era%20for%20Regulation%20of%20Hospital%20Quality&author=TB%20Hershey&author=JM%20Kahn&publication_year=2017&pmid=28528558&doi=10.1056/NEJMp1611928&)]
+-
+[8].Levy MM, Gesten FC, Phillips GS, Terry KM, Seymour CW, Prescott HC, et al.
+Mortality Changes Associated with Mandated Public Reporting for Sepsis. The Results of the New York State Initiative. Am J Respir Crit Care Med
+2018;198:1406–12. doi: 10.1164/rccm.201712-2545OC. [
+[DOI](https://doi.org/10.1164/rccm.201712-2545OC)] [ [PMC free article](/articles/PMC6290949/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30189749/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Respir%20Crit%20Care%20Med&title=Mortality%20Changes%20Associated%20with%20Mandated%20Public%20Reporting%20for%20Sepsis.%20The%20Results%20of%20the%20New%20York%20State%20Initiative&author=MM%20Levy&author=FC%20Gesten&author=GS%20Phillips&author=KM%20Terry&author=CW%20Seymour&volume=198&publication_year=2018&pages=1406-12&pmid=30189749&doi=10.1164/rccm.201712-2545OC&)]
+-
+[9].Centers for Medicare & Medicaid Services; Joint Commission. Specifications manual for national hospital inpatient quality measures n.d.
+[https://www.jointcommission.org/specifications_manual_for_national_hospital_inpatient_quality_measures.aspx](https://www.jointcommission.org/specifications_manual_for_national_hospital_inpatient_quality_measures.aspx)(accessed September 10, 2018).
+-
+[10].Barbash IJ, Davis B, Kahn JM. National Performance on the Medicare SEP-1 Sepsis Quality Measure. Crit Care Med
+2018:1. doi: 10.1097/CCM.0000000000003613. [
+[DOI](https://doi.org/10.1097/CCM.0000000000003613)] [ [PMC free article](/articles/PMC6588513/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30585827/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Crit%20Care%20Med&title=National%20Performance%20on%20the%20Medicare%20SEP-1%20Sepsis%20Quality%20Measure&author=IJ%20Barbash&author=B%20Davis&author=JM%20Kahn&volume=1&publication_year=2018&pmid=30585827&doi=10.1097/CCM.0000000000003613&)]
+-
+[11].Barbash IJ, Rak KJ, Kuza CC, Kahn JM. Hospital Perceptions of Medicare’s Sepsis Quality Reporting Initiative. J Hosp Med
+2017;12:963–8. doi: 10.12788/jhm.2929. [
+[DOI](https://doi.org/10.12788/jhm.2929)] [ [PMC free article](/articles/PMC5830093/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29236094/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Hosp%20Med&title=Hospital%20Perceptions%20of%20Medicare%E2%80%99s%20Sepsis%20Quality%20Reporting%20Initiative&author=IJ%20Barbash&author=KJ%20Rak&author=CC%20Kuza&author=JM%20Kahn&volume=12&publication_year=2017&pages=963-8&pmid=29236094&doi=10.12788/jhm.2929&)]
+-
+[12].Klompas M, Rhee C. The CMS Sepsis Mandate: Right Disease, Wrong Measure. Ann Intern Med
+2016;165:517–8. doi: 10.7326/M16-0588. [
+[DOI](https://doi.org/10.7326/M16-0588)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27294338/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Ann%20Intern%20Med&title=The%20CMS%20Sepsis%20Mandate:%20Right%20Disease,%20Wrong%20Measure&author=M%20Klompas&author=C%20Rhee&volume=165&publication_year=2016&pages=517-8&pmid=27294338&doi=10.7326/M16-0588&)]
+-
+[13].Pepper DJ, Jaswal D, Sun J, Welsh J, Natanson C, Eichacker PQ, et al.
+Evidence Underpinning the Centers for Medicare & Medicaid Services’ Severe Sepsis and Septic Shock Management Bundle (SEP-1). Ann Intern Med
+2018;168:558–68. [
+[DOI](https://doi.org/10.7326/M17-2947)] [ [PMC free article](/articles/PMC11146290/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29459977/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Ann%20Intern%20Med&title=Evidence%20Underpinning%20the%20Centers%20for%20Medicare%20&%20Medicaid%20Services%E2%80%99%20Severe%20Sepsis%20and%20Septic%20Shock%20Management%20Bundle%20(SEP-1)&author=DJ%20Pepper&author=D%20Jaswal&author=J%20Sun&author=J%20Welsh&author=C%20Natanson&volume=168&publication_year=2018&pages=558-68&pmid=29459977&doi=10.7326/M17-2947&)]
+-
+[14].Wall MJ, Howell MD. Variation and Cost-effectiveness of Quality Measurement Programs. The Case of Sepsis Bundles. Ann Am Thorac Soc
+2015;12:1597–9. doi: 10.1513/AnnalsATS.201509-625ED. [
+[DOI](https://doi.org/10.1513/AnnalsATS.201509-625ED)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26540416/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Ann%20Am%20Thorac%20Soc&title=Variation%20and%20Cost-effectiveness%20of%20Quality%20Measurement%20Programs.%20The%20Case%20of%20Sepsis%20Bundles&author=MJ%20Wall&author=MD%20Howell&volume=12&publication_year=2015&pages=1597-9&pmid=26540416&doi=10.1513/AnnalsATS.201509-625ED&)]
+-
+[15].Medicine I of. America’s Health Care Safety Net: Intact but Endangered. Washington, D.C.: National Academies Press; 2000. doi: 10.17226/9612. [
+[DOI](https://doi.org/10.17226/9612)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25077222/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?title=Medicine%20I%20of.%20America%E2%80%99s%20Health%20Care%20Safety%20Net:%20Intact%20but%20Endangered&publication_year=2000&)]
+-
+[16].Wakeam E, Hevelone ND, Maine R, Swain J, Lipsitz SA, Finlayson SRG, et al.
+Failure to Rescue in Safety-Net Hospitals. JAMA Surg
+2014;149:229–35. doi: 10.1001/jamasurg.2013.3566. [
+[DOI](https://doi.org/10.1001/jamasurg.2013.3566)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24430015/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=JAMA%20Surg&title=Failure%20to%20Rescue%20in%20Safety-Net%20Hospitals&author=E%20Wakeam&author=ND%20Hevelone&author=R%20Maine&author=J%20Swain&author=SA%20Lipsitz&volume=149&publication_year=2014&pages=229-35&pmid=24430015&doi=10.1001/jamasurg.2013.3566&)]
+-
+[17].Mayr FB, Yende S, DʼAngelo G, Barnato AE, Kellum JA, Weissfeld L, et al.
+Do hospitals provide lower quality of care to black patients for pneumonia?*. Crit Care Med
+2010;38:759–65. doi: 10.1097/CCM.0b013e3181c8fd58. [
+[DOI](https://doi.org/10.1097/CCM.0b013e3181c8fd58)] [ [PMC free article](/articles/PMC3774066/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20009756/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Crit%20Care%20Med&title=Do%20hospitals%20provide%20lower%20quality%20of%20care%20to%20black%20patients%20for%20pneumonia?*&author=FB%20Mayr&author=S%20Yende&author=G%20D%CA%BCAngelo&author=AE%20Barnato&author=JA%20Kellum&volume=38&publication_year=2010&pages=759-65&pmid=20009756&doi=10.1097/CCM.0b013e3181c8fd58&)]
+-
+[18].Barnato AE, Alexander SL, Linde-Zwirble WT, Angus DC. Racial variation in the incidence, care, and outcomes of severe sepsis: analysis of population, patient, and hospital characteristics. Am J Respir Crit Care Med
+2008;177:279–84. doi: 10.1164/rccm.200703-480OC. [
+[DOI](https://doi.org/10.1164/rccm.200703-480OC)] [ [PMC free article](/articles/PMC2720103/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/17975201/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Respir%20Crit%20Care%20Med&title=Racial%20variation%20in%20the%20incidence,%20care,%20and%20outcomes%20of%20severe%20sepsis:%20analysis%20of%20population,%20patient,%20and%20hospital%20characteristics&author=AE%20Barnato&author=SL%20Alexander&author=WT%20Linde-Zwirble&author=DC%20Angus&volume=177&publication_year=2008&pages=279-84&pmid=17975201&doi=10.1164/rccm.200703-480OC&)]
+-
+[19].Goodwin AJ, Nadig NR, McElligott JT, Simpson KN, Ford DW. Where You Live Matters: The Impact of Place of Residence on Severe Sepsis Incidence and Mortality. Chest
+2016;150:829–36. doi: 10.1016/j.chest.2016.07.004. [
+[DOI](https://doi.org/10.1016/j.chest.2016.07.004)] [ [PMC free article](/articles/PMC5812766/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27445093/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Chest&title=Where%20You%20Live%20Matters:%20The%20Impact%20of%20Place%20of%20Residence%20on%20Severe%20Sepsis%20Incidence%20and%20Mortality&author=AJ%20Goodwin&author=NR%20Nadig&author=JT%20McElligott&author=KN%20Simpson&author=DW%20Ford&volume=150&publication_year=2016&pages=829-36&pmid=27445093&doi=10.1016/j.chest.2016.07.004&)]
+-
+[20].Taylor SP, Karvetski CH, Templin MA, Taylor BT. Hospital Differences Drive Antibiotic Delays for Black Patients Compared With White Patients With Suspected Septic Shock. Crit Care Med
+2018;46:e126–31. doi: 10.1097/CCM.0000000000002829. [
+[DOI](https://doi.org/10.1097/CCM.0000000000002829)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29116997/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Crit%20Care%20Med&title=Hospital%20Differences%20Drive%20Antibiotic%20Delays%20for%20Black%20Patients%20Compared%20With%20White%20Patients%20With%20Suspected%20Septic%20Shock&author=SP%20Taylor&author=CH%20Karvetski&author=MA%20Templin&author=BT%20Taylor&volume=46&publication_year=2018&pages=e126-31&pmid=29116997&doi=10.1097/CCM.0000000000002829&)]
+-
+[21].Jones JM, Fingar KR, Miller MA, Coffey R, Barrett M, Flottemesch T, et al.
+Racial Disparities in Sepsis-Related In-Hospital Mortality. Crit Care Med
+2017;45:e1209–17. doi: 10.1097/CCM.0000000000002699. [
+[DOI](https://doi.org/10.1097/CCM.0000000000002699)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28906287/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Crit%20Care%20Med&title=Racial%20Disparities%20in%20Sepsis-Related%20In-Hospital%20Mortality&author=JM%20Jones&author=KR%20Fingar&author=MA%20Miller&author=R%20Coffey&author=M%20Barrett&volume=45&publication_year=2017&pages=e1209-17&pmid=28906287&doi=10.1097/CCM.0000000000002699&)]
+-
+[22].Ly DP, Lopez L, Isaac T, Jha AK. How do black-serving hospitals perform on patient safety indicators? Implications for national public reporting and pay-for-performance. Med Care
+2010;48:1133–7. doi: 10.1097/MLR.0b013e3181f81c7e. [
+[DOI](https://doi.org/10.1097/MLR.0b013e3181f81c7e)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21063225/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Med%20Care&title=How%20do%20black-serving%20hospitals%20perform%20on%20patient%20safety%20indicators?%20Implications%20for%20national%20public%20reporting%20and%20pay-for-performance&author=DP%20Ly&author=L%20Lopez&author=T%20Isaac&author=AK%20Jha&volume=48&publication_year=2010&pages=1133-7&pmid=21063225&doi=10.1097/MLR.0b013e3181f81c7e&)]
+-
+[23].Kahn JM. Economic disparities in sepsis—New insights with new implications. J Crit Care
+2018;46:127–8. doi: 10.1016/j.jcrc.2018.04.011. [
+[DOI](https://doi.org/10.1016/j.jcrc.2018.04.011)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29706385/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Crit%20Care&title=Economic%20disparities%20in%20sepsis%E2%80%94New%20insights%20with%20new%20implications&author=JM%20Kahn&volume=46&publication_year=2018&pages=127-8&pmid=29706385&doi=10.1016/j.jcrc.2018.04.011&)]
+-
+[24].Weinreich MA, Styrvoky K, Chang S, Girod CE, Ruggiero R. Sepsis at a Safety Net Hospital: Risk Factors Associated With 30-Day Readmission. J Intensive Care Med
+2017. doi: 10.1177/0885066617726753. [
+[DOI](https://doi.org/10.1177/0885066617726753)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28820039/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Intensive%20Care%20Med&title=Sepsis%20at%20a%20Safety%20Net%20Hospital:%20Risk%20Factors%20Associated%20With%2030-Day%20Readmission&author=MA%20Weinreich&author=K%20Styrvoky&author=S%20Chang&author=CE%20Girod&author=R%20Ruggiero&publication_year=2017&pmid=28820039&doi=10.1177/0885066617726753&)]
+-
+[25].Cohen GR, Jones DJ, Heeringa J, Barrett K, Furukawa MF, Miller D, et al.
+Leveraging Diverse Data Sources to Identify and Describe U.S. Health Care Delivery Systems . EGEMS (Washington, DC)
+2017;5:9. doi: 10.5334/egems.200. [
+[DOI](https://doi.org/10.5334/egems.200)] [ [PMC free article](/articles/PMC5983023/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29881758/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=.%20EGEMS%20(Washington,%20DC)&title=Leveraging%20Diverse%20Data%20Sources%20to%20Identify%20and%20Describe%20U.S.%20Health%20Care%20Delivery%20Systems&author=GR%20Cohen&author=DJ%20Jones&author=J%20Heeringa&author=K%20Barrett&author=MF%20Furukawa&volume=5&publication_year=2017&pages=9&pmid=29881758&doi=10.5334/egems.200&)]
+-
+[26].Wallace DJ, Seymour CW, Kahn JM. Hospital-Level Changes in Adult ICU Bed Supply in the United States. Crit Care Med
+2017;45:e67–76. doi: 10.1097/CCM.0000000000002051. [
+[DOI](https://doi.org/10.1097/CCM.0000000000002051)] [ [PMC free article](/articles/PMC5514420/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27661861/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Crit%20Care%20Med&title=Hospital-Level%20Changes%20in%20Adult%20ICU%20Bed%20Supply%20in%20the%20United%20States&author=DJ%20Wallace&author=CW%20Seymour&author=JM%20Kahn&volume=45&publication_year=2017&pages=e67-76&pmid=27661861&doi=10.1097/CCM.0000000000002051&)]
+-
+[27].Wallace DJ, Angus DC, Seymour CW, Barnato AE, Kahn JM. Critical Care Bed Growth in the United States: a Comparison of Regional and National Trends. Am J Respir Crit Care Med
+2015;191:410–6. doi: 10.1164/rccm.201409-1746OC. [
+[DOI](https://doi.org/10.1164/rccm.201409-1746OC)] [ [PMC free article](/articles/PMC4351597/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25522054/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Respir%20Crit%20Care%20Med&title=Critical%20Care%20Bed%20Growth%20in%20the%20United%20States:%20a%20Comparison%20of%20Regional%20and%20National%20Trends&author=DJ%20Wallace&author=DC%20Angus&author=CW%20Seymour&author=AE%20Barnato&author=JM%20Kahn&volume=191&publication_year=2015&pages=410-6&pmid=25522054&doi=10.1164/rccm.201409-1746OC&)]
+-
+[28].Baghdadi JD, Wong M, Comulada WS, Uslan DZ. Lack of insurance as a barrier to care in sepsis: A retrospective cohort study. J Crit Care
+2018;46:134–8. doi: 10.1016/j.jcrc.2018.02.005. [
+[DOI](https://doi.org/10.1016/j.jcrc.2018.02.005)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29929704/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Crit%20Care&title=Lack%20of%20insurance%20as%20a%20barrier%20to%20care%20in%20sepsis:%20A%20retrospective%20cohort%20study&author=JD%20Baghdadi&author=M%20Wong&author=WS%20Comulada&author=DZ%20Uslan&volume=46&publication_year=2018&pages=134-8&pmid=29929704&doi=10.1016/j.jcrc.2018.02.005&)]
+-
+[29].Kahn JM, Gould MK, Krishnan JA, Wilson KC, Au DH, Cooke CR, et al.
+An official American thoracic society workshop report: developing performance measures from clinical practice guidelines. Ann Am Thorac Soc
+2014;11:S186–95. doi: 10.1513/AnnalsATS.201403-106ST. [
+[DOI](https://doi.org/10.1513/AnnalsATS.201403-106ST)] [ [PMC free article](/articles/PMC5469393/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24828810/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Ann%20Am%20Thorac%20Soc&title=An%20official%20American%20thoracic%20society%20workshop%20report:%20developing%20performance%20measures%20from%20clinical%20practice%20guidelines&author=JM%20Kahn&author=MK%20Gould&author=JA%20Krishnan&author=KC%20Wilson&author=DH%20Au&volume=11&publication_year=2014&pages=S186-95&pmid=24828810&doi=10.1513/AnnalsATS.201403-106ST&)]
+-
+[30].Kahn JM, Scales DC, Au DH, Carson SS, Curtis JR, Dudley RA, et al.
+An Official American Thoracic Society Policy Statement: Pay-for-Performance in Pulmonary, Critical Care, and Sleep Medicine. Am J Respir Crit Care Med
+2010;181:752–61. doi: 10.1164/rccm.200903-0450ST. [
+[DOI](https://doi.org/10.1164/rccm.200903-0450ST)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20335385/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Respir%20Crit%20Care%20Med&title=An%20Official%20American%20Thoracic%20Society%20Policy%20Statement:%20Pay-for-Performance%20in%20Pulmonary,%20Critical%20Care,%20and%20Sleep%20Medicine&author=JM%20Kahn&author=DC%20Scales&author=DH%20Au&author=SS%20Carson&author=JR%20Curtis&volume=181&publication_year=2010&pages=752-61&pmid=20335385&doi=10.1164/rccm.200903-0450ST&)]
+-
+[31].Chatterjee P, Werner RM. The hospital readmission reduction program and social risk. Health Serv Res
+2019;54:324–6. doi: 10.1111/1475-6773.13131. [
+[DOI](https://doi.org/10.1111/1475-6773.13131)] [ [PMC free article](/articles/PMC6407346/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30848490/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Health%20Serv%20Res&title=The%20hospital%20readmission%20reduction%20program%20and%20social%20risk&author=P%20Chatterjee&author=RM%20Werner&volume=54&publication_year=2019&pages=324-6&pmid=30848490&doi=10.1111/1475-6773.13131&)]
+-
+[32].Kacik A
+Fewer independent hospitals can weather operating headwinds. Mod Healthc;
+2019.
+[https://www.modernhealthcare.com/article/20190223/NEWS/190229993/](https://www.modernhealthcare.com/article/20190223/NEWS/190229993/)(accessed February 25, 2019). [ [Google Scholar](https://scholar.google.com/scholar_lookup?title=Fewer%20independent%20hospitals%20can%20weather%20operating%20headwinds&author=A%20Kacik&publication_year=2019&)]
+-
+[33].Levy MM, Dellinger RP, Townsend SR, Linde-Zwirble WT, Marshall JC, Bion J, et al.
+The Surviving Sepsis Campaign: results of an international guideline-based performance improvement program targeting severe sepsis. Crit Care Med
+2010;38:367–74. doi: 10.1097/CCM.0b013e3181cb0cdc. [
+[DOI](https://doi.org/10.1097/CCM.0b013e3181cb0cdc)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20035219/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Crit%20Care%20Med&title=The%20Surviving%20Sepsis%20Campaign:%20results%20of%20an%20international%20guideline-based%20performance%20improvement%20program%20targeting%20severe%20sepsis&author=MM%20Levy&author=RP%20Dellinger&author=SR%20Townsend&author=WT%20Linde-Zwirble&author=JC%20Marshall&volume=38&publication_year=2010&pages=367-74&pmid=20035219&doi=10.1097/CCM.0b013e3181cb0cdc&)]
+-
+[34].Nguyen Y-L, Kahn JM, Angus DC. Reorganizing Adult Critical Care Delivery. Am J Respir Crit Care Med
+2010;181:1164–9. doi: 10.1164/rccm.200909-1441CP. [
+[DOI](https://doi.org/10.1164/rccm.200909-1441CP)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20224067/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Respir%20Crit%20Care%20Med&title=Reorganizing%20Adult%20Critical%20Care%20Delivery&author=Y-L%20Nguyen&author=JM%20Kahn&author=DC%20Angus&volume=181&publication_year=2010&pages=1164-9&pmid=20224067&doi=10.1164/rccm.200909-1441CP&)]
+-
+[35].Rhee C, Filbin MR, Massaro AF, Bulger AL, McEachern D, Tobin KA, et al.
+Compliance With the National SEP-1 Quality Measure and Association With Sepsis Outcomes. Crit Care Med
+2018;46:1585–91. doi: 10.1097/CCM.0000000000003261. [
+[DOI](https://doi.org/10.1097/CCM.0000000000003261)] [ [PMC free article](/articles/PMC6138564/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30015667/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Crit%20Care%20Med&title=Compliance%20With%20the%20National%20SEP-1%20Quality%20Measure%20and%20Association%20With%20Sepsis%20Outcomes&author=C%20Rhee&author=MR%20Filbin&author=AF%20Massaro&author=AL%20Bulger&author=D%20McEachern&volume=46&publication_year=2018&pages=1585-91&pmid=30015667&doi=10.1097/CCM.0000000000003261&)]
+Associated Data
+This section collects any data citations, data availability statements, or supplementary materials included in this article.

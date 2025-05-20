@@ -1,0 +1,41 @@
+Hallmarks of Health
+- PMID: 33340459
+-
+DOI:
+[10.1016/j.cell.2020.11.034](https://doi.org/10.1016/j.cell.2020.11.034)
+Hallmarks of Health
+Erratum in
+-
+[Hallmarks of health.](/33798440/)Cell. 2021 Apr 1;184(7):1929-1939. doi: 10.1016/j.cell.2021.03.033. Cell. 2021. PMID: 33798440 No abstract available.
+Abstract
+Health is usually defined as the absence of pathology. Here, we endeavor to define health as a compendium of organizational and dynamic features that maintain physiology. The biological causes or hallmarks of health include features of spatial compartmentalization (integrity of barriers and containment of local perturbations), maintenance of homeostasis over time (recycling and turnover, integration of circuitries, and rhythmic oscillations), and an array of adequate responses to stress (homeostatic resilience, hormetic regulation, and repair and regeneration). Disruption of any of these interlocked features is broadly pathogenic, causing an acute or progressive derailment of the system coupled to the loss of numerous stigmata of health.
+Copyright © 2020 Elsevier Inc. All rights reserved.
+Conflict of interest statement
+Declaration of Interests The authors declare that they do not have any manifest conflict of interest. C.L.-O. has ownership interest including stock and patents in DREAMgenics. G.K. has been holding research contracts with Bayer Healthcare, Daiichi Sankyo, Glaxo Smyth Kline, Genentech, Eleor, Institut Mérieux, Kaleido, Lytix Pharma, PharmaMar, Sotio, and Vasculox/Tioma. G.K. is on the Board of Directors of the Bristol Myers Squibb Foundation France. G.K. is a scientific co-founder of everImmune, Samsara Therapeutics, and Therafast Bio. G.K. is the inventor of patents covering therapeutic targeting of aging, cancer, cystic fibrosis, and metabolic disorders. G.K.’s wife, Laurence Zitvogel, has been holding research contracts with Glaxo Smyth Kline, Incyte, Lytix, Kaleido, Innovate Pharma, Daiichi Sankyo, Merus, Transgene, Tusk, and Roche, is on the Board of Directors of Transgene, a co-founder of everImmune, and holds patents covering the treatment of cancer and the therapeutic manipulation of the microbiota. G.K.’s brother, Romano Kroemer, is an employee of Sanofi.
+Similar articles
+-
+[The missing hallmark of health: psychosocial adaptation.](/38476764/)Cell Stress. 2024 Mar 12;8:21-50. doi: 10.15698/cst2024.03.294. eCollection 2024. Cell Stress. 2024. PMID: 38476764 Free PMC article.
+-
+[Exercise sustains the hallmarks of health.](/36374766/)J Sport Health Sci. 2023 Jan;12(1):8-35. doi: 10.1016/j.jshs.2022.10.003. Epub 2022 Oct 29. J Sport Health Sci. 2023. PMID: 36374766 Free PMC article. Review.
+-
+[Coupling the Circadian Clock to Homeostasis: The Role of Period in Timing Physiology.](/30169559/)Endocr Rev. 2019 Feb 1;40(1):66-95. doi: 10.1210/er.2018-00049. Endocr Rev. 2019. PMID: 30169559 Review.
+-
+[The pervasiveness and plasticity of circadian oscillations: the coupled circadian-oscillators framework.](/26049162/)Bioinformatics. 2015 Oct 1;31(19):3181-8. doi: 10.1093/bioinformatics/btv353. Epub 2015 Jun 6. Bioinformatics. 2015. PMID: 26049162 Free PMC article.
+-
+[Transcriptional control of circadian metabolic rhythms in the liver.](/26332966/)Diabetes Obes Metab. 2015 Sep;17 Suppl 1(0 1):33-8. doi: 10.1111/dom.12520. Diabetes Obes Metab. 2015. PMID: 26332966 Free PMC article. Review.
+Cited by
+-
+[Cancer cachexia as a multiorgan failure: Reconstruction of the crime scene.](/36158184/)Front Cell Dev Biol. 2022 Sep 8;10:960341. doi: 10.3389/fcell.2022.960341. eCollection 2022. Front Cell Dev Biol. 2022. PMID: 36158184 Free PMC article. Review.
+-
+[Fracture Healing in the Setting of Endocrine Diseases, Aging, and Cellular Senescence.](/35182420/)Endocr Rev. 2022 Nov 25;43(6):984-1002. doi: 10.1210/endrev/bnac008. Endocr Rev. 2022. PMID: 35182420 Free PMC article. Review.
+-
+[Race, sex, and mid-life changes in brain health: Cardia MRI substudy.](/35142033/)Alzheimers Dement. 2022 Dec;18(12):2428-2437. doi: 10.1002/alz.12560. Epub 2022 Feb 9. Alzheimers Dement. 2022. PMID: 35142033 Free PMC article.
+-
+[Emerging Trends in Pathophysiology: Insights from the 9th International Congress of the International Society for Pathophysiology (ISP 2023).](/38535621/)Pathophysiology. 2024 Mar 4;31(1):147-151. doi: 10.3390/pathophysiology31010011. Pathophysiology. 2024. PMID: 38535621 Free PMC article.
+-
+[Identification of potent anti-immunogenic agents through virtual screening, 3D-QSAR studies, and in vitro experiments.](/37550601/)Mol Divers. 2024 Oct;28(5):2771-2782. doi: 10.1007/s11030-023-10709-4. Epub 2023 Aug 8. Mol Divers. 2024. PMID: 37550601
+Publication types
+MeSH terms
+LinkOut - more resources
+Full Text Sources
+Other Literature Sources

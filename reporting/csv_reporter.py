@@ -63,6 +63,11 @@ class CSVReporter:
             logger.warning("No data to generate used_compendium.csv")
             return None
         
+        # Check if uses_compendium column exists (may not when running with --no-fulltext)
+        if 'uses_compendium' not in df.columns:
+            logger.warning("'uses_compendium' column not found - skipping used_compendium.csv generation")
+            return None
+            
         # Filter to only include citations with uses_compendium = 1
         used_df = df[df['uses_compendium'] == 1].copy()
         
@@ -108,14 +113,17 @@ class CSVReporter:
                 output_df[column] = None
         
         # Convert list columns to strings for CSV export
-        if 'authors' in output_df.columns and isinstance(output_df['authors'].iloc[0], list):
+        if 'authors' in output_df.columns and len(output_df) > 0 and isinstance(output_df['authors'].iloc[0], list):
             output_df['authors'] = output_df['authors'].apply(lambda x: '; '.join(x) if isinstance(x, list) else x)
         
         # Ensure numeric columns are numeric
         if 'year' in output_df.columns:
             output_df['year'] = pd.to_numeric(output_df['year'], errors='coerce')
         
-        if 'uses_compendium' in output_df.columns:
+        # Handle uses_compendium column (may be missing in --no-fulltext mode)
+        if 'uses_compendium' not in output_df.columns:
+            output_df['uses_compendium'] = 0  # Default to 0 if missing
+        elif len(output_df) > 0:  # Only process if dataframe has data
             output_df['uses_compendium'] = pd.to_numeric(output_df['uses_compendium'], errors='coerce').fillna(0).astype(int)
         
         return output_df

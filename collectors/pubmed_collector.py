@@ -4,6 +4,7 @@ Uses PyMed to search for citations in PubMed.
 """
 
 import time
+import re
 import pandas as pd
 from typing import List, Dict, Any
 import logging
@@ -90,16 +91,27 @@ class PubMedCollector(BaseCollector):
         
         for article in raw_data:
             try:
-                # Extract authors
+                # ---- authors -------------------------------------------------
                 authors = []
-                if 'authors' in article and article['authors']:
-                    authors = [author.get('lastname', '') + ' ' + author.get('firstname', '') 
-                               for author in article['authors'] if author]
-                
-                # Extract year
+                for a in article.get("authors", []) or []:
+                    if not a:
+                        continue
+                    lastname  = a.get("lastname") or ""
+                    firstname = a.get("firstname") or ""
+                    full_name = " ".join(filter(None, [lastname, firstname])).strip()
+                    if full_name:
+                        authors.append(full_name)
+
+                # ---- year ----------------------------------------------------
                 year = None
-                if 'publication_date' in article and article['publication_date']:
-                    year = article['publication_date'].year
+                pub_date = article.get("publication_date")
+                if pub_date:
+                    if hasattr(pub_date, "year"):
+                        year = pub_date.year
+                    elif isinstance(pub_date, str):
+                        m = re.match(r"\d{4}", pub_date)
+                        if m:
+                            year = int(m.group())
                 
                 # Normalize DOI
                 doi = article.get('doi', '').lower() if article.get('doi') else None

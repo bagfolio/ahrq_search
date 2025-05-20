@@ -1,0 +1,372 @@
+Summary Paragraph
+Experimental models of the human brain are needed for basic understanding of its development and disease
+[1](#R1). Human brain organoids hold unprecedented promise for this purpose; however, they are plagued by high organoid-to-organoid variability [2](#R2), [3](#R3). This has raised doubts as to whether developmental processes of the human brain can occur outside the context of embryogenesis with a degree of reproducibility comparable to the endogenous tissue. Here, we show that an organoid model of the dorsal forebrain can achieve reproducible generation of a rich diversity of cell types appropriate for the human cerebral cortex. Using single-cell RNA sequencing of 166,242 cells isolated from 21 individual organoids, we find that 95% of the organoids generate a virtually indistinguishable compendium of cell types, through the same developmental trajectories, and with organoid-to-organoid variability comparable to that of individual endogenous brains. Furthermore, organoids derived from different stem cell lines show consistent reproducibility in the cell types produced. The data demonstrate that reproducible development of complex central nervous system cellular diversity does not require the context of the embryo, and that establishment of terminal cell identity is a highly constrained process that can emerge from diverse stem cell origins and growth environments.
+The human brain is composed of a great diversity of cell types, which are generated largely during embryonic development. In vivo, this process is virtually invariant: every embryo acquires the same compendium of cell types, organized into the same anatomical structures
+[1](#R1). It is unclear, however, whether the same reproducibility is achievable outside the embryo.
+Prior work has shown that a large variety of cell types characteristic of defined brain regions, including the cerebral cortex, can be generated in vitro, within human brain organoid and spheroid models derived from pluripotent stem cells
+[3](#R3)– [14](#R14). However, few studies have attempted to quantify cellular composition across individual organoids, limiting our understanding of the degrees of reproducibility achievable within different organoid models.
+Therefore, we established four distinct protocols for producing 3D brain organoids and spheroids: self-patterned whole-brain organoids
+[3](#R3); patterned dorsal forebrain organoids (modified from [5](#R5)); and patterned dorsal and ventral spheroids (modified from [15](#R15)). We adapted each protocol to growth in spinner-flask bioreactors over durations of at least 6 months, to achieve advanced maturation ( [Extended Data Fig. 1a](#F5); see Methods for details on protocol modifications).
+To standardize and compare these four models, we derived cultures of each from the same hiPSC line, PGP1
+[16](#R16). We observed substantial differences in overall external morphology and size across models ( [Extended Data Fig. 1a](#F5)). Self-patterned whole-brain organoids showed the greatest variability in shape. The two patterned spheroid models showed more consistent shape but remained substantially smaller. The dorsally patterned organoid model, however, showed desirable features of large size and consistent overall shape ( [Fig. 1a](#F1)– [b](#F1) and [Extended Data Fig. 1a](#F5)). For this model, we modified the protocol originally published by Kadoshima et al. [5](#R5) to eliminate the need for interventions to reduce hypoxia by adapting the cultures to growth in spinner-flask bioreactors ( [Fig. 1a](#F1)), allowing us to substantially extend development in vitro ( [Extended Data Fig. 1a](#F5)). Immunohistochemistry (IHC) for the dorsal forebrain progenitor markers EMX1 and PAX6 and for the early pan-neuronal marker MAP2 confirmed the presence of rosette-like structures at one month, when dorsalized progenitors lined ventricle-like cavities. The cortical pyramidal neuron subtype markers CTIP2 and SATB2 were expressed by 3 months and subsequently maintained ( [Fig. 1c](#F1) and [Extended Data Fig. 1b](#F5)). Importantly, we observed these features in the majority of organoids across 5 distinct stem cell lines: PGP1 (male, hiPSC; three independent experimental batches), HUES66 (female, hESC; two independent batches), GM08330 (male, hiPSC), 11a (male, hiPSC), and Mito 210 (male, hiPSC). Across all lines, 100% of organoids expressed PAX6 and MAP2 at 1, 3, and 6 months, and 89% also expressed EMX1 ( [Extended Data Table 1](#T1)). Given these promising features, we concentrated further analysis on this model.
+We initially performed high-throughput single cell RNA-seq (scRNA-seq) on 78,379 cells from 9 individual organoids from two stem cell lines, PGP1 (two independent batches, b1 and b2) and HUES66 (one batch), at 3 months of growth (
+[Fig. 1d](#F1)). For each batch, we clustered cells from all organoids and systematically classified the clusters by comparing signatures of differentially expressed genes ( [Supplementary Information Table 1](#SD2), [Supplementary Information Note 1](#SD2)) to pre-existing datasets of endogenous cell types [3](#R3), [8](#R8), [17](#R17)– [23](#R23) (examples in [Extended Data Fig. 2a](#F6)). This defined eleven main transcriptionally-distinct cell types across both lines, representing a large diversity of progenitor and neuronal types appropriate for the cerebral cortex ( [Fig. 1d](#F1)).
+To determine whether each organoid had generated the complete set of cells, we aligned and co-clustered the cells from all 9 organoids (
+[Fig. 1d](#F1)). We found that organoids were highly reproducible in cellular composition across different lines and batches ( [Fig. 1d](#F1)). Furthermore, the cell type assignments from the batch-by-batch analysis were grouped together by the co-clustering analysis, indicating consistent transcriptional signatures for individual cell types across lines and batches. Although one organoid (Org 4) had an increased number of corticofugal projection neurons, the overall proportions of individual cell types were consistent across cell lines (see also [Extended Data Fig. 5A](#F9)). Expression of cell type-specific markers assayed by IHC and RNA in situ hybridization showed equally high consistency ( [Extended Data Fig. 2b](#F6)– [d](#F6)). These organoids not only produce a large variety of cortical cell types, but cell identity and diversity are reproducible organoid-to-organoid and across experiments.
+Cellular diversity of the cerebral cortex develops in a specific temporal sequence
+[23](#R23), [24](#R24). Astroglial cells, which are typically produced later in development, were notably under-represented in the 3-month cultures. Therefore, we grew organoids from the PGP1, GM08330, and 11a stem cell lines for six months and performed scRNA-seq of an additional 87,863 cells from 12 individual organoids (PGP1: two independent batches, b1 and b3; GM08330 and 11a: one batch) ( [Fig. 2a](#F2)). One out of the 12 organoids did not show expression of FOXG1 or any other neuronal marker, suggesting that differentiation had stalled at an early stage. Therefore, we excluded this organoid from further analysis. Co-clustering of all cells in the remaining 11 organoids identified thirteen main cell classes ( [Fig. 2a](#F2)). Importantly, organoid-to-organoid variability remained extremely low even after 6 months of culture.
+To quantify changes in cellular composition over time, we combined and co-clustered cells from organoids derived from the same differentiation batch (PGP1 b1) but collected at 3 and 6 months (
+[Fig. 2b](#F2)). The six-month cultures contained substantial numbers of astrocytes, confirmed by IHC for the astrocytic markers S100B and GFAP ( [Fig. 2c](#F2)), as well as cycling inhibitory interneuron precursors and immature inhibitory interneurons ( [Fig. 2a](#F2)– [b](#F2)). While the origin of these interneurons is unclear, their transcriptional similarity to IPCs (see also [Extended Data Fig. 4b](#F8)) suggests that they could be interneurons of the olfactory bulb, which originate from subventricular zone progenitors [25](#R25). The data indicate that appropriate additional cell types develop in these organoids, respecting endogenous temporal sequences. Despite the long culture period, molecular markers of apoptosis and hypoxia remained low ( [Extended Data Fig. 3a](#F7)– [e](#F7)).
+It is possible that, within individual organoids, the same terminal composition of cell types may be generated via distinct developmental trajectories. Therefore, we calculated a developmental pseudotime trajectory
+[26](#R26) across all cell lines for each timepoint. Each organoid distributed similarly along the pseudotime trajectory, independent of line or batch, and the pseudotemporal ordering of cell types approximated that of in vivo human development ( [Fig. 3a](#F3)– [b](#F3) and [Extended Data Fig. 4a](#F8)). At three months, all organoids followed a trajectory that progressed from radial glia to mature excitatory neurons. Confirming neuronal maturation, colocalization of the pre- and post-synaptic markers VGluT1 and PSD95 suggested the presence of excitatory synapses at this timepoint ( [Fig. 3c](#F3)). At six months, the trajectory proceeded along two branches, towards excitatory neurons or mature astrocytes. The data indicate that beyond terminal cellular composition, developmental trajectories of fate specification are reproducibly established in each organoid and therefore can be reliably investigated in this system.
+To assess similarity between organoid cell types and those of the endogenous human brain, we employed a published scRNA-seq dataset of human fetal cerebral cortex
+[18](#R18). Briefly, fetal human cells were used to train a Random Forest classifier, which was then applied to assign organoid cells to the human cortex cell categories [27](#R27). Organoid cells at both 3 and 6 months were predominantly assigned to the corresponding endogenous cell class, indicating that their transcriptional profiles were similar to endogenous cells ( [Fig. 3d](#F3) and [Extended Data Fig. 4b](#F8)). Importantly, the main cell types present in organoids at 3 months are as similar to the corresponding endogenous cells as those present at 6 months, suggesting that by 3 months organoids are already a valuable tool for modeling human neurodevelopmental processes.
+It is unclear whether treatment with exogenous patterning signals may negatively affect the fidelity of terminal cell identities. Therefore, we investigated whether transcriptional similarity to endogenous human fetal cortex
+[18](#R18) cells was comparable to that found in self-patterned whole-brain organoids analyzed in our previous study [3](#R3) (see Methods). All of the dorsally patterned organoids and the whole-brain organoids showed similarly high correlation with human cells (correlation coefficients between 0.67 and 0.80; [Fig. 3e](#F3)). Therefore, the use of exogenous patterning signals in this model does not require a trade-off in the fidelity of the cell types generated.
+To evaluate the reproducibility of this model relative to prior systems, we compared the variability of dorsally patterned forebrain organoids and self-patterned whole-brain organoids
+[3](#R3) ( [Fig. 4a](#F4), [b](#F4) and [Extended Data Fig. 5a](#F9), [b](#F9)). scRNA-seq data for the 19 individual self-patterned whole-brain organoids in our previous study [3](#R3) showed high organoid-to-organoid variability, with only a minority of organoids (4/19) generating substantial amounts of forebrain cells ( [Extended Data Fig. 5b](#F9)). We applied intraclass correlation (ICC), a correlation metric that considers group structure in the data (i.e., cell types), to the proportions of each cell type produced by each organoid; an ICC near 1.0 indicates high agreement. The 19 organoids in the whole-brain organoid cohort had an ICC of 0.39 (95% Confidence Interval [CI] 0.23–0.65). In contrast, the pre-patterned organoids of the present study scored much higher (3 month organoids: ICC 0.85, 95% CI: 0.69–0.96; 6 month organoids: ICC 0.68, 95% CI: 0.45–0.89) ( [Extended Data Fig. 5a](#F9)).
+The availability of single-cell RNA-seq datasets from individual human
+[28](#R28), [29](#R29) and mouse [30](#R30) cortices allowed us to investigate if the reproducibility of cell types generated in dorsally patterned organoids was similar to that of endogenous brains. As existing datasets vary in the terminology and degree of granularity used for cell type assignment ( [Extended Data Fig. 5](#F9)), we first re-clustered each dataset using identical methods. We calculated mutual information (MI) scores between cluster assignments and sample identity in each dataset ( [Fig. 4a](#F4)– [e](#F4)); a lower MI score and lower z-score indicate higher reproducibility between individuals. For the self-patterned whole-brain organoid model [3](#R3), we examined specifically the best performing batch of 4 organoids that produced forebrain cells; these organoids had a high MI score of 0.27 and a z-score of 156.4 ( [Fig. 4b](#F4)). Conversely, in the dorsally patterned organoids, reproducibility was consistently high, as reflected in low MI and z-scores (MI 0.049–0.089, z-score 38.0–75.7) ( [Fig. 4a](#F4)). Remarkably, the reproducibility with which the different clusters are generated in individual dorsally patterned organoids ( [Fig. 4a](#F4) and [Extended Fig. 5a](#F9)) is comparable to that of individual endogenous human or mouse brain samples (MI range 0.008–0.064, z-score range 2.2–41.4) ( [Fig. 4c](#F4)– [e](#F4) and [Extended Data Fig. 5c](#F9)– [e](#F9)). All datasets, including the human and mouse endogenous brains, showed variation between samples; however, the degree of variation in the dorsally patterned organoid samples was similar to that of the endogenous brain datasets.
+Stem cell-based models of the human brain offer an opportunity to investigate processes of human brain development and disease that would not otherwise be experimentally accessible. However, their application has been limited by a variety of factors, prime among which is the lack of developmental reproducibility between individual organoids. Here, through the largest-to-date scRNA-seq dataset in brain organoids, we demonstrate that extensive cellular diversity of a complex CNS region can be generated outside of the embryo in a highly reproducible and developmentally-constrained manner that transcends individual organoids, experimental batch, genetic background, and sex. These data suggest that dynamic processes of development can be modeled in organoids, and that early patterning of a brain region starts a process of cell specification and maturation that is highly constrained even outside the embryo. This level of reproducibility in vitro informs us about basic constraints and principles that control cell diversification in the human brain, and establishes a valuable organoid model amenable to the experimental investigation of developmental abnormalities associated with human neurological disease that would otherwise not be experimentally accessible.
+Methods
+Pluripotent stem cell (PSC) culture.
+The PGP1 (Personal Genome Project 1) hiPSC line was from the lab of George Church
+[16](#R16); the HUES66 hESC and the 11a hiPSC lines from the Harvard Stem Cell Institute; the GM08330 hiPSC line [31](#R31) (also known as GM8330–8) [32](#R32) from the lab of Michael Talkowski (MGH Hospital); and the Mito 210 hiPSC line from the lab of Bruce Cohen (McLean Hospital). All PSC lines were cultured in feeder-free conditions on Geltrex (Gibco)-coated cell culture dishes, using mTESR1 medium (Stem Cell Technologies) with 100 U/mL penicillin and 100 μg/mL streptomycin (Corning), at 37˚C in 5% CO2. All human PSCs were maintained below passage 50, were negative for mycoplasma (assayed with the MycoAlert™ PLUS Mycoplasma Detection Kit, Lonza), and karyotypically normal (G-banded Karyotype test, performed by WiCell Research Institute, Inc.).
+Organoid differentiation.
+To generate dorsally patterned forebrain organoids, we modified the method previously described in Kadoshima et al.
+[3](#R3). We eliminated the need for growth under 40% O2, the need for cell aggregates to be periodically bisected, and the use of high O2 penetration dishes, by adapting the cultures to growth in spinner-flask bioreactors. Specifically, on day 0, feeder-free cultured human PSCs, 80–90% confluent, were dissociated to single cells with Accutase (Gibco), and 9,000 cells per well were reaggregated in ultra-low cell-adhesion 96-well plates with V-bottomed conical wells (sBio PrimeSurface plate; Sumitomo Bakelite) in Cortical Differentiation Medium (CDM) I, containing Glasgow-MEM (Gibco), 20% Knockout Serum Replacement (Gibco), 0.1 mM Minimum Essential Medium non-essential amino acids (MEM-NEAA) (Gibco), 1 mM pyruvate (Gibco), 0.1 mM 2-mercaptoethanol (Gibco), 100 U/mL penicillin, and 100 μg/mL streptomycin (Corning). From day 0 to day 6, ROCK inhibitor Y-27632 (Millipore) was added to the medium at a final concentration of 20 μM. From day 0 to day 18, Wnt inhibitor IWR1 (Calbiochem) and TGFβ inhibitor SB431542 (Stem Cell Technologies) were added at a concentration of 3 μM and 5 μM, respectively. From day 18, the floating aggregates were cultured in ultra-low attachment culture dishes (Corning) under orbital agitation (70 rpm) in CDM II, containing DMEM/F12 medium (Gibco), 2mM Glutamax (Gibco), 1% N2 (Gibco), 1% Chemically Defined Lipid Concentrate (Gibco), 0.25 μg/mL fungizone (Gibco), 100 U/mL penicillin, and 100 μg/mL streptomycin. On day 35, cell aggregates were transferred to spinner-flask bioreactors (Corning) and maintained at 56 rpm, in CDM III, consisting of CDM II supplemented with 10% fetal bovine serum (FBS) (GE-Healthcare), 5 μg/mL heparin (Sigma), and 1% Matrigel (Corning). From day 70, organoids were cultured in CDM IV, consisting of CDM III supplemented with B27 supplement (Gibco) and 2% Matrigel. A step-by-step protocol describing the long-term culture of dorsally patterned forebrain organoids is available at [Protocol Exchange](#SD4) [33](#R33). Over the time course of the differentiations (experimental batches) included in this paper, an estimated 13 batches of FBS, 4 batches of KSR, and 23 batches of Matrigel were used.
+We observed that when starting with healthy viable hiPSCs (mycoplasma-free, karyotypically normal and below passage 50) with typical morphological features of undifferentiated cells (tightly packed colonies of round cells with large nuclei and nucleoli) at 80–90% confluency, the efficiency of forebrain cell type generation was ~90% (93/103 organoids, single-cell RNA-seq and IHC combined efficiency,
+[Extended Data Table 1](#T1)).
+Self-patterned whole-brain organoids were generated as previously described
+[3](#R3), [34](#R34). Dorsal and ventral spheroids were generated using a modification of a previously described protocol [15](#R15). Specifically, spheres of pluripotent stem cells were grown for four additional days before neural induction; for ventral spheroids, specification of ventral telencephalic identity was obtained by treatment with the SHH agonist SAG (Selleckhem; 100nM) from days 7 to 20.
+Immunohistochemistry and In Situ Hybridization.
+Samples were fixed in 4% paraformaldehyde (Electron Microscopy Services), cryoprotected in 30% sucrose solution, embedded in Optimum Cutting Temperature (OCT) compound (Tissue Tek) and cryosectioned (14 μm thickness). Sections were washed with 0.1% TWEEN-20 (Sigma) in Phosphate buffered saline (PBS) (Gibco), blocked for 1 hr at RT with 6% donkey serum (DS) (Sigma) + 0.3% Triton X-100 (Sigma) in PBS, and incubated with primary antibodies overnight at 4℃ (diluted with 2.5% DS + 0.1% Triton X-100 in PBS). Primary antibodies and dilutions used are specified in
+[Extended Data Table 2](#T2). PSD95 and VGluT1 immunohistochemistry (IHC) was performed as in Arlotta et al. [20](#R20). RNA in situ hybridization was performed using the RNAscope Fluorescent Multiplex Reagent Kit (Advanced Cell Diagnostics) according to the manufacturer’s instructions. The probes used are: Hs-EOMES-C2 (429691-C2), Hs-TBR1-C3 (425571-C3), and Hs-Reln (413051) (Advanced Cell Diagnostics).
+Microscopy and Image analysis.
+Images of organoids in culture were taken on an EVOS FL microscope (Invitrogen). Immunofluorescence images were obtained using an LSM 700 inverted confocal microscope (Zeiss) and analyzed with the ZEN Blue/Black 2012 image-processing software.
+Dissociation of brain organoids and single-cell RNA-seq.
+Individual brain organoids were dissociated into a single-cell suspension using the Worthington Papain Dissociation System kit (Worthington Biochemical). A detailed description of the dissociation protocol is available at
+[Protocol Exchange](#SD4) [33](#R33). Dissociated cells were resuspended in ice-cold PBS containing 0.04% BSA (Sigma) at a concentration of 1000 cells/μL, and approximately 17,400 cells per channel (to give estimated recovery of 10,000 cells per channel) were loaded onto a Chromium™ Single Cell 3’ Chip (10x Genomics, PN-120236) and processed through the Chromium Controller to generate single-cell GEMs (Gel Beads in Emulsion). Single-cell RNA-Seq libraries were prepared with the Chromium™ Single Cell 3’ Library & Gel Bead Kit v2 (10x Genomics, PN-120237). Libraries from different samples were pooled based on molar concentrations and sequenced on a NextSeq 500 instrument (Illumina) with 26 bases for read 1, 57 bases for read 2 and 8 bases for Index 1. After the first round of sequencing, libraries were re-pooled based on the actual number of cells in each and re-sequenced to give equal number of reads per cell in each sample and to reach a sequencing saturation of at least 50% (in most cases >70%).
+Single-cell RNA-seq data analysis.
+The Cell Ranger 2.0.1 pipeline (10x Genomics)
+[35](#R35) was used to align reads from RNA-seq to the GRCh38 human reference genome and produce the associated cell by gene count matrix [(Extended Data Table 3)](#T3). Default parameters were used, except for the ‘--cells’ argument. Unique Molecular Identifier (UMI) counts were analyzed using the Seurat R package v2.3.4 [36](#R36). Cells expressing a minimum of 500 genes were kept, and UMI counts were normalized for each cell by the total expression, multiplied by 1 million, and log-transformed. Seurat’s default method for identifying variable genes was used with x.low.cutoff=1, and the ScaleData function was used to regress out variation due to differences in total UMIs per cell. Principal component analysis (PCA) was performed on the scaled data for the variable genes, and significant principal components (PC) were chosen. Cells were clustered in PCA space with a method adapted from [27](#R27) by finding the 50 nearest neighbors to each cell using R’s RANN package [37](#R37), building a graph with edges between neighbor cells weighted by the Jaccard distance, and performing Louvain clustering on the resulting graph. Variation in the cells was visualized by t-SNE on the significant PCs.
+For each dataset of three organoids, differentially expressed genes upregulated in each cluster compared to the rest of the cells were identified using Seurat’s implementation of the Model-based Analysis of Single Cell Transcriptomics (MAST) algorithm
+[38](#R38) ( [Supplementary Information Table 1](#SD2)). To identify cell types, genes with a Bonferroni-adjusted p value less than 0.01 and a log Fold Change of at least 0.25 were taken into consideration. Ambient RNA was found to affect clustering distribution in at least two individual batches ( [Supplementary Note 1](#SD2)), but no correction was needed after comparing data across batches. To do so, we used Seurat’s canonical correlation analysis (multi-CCA) procedure for batch correction with default parameters [36](#R36). Briefly, this identifies vectors along which the datasets correlate, and then aligns values along these vectors to reduce batch variation. T-SNE plots were used to visualize variation in the data after alignment in the top 20 canonical correlation vectors.
+Pseudotime analysis was performed using the Monocle package v2.99.1
+[26](#R26) with default parameters. UMI counts from 35,000 randomly sampled cells per timepoint were imported into Monocle’s CellDataSet object with an expected negative binomial distribution. T-SNE plots were used for visualization, and the “SimplePPT” method was employed to learn a tree-like trajectory between the cells. When ordering the cells along this trajectory, cells previously assigned to the “Cycling Progenitors” cell type were specified as the starting state. Finally, Scrublet v0.1 [39](#R39) was used to assess the effect of droplets that may have contained more than one cell, with an expected doublet rate of 0.1 and a score threshold of 0.39, chosen based on histograms of simulated doublet scores ( [Extended Data Fig. 3F](#F7)).
+Comparison to published single-cell RNA-seq data.
+To compare the cell types found in the dorsally patterned organoids to previously published data from whole-brain organoids
+[3](#R3) and endogenous tissue [18](#R18), [28](#R28)– [30](#R30), we downloaded UMI count data available from those publications, created Seurat objects, and submitted it to the same normalization, clustering, and visualization pipeline as above. In the case of Fan et al., [29](#R29) log(TPM+1) were used instead of UMI counts. To compare variability in cell type proportion between dorsally patterned organoids and whole-brain organoids, intraclass correlation was computed by creating a table of cell type proportions across each individual organoid, and using the icc command in the irr R package v0.84, with model=“twoway”, type=“agreement”, and unit=“single”. To compare cell type classifications between organoid data and fetal human data (as in [Fig. 4A](#F4) and [Extended Data Fig. 5A](#F9)), cell types as assigned to each cell by Nowakowski et al. [18](#R18) were aggregated into more general cell types (after removing clusters not found in organoids: oligodendrocyte precursors, endothelial, and microglia, or with too few cells: unknown and astrocytes) and used to train a Random Forest classifier to distinguish between cell types [27](#R27). This was done with the tuneRF function in the randomForest R package [40](#R40) with doBest=T, after the data was downsampled to 314 cells per cell type (the size of the smallest cell type). The classifier was then applied to the organoid data to assign organoid cells to one of the human cortex cell types. To calculate correlations between cell types (as in [Fig. 3e](#F3)), we assigned cell types to cells in Nowakowski et al. [18](#R18) using the same method that was used for organoids. The Spearman correlation was calculated between the gene expression of highly variable genes in the Nowakowski et al. [18](#R18) dataset in the “average cell” in each cell type (calculated with Seurat’s AverageExpression function). To measure reproducibility of clusters per individual organoid, human cortex, or mouse cortex sample, data was downsampled to have 659 cells per individual (to match the sample with the fewest cells, adult human cortex 5) before clustering all individuals in a dataset together. Mutual information was calculated between cluster assignments and individuals with the mpmi R package. Z-scores were calculated by creating background distributions for each dataset, by permuting cluster assignments and re-calculating the mutual information score 1,000 times.
+Statistics and Reproducibility.
+A total of 21 single organoids collected at 3 and 6 months, derived from 4 different cell lines, from 6 independent batches (PGP1: 3 batches; HUES66, GM08330, and 11a: 1 batch each; n=3 organoids per batch and timepoint) were profiled by single-cell RNA-seq. Analysis of over 166,242 single cells revealed reproducibility in the diversity of cell types generated “organoid-to-organoid” for 20/21 organoids (~95% efficiency) (
+[Extended Data Table 1](#T1)). A total of 82 single organoids, derived from 5 different lines, from 8 independent batches (PGP1: 3 batches; HUES66: 2 batches; GM08330, 11a, and Mito 210: 1 batch each) were analyzed by IHC for expression of EMX1, PAX6, MAP2 at 1 month (n=26/26 positive); 3 months (n=37/37 positive for PAX6 and MAP2; and 36/37 positive for EMX1); and 6 months (n=19/19 positive for PAX6 and MAP2; 11/19 positive for EMX1) ( [Fig. 1c](#F1), [Extended Data Fig. 2b](#F6), and [Extended Data Table 1](#T1)). IHC for CTIP2 and SATB2 was performed on 3 month organoids derived from 5 different cell lines, from 8 independent batches (PGP1: 3 batches; HUES66: 2 batches; GM08330, 11a, and Mito 210: 1 batch each) (n=32/37 positive) ( [Fig. 1c](#F1), [Extended Data Fig. 2b](#F6)). IHC for GFAP and S100B ( [Fig. 2c](#F2)) was performed on 6 month organoids derived from 1 cell line (PGP1, 1 batch) (n=3/3 positive). IHC for VGluT1 and PSD95 ( [Fig. 3c](#F3)) was performed on 3 month organoids from 2 cell lines, from 2 independent batches (PGP1 and 11a: 1 batch each) (n=8/8 positive). IHC for SOX2 ( [Extended Data Fig. 2b](#F6)) was performed on 3 month organoids from 5 cell lines, from 7 batches (PGP1: 2 batches; HUES66: 2 batches; 11a, GM08330, and Mito210: 1 batch) (n=34/34 positive). IHC for Ki67 ( [Extended Data Fig. 2b](#F6)) was performed on 3 month organoids from 4 cell lines, from 4 batches (PGP1, 11a, HUES66, and GM08330: 1 batch each) (n=22/22 positive). IHC for FOXG1, HOPX, TBR1, and TBR2 at 3 months and 6 months ( [Extended Data Fig. 2d](#F6)) was performed on organoids from one cell line (PGP1: 1 batch) (n=7/7 positive). IHC for HOPX at 3 months was also performed on two additional cell lines (HUES66 and GM08330: 1 batch each) (n=12/12 positive). IHC for cleaved Caspase 3 ( [Extended Data Fig. 3e](#F7)) was performed on organoids from one batch of the PGP1 cell line, at 3, 4, 5 and 6 months (n=3 for each timepoint). Overall, expression of MAP2, EMX1, PAX6, CTIP2, and SATB2 was assessed at 1, 3 and 6 months on organoids from each independent batch, and at 2, 4 and 5 months for one batch of PGP1 ( [Extended Data Fig. 1b](#F5)).
+RNA in situ Hybridization for EOMES (TBR2), Reelin, and TBR1 was performed on 3 month organoids from 4 cell lines (PGP1, 11a, GM08330, HUES66), from 4 batches (n=22/22 positive). No statistical methods were used to predetermine the sample size.
+Data availability.
+Single-cell RNA-seq data that support the findings of this study have been deposited at Gene Expression Omnibus, accession number
+[GSE129519](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE129519), and at the Single Cell Portal ( [portals.broadinstitute.org/single_cell/study/reproducible-brain-organoids](https://portals.broadinstitute.org/single_cell/study/reproducible-brain-organoids)). The reference datasets used for comparison are available in the Gene Expression Omnibus at accession numbers [GSE86153](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE86153), [GSE116470](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE116470), and [GSE103723](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE103723), or in dbGaP at accession phs000989.v3, and phs000424.v8.p1.
+Code availability.
+The code used for data analysis is available on GitHub (
+[https://github.com/AmandaKedaigle/BrainOrganoidsReproducibility](https://github.com/AmandaKedaigle/BrainOrganoidsReproducibility)).
+Extended Data
+Extended Data Table 1. Quantification of protocol efficiency.
+|Expression of Neuronal and Cortical Markers by IHC
+||Generation of Forebrain Cell Types by RNA-seq
+|
+|Timepoint||Cell Line||Batches||Organoids Analyzed||MAP2||PAX6||EMX1||Organoids Analyzed||Reproducibility|
+|1 Mo.||PGP1||2||7||7/7||100%||7/7||100%||7/7||100%|
+|11a||1||4||4/4||100%||4/4||100%||4/4||100%|
+|GM08330||1||6||6/6||100%||6/6||100%||6/6||100%|
+|Mito 210||1||4||4/4||100%||4/4||100%||4/4||100%|
+|HUES66||2||5||5/5||100%||5/5||100%||5/5||100%|
+|Total||7||26||26/26||100%||26/26||100%||26/26||100%|
+|3 Mo.||PGP1||3||10||10/10||100%||10/10||100%||9/10||90%||6 (2 batches)||6/6||100%|
+|11a||1||6||6/6||100%||6/6||100%||6/6||100%|
+|GM08330||1||6||6/6||100%||6/6||100%||6/6||100%|
+|Mito 210||1||3||3/3||100%||3/3||100%||3/3||100%|
+|HUES66||2||12||12/12||100%||12/12||100%||12/12||100%||3||3/3||100%|
+|Total||8||37||37/37||100%||37/37||100%||36/37||97%||9||9/9||100%|
+|Mito 210||1||4||4/4||100%||4/4||100%||4/4||100%|
+|6 Mo.||PGP1||2||6||6/6||100%||6/6||100%||5/6||83%||6 (2 batches)||5/6||83%|
+|11a||1||3||3/3||100%||3/3||100%||3/3||100%||3||3/3||100%|
+|GM08330||1||3||3/3||100%||3/3||100%||3/3||100%||3||3/3||100%|
+|HUES66||1||7||7/7||100%||7/7||100%||0/7||0%|
+|Total||5||19||19/19||100%||19/19||100%||11/19||58%||12||11/12||92%|
+|Total||8||82||82/82||100%||82/82||100%||73/82||89%||21||20/21||95%|
+Extended Data Table 2.
+|Primary Antibody||Host||Manufacturer||Catalog Number||Dilution|
+|Cleaved Caspase 3||Rabbit||Cell Signaling Technologies||9661||1/300|
+|CTIP2||Rat||Abcam||AB18465||1/100|
+|EMX1||Rabbit||Atlas Antibodies||HPA006421||1/50|
+|FOXG1||Rabbit||Abcam||196868||1/100|
+|GFAP||Mouse||Sigma-Aldrich||G3893||1/400|
+|HOPX||Rabbit||Sigma-Aldrich||HPA030180||1/2,500|
+|Ki67||Mouse||BD Biosciences||550609||1/400|
+|MAP2||Chicken||Abcam||AB5392||1/5,000|
+|PAX6||Rabbit||Biolegend||901301||1/400|
+|PSD95||Rabbit||Thermo Fisher||51-6900||1/350|
+|S100B||Rabbit||Abcam||AB41548||1/2,000|
+|SATB2||Mouse||Abcam||AB51502||1/50|
+|SOX2||Goat||RD Systems||AF2018||1/50|
+|TBR1||Rabbit||Abcam||AB31940||1/500|
+|TBR2||Rabbit||Millipore||AB2283||1/2,000|
+|VGluT1||Guinea Pig||Millipore||AB5905||1/2,000|
+Extended Data Table 3. Statistics from single-cell RNA-sequencing.
+|Total Reads||Mean Reads/Cell||Reads Mapped Confidently to Transcriptome||Median Genes/Cell||Cells Passing QC||Mean Mapped Reads in Passing Cells||Median Mapped Reads in Passing Cells|
+|3 Mo.||PGP1 (batch 1)||Org #1||282,380,462||47,610||45.80%||2,086||5,924||17,915||16,290|
+|Org #2||308,237,385||44,847||47.00%||1,898||6,858||18,010||15,555|
+|Org #3||232,194,411||46,429||45.30%||2,055||4,992||17,926||15,485|
+|PGP1 (batch 2)||Org #4||320,293,451||35,627||48.80%||2,078||8,989||14,221||12,146|
+|Org # 5||290,649,261||38,048||49.60%||1,988||7,639||15,012||11,545|
+|Org #6||312,301,428||28,326||49.00%||1,501||11,018||11,481||9,638|
+|HUES66||Org #7||357,410,387||33,993||53.90%||1,741||10,509||15,599||13,346|
+|Org #8||360,164,748||35,362||52.70%||1,709||10,175||15,336||13,032|
+|Org #9||458,590,387||37,329||53.30%||1,589||12,275||17,141||15,263|
+|6 Mo.||11a||Org #10||328,096,843||35,504||50.80%||1,290||9,237||14,958||10,947|
+|Org #11||309,099,766||36,343||52.00%||1,330||8,495||15,786||11,773|
+|Org #12||399,350,440||50,589||49.20%||1,438||7,886||20,607||15,158|
+|GM08330||Org #13||178,317,524||30,898||50.00%||1,723||5,759||11,255||8,007|
+|Org #14||175,558,635||32,271||49.60%||1,758||5,436||11,513||8,362|
+|Org #15||124,971,025||30,743||51.00%||1,724||4,061||10,635||7,485|
+|PGP1 (batch 1)||Org #16||420,342,563||49,850||52.50%||1,477||8,425||20,150||14,760|
+|Org #17||300,940,886||47,496||52.80%||1,727||6,327||19,659||14,726|
+|Org #18||314,512,990||48,565||56.80%||1,501||6,461||22,105||16,655|
+|PGP1 (batch 3)||Org #19||249,698,784||30,376||50.60%||1,472||8,215||12,331||9,489|
+|Org #20||150,922,738||23,055||47.80%||1,581||6,539||9,253||7,102|
+|Org #21||347,029,455||31,479||58.00%||2,053||11,022||17,026||15,005|
+Supplementary Material
+Acknowledgements:
+We thank J.R. Brown and C. Gerhandinger for insightful discussions and editing of the manuscript; T. Nguyen, V. Jokhi, A. S. Shetty, J. Stogsdill, D. Di Bella, X. Jin, and K. Shekhar for help with scRNA-seq analysis and classification; M. Cuoco, J. Waldman, and D. Dionne for help with scRNA-seq library preparation; the Eggan lab for providing the 11a line; the Talkowski lab for the GM08330 line; and the Cohen lab for the Mito 210 line. This work was supported by grants from the Stanley Center for Psychiatric Research, the Broad Institute of Harvard and MIT, and the National Institute of Health (R01-MH112940) to P.A. and J.L., the Klarman Cell Observatory to J.L and A.R, and the Howard Hughes Medical Institute to A.R. This work is dedicated to the memory of Yoshiki Sasai, who was a pioneer of the field of brain organoids and first established the protocol that we build upon in this study.
+Footnotes
+The authors declare no competing interests.
+Supplementary Information is linked to the online version of the paper at
+[www.nature.com/nature](http://www.nature.com/nature).
+References
+-
+1.Silbereis JC, Pochareddy S, Zhu Y, Li M & Sestan N
+The Cellular and Molecular Landscapes of the Developing Human Central Nervous System. Neuron
+89, 248–268 (2016). [
+[DOI](https://doi.org/10.1016/j.neuron.2015.12.008)] [ [PMC free article](/articles/PMC4959909/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26796689/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Neuron&title=The%20Cellular%20and%20Molecular%20Landscapes%20of%20the%20Developing%20Human%20Central%20Nervous%20System&author=JC%20Silbereis&author=S%20Pochareddy&author=Y%20Zhu&author=M%20Li&author=N%20Sestan&volume=89&publication_year=2016&pages=248-268&pmid=26796689&doi=10.1016/j.neuron.2015.12.008&)]
+-
+2.Quadrato G, Brown J & Arlotta P
+The promises and challenges of human brain organoids as models of neuropsychiatric disease. Nat. Med
+22, 1220–1228 (2016). [
+[DOI](https://doi.org/10.1038/nm.4214)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27783065/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat.%20Med&title=The%20promises%20and%20challenges%20of%20human%20brain%20organoids%20as%20models%20of%20neuropsychiatric%20disease&author=G%20Quadrato&author=J%20Brown&author=P%20Arlotta&volume=22&publication_year=2016&pages=1220-1228&pmid=27783065&doi=10.1038/nm.4214&)]
+-
+3.Quadrato G
+et al.
+Cell diversity and network dynamics in photosensitive human brain organoids. Nature
+545, 48–53 (2017). [
+[DOI](https://doi.org/10.1038/nature22047)] [ [PMC free article](/articles/PMC5659341/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28445462/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Cell%20diversity%20and%20network%20dynamics%20in%20photosensitive%20human%20brain%20organoids&author=G%20Quadrato&volume=545&publication_year=2017&pages=48-53&pmid=28445462&doi=10.1038/nature22047&)]
+-
+4.Lancaster MA
+et al.
+Cerebral organoids model human brain development and microcephaly. Nature
+501, 373–379 (2013). [
+[DOI](https://doi.org/10.1038/nature12517)] [ [PMC free article](/articles/PMC3817409/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23995685/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Cerebral%20organoids%20model%20human%20brain%20development%20and%20microcephaly&author=MA%20Lancaster&volume=501&publication_year=2013&pages=373-379&pmid=23995685&doi=10.1038/nature12517&)]
+-
+5.Kadoshima T
+et al.
+Self-organization of axial polarity, inside-out layer pattern, and species-specific progenitor dynamics in human ES cell-derived neocortex. Proc. Natl. Acad. Sci
+110, 20284–20289 (2013). [
+[DOI](https://doi.org/10.1073/pnas.1315710110)] [ [PMC free article](/articles/PMC3864329/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24277810/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Proc.%20Natl.%20Acad.%20Sci&title=Self-organization%20of%20axial%20polarity,%20inside-out%20layer%20pattern,%20and%20species-specific%20progenitor%20dynamics%20in%20human%20ES%20cell-derived%20neocortex&author=T%20Kadoshima&volume=110&publication_year=2013&pages=20284-20289&pmid=24277810&doi=10.1073/pnas.1315710110&)]
+-
+6.Yoon SJ
+et al.
+Reliability of human cortical organoid generation. Nat. Methods
+16, 75–78 (2018). [
+[DOI](https://doi.org/10.1038/s41592-018-0255-0)] [ [PMC free article](/articles/PMC6677388/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30573846/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat.%20Methods&title=Reliability%20of%20human%20cortical%20organoid%20generation&author=SJ%20Yoon&volume=16&publication_year=2018&pages=75-78&pmid=30573846&doi=10.1038/s41592-018-0255-0&)]
+-
+7.Pollen AA
+et al.
+Establishing Cerebral Organoids as Models of Human-Specific Brain Evolution. Cell
+176, 743–756. e17 (2019). [
+[DOI](https://doi.org/10.1016/j.cell.2019.01.017)] [ [PMC free article](/articles/PMC6544371/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30735633/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell&title=Establishing%20Cerebral%20Organoids%20as%20Models%20of%20Human-Specific%20Brain%20Evolution&author=AA%20Pollen&volume=176&publication_year=2019&pages=743-756&pmid=30735633&doi=10.1016/j.cell.2019.01.017&)]
+-
+8.Camp JG
+et al.
+Human cerebral organoids recapitulate gene expression programs of fetal neocortex development. Proc. Natl. Acad. Sci
+112, 15672–15677 (2015). [
+[DOI](https://doi.org/10.1073/pnas.1520760112)] [ [PMC free article](/articles/PMC4697386/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26644564/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Proc.%20Natl.%20Acad.%20Sci&title=Human%20cerebral%20organoids%20recapitulate%20gene%20expression%20programs%20of%20fetal%20neocortex%20development&author=JG%20Camp&volume=112&publication_year=2015&pages=15672-15677&pmid=26644564&doi=10.1073/pnas.1520760112&)]
+-
+9.Qian X
+et al.
+Brain-Region-Specific Organoids Using Mini-bioreactors for Modeling ZIKV Exposure. Cell
+165, 1238–1254 (2016). [
+[DOI](https://doi.org/10.1016/j.cell.2016.04.032)] [ [PMC free article](/articles/PMC4900885/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27118425/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell&title=Brain-Region-Specific%20Organoids%20Using%20Mini-bioreactors%20for%20Modeling%20ZIKV%20Exposure&author=X%20Qian&volume=165&publication_year=2016&pages=1238-1254&pmid=27118425&doi=10.1016/j.cell.2016.04.032&)]
+-
+10.Lancaster MA
+et al.
+Guided self-organization and cortical plate formation in human brain organoids. Nat. Biotechnol
+35, 659–666 (2017). [
+[DOI](https://doi.org/10.1038/nbt.3906)] [ [PMC free article](/articles/PMC5824977/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28562594/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat.%20Biotechnol&title=Guided%20self-organization%20and%20cortical%20plate%20formation%20in%20human%20brain%20organoids&author=MA%20Lancaster&volume=35&publication_year=2017&pages=659-666&pmid=28562594&doi=10.1038/nbt.3906&)]
+-
+11.Bagley JA, Reumann D, Bian S, Lévi-Strauss J & Knoblich JA
+Fused cerebral organoids model interactions between brain regions. Nat. Methods
+14, 743–751 (2017). [
+[DOI](https://doi.org/10.1038/nmeth.4304)] [ [PMC free article](/articles/PMC5540177/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28504681/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat.%20Methods&title=Fused%20cerebral%20organoids%20model%20interactions%20between%20brain%20regions&author=JA%20Bagley&author=D%20Reumann&author=S%20Bian&author=J%20L%C3%A9vi-Strauss&author=JA%20Knoblich&volume=14&publication_year=2017&pages=743-751&pmid=28504681&doi=10.1038/nmeth.4304&)]
+-
+12.Xiang Y
+et al.
+Fusion of regionally-specified hPSC-derived organoids models human brain development and interneuron migration. Cell Stem Cell
+21, 383–398.e7 (2017). [
+[DOI](https://doi.org/10.1016/j.stem.2017.07.007)] [ [PMC free article](/articles/PMC5720381/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28757360/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell%20Stem%20Cell&title=Fusion%20of%20regionally-specified%20hPSC-derived%20organoids%20models%20human%20brain%20development%20and%20interneuron%20migration&author=Y%20Xiang&volume=21&publication_year=2017&pages=383-398.e7&pmid=28757360&doi=10.1016/j.stem.2017.07.007&)]
+-
+13.Birey F
+et al.
+Assembly of functionally integrated human forebrain spheroids. Nature
+545, 54–59 (2017). [
+[DOI](https://doi.org/10.1038/nature22330)] [ [PMC free article](/articles/PMC5805137/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28445465/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Assembly%20of%20functionally%20integrated%20human%20forebrain%20spheroids&author=F%20Birey&volume=545&publication_year=2017&pages=54-59&pmid=28445465&doi=10.1038/nature22330&)]
+-
+14.Bershteyn M
+et al.
+Human iPSC-Derived Cerebral Organoids Model Cellular Features of Lissencephaly and Reveal Prolonged Mitosis of Outer Radial Glia. Cell Stem Cell
+20, 435–449. e1–e4 (2017). [
+[DOI](https://doi.org/10.1016/j.stem.2016.12.007)] [ [PMC free article](/articles/PMC5667944/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28111201/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell%20Stem%20Cell&title=Human%20iPSC-Derived%20Cerebral%20Organoids%20Model%20Cellular%20Features%20of%20Lissencephaly%20and%20Reveal%20Prolonged%20Mitosis%20of%20Outer%20Radial%20Glia&author=M%20Bershteyn&volume=20&publication_year=2017&pages=435-449&pmid=28111201&doi=10.1016/j.stem.2016.12.007&)]
+-
+15.Rigamonti A
+et al.
+Large-scale production of mature neurons from human pluripotent stem cells in a three-dimensional suspension culture system. Stem Cell Reports
+6, 993–1008 (2016). [
+[DOI](https://doi.org/10.1016/j.stemcr.2016.05.010)] [ [PMC free article](/articles/PMC4912437/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27304920/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Stem%20Cell%20Reports&title=Large-scale%20production%20of%20mature%20neurons%20from%20human%20pluripotent%20stem%20cells%20in%20a%20three-dimensional%20suspension%20culture%20system&author=A%20Rigamonti&volume=6&publication_year=2016&pages=993-1008&pmid=27304920&doi=10.1016/j.stemcr.2016.05.010&)]
+-
+16.Church GM
+The Personal Genome Project. Mol. Syst. Biol
+1, E1–E3 (2005). [
+[DOI](https://doi.org/10.1038/msb4100040)] [ [PMC free article](/articles/PMC1681452/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16729065/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol.%20Syst.%20Biol&title=The%20Personal%20Genome%20Project&author=GM%20Church&volume=1&publication_year=2005&pages=E1-E3&pmid=16729065&doi=10.1038/msb4100040&)]
+-
+17.Pollen AA
+et al.
+Molecular Identity of Human Outer Radial Glia during Cortical Development. Cell
+163, 55–67 (2015). [
+[DOI](https://doi.org/10.1016/j.cell.2015.09.004)] [ [PMC free article](/articles/PMC4583716/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26406371/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell&title=Molecular%20Identity%20of%20Human%20Outer%20Radial%20Glia%20during%20Cortical%20Development&author=AA%20Pollen&volume=163&publication_year=2015&pages=55-67&pmid=26406371&doi=10.1016/j.cell.2015.09.004&)]
+-
+18.Nowakowski TJ
+et al.
+Spatiotemporal gene expression trajectories reveal developmental hierachies of the human cortex. Science (80-. ). 358, 1318–1323 (2017). [
+[DOI](https://doi.org/10.1126/science.aap8809)] [ [PMC free article](/articles/PMC5991609/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29217575/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Science%20(80-.%20)&title=Spatiotemporal%20gene%20expression%20trajectories%20reveal%20developmental%20hierachies%20of%20the%20human%20cortex&author=TJ%20Nowakowski&volume=358&publication_year=2017&pages=1318-1323&pmid=29217575&doi=10.1126/science.aap8809&)]
+-
+19.Molyneaux BJ
+et al.
+Novel Subtype-Specific Genes Identify Distinct Subpopulations of Callosal Projection Neurons. J. Neurosci
+29, 12343–12354 (2009). [
+[DOI](https://doi.org/10.1523/JNEUROSCI.6108-08.2009)] [ [PMC free article](/articles/PMC2776075/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/19793993/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Neurosci&title=Novel%20Subtype-Specific%20Genes%20Identify%20Distinct%20Subpopulations%20of%20Callosal%20Projection%20Neurons&author=BJ%20Molyneaux&volume=29&publication_year=2009&pages=12343-12354&pmid=19793993&doi=10.1523/JNEUROSCI.6108-08.2009&)]
+-
+20.Arlotta P
+et al.
+Neuronal subtype-specific genes that control corticospinal motor neuron development in vivo. Neuron
+45, 207–221 (2005). [
+[DOI](https://doi.org/10.1016/j.neuron.2004.12.036)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15664173/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Neuron&title=Neuronal%20subtype-specific%20genes%20that%20control%20corticospinal%20motor%20neuron%20development%20in%20vivo&author=P%20Arlotta&volume=45&publication_year=2005&pages=207-221&pmid=15664173&doi=10.1016/j.neuron.2004.12.036&)]
+-
+21.Zhang Y
+et al.
+Purification and Characterization of Progenitor and Mature Human Astrocytes Reveals Transcriptional and Functional Differences with Mouse. Neuron
+89, 37–53 (2016). [
+[DOI](https://doi.org/10.1016/j.neuron.2015.11.013)] [ [PMC free article](/articles/PMC4707064/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26687838/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Neuron&title=Purification%20and%20Characterization%20of%20Progenitor%20and%20Mature%20Human%20Astrocytes%20Reveals%20Transcriptional%20and%20Functional%20Differences%20with%20Mouse&author=Y%20Zhang&volume=89&publication_year=2016&pages=37-53&pmid=26687838&doi=10.1016/j.neuron.2015.11.013&)]
+-
+22.Darmanis S
+et al.
+A survey of human brain transcriptome diversity at the single cell level. Proc. Natl. Acad. Sci
+112, 7285–7290 (2015). [
+[DOI](https://doi.org/10.1073/pnas.1507125112)] [ [PMC free article](/articles/PMC4466750/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26060301/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Proc.%20Natl.%20Acad.%20Sci&title=A%20survey%20of%20human%20brain%20transcriptome%20diversity%20at%20the%20single%20cell%20level&author=S%20Darmanis&volume=112&publication_year=2015&pages=7285-7290&pmid=26060301&doi=10.1073/pnas.1507125112&)]
+-
+23.Lodato S & Arlotta P
+Generating Neuronal Diversity in the Mammalian Cerebral Cortex. Annu. Rev. Cell Dev. Biol
+31, 699–720 (2015). [
+[DOI](https://doi.org/10.1146/annurev-cellbio-100814-125353)] [ [PMC free article](/articles/PMC4778709/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26359774/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Annu.%20Rev.%20Cell%20Dev.%20Biol&title=Generating%20Neuronal%20Diversity%20in%20the%20Mammalian%20Cerebral%20Cortex&author=S%20Lodato&author=P%20Arlotta&volume=31&publication_year=2015&pages=699-720&pmid=26359774&doi=10.1146/annurev-cellbio-100814-125353&)]
+-
+24.Greig LC, Woodworth MB, Galazo MJ, Padmanabhan H & Macklis JD
+Molecular logic of neocortical projection neuron specification, development and diversity. Nat. Rev. Neurosci
+14, 755–769 (2013). [
+[DOI](https://doi.org/10.1038/nrn3586)] [ [PMC free article](/articles/PMC3876965/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24105342/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat.%20Rev.%20Neurosci&title=Molecular%20logic%20of%20neocortical%20projection%20neuron%20specification,%20development%20and%20diversity&author=LC%20Greig&author=MB%20Woodworth&author=MJ%20Galazo&author=H%20Padmanabhan&author=JD%20Macklis&volume=14&publication_year=2013&pages=755-769&pmid=24105342&doi=10.1038/nrn3586&)]
+-
+25.Kohwi M
+et al.
+A Subpopulation of Olfactory Bulb GABAergic Interneurons Is Derived from Emx1- and Dlx5/6-Expressing Progenitors. J. Neurosci
+27, 6878–6891 (2007). [
+[DOI](https://doi.org/10.1523/JNEUROSCI.0254-07.2007)] [ [PMC free article](/articles/PMC4917362/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/17596436/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Neurosci&title=A%20Subpopulation%20of%20Olfactory%20Bulb%20GABAergic%20Interneurons%20Is%20Derived%20from%20Emx1-%20and%20Dlx5/6-Expressing%20Progenitors&author=M%20Kohwi&volume=27&publication_year=2007&pages=6878-6891&pmid=17596436&doi=10.1523/JNEUROSCI.0254-07.2007&)]
+-
+26.Qiu X
+et al.
+Reversed graph embedding resolves complex single-cell trajectories. Nat. Methods
+14, 979–982 (2017). [
+[DOI](https://doi.org/10.1038/nmeth.4402)] [ [PMC free article](/articles/PMC5764547/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28825705/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat.%20Methods&title=Reversed%20graph%20embedding%20resolves%20complex%20single-cell%20trajectories&author=X%20Qiu&volume=14&publication_year=2017&pages=979-982&pmid=28825705&doi=10.1038/nmeth.4402&)]
+-
+27.Shekhar K
+et al.
+Comprehensive Classification of Retinal Bipolar Neurons by Single-Cell Transcriptomics. Cell
+166, 1308–1323.e30 (2016). [
+[DOI](https://doi.org/10.1016/j.cell.2016.07.054)] [ [PMC free article](/articles/PMC5003425/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27565351/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell&title=Comprehensive%20Classification%20of%20Retinal%20Bipolar%20Neurons%20by%20Single-Cell%20Transcriptomics&author=K%20Shekhar&volume=166&publication_year=2016&pages=1308-1323.e30&pmid=27565351&doi=10.1016/j.cell.2016.07.054&)]
+-
+28.Habib N
+et al.
+Massively parallel single-nucleus RNA-seq with DroNc-seq. Nat. Methods
+14, 955–958 (2017). [
+[DOI](https://doi.org/10.1038/nmeth.4407)] [ [PMC free article](/articles/PMC5623139/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28846088/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat.%20Methods&title=Massively%20parallel%20single-nucleus%20RNA-seq%20with%20DroNc-seq&author=N%20Habib&volume=14&publication_year=2017&pages=955-958&pmid=28846088&doi=10.1038/nmeth.4407&)]
+-
+29.Fan X
+et al.
+Spatial transcriptomic survey of human embryonic cerebral cortex by single-cell RNA-seq analysis. Cell Res. 28, 730–745 (2018). [
+[DOI](https://doi.org/10.1038/s41422-018-0053-3)] [ [PMC free article](/articles/PMC6028726/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29867213/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell%20Res&title=Spatial%20transcriptomic%20survey%20of%20human%20embryonic%20cerebral%20cortex%20by%20single-cell%20RNA-seq%20analysis&author=X%20Fan&volume=28&publication_year=2018&pages=730-745&pmid=29867213&doi=10.1038/s41422-018-0053-3&)]
+-
+30.Saunders A
+et al.
+Molecular Diversity and Specializations among the Cells of the Adult Mouse Brain. Cell
+174, 1015–1030.e16 (2018). [
+[DOI](https://doi.org/10.1016/j.cell.2018.07.028)] [ [PMC free article](/articles/PMC6447408/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30096299/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell&title=Molecular%20Diversity%20and%20Specializations%20among%20the%20Cells%20of%20the%20Adult%20Mouse%20Brain&author=A%20Saunders&volume=174&publication_year=2018&pages=1015-1030.e16&pmid=30096299&doi=10.1016/j.cell.2018.07.028&)]
+Supplementary References
+-
+31.Sheridan SD
+et al.
+Epigenetic characterization of the FMR1 gene and aberrant neurodevelopment in human induced pluripotent stem cell models of fragile X syndrome. PLoS One
+6, e26203 (2011). [
+[DOI](https://doi.org/10.1371/journal.pone.0026203)] [ [PMC free article](/articles/PMC3192166/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22022567/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=PLoS%20One&title=Epigenetic%20characterization%20of%20the%20FMR1%20gene%20and%20aberrant%20neurodevelopment%20in%20human%20induced%20pluripotent%20stem%20cell%20models%20of%20fragile%20X%20syndrome&author=SD%20Sheridan&volume=6&publication_year=2011&pages=e26203&pmid=22022567&doi=10.1371/journal.pone.0026203&)]
+-
+32.Sugathan A
+et al.
+CHD8 regulates neurodevelopmental pathways associated with autism spectrum disorder in neural progenitors . Proc. Natl. Acad. Sci
+111, E4468–E4477 (2014). [
+[DOI](https://doi.org/10.1073/pnas.1405266111)] [ [PMC free article](/articles/PMC4210312/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25294932/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Proc.%20Natl.%20Acad.%20Sci&title=CHD8%20regulates%20neurodevelopmental%20pathways%20associated%20with%20autism%20spectrum%20disorder%20in%20neural%20progenitors&author=A%20Sugathan&volume=111&publication_year=2014&pages=E4468-E4477&pmid=25294932&doi=10.1073/pnas.1405266111&)]
+-
+33.Velasco S, Paulsen B & Arlotta P
+Highly reproducible human brain organoids recapitulate cerebral cortex cellular diversity. Nat. Protoc. Exch (2019). [
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat.%20Protoc.%20Exch&title=Highly%20reproducible%20human%20brain%20organoids%20recapitulate%20cerebral%20cortex%20cellular%20diversity&author=S%20Velasco&author=B%20Paulsen&author=P%20Arlotta&publication_year=2019&)]
+-
+34.Quadrato G, Sherwood JL & Arlotta P
+Long term culture and electrophysiological characterization of human brain organoids. Protoc. Exch (2017). doi: 10.1038/protex.2017.049 [
+[DOI](https://doi.org/10.1038/protex.2017.049)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Protoc.%20Exch&title=Long%20term%20culture%20and%20electrophysiological%20characterization%20of%20human%20brain%20organoids&author=G%20Quadrato&author=JL%20Sherwood&author=P%20Arlotta&publication_year=2017&doi=10.1038/protex.2017.049&)]
+-
+35.Zheng GXY
+et al.
+Massively parallel digital transcriptional profiling of single cells. Nat. Commun
+8, 1–12 (2017). [
+[DOI](https://doi.org/10.1038/ncomms14049)] [ [PMC free article](/articles/PMC5241818/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28091601/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat.%20Commun&title=Massively%20parallel%20digital%20transcriptional%20profiling%20of%20single%20cells&author=GXY%20Zheng&volume=8&publication_year=2017&pages=1-12&pmid=28091601&doi=10.1038/ncomms14049&)]
+-
+36.Butler A, Hoffman P, Smibert P, Papalexi E & Satija R
+Integrating single-cell transcriptomic data across different conditions, technologies, and species. Nat. Biotechnol
+36, 411–420 (2018). [
+[DOI](https://doi.org/10.1038/nbt.4096)] [ [PMC free article](/articles/PMC6700744/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29608179/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat.%20Biotechnol&title=Integrating%20single-cell%20transcriptomic%20data%20across%20different%20conditions,%20technologies,%20and%20species&author=A%20Butler&author=P%20Hoffman&author=P%20Smibert&author=E%20Papalexi&author=R%20Satija&volume=36&publication_year=2018&pages=411-420&pmid=29608179&doi=10.1038/nbt.4096&)]
+-
+37.Arya S, Mount D, Kemp SE & Jefferis G
+RANN: Fast Nearest Neighbour Search (Wraps ANN Library) Using L2 Metric. R package version 2.6. (2018). [
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=R%20package%20version%202.6&title=RANN:%20Fast%20Nearest%20Neighbour%20Search%20(Wraps%20ANN%20Library)%20Using%20L2%20Metric&author=S%20Arya&author=D%20Mount&author=SE%20Kemp&author=G%20Jefferis&publication_year=2018&)]
+-
+38.McDavid A, Finak G & Yajima M
+MAST: Model-based Analysis of Single Cell Transcriptomics. R package version
+161 (2018). [
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=R%20package%20version&title=MAST:%20Model-based%20Analysis%20of%20Single%20Cell%20Transcriptomics&author=A%20McDavid&author=G%20Finak&author=M%20Yajima&volume=1&issue=6&publication_year=2018&pages=1&)]
+-
+39.Wolock SL, Lopez R & Klein AM
+Scrublet: computational identification of cell doublets in single-cell transcriptomic data. bioRxiv
+1–18 (2018). [
+[DOI](https://doi.org/10.1016/j.cels.2018.11.005)] [ [PMC free article](/articles/PMC6625319/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30954476/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=bioRxiv&title=Scrublet:%20computational%20identification%20of%20cell%20doublets%20in%20single-cell%20transcriptomic%20data&author=SL%20Wolock&author=R%20Lopez&author=AM%20Klein&publication_year=2018&pages=1-18&pmid=30954476&doi=10.1016/j.cels.2018.11.005&)]
+-
+40.Liaw A & Wiener M
+Classification and Regression by randomForest. R News
+2, 18–22 (2002). [
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=R%20News&title=Classification%20and%20Regression%20by%20randomForest&author=A%20Liaw&author=M%20Wiener&volume=2&publication_year=2002&pages=18-22&)]
+Associated Data
+This section collects any data citations, data availability statements, or supplementary materials included in this article.
+Supplementary Materials
+Data Availability Statement
+Single-cell RNA-seq data that support the findings of this study have been deposited at Gene Expression Omnibus, accession number
+[GSE129519](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE129519), and at the Single Cell Portal ( [portals.broadinstitute.org/single_cell/study/reproducible-brain-organoids](https://portals.broadinstitute.org/single_cell/study/reproducible-brain-organoids)). The reference datasets used for comparison are available in the Gene Expression Omnibus at accession numbers [GSE86153](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE86153), [GSE116470](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE116470), and [GSE103723](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE103723), or in dbGaP at accession phs000989.v3, and phs000424.v8.p1.

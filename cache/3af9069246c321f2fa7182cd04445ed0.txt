@@ -1,0 +1,36 @@
+Interface design principles for usable decision support: a targeted review of best practices for clinical prescribing interventions
+- PMID: 22995208
+-
+DOI:
+[10.1016/j.jbi.2012.09.002](https://doi.org/10.1016/j.jbi.2012.09.002)
+Interface design principles for usable decision support: a targeted review of best practices for clinical prescribing interventions
+Abstract
+Developing effective clinical decision support (CDS) systems for the highly complex and dynamic domain of clinical medicine is a serious challenge for designers. Poor usability is one of the core barriers to adoption and a deterrent to its routine use. We reviewed reports describing system implementation efforts and collected best available design conventions, procedures, practices and lessons learned in order to provide developers a short compendium of design goals and recommended principles. This targeted review is focused on CDS related to medication prescribing. Published reports suggest that important principles include consistency of design concepts across networked systems, use of appropriate visual representation of clinical data, use of controlled terminology, presenting advice at the time and place of decision making and matching the most appropriate CDS interventions to clinical goals. Specificity and contextual relevance can be increased by periodic review of trigger rules, analysis of performance logs and maintenance of accurate allergy, problem and medication lists in health records in order to help avoid excessive alerting. Developers need to adopt design practices that include user-centered, iterative design and common standards based on human-computer interaction (HCI) research methods rooted in ethnography and cognitive science. Suggestions outlined in this report may help clarify the goals of optimal CDS design but larger national initiatives are needed for systematic application of human factors in health information technology (HIT) development. Appropriate design strategies are essential for developing meaningful decision support systems that meet the grand challenges of high-quality healthcare.
+Copyright © 2012 Elsevier Inc. All rights reserved.
+Similar articles
+-
+[Design of decision support interventions for medication prescribing.](/23490305/)Int J Med Inform. 2013 Jun;82(6):492-503. doi: 10.1016/j.ijmedinf.2013.02.003. Epub 2013 Mar 13. Int J Med Inform. 2013. PMID: 23490305 Review.
+-
+[Design and implementation of a standards-based interoperable clinical decision support architecture in the context of the Korean EHR.](/20620098/)Int J Med Inform. 2010 Sep;79(9):611-22. doi: 10.1016/j.ijmedinf.2010.06.002. Int J Med Inform. 2010. PMID: 20620098
+-
+[The clinical decision support consortium.](/19745260/)Stud Health Technol Inform. 2009;150:26-30. Stud Health Technol Inform. 2009. PMID: 19745260
+-
+[Evaluation of the acceptability and usability of a decision support system to encourage safe and effective use of opioid therapy for chronic, noncancer pain by primary care providers.](/20202142/)Pain Med. 2010 Apr;11(4):575-85. doi: 10.1111/j.1526-4637.2010.00818.x. Epub 2010 Mar 1. Pain Med. 2010. PMID: 20202142
+-
+[Decision support, knowledge representation and management in medicine.](/17051298/)Yearb Med Inform. 2006:72-80. Yearb Med Inform. 2006. PMID: 17051298 Review.
+Cited by
+-
+[Physician stress and burnout: the impact of health information technology.](/30517663/)J Am Med Inform Assoc. 2019 Feb 1;26(2):106-114. doi: 10.1093/jamia/ocy145. J Am Med Inform Assoc. 2019. PMID: 30517663 Free PMC article.
+-
+[Design and Implementation of a Pediatric ICU Acuity Scoring Tool as Clinical Decision Support.](/30068013/)Appl Clin Inform. 2018 Jul;9(3):576-587. doi: 10.1055/s-0038-1667122. Epub 2018 Aug 1. Appl Clin Inform. 2018. PMID: 30068013 Free PMC article.
+-
+[Clinical Decision Support for Fall Prevention: Defining End-User Needs.](/35768011/)Appl Clin Inform. 2022 May;13(3):647-655. doi: 10.1055/s-0042-1750360. Epub 2022 Jun 29. Appl Clin Inform. 2022. PMID: 35768011 Free PMC article.
+-
+[Requirements analysis for an AI-based clinical decision support system for general practitioners: a user-centered design process.](/37525175/)BMC Med Inform Decis Mak. 2023 Jul 31;23(1):144. doi: 10.1186/s12911-023-02245-w. BMC Med Inform Decis Mak. 2023. PMID: 37525175 Free PMC article.
+-
+[Applying human factors principles to alert design increases efficiency and reduces prescribing errors in a scenario-based simulation.](/24668841/)J Am Med Inform Assoc. 2014 Oct;21(e2):e287-96. doi: 10.1136/amiajnl-2013-002045. Epub 2014 Mar 25. J Am Med Inform Assoc. 2014. PMID: 24668841 Free PMC article.
+Publication types
+MeSH terms
+LinkOut - more resources
+Full Text Sources
+Research Materials

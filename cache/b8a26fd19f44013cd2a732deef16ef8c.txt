@@ -1,0 +1,16 @@
+Table S1 from Validation of a Plasma-Based Comprehensive Cancer Genotyping Assay Utilizing Orthogonal Tissue- and Plasma-Based Methodologies
+figureposted on 2023-03-31, 20:45 authored by Justin I. Odegaard, John J. Vincent, Stefanie Mortimer, James V. Vowles, Bryan C. Ulrich, Kimberly C. Banks, Stephen R. Fairclough, Oliver A. Zill, Marcin Sikora, Reza Mokhtari, Diana Abdueva, Rebecca J. Nagy, Christine E. Lee, Lesli A. Kiedrowski, Cloud P. Paweletz, Helmy Eltoukhy, Richard B. Lanman, Darya I. Chudova, AmirAli Talasaz
+Digital Sequencing analytical performance metrics summary table.
+History
+ARTICLE ABSTRACTPurpose: To analytically and clinically validate a circulating cell-free tumor DNA sequencing test for comprehensive tumor genotyping and demonstrate its clinical feasibility.Experimental Design: Analytic validation was conducted according to established principles and guidelines. Blood-to-blood clinical validation comprised blinded external comparison with clinical droplet digital PCR across 222 consecutive biomarker-positive clinical samples. Blood-to-tissue clinical validation comprised comparison of digital sequencing calls to those documented in the medical record of 543 consecutive lung cancer patients. Clinical experience was reported from 10,593 consecutive clinical samples.Results: Digital sequencing technology enabled variant detection down to 0.02% to 0.04% allelic fraction/2.12 copies with ≤0.3%/2.24–2.76 copies 95% limits of detection while maintaining high specificity [prevalence-adjusted positive predictive values (PPV) >98%]. Clinical validation using orthogonal plasma- and tissue-based clinical genotyping across >750 patients demonstrated high accuracy and specificity [positive percent agreement (PPAs) and negative percent agreement (NPAs) >99% and PPVs 92%–100%]. Clinical use in 10,593 advanced adult solid tumor patients demonstrated high feasibility (>99.6% technical success rate) and clinical sensitivity (85.9%), with high potential actionability (16.7% with FDA-approved on-label treatment options; 72.0% with treatment or trial recommendations), particularly in non–small cell lung cancer, where 34.5% of patient samples comprised a directly targetable standard-of-care biomarker.Conclusions: High concordance with orthogonal clinical plasma- and tissue-based genotyping methods supports the clinical accuracy of digital sequencing across all four types of targetable genomic alterations. Digital sequencing's clinical applicability is further supported by high rates of technical success and biomarker target discovery. Clin Cancer Res; 24(15); 3539–49. ©2018 AACR.
+[Usage metrics](https://help.figshare.com/article/usage-metrics)
+Categories
+Licence
+Exports
+RefWorks
+BibTeX
+Ref. manager
+Endnote
+DataCite
+NLM
+DC

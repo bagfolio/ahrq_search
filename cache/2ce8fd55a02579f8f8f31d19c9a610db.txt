@@ -1,0 +1,125 @@
+Abstract
+This paper summarizes a strategy for supplying ecosystem services in urban areas through a participatory planning process targeting multifunctional green infrastructure. We draw from the literature on landscape multifunctionality, which has primarily been applied to agricultural settings, and propose opportunities to develop urban green infrastructure that could contribute to the sustainable social and ecological health of the city. Thinking in terms of system resilience, strategies might focus on the potential for green infrastructure to allow for adaptation and even transformation in the face of future challenges such as climate change, food insecurity, and limited resources. Because planning for multiple functions can be difficult when many diverse stakeholders are involved, we explored decision support tools that could be applied to green infrastructure planning in the early stages, to engage the public and encourage action toward implementing a preferred solution. Several specific ecosystem services that could be relevant for evaluating current and future urban green spaces include: plant biodiversity, food production, microclimate control, soil infiltration, carbon sequestration, visual quality, recreation, and social capital. Integrating such ecosystem services into small-scale greening projects could allow for creativity and local empowerment that would inspire broader transformation of green infrastructure at the city level. Those cities committing to such an approach by supporting greening projects are likely to benefit in the long run through the value of ecosystem services for urban residents and the broader public.
+Access this article
+Similar content being viewed by others
+Explore related subjectsDiscover the latest articles and news from researchers in related subjects, suggested using machine learning.
+References
+Abd-Elrahman AH, Thornhill ME, Andreu MG, Escobedo F (2010) A community-based urban forest inventory using online mapping services and consumer-grade digital images. Int J Appl Earth Obs Geoinf 12:249–260
+Ahern J (2013) Urban landscape sustainability and resilience: the promise and challenges of integrating ecology with urban planning and design. Landscape Ecol 28(6):1203–1212
+Al-Kodmany K (1999) Using visualization techniques for enhancing public participation in planning and design: process, implementation, and evaluation. Landsc Urban Plan 45:37–45
+Bagley C, Hillyard S (2011) Village schools in England: at the heart of their community? Aust J Educ 55:37–49
+Baker LE (2004) Tending cultural landscapes and food citizenship in Toronto's community gardens. Geogr Rev 94:305–325
+Barrico L, Azul AM, Morais MC, Coutinho AP, Freitas H, Castro P (2012) Biodiversity in urban ecosystems: plants and macromycetes as indicators for conservation planning in the city of Coimbra (Portugal). Landsc Urban Plan 106:88–102
+Barthel S, Folke C, Colding J (2010) Social–ecological memory in urban gardens retaining the capacity for management of ecosystem services. Glob Environ Change Hum Policy Dimens 20:255–265
+Bennett EM, Peterson GD, Gordon LJ (2009) Understanding relationships among multiple ecosystem services. Ecol Lett 12:1394–1404
+Bolund P, Hunhammar S (1999) Ecosystem services in urban areas. Ecol Econ 29:293–301
+Boutin C, Jobin B, Belanger L, Choiniere L (2002) Plant diversity in three types of hedgerows adjacent to cropfields. Biodivers Conserv 11:1–25
+Brandt J, Vejre H (2004) Multifunctional landscapes—motives, concepts and perspectives. In: Brandt J, Vejre H (eds) Multifunctional landscapes: theory, value, and history, vol 1. WIT Press, Boston
+Brenner N (2009) What is critical urban theory? City 13:198–207
+Breuste J, Niemela J, Snep RPH (2008) Applying landscape ecological principles in urban environments. Landscape Ecol 23:1139–1142
+Cadenasso ML, Pickett STA (2008) Urban principles for ecological landscape design and management: scientific fundamentals. Cities Environ 1:1–16
+Cameron RWF, Blanusa T, Taylor JE, Salisbury A, Halstead AJ, Henricot B, Thompson K (2012) The domestic garden—its contribution to urban green infrastructure. Urban For Urban Green 11:129–137
+Carey PD, Short C, Morris C, Hunt J, Priscott A, Davis M, Finch C, Curry N, Little W, Winter M, Parkin A, Firbank LG (2003) The multi-disciplinary evaluation of a national agri-environment scheme. J Environ Manag 69:71–91
+Carr J (2012) Public input/elit privilege: the use of participatory planning to reinforce urban geographies of power in Seattle. Urban Geogr 33:420–441
+Cohen DA, Setodji C, Evenson KR, Ward P, Lapham S, Hillier A, McKenzie TL (2011) How much observation is enough? refining the administration of SOPARC. J Phys Act Health 8:1117–1123
+Colding J, Barthel S (2013) The potential of ‘Urban Green Commons’ in the resilience building of cities. Ecol Econ 86:156–166
+Cook EM, Hall SJ, Larson KL (2012) Residential landscapes as social–ecological systems: a synthesis of multi-scalar interactions between people and their home environment. Urban Ecosyst 15:19–52
+Cucek L, Klemes JJ, Kravanja Z (2012) A review of Footprint analysis tools for monitoring impacts on sustainability. J Clean Prod 34:9–20
+De Groot R (1992) Functions of nature: evaluation of nature in environmental planning, management and decision making. Wolters-Noordhoff, Groningen
+De Groot R (2006) Function-analysis and valuation as a tool to assess land use conflicts in planning for sustainable, multi-functional landscapes. Landsc Urban Plan 75:175–186
+Deal B, Pallathucheril V (2009) Sustainability and urban dynamics: assessing future impacts on ecosystem services. Sustainability 1:346–362
+Dobbs C, Escobedo FJ, Zipperer WC (2011) A framework for developing urban forest ecosystem services and goods indicators. Landsc Urban Plan 99:196–206
+Domene E, Sauri D (2007) Urbanization and class-produced natures: vegetable gardens in the Barcelona metropolitan region. Geoforum 38:287–298
+Dramstad WE, Fjellstad WJ (2013) Twenty-five years into “our common future”: are we heading in the right direction? Landscape Ecol 28(6):1039–1045
+Dramstad WE, Fry G, Fjellstad WJ, Skar B, Helliksen W, Sollund MLB, Tveit MS, Geelmuyden AK, Framstad E (2001) Integrating landscape-based values—Norwegian monitoring of agricultural landscapes. Landsc Urban Plan 57:257–268
+Escobedo FJ, Kroeger T, Wagner JE (2011) Urban forests and pollution mitigation: analyzing ecosystem services and disservices. Environ Pollut 159:2078–2087
+Fan YL, Das KV, Chen Q (2011) Neighborhood green, social support, physical activity, and stress: assessing the cumulative impact. Health Place 17:1202–1211
+Felson AJ, Pickett STA (2005) Designed experiments: new approaches to studying urban ecosystems. Front Ecol Environ 3:549–556
+Fischer J, Lindenmayer DB, Manning AD (2006) Biodiversity, ecosystem function, and resilience: ten guiding principles for commodity production landscapes. Front Ecol Environ 4:80–86
+Fjortoft I, Sageie J (2000) The natural environment as a playground for children—landscape description and analyses of a natural playscape. Landsc Urban Plan 48:83–97
+Folke C (2006) Resilience: the emergence of a perspective for social–ecological systems analyses. Glob Environ Change Hum Policy Dimens 16:253–267
+Folke C, Carpenter SR, Walker B, Scheffer M, Chapin T, Rockstrom J (2010) Resilience thinking: integrating resilience, adaptability and transformability. Ecol Soc 15(4):Article No 20
+Forman RTT (2008) The urban region: natural systems in our place, our nourishment, our home range, our future. Landscape Ecol 23:251–253
+Forman RTT, Godron M (1986) Landscape ecology. Wiley, New York
+Gandy M (2003) Concrete and clay: reworking nature in New York City. MIT Press, Cambridge
+Gaskell SM (1980) Gardens for the working class: Victorian practical pleasure. Vic Stud 23:479–501
+Gil J, Duarte JP (2012) Tools for evaluating the sustainability of urban design: a review. In: ICE proceedings urban design and planning: 1–15
+Goddard MA, Dougill AJ, Benton TG (2010) Scaling up from gardens: biodiversity conservation in urban environments. Trends Ecol Evol 25:90–98
+Gregory JH, Dukes MD, Jones PH, Miller GL (2006) Effect of urban soil compaction on infiltration rate. J Soil Water Conserv 61:117–124
+Grimm NB, Faeth SH, Golubiewski NE, Redman CL, Wu JG, Bai XM, Briggs JM (2008) Global change and the ecology of cities. Science 319:756–760
+Hagerman C (2007) Shaping neighborhoods and nature: urban political ecologies of urban waterfront transformations in Portland, Oregon. Cities 24:285–297
+Holling CS (1973) Resilience and stability of ecological systems. Annu Rev Ecol Syst 4:1–23
+Howard C, Lipsky M, Marshall DR (1994) Citizen participation in urban politics: rise and routinization. In: Peterson GE (ed) Big-city politics, governance, and fiscal constraints. Urban Institute Press, Washington, pp 153–199
+Ingram DL (2013) Life Cycle Assessment to study the carbon footprint of system components for colorado blue spruce field production and use. J Am Soc Hortic Sci 138:3–11
+Landscape Institute (2009) Green infrastructure: connected and multifunctional landscapes. England, London
+Jorgensen A, Gobster PH (2010) Shades of green: measuring the ecology of urban green space in the context of human health and well-being. Nat Cult 5:338–363
+Kaplan R, Kaplan S (1989) The experience of nature: a psychological perspective. Cambridge University Press, Cambridge
+Keil R, Graham J (1998) Constructing urban environments after Fordism. In: Braun B, Castree N (eds) Remaking reality: nature at the millenium. Routledge, New York
+King CS, Feltey KM, Susal BO (1998) The question of participation: toward authentic public participation in public administration. Publ Admin Rev 58:317–326
+Krasny ME, Tidball KG (2012) Civic ecology: a pathway for Earth Stewardship in cities. Front Ecol Environ 10:267–273
+Kulak M, Graves A, Chatterton J (2012) Reducing greenhouse gas emissions with urban agriculture: a Life Cycle Assessment perspective. Landsc Urban Plan 111:68–78
+Lawson LJ (2005) City bountiful: a century of community gardening in America. University of California Press, Berkeley
+Leigh P (2005) The ecological crisis, the human condition, and community-based restoration as an instrument for its cure. Ethics Sci Environ Polit 5:3–15
+Leitao AB, Ahern J (2002) Applying landscape ecological concepts and metrics in sustainable landscape planning. Landsc Urban Plan 59:65–93
+Lewis JL, Sheppard SRJ (2006) Culture and communication: can landscape visualization improve forest management consultation with indigenous communities? Landsc Urban Plan 77:291–313
+Lissner TK, Holsten A, Walther C, Kropp JP (2012) Towards sectoral and standardised vulnerability assessments: the example of heatwave impacts on human health. Clim Change 112:687–708
+Lovell ST (2010) Multifunctional urban agriculture for sustainable land use planning. Sustainability 2:2499–2522
+Lovell ST, Johnston DM (2009a) Creating multifunctional landscapes: how can the field of ecology inform the design of the landscape? Front Ecol Environ 7:212–220
+Lovell ST, Johnston DM (2009b) Designing landscapes for performance based on emerging principles in landscape ecology. Ecol Soc 14(1):Article No 44
+Lovell ST, DeSantis S, Nathan CA, Olson MB, Mendez VE, Kominami HC, Erickson DL, Morris KS, Morris WB (2010) Integrating agroecology and landscape multifunctionality in Vermont: an evolving framework to evaluate the design of agroecosystems. Agric Syst 103:327–341
+Lyytimaki J, Sipila M (2009) Hopping on one leg—the challenge of ecosystem disservices for urban green management. Urban For Urban Green 8:309–315
+Mahmoud AHA (2011) Analysis of the microclimate and human comfort conditions in an urban park in hot and arid regions. Build Environ 46:2641–2656
+McCall MK, Minang PA (2005) Assessing participatory GIS for community-based natural resource management: claiming community forests in Cameroon. Geogr J 171:340–356
+Mell IC (2009) Can green infrastructure promote urban sustainability? Proc Inst Civ Eng Eng Sustain 162:23–34
+Millennium Ecosystem Assessment (2005) Ecosystems and human well-being: synthesis. Island Press, Washington
+Nassauer JI, Corry RC (2004) Using normative scenarios in landscape ecology. Landscape Ecol 19:343–356
+Nassauer JI, Opdam P (2008) Design in science: extending the landscape ecology paradigm. Landscape Ecol 23:633–644
+Newell JP, Seymour M, Yee T, Renteria J, Longcore T, Wolch JR, Shishkovsky A (2013) Green Alley Programs: planning for a sustainable urban infrastructure? Cities 31:144–155
+Nowak DJ (2002) Effects of urban tree management and species selection on atmospheric carbon dioxide. J Arboric 28:113–122
+Nowak DJ, Crane DE, Stevens JC, Hoehn RE, Walton JT, Bond J (2008) A ground-based method of assessing urban forest structure and ecosystem services. Arboric Urban For 34:347–358
+O’Farrell PJ, Anderson PML (2010) Sustainable multifunctional landscapes: a review to implementation. Curr Opin Environ Sustain 2:59–65
+Oshun M, Ardoin N, Ryan S (2011) Use of the planning outreach liaison model in the neighborhood planning process: a case study in Seattle’s Rainier Valley neighborhood. Urban Stud Res. Article ID 687834
+Otte A, Simmering D, Wolters V (2007) Biodiversity at the landscape level: recent concepts and perspectives for multifunctional land use. Landscape Ecol 22:639–642
+Pataki DE, Carreiro MM, Cherrier J, Grulke NE, Jennings V, Pincetl S, Pouyat RV, Whitlow TH, Zipperer WC (2011) Coupling biogeochemical cycles in urban environments: ecosystem services, green solutions, and misconceptions. Front Ecol Environ 9:27–36
+Potschin M, Haines-Young R (2013) Landscapes, sustainability and the place-based analysis of ecosystem services. Landscape Ecol 28:1053–1065
+Poudyal NC, Hodges DG, Tonn B, Cho SH (2009) Valuing diversity and spatial pattern of open space plots in urban neighborhoods. For Policy Econ 11:194–201
+Pudup MB (2008) It takes a garden: cultivating citizen-subjects in organized garden projects. Geoforum 39:1228–1240
+Roy S, Byrne J, Pickering C (2012) A systematic quantitative review of urban tree benefits, costs, and assessment methods across cities in different climatic zones. Urban For Urban Green 11:351–363
+Santelmann MV, White D, Freemark K, Nassauer JI, Eilers JM, Vache KB, Danielson BJ, Corry RC, Clark ME, Polasky S, Cruse RM, Sifneos J, Rustigian H, Coiner C, Wu J, Debinski D (2004) Assessing alternative futures for agriculture in Iowa, USA. Landscape Ecol 19:357–374
+Schilling J, Logan J (2008) Greening the rust belt a green infrastructure model for right sizing America’s shrinking cities. J Am Plan Assoc 74:451–466
+Selman P (2008) What do we mean by sustainable landscape? Sustain Sci Pract Policy 4:23–28
+Selman P (2009) Planning for landscape multifunctionality. Sustain Sci Pract Policy 5:45–52
+Semenza JC, March TL, Bontempo BD (2007) Community-initiated urban development: an ecological intervention. J Urban Health 84:8–20
+Shearer AW (2005) Approaching scenario-based studies: three perceptions about the future and considerations for landscape planning. Environ Plan B-Plan Des 32:67–87
+Shonkoff SB, Morello-Frosch R, Pastor M, Sadd J (2011) The climate gap: environmental health and equity implications of climate change and mitigation policies in California-a review of the literature. Clim Change 109:485–503
+Smith KA, Dobbie KE, Thorman R, Watson CJ, Chadwick DR, Yamulki S, Ball BC (2012) The effect of N fertilizer forms on nitrous oxide emissions from UK arable land and grassland. Nutr Cycl Agroecosyst 93:127–149
+Spirn AW (1984) The granite garden: urban nature and human design. Basic Books, New York
+Steinitz CF, Arias H, Bassett S, Flaxman M, Goode T, Maddock T, Mouat D, Peiser R, Shearer A (2003) Alternative futures for changing landscapes: The Upper San Pedro River Basin in Arizona and Sonora. Island Press, Washington
+Swaffield S (2013) Empowering landscape ecology - connecting science to governance through design values. Landscape Ecol 28(6):1193–1201
+Termorshuizen JW, Opdam P (2009) Landscape services as a bridge between landscape ecology and sustainable development. Landscape Ecol 24:1037–1052
+Tidball KG, Krasny ME (2009) From risk to resilience: what role for community greening and civic ecology in cities?. Wageningen Academic Publishers, Wageningen
+Tippett J (2004) “Think like an ecosystem”—embedding a living system paradigm into participatory planning. Syst Pract Action Res 17:603–622
+Townsend-Small A, Czimczik CI (2010) Carbon sequestration and greenhouse gas emissions in urban turf. Geophys Res, Lett 37
+Tress B, Tress G (2003) Scenario visualisation for participatory landscape planning—a study from Denmark. Landsc Urban Plan 64:161–178
+Troy A (2012) The very hungry city: urban energy efficiency and the economic fate of cities. Yale University Press, New Haven
+Tyrvainen L, Gustavsson R, Konijnendijk C, Ode A (2006) Visualization and landscape laboratories in planning, design and management of urban woodlands. For Policy Econ 8:811–823
+Vandermeulen V, Verspecht A, Vermeire B, Van Huylenbroeck G, Gellynck X (2011) The use of economic valuation to create public support for green infrastructure investments in urban areas. Landsc Urban Plan 103:198–206
+Vitiello D, Nairn M (2009) Community gardening in Philadelphia—2008 harvest report. Penn Planning and Urban Studies, University of Pennsylvania, pp 1–68
+Werner P (2011) The ecology of urban areas and their functions for species diversity. Landsc Ecol Eng 7:231–240
+White MM (2011) Sisters of the soil: urban gardening as resistance in Detroit. Race/Ethn Multidiscip Glob Contexts 5:13–28
+Wu JG (2010) Urban sustainability: an inevitable goal of landscape research. Landscape Ecol 25:1–4
+Wu J (2013a) Key concepts and research topics in landscape ecology revisited: 30 years after the Allerton Park workshop. Landscape Ecol 28(1):1–11
+Wu J (2013b) Landscape sustainability science: ecosystem services and human well-being in changing landscapes. Landscape Ecol 28(6):999–1023
+Wu JG, Hobbs R (2002) Key issues and research priorities in landscape ecology: an idiosyncratic synthesis. Landscape Ecol 17:355–365
+Wu JS, Feng Z, Gao Y, Peng J (2013) Hotspot and relationship identification in multiple landscape services: a case study on an area with intensive human activities. Ecol Ind 29:529–537
+Young RF, McPherson EG (2013) Governing metropolitan green infrastructure in the United States. Landsc Urban Plan 109:67–75
+Zander P, Knierim A, Groot JCJ, Rossing WAH (2007) Multifunctionality of agriculture: tools and methods for impact assessment and valuation. Agric Ecosyst Environ 120:1–4
+Rights and permissions
+About this article
+Cite this article
+Lovell, S.T., Taylor, J.R. Supplying urban ecosystem services through multifunctional green infrastructure in the United States. Landscape Ecol 28, 1447–1463 (2013). https://doi.org/10.1007/s10980-013-9912-y
+Received:
+Accepted:
+Published:
+Issue Date:
+DOI: https://doi.org/10.1007/s10980-013-9912-y

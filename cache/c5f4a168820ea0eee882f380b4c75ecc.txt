@@ -1,0 +1,34 @@
+This is a preprint.
+[running a pilot](https://pmc.ncbi.nlm.nih.gov/about/nihpreprints/)to include preprints that result from research funded by NIH in PMC and PubMed.
+TREM2+ and interstitial macrophages orchestrate airway inflammation in SARS-CoV-2 infection in rhesus macaques
+- PMID: 34642693
+-
+PMCID:
+[PMC8509096](https://pmc.ncbi.nlm.nih.gov/articles/PMC8509096/)
+-
+DOI:
+[10.1101/2021.10.05.463212](https://doi.org/10.1101/2021.10.05.463212)
+TREM2+ and interstitial macrophages orchestrate airway inflammation in SARS-CoV-2 infection in rhesus macaques
+Update in
+-
+[TREM2+ and interstitial-like macrophages orchestrate airway inflammation in SARS-CoV-2 infection in rhesus macaques.](/37024448/)Nat Commun. 2023 Apr 6;14(1):1914. doi: 10.1038/s41467-023-37425-9. Nat Commun. 2023. PMID: 37024448 Free PMC article.
+Abstract
+The COVID-19 pandemic remains a global health crisis, yet, the immunopathological mechanisms driving the development of severe disease remain poorly defined. Here, we utilize a rhesus macaque (RM) model of SARS-CoV-2 infection to delineate perturbations in the innate immune system during acute infection using an integrated systems analysis. We found that SARS-CoV-2 initiated a rapid infiltration (two days post infection) of plasmacytoid dendritic cells into the lower airway, commensurate with IFNA production, natural killer cell activation, and induction of interferon-stimulated genes. At this early interval, we also observed a significant increase of blood CD14-CD16+ monocytes. To dissect the contribution of lung myeloid subsets to airway inflammation, we generated a novel compendium of RM-specific lung macrophage gene expression using a combination of sc-RNA-Seq data and bulk RNA-Seq of purified populations under steady state conditions. Using these tools, we generated a longitudinal sc-RNA-seq dataset of airway cells in SARS-CoV-2-infected RMs. We identified that SARS-CoV-2 infection elicited a rapid recruitment of two subsets of macrophages into the airway: a C206+MRC1-population resembling murine interstitial macrophages, and a TREM2+ population consistent with CCR2+ infiltrating monocytes, into the alveolar space. These subsets were the predominant source of inflammatory cytokines, accounting for ~75% of IL6 and TNF production, and >90% of IL10 production, whereas the contribution of CD206+MRC+ alveolar macrophages was significantly lower. Treatment of SARS-CoV-2 infected RMs with baricitinib (Olumiant ® ), a novel JAK1/2 inhibitor that recently received Emergency Use Authorization for the treatment of hospitalized COVID-19 patients, was remarkably effective in eliminating the influx of infiltrating, non-alveolar macrophages in the alveolar space, with a concomitant reduction of inflammatory cytokines. This study has delineated the major subsets of lung macrophages driving inflammatory and anti-inflammatory cytokine production within the alveolar space during SARS-CoV-2 infection.
+One sentence summary: Multi-omic analyses of hyperacute SARS-CoV-2 infection in rhesus macaques identified two population of infiltrating macrophages, as the primary orchestrators of inflammation in the lower airway that can be successfully treated with baricitinib.
+Similar articles
+-
+[TREM2+ and interstitial-like macrophages orchestrate airway inflammation in SARS-CoV-2 infection in rhesus macaques.](/37024448/)Nat Commun. 2023 Apr 6;14(1):1914. doi: 10.1038/s41467-023-37425-9. Nat Commun. 2023. PMID: 37024448 Free PMC article.
+-
+[Baricitinib treatment resolves lower-airway macrophage inflammation and neutrophil recruitment in SARS-CoV-2-infected rhesus macaques.](/33278358/)Cell. 2021 Jan 21;184(2):460-475.e21. doi: 10.1016/j.cell.2020.11.007. Epub 2020 Nov 10. Cell. 2021. PMID: 33278358 Free PMC article.
+-
+[Baricitinib treatment resolves lower airway inflammation and neutrophil recruitment in SARS-CoV-2-infected rhesus macaques.](/32995780/)bioRxiv [Preprint]. 2020 Sep 16:2020.09.16.300277. doi: 10.1101/2020.09.16.300277. bioRxiv. 2020. Update in: [Cell. 2021 Jan 21;184(2):460-475.e21. doi: 10.1016/j.cell.2020.11.007.](/33278358/)PMID: 32995780 Free PMC article. Updated. Preprint.
+-
+[Contribution of monocytes and macrophages to the local tissue inflammation and cytokine storm in COVID-19: Lessons from SARS and MERS, and potential therapeutic interventions.](/32687918/)Life Sci. 2020 Sep 15;257:118102. doi: 10.1016/j.lfs.2020.118102. Epub 2020 Jul 18. Life Sci. 2020. PMID: 32687918 Free PMC article. Review.
+-
+[Mechanistic understanding of innate and adaptive immune responses in SARS-CoV-2 infection.](/33940513/)Mol Immunol. 2021 Jul;135:268-275. doi: 10.1016/j.molimm.2021.04.021. Epub 2021 Apr 30. Mol Immunol. 2021. PMID: 33940513 Free PMC article. Review.
+Publication types
+Grants and funding
+LinkOut - more resources
+Full Text Sources
+Research Materials
+Miscellaneous

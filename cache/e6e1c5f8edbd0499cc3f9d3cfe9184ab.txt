@@ -1,0 +1,28 @@
+Postoperative outcomes following lung resection performed at private equity-acquired hospitals
+- PMID: 39824345
+-
+DOI:
+[10.1016/j.jtcvs.2024.12.032](https://doi.org/10.1016/j.jtcvs.2024.12.032)
+Postoperative outcomes following lung resection performed at private equity-acquired hospitals
+Abstract
+Objective: Private equity acquisition of hospitals performing complex operations is increasingly prevalent in the US healthcare landscape. Although comparative health outcomes for common medical conditions have been investigated, the quality of thoracic surgical care in private equity-acquired hospitals is unknown.
+Methods: Medicare beneficiaries, aged 65 to 99 years, undergoing elective lung resection between 2016 and 2020 were included. Private equity-acquired hospitals were identified using the Agency for Healthcare Research and Quality Health System Compendium. Postoperative outcomes, including 30-day mortality, complications, failure to rescue, readmission, and postoperative length of stay were risk adjusted and compared with nonacquired hospitals using logistic regression considering patient age, sex, comorbidities, procedure type, and year of procedure.
+Results: Of 144,223 beneficiaries undergoing lung resection, 11,140 (7.7%) received care at private equity-acquired hospitals. Private equity-acquired hospitals performed fewer lung resections annually (mean = 4.2) than nonacquired hospitals (mean = 10.5; P < .001). Compared with nonacquired hospitals, patients treated at private equity-acquired hospitals demonstrated higher rates of 30-day mortality (2.1% vs 1.9%, odds ratio [OR], 1.17 [1.03-1.33]; P = .019), serious complications (8.1% vs 6.8%, OR, 1.29 [1.19-1.39]; P < .001), 30-day readmission (10.6% vs 9.9%, OR, 1.08 [1.01-1.15]; P = .028), and longer postoperative length of stay (5.9 vs 5.3 days; P < .001). Failure-to-rescue rates were not significantly different (9.8% vs 9.4%, OR, 1.05 [0.90-1.23]; P = .518).
+Conclusions: These findings raise concern that private equity-acquired hospitals may provide lower-quality care for patients undergoing common thoracic procedures. Underlying structural factors may contribute to these differences. This motivates further investigation of specialty surgical care performed at private equity-acquired health institutions.
+Keywords: lung resection; postoperative outcomes; private equity.
+Copyright © 2025 The American Association for Thoracic Surgery. Published by Elsevier Inc. All rights reserved.
+Conflict of interest statement
+Conflict of Interest Statement J.E.W. is supported by National Institutes of Health 5T32-DK108740. S.L.S. is supported by National Cancer Institute T32-CA236621. R.C.J. is supported by National Institutes of Health 5R38-CA245095. All other authors reported no conflicts of interest. The Journal policy requires editors and reviewers to disclose conflicts of interest and to decline handling or reviewing manuscripts for which they may have a conflict of interest. The editors and reviewers of this article have no conflicts of interest.
+Similar articles
+-
+[Esophagectomy Trends and Postoperative Outcomes at Private Equity-Acquired Health Centers.](/39745696/)JAMA Surg. 2025 Mar 1;160(3):296-302. doi: 10.1001/jamasurg.2024.5920. JAMA Surg. 2025. PMID: 39745696
+-
+[Low-Volume Elective Surgery and Outcomes in Medicare Beneficiaries Treated at Hospital Networks.](/38150228/)JAMA Surg. 2024 Feb 1;159(2):203-210. doi: 10.1001/jamasurg.2023.6542. JAMA Surg. 2024. PMID: 38150228 Free PMC article.
+-
+[Visitor Restrictions During the COVID-19 Pandemic and Increased Falls With Harm at a Canadian Hospital: An Exploratory Study.](/38917342/)J Patient Saf. 2024 Sep 1;20(6):434-439. doi: 10.1097/PTS.0000000000001237. Epub 2024 Jun 26. J Patient Saf. 2024. PMID: 38917342
+-
+[Pharmacological and non-pharmacological treatments and outcomes for new-onset atrial fibrillation in ICU patients: the CAFE scoping review and database analyses.](/34847987/)Health Technol Assess. 2021 Nov;25(71):1-174. doi: 10.3310/hta25710. Health Technol Assess. 2021. PMID: 34847987
+-
+[The 2023 Latin America report of the Lancet Countdown on health and climate change: the imperative for health-centred climate-resilient development.](/38800647/)Lancet Reg Health Am. 2024 Apr 23;33:100746. doi: 10.1016/j.lana.2024.100746. eCollection 2024 May. Lancet Reg Health Am. 2024. PMID: 38800647 Free PMC article. Review.
+LinkOut - more resources
+Full Text Sources

@@ -17,6 +17,7 @@ httpx==0.23.3            # pinned for pyalex
 tqdm==4.66.1
 pyyaml==6.0.1
 requests==2.31.0
-unpywall==0.8.0
+# unpywall - confirmed working with Python 3.11
+unpywall==0.2.3
 matplotlib==3.8.0
 python-dotenv==1.0.1

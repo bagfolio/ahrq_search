@@ -46,6 +46,22 @@ try:
     except Exception as e:
         print(f"❌ Scholar collector error: {e}")
     
+    # Test unpywall and FulltextFetcher initialization
+    print("\nTesting unpywall and FulltextFetcher...")
+    try:
+        import unpywall
+        print("✅ unpywall imported successfully")
+    except Exception as e:
+        print(f"❌ unpywall import error: {e}")
+        
+    try:
+        from fulltext_analysis.fulltext_fetcher import FulltextFetcher
+        import config
+        fetcher = FulltextFetcher(dummy_email)
+        print("✅ FulltextFetcher initialized successfully")
+    except Exception as e:
+        print(f"❌ FulltextFetcher error: {e}")
+        
     print("\n✅ Smoke test complete! All collectors can be imported and initialized.")
     print("\nNote: This test only verifies imports and initialization, not actual API connectivity.")
     print("Next steps: Re-create the virtual environment with Python 3.11.9 and install dependencies.")

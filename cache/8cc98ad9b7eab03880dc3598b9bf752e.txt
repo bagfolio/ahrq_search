@@ -1,0 +1,29 @@
+Accepted for/Published in:
+[JMIR Formative Research](https://formative.jmir.org)
+Date Submitted: Nov 9, 2021
+Date Accepted: Apr 21, 2022
+Date Submitted to PubMed: Apr 22, 2022
+Valuing Diversity and Inclusion in Healthcare: Pathways to Equip Workforce
+ABSTRACT
+Background:
+The COVID-19 pandemic, with all its virus variants, remains a serious situation. Health systems across the United States are trying their best to respond. The healthcare workforce remains relatively homogenous, even though they are caring for a highly diverse array of patients (6-12). It is a perennial problem in the US healthcare workforce that has only been accentuated during the COVID-19 pandemic. Medical workers should reflect the variety of patients they care for and strive to understand their mindsets within the larger contexts of culture, gender, sexual orientation, religious beliefs, and socioeconomic realities. Along with talent and skills, diversity and inclusion (D&I) are essential for maintaining a workforce that can treat the myriad needs and populations that health systems serve. Developing hiring strategies in a post-COVID-19 “new normal” that will help achieve greater workforce diversity remains a challenge for health system leaders.
+Objective:
+Our primary objectives are (1) to explore the characteristics and perceived benefits of US health systems that value D&I; (2) to examine the influence of a workforce strategy designed to balance talent and D&I; and (3) to explore three pathways to better equip workforces and their relative influences on business- and service-oriented benefits: (a) improving D&I among existing employees (IMPROVE), (b) using multiple channels to find and recruit a workforce (RECRUIT), and (c) collaborating with universities to find new talent and establish plans to train students (COLLABORATE).
+Methods:
+During February–March 2021, we surveyed 625 health system chief executive officers, in the United States, 135 (22%) of whom responded. We assessed workforce talent and diversity-relevant factors. We collected secondary data from the Agency for Healthcare Research and Quality’s (AHRQ) Compendium of the US. Health Systems, leading to a matched data set of 124 health systems for analysis. We first explored differences in talent and diversity benefits across the health systems. Then, we examined the relationship between IMPROVE, RECRUIT, and COLLABORATE pathways to equip the workforce.
+Results:
+Health system characteristics, such as size, location, ownership, teaching, and revenue, have varying influences on D&I and business and service outcomes. RECRUIT has the most substantial mediating effect on diversity-enabled business- and service-oriented outcomes of the three pathways. This is also true of talent-based workforce acquisitions.
+Conclusions:
+Diversity and talent plans can be aligned to realize multiple desired benefits for health systems. However, a one-size-fits-all approach is not a viable strategy for improving D&I. Health systems need to follow a multipronged approach based on their characteristics. To get D&I right, proactive plans and genuine efforts are essential.
+Citation
+Valuing Diversity and Inclusion in Health Care to Equip the Workforce: Survey Study and Pathway Analysis
+JMIR Form Res 2022;6(5):e34808
+DOI:
+[10.2196/34808](https://doi.org/10.2196/34808)
+PMID:
+[35452404](https://www.ncbi.nlm.nih.gov/pubmed/35452404)
+PMCID:
+[9123548](https://www.ncbi.nlm.nih.gov/pmc/articles/9123548) [Download PDF](javascript:;)
+Request queued. Please wait while the file is being generated. It may take some time.
+Copyright
+© The authors. All rights reserved. This is a privileged document currently under peer-review/community review (or an accepted/rejected manuscript). Authors have provided JMIR Publications with an exclusive license to publish this preprint on it's website for review and ahead-of-print citation purposes only. While the final peer-reviewed paper may be licensed under a cc-by license on publication, at this stage authors and publisher expressively prohibit redistribution of this draft paper other than for review purposes.

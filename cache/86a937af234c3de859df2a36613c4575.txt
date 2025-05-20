@@ -1,0 +1,54 @@
+Associations Between Integration and Patient Experience in Hospital-Based Health Systems: An Exploration of Horizontal and Vertical Forms of Integration
+- PMID: 39240263
+-
+DOI:
+[10.1097/JHM-D-23-00266](https://doi.org/10.1097/jhm-d-23-00266)
+Associations Between Integration and Patient Experience in Hospital-Based Health Systems: An Exploration of Horizontal and Vertical Forms of Integration
+Abstract
+Goal: The U.S. hospital sector is experiencing record levels of integration, with more than half of U.S. physicians and nearly three quarters of all hospitals affiliated with one of slightly more than 630 health systems. However, there is growing evidence to suggest that health system integration is associated with more expensive and lower quality care. The goal of this research is to explore the associations between forms of health system integration and hospital patient experience scores.
+Methods: A cross-section of data for the year 2019 was assembled and analyzed from the Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) patient experience survey. Data from the Compendium of US Health Systems, published by the Agency for Healthcare Research and Quality (AHRQ), and the American Hospital Association (AHA) Annual Survey were used to obtain independent variables and hospital-level covariates. A series of multivariable regressions was used to explore the associations between forms of health system integration and hospital patient experience scores across three domains: overall impression of the hospital; experiences with staff; and the hospital environment. Forms of both horizontal integration (i.e., number of hospitals owned by hospital-based health systems) and vertical integration (i.e., physician-hospital integration, nursing home ownership, accountable care organization [ACO] participation, group purchasing, contract management, offering insurance products, and investor ownership) were explored.
+Principal findings: Although horizontal integration was not associated with any meaningful differences in patient experience scores, health systems with physician-hospital integration were associated with overall impression scores that were 2 percentage points higher than systems without physician integration. Similarly, contract management and membership in a group purchasing organization were associated with overall impression and environment scores that were 2 to 3 percentage points higher than hospitals that did not engage in those forms of integration. By contrast, investor ownership was associated with a 5% lower score for overall patient experience compared with other forms of ownership.
+Practical applications: The findings of this study suggest that hospitals in more vertically integrated systems may have higher patient experience scores than independent hospitals and those that belong exclusively to horizontally integrated systems. Thus, there are elements of vertical integration that could benefit patients and be worth pursuing. Conversely, higher degrees of horizontal integration in the form of multihospital ownership may not be of any benefit to patients and should be pursued with caution.
+Copyright © 2024 Foundation of the American College of Healthcare Executives.
+Conflict of interest statement
+The authors declare no conflicts of interest.
+Similar articles
+-
+[Health system integration with physician specialties varies across markets and system types.](/33284522/)Health Serv Res. 2020 Dec;55 Suppl 3(Suppl 3):1062-1072. doi: 10.1111/1475-6773.13584. Health Serv Res. 2020. PMID: 33284522 Free PMC article.
+-
+[Physician Compensation In Physician-Owned And Hospital-Owned Practices.](/34871086/)Health Aff (Millwood). 2021 Dec;40(12):1865-1874. doi: 10.1377/hlthaff.2021.01007. Health Aff (Millwood). 2021. PMID: 34871086 Free PMC article.
+-
+[Differences in trends of perceived inpatient care quality based on regional socioeconomic level in the United States and Taiwan.](/34755336/)Health Serv Res. 2021 Dec;56 Suppl 3(Suppl 3):1418-1428. doi: 10.1111/1475-6773.13872. Health Serv Res. 2021. PMID: 34755336 Free PMC article.
+-
+[Measuring integrated care.](/21299927/)Dan Med Bull. 2011 Feb;58(2):B4245. Dan Med Bull. 2011. PMID: 21299927 Review.
+-
+[The effects of hospital-physician integration strategies on hospital financial performance.](/7591779/)Health Serv Res. 1995 Oct;30(4):507-30. Health Serv Res. 1995. PMID: 7591779 Free PMC article. Review.
+References
+-
+-
+Bazzoli G. J., Shortell S. M., Dubbs N., Chan C., & Kralovec P. (1999). A taxonomy of health networks and systems: Bringing order out of chaos. Health Services Research, 33(6), 1683–1717.
+[https://www.ncbi.nlm.nih.gov/pubmed/10029504](https://www.ncbi.nlm.nih.gov/pubmed/10029504)
+- Bazzoli G. J., Shortell S. M., Dubbs N., Chan C., & Kralovec P. (1999). A taxonomy of health networks and systems: Bringing order out of chaos. Health Services Research, 33(6), 1683–1717.
+-
+-
+Beaulieu N. D., Dafny L. S., Landon B. E., Dalton J. B., Kuye I., & McWilliams J. M. (2020). Changes in quality of care after hospital mergers and acquisitions. New England Journal of Medicine, 382(1), 51–59.
+[https://doi.org/10.1056/NEJMsa1901383](https://doi.org/10.1056/NEJMsa1901383)- [DOI](https://doi.org/10.1056/nejmsa1901383)
+- Beaulieu N. D., Dafny L. S., Landon B. E., Dalton J. B., Kuye I., & McWilliams J. M. (2020). Changes in quality of care after hospital mergers and acquisitions. New England Journal of Medicine, 382(1), 51–59.
+-
+-
+Budetti P. P., Shortell S. M., Waters T. M., Alexander J. A., Burns L. R., Gillies R. R., & Zuckerman H. (2002). Physician and health system integration. Health Affairs, 21(1), 203–210.
+[https://doi.org/10.1377/hlthaff.21.1.203](https://doi.org/10.1377/hlthaff.21.1.203)- [DOI](https://doi.org/10.1377/hlthaff.21.1.203)
+- Budetti P. P., Shortell S. M., Waters T. M., Alexander J. A., Burns L. R., Gillies R. R., & Zuckerman H. (2002). Physician and health system integration. Health Affairs, 21(1), 203–210.
+-
+-
+Burns L. R., & Pauly M. V. (2002). Integrated delivery networks: A detour on the road to integrated health care? Health Affairs, 21(4), 128–143.
+[https://doi.org/10.1377/hlthaff.21.4.128](https://doi.org/10.1377/hlthaff.21.4.128)- [DOI](https://doi.org/10.1377/hlthaff.21.4.128)
+- Burns L. R., & Pauly M. V. (2002). Integrated delivery networks: A detour on the road to integrated health care? Health Affairs, 21(4), 128–143.
+-
+-
+Centers for Medicare & Medicaid Services. (2023, September 6). HCAHPS: Patients’ Perspectives of Care Survey. Retrieved July 15, 2024, from
+[https://www.cms.gov/medicare/quality/initiatives/hospital-quality-initia...](https://www.cms.gov/medicare/quality/initiatives/hospital-quality-initiative/hcahps-patients-perspectives-care-survey)
+- Centers for Medicare & Medicaid Services. (2023, September 6). HCAHPS: Patients’ Perspectives of Care Survey. Retrieved July 15, 2024, from
+MeSH terms
+LinkOut - more resources
+Full Text Sources

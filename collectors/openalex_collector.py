@@ -4,11 +4,13 @@ Uses PyAlex to search for citations in OpenAlex.
 """
 
 import time
+import requests
+import urllib.parse
 import pandas as pd
 from typing import List, Dict, Any
 import logging
 from tqdm import tqdm
-from pyalex import Works
+from pyalex import Works, config as pyalex_config
 
 from collectors.base_collector import BaseCollector
 import config
@@ -28,7 +30,9 @@ class OpenAlexCollector(BaseCollector):
             results_per_page: Results per page (OpenAlex caps at 200)
         """
         super().__init__(email, max_results)
-        self.works = Works(email=email)
+        # Configure pyalex with the email address for polite API usage
+        pyalex_config.email = email
+        self.works = Works()
         self.results_per_page = results_per_page
         
     def search(self, terms: List[str]) -> pd.DataFrame:
@@ -44,26 +48,15 @@ class OpenAlexCollector(BaseCollector):
         all_results = []
         
         for term in terms:
+            # Skip URL terms to avoid recursion issues in pyalex's parser
+            if term.startswith("http"):
+                logger.debug(f"Skipping URL term for OpenAlex: {term[:30]}...")
+                continue
+                
             logger.info(f"OpenAlex query: {term}")
             try:
-                results = []
-                
-                # Calculate how many pages to request
-                pages_to_request = min(
-                    self.max_results // self.results_per_page + 1,
-                    5  # Cap at 5 pages (1000 results) per term to avoid excessive API usage
-                )
-                
-                # Execute search with pagination
-                page = self.works.search(term).per_page(self.results_per_page)
-                
-                with tqdm(total=min(page.count, self.max_results), 
-                          desc=f"OpenAlex: {term[:30]}..." if len(term) > 30 else f"OpenAlex: {term}") as pbar:
-                    for i, work in enumerate(page):
-                        if i >= self.max_results:
-                            break
-                        results.append(work)
-                        pbar.update(1)
+                # ── try pyalex ────────────────────────────────────────────
+                results = self._pyalex_search(term)       # keep old call first
                 
                 # Log stats
                 logger.info(f"OpenAlex: Found {len(results)} results for term '{term}'")
@@ -77,14 +70,71 @@ class OpenAlexCollector(BaseCollector):
                 # Be polite to the API
                 time.sleep(1.0)
                 
+            except RecursionError as re:
+                logger.warning(
+                    f"pyalex blew up with RecursionError on '{term}'. "
+                    "Falling back to raw REST."
+                )
+                results = self._rest_search(term)          # ← add this call
+                if results:
+                    df = self.normalize_data(results)
+                    df = self.add_match_term(df, term)
+                    all_results.append(df)
             except Exception as e:
                 logger.error(f"Error searching OpenAlex for term '{term}': {e}")
+                continue
         
         # Combine all results
         if all_results:
             return pd.concat(all_results, ignore_index=True)
         else:
             return pd.DataFrame()
+        
+    def _pyalex_search(self, term: str) -> List[Dict[str, Any]]:
+        """
+        Search OpenAlex using PyAlex library.
+        Returns at most self.max_results items.
+        """
+        results = []
+        
+        # Execute search with simplified pagination
+        query = self.works.search(term).per_page(self.results_per_page)
+        
+        # Use tqdm for progress display with fallback count
+        with tqdm(total=min(getattr(query, 'count', 1000), self.max_results), 
+                  desc=f"OpenAlex: {term[:30]}..." if len(term) > 30 else f"OpenAlex: {term}") as pbar:
+            for i, work in enumerate(query):
+                if i >= self.max_results:
+                    break
+                results.append(work)
+                pbar.update(1)
+                
+        return results
+    
+    def _rest_search(self, term: str) -> List[Dict[str, Any]]:
+        """
+        Fallback: hit https://api.openalex.org/works directly.
+        Returns at most self.max_results items.
+        """
+        headers = {
+            "User-Agent": f"AHRQCompendiumTracker (mailto:{self.email})"
+        }
+        params = {
+            "search": term,
+            "per_page": self.results_per_page
+        }
+        url = "https://api.openalex.org/works"
+        out = []
+        while url and len(out) < self.max_results:
+            r = requests.get(url, headers=headers, params=params, timeout=30)
+            r.raise_for_status()
+            j = r.json()
+            out.extend(j.get("results", []))
+            # OpenAlex cursor paging
+            cursor = j.get("meta", {}).get("next_cursor")
+            url = None if cursor is None else f"{r.url.split('?')[0]}?cursor={urllib.parse.quote(cursor)}&per_page={self.results_per_page}"
+            params = None                       # cursor URL already has params
+        return out[: self.max_results]
         
     def normalize_data(self, raw_data: List[Dict[str, Any]]) -> pd.DataFrame:
         """

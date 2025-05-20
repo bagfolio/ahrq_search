@@ -1,0 +1,25 @@
+Prehospital Trauma Compendium: Management of the Entrapped Patient - a Position Statement and Resource Document of NAEMSP
+- PMID: 39387678
+-
+DOI:
+[10.1080/10903127.2024.2413876](https://doi.org/10.1080/10903127.2024.2413876)
+Prehospital Trauma Compendium: Management of the Entrapped Patient - a Position Statement and Resource Document of NAEMSP
+Abstract
+Entrapped patients may be simply entombed or experiencing crush injury or entanglement. Patients with trauma who are entrapped are at higher risk of significant injury than patients not entrapped. Limited access and prolonged scene times further complicate patient management. Although patient entrapment is a significant focus of specialty teams, such as urban search & rescue (US&R) teams that operate as local, regional, and/or national resources in response to complex scenes and disaster scenarios, entrapment is a regular occurrence in routine EMS response. Therefore, all EMS clinicians must have the training and skills to manage entrapped patients and to support medically-directed rescue throughout the extrication process. NAEMSP RECOMMENDSEMS clinicians must perform a timely and thorough primary and secondary assessment and reassessments in parallel with dynamic extrication planning; the environment may require adaption of standard assessment techniques and devices.EMS clinicians should establish early, clear, and ongoing communications with rescue personnel to ensure a coordinated patient-centered medically directed approach to extrication. Communication with the patient should be frequent, clear, and reassuring.EMS clinicians should immediately take measures to effectively prevent and manage hypothermia.EMS clinicians should recognize airway management in the entrapped patient is always challenging. When required, advanced airway placement should be performed by the most experienced operator with proficiency in multiple modalities and alternative techniques in limited access situations.In entrapped patients who are experiencing or are at risk for crush syndrome, EMS clinicians should initiate large-volume (i.e., 1-1.5 L/h for adults and 20 mL/kg/h for pediatric patients for the initial 3-4 h) fluid resuscitation with crystalloid, preferably normal saline, as early as possible and prior to extrication.In entrapped patients who are experiencing or are at risk for crush syndrome, EMS clinicians should administer medications to mitigate risks of hyperkalemia, infection, and renal failure, early and prior to extrication.Tourniquet application should be considered in the setting of the crushed extremity as a potential adjunct to medical optimization before extrication of some patients.Patients with prolonged entrapment with the potential for severe injuries require complex resuscitation and may benefit from EMS physician management on scene. EMS systems should consider an early EMS physician response to entrapped patients.
+Similar articles
+-
+[Prehospital Trauma Compendium: Management of Suspected Femoral Shaft Fractures - A position statement and resource document of NAEMSP.](/40334120/)Prehosp Emerg Care. 2025 May 7:1-30. doi: 10.1080/10903127.2025.2493846. Online ahead of print. Prehosp Emerg Care. 2025. PMID: 40334120
+-
+[Prehospital Pediatric Respiratory Distress and Airway Management Training and Education: An NAEMSP Position Statement and Resource Document.](/35001818/)Prehosp Emerg Care. 2022;26(sup1):102-110. doi: 10.1080/10903127.2021.1992551. Prehosp Emerg Care. 2022. PMID: 35001818
+-
+[Prehospital Pediatric Respiratory Distress and Airway Management Interventions: An NAEMSP Position Statement and Resource Document.](/35001823/)Prehosp Emerg Care. 2022;26(sup1):118-128. doi: 10.1080/10903127.2021.1994675. Prehosp Emerg Care. 2022. PMID: 35001823
+-
+[Quality Management of Prehospital Pediatric Respiratory Distress and Airway Programs: An NAEMSP Position Statement and Resource Document.](/35001832/)Prehosp Emerg Care. 2022;26(sup1):111-117. doi: 10.1080/10903127.2021.1986184. Prehosp Emerg Care. 2022. PMID: 35001832 Review.
+-
+[Crush syndrome: a review for prehospital providers and emergency clinicians.](/37653520/)J Transl Med. 2023 Aug 31;21(1):584. doi: 10.1186/s12967-023-04416-9. J Transl Med. 2023. PMID: 37653520 Free PMC article. Review.
+Cited by
+-
+[Confined space airway management: a narrative review.](/40325448/)Scand J Trauma Resusc Emerg Med. 2025 May 5;33(1):79. doi: 10.1186/s13049-025-01357-8. Scand J Trauma Resusc Emerg Med. 2025. PMID: 40325448 Free PMC article. Review.
+LinkOut - more resources
+Full Text Sources
+Other Literature Sources

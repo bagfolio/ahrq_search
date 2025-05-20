@@ -1,0 +1,202 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<>
+endobj
+2 0 obj
+<>stream
+rapid reviews,health policy,health systems,decision-making,evidence synthesis
+Acrobat Distiller 10.0.0 (Windows); modified using iText¬Æ 5.3.5 ¬©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+application/pdf
+10.1186/s12961-020-00624-7
+Health Research Policy and Systems
+Health Research Policy and Systems, 2020, doi:10.1186/s12961-020-00624-7
+rapid reviews
+health policy
+health systems
+decision-making
+evidence synthesis
+Assessing how information is packaged in rapid reviews for policy-makers and other stakeholders: a cross-sectional study
+Chantelle Garritty
+Candyce Hamel
+Mona Hersi
+Claire Butler
+Zarah Monfaredi
+Adrienne Stevens
+Barbara Nussbaumer-Streit
+Wei Cheng
+David Moher
+2020-09-29T11:45:03+02:00
+2020-09-29T11:45:03+02:00
+2020-09-28T09:50:33+08:00
+Arbortext Advanced Print Publisher 9.1.440/W Unicode
+uuid:ce20e764-5208-406a-816b-1becd8426267
+uuid:82719ee8-d051-4efb-85b9-31c45fe75014
+default
+1
+converted
+uuid:ce20e764-5208-406a-816b-1becd8426267
+converted to PDF/A-2b
+pdfToolbox
+2020-09-28T20:09:43+08:00
+2
+B
+Chantelle Garritty
+https://orcid.org/0000-0002-2207-9958
+Springer Nature ORCID Schema
+http://springernature.com/ns/xmpExtensions/2.0/
+sn
+authorInfo
+Bag AuthorInformation
+external
+Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+editorInfo
+Bag EditorInformation
+external
+Editor information: contains the name of each editor and his/her ORCID identifier.
+seriesEditorInfo
+Bag SeriesEditorInformation
+external
+Series editor information: contains the name of each series editor and his/her ORCID identifier.
+AuthorInformation
+http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+author
+Specifies the types of author information: name and ORCID of an author.
+name
+Text
+Gives the name of an author.
+orcid
+URI
+Gives the ORCID of an author.
+EditorInformation
+http://springernature.com/ns/xmpExtensions/2.0/editorInfo/
+editor
+Specifies the types of editor information: name and ORCID of an editor.
+name
+Text
+Gives the name of an editor.
+orcid
+URI
+Gives the ORCID of an editor.
+SeriesEditorInformation
+http://springernature.com/ns/xmpExtensions/2.0/seriesEditorInfo/
+seriesEditor
+Specifies the types of series editor information: name and ORCID of a series editor.
+name
+Text
+Gives the name of a series editor.
+orcid
+URI
+Gives the ORCID of a series editor.
+http://ns.adobe.com/pdf/1.3/
+pdf
+Adobe PDF Schema
+internal
+A name object indicating whether the document has been modified to include trapping information
+Trapped
+Text
+http://ns.adobe.com/xap/1.0/mm/
+xmpMM
+XMP Media Management Schema
+internal
+UUID based identifier for specific incarnation of a document
+InstanceID
+URI
+internal
+The common identifier for all versions and renditions of a document.
+OriginalDocumentID
+URI
+internal
+A reference to the original document from which this one is derived. It is a minimal reference; missing components can be assumed to be unchanged. For example, a new version might only need to specify the instance ID and version number of the previous version, or a rendition might only need to specify the instance ID and rendition class of the original.
+DerivedFrom
+ResourceRef
+Identifies a portion of a document. This can be a position at which the document has been changed since the most recent event history (stEvt:changed). For a resource within an xmpMM:Ingredients list, the ResourceRef uses this type to identify both the portion of the containing document that refers to the resource, and the portion of the referenced resource that is referenced.
+http://ns.adobe.com/xap/1.0/sType/Part#
+stPart
+Part
+http://ns.adobe.com/xap/1.0/t/pg/
+xmpTPg
+XMP Paged-Text
+internal
+A structure containing the characteristics of a font used in a document
+Fonts
+Bag Font
+internal
+XMP08 Spec: An ordered array of plate names that are needed to print the document (including any in contained documents).
+PlateNames
+Seq Text
+A structure containing the characteristics of a font used in a document.
+http://ns.adobe.com/xap/1.0/sType/Font#
+stFnt
+Font
+http://ns.adobe.com/pdfx/1.3/
+pdfx
+PDF/X ID Schema
+internal
+ID of PDF/X standard
+GTS_PDFXVersion
+Text
+internal
+Conformance level of PDF/X standard
+GTS_PDFXConformance
+Text
+internal
+Company creating the PDF
+Company
+Text
+internal
+Date when document was last modified
+SourceModified
+Text
+http://www.aiim.org/pdfa/ns/id/
+pdfaid
+PDF/A ID Schema
+internal
+Part of PDF/A standard
+part
+Integer
+internal
+Amendment of PDF/A standard
+amd
+Text
+internal
+Conformance level of PDF/A standard
+conformance
+Text
+endstream
+endobj
+3 0 obj
+<>
+endobj
+5 0 obj
+<>
+endobj
+7 0 obj
+<>/ExtGState<>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]/Font<>>>/Annots[20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R]/CropBox[0 0 595.276 790.866]/Parent 52 0 R/Rotate 0/MediaBox[0 0 595.276 790.866]>>
+endobj
+53 0 obj
+<>
+endobj
+55 0 obj
+<>stream
+Hâ|í€o€T«ùv©¸Ä Et8M÷DÄÑR’1 UÃ˜≥ˆ\∆∆ÕÑWcµ∞ °`y√ΩýπÄwùr!û˝9|ÛöyN}xˆò–A:‚¢√tåâRl∫êf >9à‰0ß’ª€ÌXV—∫-∑b/ ∫xXˇÞU§˛`¸ˆl¯b[EŒÚ∂Ÿ£ëYœ*iXÞ™n∆f#J$ÁàÕ4û⁄Nn'îD…cXÈÞ±øÈ,wñÕÄéiòô≤ãË‰˜xYD¯
+WÊ+|ÖXë2Sc∫AkÑI¥âqüI(É÷h-þ`x∑¥'Ì…ðöÀÆYjKkiM£f¡µ∂–ÌÕ>¡ø[ÎÕı÷n™óð[x±òÚ&ã©"Œ∏4ø≈g∏û‰d8q^lã-A®cƒÝ.©ä¶Zömv[∂Ÿ1AµÙVn¥4QuÀe&«z9¢êfLÇFÈ•¿üQa:ö«hîŸ,l¡ŒëÏ¨H
+ÂZ•)∏TA´Í¢.Ë¢!ËB≥™VÍ}d![™Wt¡v ∂∏/ıG ±|,)GÇ]jÚ",rT%„Œfyé\é£ÿoìwÉ+À+w˝_ØþÜπ)ÈPÓK=@W¥K0™Z•YÆïæÑ–$œeºvõMè)Ä]!«ÊŸ|˘Ö.2¡‚.P•£
+!ºËÿì»'
+[ OüøÕÑþu~4ï⁄xñeítå
+∫®çËP§µê‚¡,>S"Kπ2%0UFd%êZIÊ∑Ð(ïuØ^6ÑñP
+”0µΩ∆q°ÖÝ¡H,î aÆ∏ã˚b_>ñÄ˝J“Åÿå·+
+ƒ8œÞòz4|á©:ßw¶ˇ` =Þ"û
+endstream
+endobj
+20 0 obj
+<>/Subtype/Link/F 4/Type/Annot/Border[0 0 0]/AP<>/Rect[437.783 676.29 480.359 686.268]>>
+endobj
+57 0 obj
+<>
+endobj
+13 0 obj
+<>
+endobj
+21 0 obj
+<

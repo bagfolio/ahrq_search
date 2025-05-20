@@ -65,10 +65,34 @@ This will:
 
 ## Configuration
 
+### Environment Variables (Required)
+
+The application uses environment variables for sensitive configuration. To set this up:
+
+1. Copy the `.env.example` file to create a new file named `.env`:
+
+```bash
+# On Windows
+copy .env.example .env
+# On macOS/Linux
+# cp .env.example .env
+```
+
+2. Edit the `.env` file and add your email address:
+
+```
+EMAIL=your_actual_email@example.com
+```
+
+**Note:** A valid email address is required for API access to PubMed, Unpaywall, and other services.
+
+### Additional Settings
+
 Edit `config.py` to customize:
-- Email address for API access
 - Output directory
+- Cache directory
 - Search parameters
+- API rate limiting
 
 ## Output Files
 

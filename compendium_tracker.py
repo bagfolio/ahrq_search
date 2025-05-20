@@ -38,15 +38,27 @@ from fulltext_analysis.usage_classifier import UsageClassifier
 from reporting.csv_reporter import CSVReporter
 from reporting.html_reporter import HTMLReporter
 
-# Set up logging
+# Set up logging with a simpler approach
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.StreamHandler(),
+        logging.StreamHandler(),  # Console handler with default settings
         logging.FileHandler(os.path.join(config.OUTPUT_DIR, 'compendium_tracker.log'))
     ]
 )
+
+# Add module-specific handlers to split logs into separate files
+for mod in ("collectors", "fulltext_analysis"):
+    h = logging.FileHandler(config.OUTPUT_DIR / f"{mod}.log")
+    h.setFormatter(logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s"))
+    logging.getLogger(mod).addHandler(h)
+
+# Down-grade noisy loggers to reduce console output
+logging.getLogger("fulltext_analysis.fulltext_fetcher").setLevel(logging.WARNING)  # Show only warnings and errors
+logging.getLogger("trafilatura").setLevel(logging.WARNING)  # Suppress HTML parsing noise
+logging.getLogger("urllib3").setLevel(logging.WARNING)  # Reduce connection noise
+
 logger = logging.getLogger(__name__)
 
 class CompendiumTracker:
@@ -73,8 +85,8 @@ class CompendiumTracker:
         self.collectors = {
             'pubmed': PubMedCollector(email, config.MAX_RESULTS_PER_QUERY),
             'openalex': OpenAlexCollector(email, config.MAX_RESULTS_PER_QUERY),
-            'citations': CitationCollector(email, config.SEED_PMID),
-            'scholar': ScholarCollector(email, config.SCHOLAR_MAX_RESULTS, config.SCHOLAR_SLEEP_SECONDS)
+            'citations': CitationCollector(email, config.MAX_RESULTS_PER_QUERY, config.SEED_PMID),
+            # 'scholar': ScholarCollector(email, config.SCHOLAR_MAX_RESULTS, config.SCHOLAR_SLEEP_SECONDS)  # Temporarily disabled for faster testing
         }
         
         # Initialize fulltext components if enabled
@@ -112,6 +124,16 @@ class CompendiumTracker:
         elapsed_time = time.time() - start_time
         logger.info(f"AHRQ Compendium Citation Tracker completed in {elapsed_time:.2f} seconds")
     
+    # Define routing matrix to control which collectors receive which types of search terms
+    SEARCH_ROUTING = {
+        "exact_urls": {"pubmed": False, "openalex": False, "scholar": True},
+        "pdf_urls": {"pubmed": False, "openalex": False, "scholar": True},
+        "phrase_variants": {"pubmed": True, "openalex": True, "scholar": True},
+        "year_combos": {"pubmed": True, "openalex": True, "scholar": True},
+        "ahrq_combos": {"pubmed": True, "openalex": True, "scholar": True},
+        "funding_acknowledgment": {"pubmed": True, "openalex": True, "scholar": True},
+    }
+    
     def _collect_citations(self) -> Dict[str, pd.DataFrame]:
         """
         Collect citations from all sources.
@@ -134,7 +156,15 @@ class CompendiumTracker:
                     # Citation collector doesn't use search terms
                     df = collector.search()
                 else:
-                    df = collector.search(search_terms)
+                    # Filter search terms based on collector and term category
+                    filtered_terms = []
+                    for term in search_terms:
+                        category = self.keyword_loader.get_category_for_term(term)
+                        if self.SEARCH_ROUTING.get(category, {}).get(name, True):
+                            filtered_terms.append(term)
+                    
+                    logger.info(f"Using {len(filtered_terms)} filtered search terms for {name} collector")
+                    df = collector.search(filtered_terms)
                 
                 if df is not None and not df.empty:
                     all_citations[name] = df
@@ -176,9 +206,13 @@ class CompendiumTracker:
         if 'title' in merged_df.columns:
             merged_df['title_norm'] = merged_df['title'].str.replace(r'\W+', '', regex=True).str.lower()
         
-        # Sort by year (newest first)
+        # Guarantee a uniform, sortable dtype for year
         if 'year' in merged_df.columns:
-            merged_df = merged_df.sort_values('year', ascending=False)
+            merged_df['year_numeric'] = pd.to_numeric(
+                merged_df['year'], errors='coerce', downcast='integer'
+            )
+            merged_df = merged_df.sort_values('year_numeric', ascending=False)
+            merged_df.drop(columns=['year_numeric'], inplace=True)
         
         # Deduplicate: first by DOI, then by normalized title
         before_dedup = len(merged_df)
@@ -193,6 +227,14 @@ class CompendiumTracker:
         
         logger.info(f"Removed {before_dedup - len(merged_df)} duplicate citations")
         logger.info(f"Final dataset contains {len(merged_df)} unique citations")
+        
+        # Save pre-fulltext citations for review
+        merged_df.to_csv(
+            config.OUTPUT_DIR / "citations_pre_fulltext.csv",
+            index=False,
+            encoding="utf-8"
+        )
+        logger.info("Wrote pre-full-text citation list to citations_pre_fulltext.csv")
         
         return merged_df
     
@@ -305,15 +347,16 @@ def main():
     if args.debug:
         logging.getLogger().setLevel(logging.DEBUG)
     
-    # Get email from config or environment
+    # Get email from config (loaded from .env)
     email = config.EMAIL
     
     # Validate email
     if email == "your_email@domain.com":
-        logger.warning("Default email detected. Please update config.py with your email address.")
-        email_input = input("Enter your email address for API access: ")
-        if email_input:
-            email = email_input
+        logger.error("Email address not configured! Please follow these steps:")
+        logger.error("1. Create a .env file in the project root (copy from .env.example)")
+        logger.error("2. Set your EMAIL=your_email@example.com in the .env file")
+        logger.error("3. Run the script again")
+        sys.exit(1)  # Exit with error code
     
     # Create and run tracker
     tracker = CompendiumTracker(email, args.no_fulltext)

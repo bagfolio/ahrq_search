@@ -1,0 +1,35 @@
+Pacific Tracker 2 - expert system (PacTrac2-ES) behavioural assessment and intervention tool for the Pacific Kids DASH for Health (PacDASH) study
+- PMID: 23601394
+-
+DOI:
+[10.1016/j.foodchem.2012.11.047](https://doi.org/10.1016/j.foodchem.2012.11.047)
+Pacific Tracker 2 - expert system (PacTrac2-ES) behavioural assessment and intervention tool for the Pacific Kids DASH for Health (PacDASH) study
+Abstract
+The Pacific Tracker (PacTrac) is a computer program designed to analyse food intakes of individuals from the Pacific Region. PacTrac's original output included servings of daily intake of food groups according to the United States Food Guide Pyramid, nutrient intake recommendations, and a comparison to other national nutrition recommendations. PacTrac was made available for public use through the Hawaii Foods website (hawaiifoods.hawaii.edu). PacTrac2 is an updated and expanded version of PacTrac that uses the United States MyPyramid/MyPlate food groups in household units of daily intake, rather than servings. In addition, the PacTrac2 includes a physical activity analysis tool which quantifies minutes of physical activities and their intensities based on energy estimates from the compendium of physical activity and research on children. An Expert System (ES) - a computerised decision tree to guide behaviour change - was developed using information on self-efficacy and stage of readiness to change, and the fruit and vegetable intake and physical activity information from PacTrac2. The ES produces reports for the child, the parent/guardian, and the child's physician with child-specific strategies, targeted behavioural information, and feedback tailored to the child. PacTrac2-ES was designed for the Pacific Kids DASH for Health (PacDASH) intervention study, conducted in the Kaiser Permanente health care system in Hawaii. The intervention is based on the child's self-efficacy and stage of readiness to change intake of fruits and vegetables and physical activity, with a goal of maintaining body weight to prevent obesity. The intervention is complemented with stage-based mailers addressing the environment for physical activity and fruit and vegetable intake and newsletters that address related behaviours (sedentary activity and a DASH eating approach). This project is the first to expand the PacTrac to contain children's foods and physical activities from the Pacific Region and to use current US MyPyramid/MyPlate food and physical activity analysis and guidance systems, and to develop and implement an Expert System for fruits, vegetables and physical activity of 5-8-year-old children. The PacTrac2-ES was used in the PacDASH study and will be used for other programs to promote healthy eating and physical activity of children in the Pacific Region.
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+Similar articles
+-
+[Pacific kids DASH for health (PacDASH) randomized, controlled trial with DASH eating plan plus physical activity improves fruit and vegetable intake and diastolic blood pressure in children.](/25671796/)Child Obes. 2015 Apr;11(2):177-86. doi: 10.1089/chi.2014.0141. Epub 2015 Feb 11. Child Obes. 2015. PMID: 25671796 Clinical Trial.
+-
+[Children's intake of fruit and selected energy-dense nutrient-poor foods is associated with fathers' intake.](/21703382/)J Am Diet Assoc. 2011 Jul;111(7):1039-44. doi: 10.1016/j.jada.2011.04.008. J Am Diet Assoc. 2011. PMID: 21703382 Clinical Trial.
+-
+[Beverage intake among preschool children and its effect on weight status.](/17015497/)Pediatrics. 2006 Oct;118(4):e1010-8. doi: 10.1542/peds.2005-2348. Pediatrics. 2006. PMID: 17015497
+-
+[[Simple obesity in children. A study on the role of nutritional factors].](/16733288/)Med Wieku Rozwoj. 2006 Jan-Mar;10(1):3-191. Med Wieku Rozwoj. 2006. PMID: 16733288 Review. Polish.
+-
+[Using the ANGELO model to develop the children's healthy living program multilevel intervention to promote obesity preventing behaviors for young children in the U.S.-affiliated Pacific Region.](/25369548/)Child Obes. 2014 Dec;10(6):474-81. doi: 10.1089/chi.2014.0102. Child Obes. 2014. PMID: 25369548 Free PMC article. Review.
+Cited by
+-
+[Precision nutrition-based interventions for the management of obesity in children and adolescents up to the age of 19 years.](/39882755/)Cochrane Database Syst Rev. 2025 Jan 30;1(1):CD015877. doi: 10.1002/14651858.CD015877. Cochrane Database Syst Rev. 2025. PMID: 39882755 Review.
+-
+[Role of social ecological model level on young Pacific children's sugar-sweetened beverage and water intakes: Children's Healthy Living intervention.](/33234187/)Public Health Nutr. 2021 Jun;24(8):2318-2323. doi: 10.1017/S1368980020004796. Epub 2020 Nov 25. Public Health Nutr. 2021. PMID: 33234187 Free PMC article.
+-
+[Prevalence and Predictors of Overweight and Obesity among Young Children in the Children's Healthy Living Study on Guam.](/32825433/)Nutrients. 2020 Aug 20;12(9):2527. doi: 10.3390/nu12092527. Nutrients. 2020. PMID: 32825433 Free PMC article.
+-
+[Maintenance Outcomes of the Children's Healthy Living Program on Overweight, Obesity, and Acanthosis Nigricans Among Young Children in the US-Affiliated Pacific Region: A Randomized Clinical Trial.](/35666503/)JAMA Netw Open. 2022 Jun 1;5(6):e2214802. doi: 10.1001/jamanetworkopen.2022.14802. JAMA Netw Open. 2022. PMID: 35666503 Free PMC article. Clinical Trial.
+-
+[Consumption of Traditional Fruits and Vegetables among Children in the US-Affiliated Pacific Region.](/35854938/)Curr Dev Nutr. 2022 Jun 16;6(7):nzac101. doi: 10.1093/cdn/nzac101. eCollection 2022 Jul. Curr Dev Nutr. 2022. PMID: 35854938 Free PMC article.
+MeSH terms
+LinkOut - more resources
+Full Text Sources
+Other Literature Sources

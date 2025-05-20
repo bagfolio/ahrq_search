@@ -1,0 +1,114 @@
+Abstract
+Healthcare information technology is on a quest for interoperability, driven by the Report of the Commission on Systemic Interoperability: “Ending the Document Game”, published in 2005. In that document, interoperability was described as “connectivity—constant, instant access to your medical information…” (http://endingthedocumentgame.gov/PDFs/entireReport.pdf) and was viewed as critical to nothing less than transforming health care in the United States. The report exhibits the frustration and, at times, anger over the sorry state of medical information in the US, particularly as it relates to reliance on paper, poor quality of documentation content, the duplication of effort to obtain useful information, lack of availability across platforms and distances and especially the role that this lack of connectedness plays in causing actual harm to patients and huge costs to our economy. The Commission’s recommendations reflect the imperative and urgent need for total reconstitution of how we obtain, share and use information in the work of healthcare, especially in patient care, but also in the many other activities which enhance health of individuals, communities and populations. The Commission projected a 10 year timetable to achieve the goals they laid out. We are not there yet, and in fact we still have a long way to go.
+This chapter will describe the many terminologies, nomenclatures and classification systems used in healthcare, which ultimately and ideally will be winnowed down, combined, modified, edited and standardized into a single, uniform, encompassing communication tool which permits the exchange of all types of information – clinical, financial, regulatory, demographic, quality- and safety-related, public health and epidemiologic – between and among various digital platforms, institutions, systems, applications, vendors, devices and individuals, and makes that information usable without special effort by all who are authorized and need it. In short, e pluribus unum.
+Access this chapter
+Subscribe and save
+[Subscribe now](https://link.springer.com/product/springer-plus)
+Buy Now
+Tax calculation will be finalised at checkout
+Purchases are for personal use only
+Similar content being viewed by others
+References
+AHIMA. Data standards, data quality, and interoperability. Appendix A: data standards Resource. J AHIMA 78, no. 2: web extra. Feb 2007.
+[http://library.ahima.org/xpedio/groups/public/documents/ahima/bok1_033588.hcsp?dDocName=bok1_033588](http://library.ahima.org/xpedio/groups/public/documents/ahima/bok1_033588.hcsp?dDocName=bok1_033588). Accessed 20 Apr 2015.
+American Dental Association. CDT: code on dental procedures and nomenclature. 2015.
+[http://www.ada.org/en/publications/cdt/](http://www.ada.org/en/publications/cdt/). Accessed 15 Apr 2015.
+American Dental Association. What is SNODENT? 2015.
+[http://www.ada.org/en/member-center/member-benefits/practice-resources/dental-informatics/snodent](http://www.ada.org/en/member-center/member-benefits/practice-resources/dental-informatics/snodent). Accessed 20 Apr 2015.
+American Medical Association. CPT current procedural terminology. 2014.
+[http://www.ama-assn.org/ama/pub/physician-resources/solutions-managing-your-practice/coding-billing-insurance/cpt.page](http://www.ama-assn.org/ama/pub/physician-resources/solutions-managing-your-practice/coding-billing-insurance/cpt.page). Accessed 20 Apr 2014.
+American Psychiatric Association. Diagnostic and statistical manual of mental disorders. 5th ed. Washington, DC: American Psychiatric Association; 2013.
+Aspden P, et al., editors. Patient safety: achieving a new standard for care; Committee on Data Standards for Patient Safety, Board on Health Care Services, Institute of Medicine of the National Academies. Washington, DC: National Academies Press; 2004.
+Bodenreider O, Burgun A. Biomedical ontologies. In: Chen H, Fuller SS, Friedman C, Hersh W, editors. Medical informatics: knowledge management and data mining in biomedicine. New York: Springer Science+Business Media; 2005.
+[http://ai.arizona.edu/mis596A/book_chapters/medinfo/Chapter_08.pdf](http://ai.arizona.edu/mis596A/book_chapters/medinfo/Chapter_08.pdf). Accessed 20 Apr 2015.
+Bodenreider O, Stevens R. Bio-ontologies: current trends and future directions. 2006.
+[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1847325/pdf/nihms14746.pdf](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1847325/pdf/nihms14746.pdf). Accessed 20 Apr 2015.
+Centers for Disease Control and Prevention. Classification of death and injury resulting from terrorism. 2009.
+[http://www.cdc.gov/nchs/icd/terrorism_code.htm](http://www.cdc.gov/nchs/icd/terrorism_code.htm). Accessed 20 Apr 2015.
+Centers for Disease Control. National Committee on Vital and Health Statistics Preliminary Recommendations for Core Health Data Elements. 1996.
+[http://www.cdc.gov/nchs/data/ncvhs/nchvs94.pdf](http://www.cdc.gov/nchs/data/ncvhs/nchvs94.pdf). Accessed 20 Apr 2015.
+Centers for Medicare & Medicaid Services. Background. 2012.
+[https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/OASIS/Background.html](https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/OASIS/Background.html). Accessed 20 Apr 2015.
+Centers for Medicare & Medicaid Services. HCPCS—general information. 2014a.
+[https://www.cms.gov/Medicare/Coding/MedHCPCSGenInfo/index.html?redirect=/medhcpcsgeninfo/](https://www.cms.gov/Medicare/Coding/MedHCPCSGenInfo/index.html?redirect=/medhcpcsgeninfo/). Accessed 20 Apr 2015.
+Centers for Medicare & Medicaid Services. Inpatient PPS PC Pricer. 2014b.
+[http://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/PCPricer/inpatient.html](http://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/PCPricer/inpatient.html). Accessed 20 Apr 2014.
+Centers for Medicare & Medicaid Services. Transaction & code set standards. 2014c.
+[http://www.cms.gov/Regulations-and-Guidance/HIPAA-Administrative-Simplification/TransactionCodeSetsStands/index.html?redirect=/TransactionCodeSetsStands/02_TransactionsandCodeSetsRegulations.asp](http://www.cms.gov/Regulations-and-Guidance/HIPAA-Administrative-Simplification/TransactionCodeSetsStands/index.html?redirect=/TransactionCodeSetsStands/02_TransactionsandCodeSetsRegulations.asp). Accessed 20 Apr 2015.
+Chandrasekaran B, Josephson JR, Benjamins VR. What are ontologies and why do we need them. 1999.
+[http://www.csee.umbc.edu/courses/771/papers/chandrasekaranetal99.pdf](http://www.csee.umbc.edu/courses/771/papers/chandrasekaranetal99.pdf), Accessed 2 Jan 2014.
+Chute C. Clinical classification and terminology: some history and current observations. J Am Med Inform Assoc. 2000;7:298–303.
+Cimino J. Desiderata for controlled medical vocabularies in the twenty-first century. Methods Inf Med. 1998;37(4–5):394–403.
+Department of Health and Human Services, Centers for Medicare & Medicaid Services, and Medicare Learning Network. Acute care hospital inpatient prospective payment system. Payment System Fact Sheet Series. 2013.
+[http://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-MLN/MLNProducts/downloads/AcutePaymtSysfctsht.pdf](http://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-MLN/MLNProducts/downloads/AcutePaymtSysfctsht.pdf). Accessed 20 Apr 2015.
+Fridsma D. Interoperability vs health information exchange: setting the record straight. 9 Jan 2013.
+[http://www.healthit.gov/buzz-blog/meaningful-use/interoperability-health-information-exchange-setting-record-straight/](http://www.healthit.gov/buzz-blog/meaningful-use/interoperability-health-information-exchange-setting-record-straight/). Accessed 20 Apr 2015.
+Health Level 7 International. About HL7. 2007–2015a.
+[http://www.hl7.org/about/index.cfm?ref=nav](http://www.hl7.org/about/index.cfm?ref=nav). Accessed 20 Apr 2015.
+Health Level 7 International 2011. FHIR Specification.
+[www.HL7.org/fhir](http://www.HL7.org/fhir). Accessed 20 Apr 2015.
+Health Level 7 International. HL7 version 3 specification: Data Elements for Emergency Department Systems (DEEDS), Release 1—US Realm. 2007–2015b.
+[http://www.hl7.org/implement/standards/product_brief.cfm?product_id=326](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=326). Accessed 20 Apr 2015.
+Healthcare Cost and Utilization Project. Healthcare Cost and Utilization Project (HCUP): what is HCUP? 2015.
+[http://www.hcup-us.ahrq.gov](http://www.hcup-us.ahrq.gov). Accessed 20 Apr 2015.
+Healthcare Information and Management Systems Society (HIMSS). What is interoperability? 2015.
+[http://www.himss.org/library/interoperability-standards/what-is-interoperability](http://www.himss.org/library/interoperability-standards/what-is-interoperability). Accessed 20 Apr 2015.
+HealthIT.gov. Consolidated CDA overview. 2014.
+[http://www.healthit.gov/policy-researchers-implementers/consolidated-cda-overview](http://www.healthit.gov/policy-researchers-implementers/consolidated-cda-overview). Accessed 20 Apr 2015.
+HealthIT.gov. Meaningful use definition & objectives. 2015.
+[http://www.healthit.gov/providers-professionals/meaningful-use-definition-objectives](http://www.healthit.gov/providers-professionals/meaningful-use-definition-objectives). Accessed 20 Apr 2015.
+Hsiao WC, Braun P, Kelly NL, Becker ER. Results, potential effects, and implementation issues of the resource-based relative value scale. JAMA. 1988;260(16):2429–38. doi:
+[10.1001/jama.1988.03410160105013](https://doi.org/10.1001/jama.1988.03410160105013).
+IHTSDO. SNOMED CT starter guide. 2014.
+[http://ihtsdo.org/fileadmin/user_upload/doc/download/doc_StarterGuide_Current-en-US_INT_20141202.pdf?ok](http://ihtsdo.org/fileadmin/user_upload/doc/download/doc_StarterGuide_Current-en-US_INT_20141202.pdf?ok). Accessed 20 Apr 2015.
+LOINC. What LOINC is. 1994–2015.
+[https://loinc.org/get-started/02.html](https://loinc.org/get-started/02.html). Accessed 20 Apr 2015.
+McDonald CJ, Huff SM, Suico JG, Hill G, Leavelle D, Aller R, Forrey A, Mercer K, DeMoor G, Hook J, Williams W, Case J, Maloney P, Laboratory LOINC Developers. LOINC, a Universal Standard for Identifying Laboratory Observations: a 5-year update. Clin Chem. 2003;49(4):624–33.
+[http://www.clinchem.org/content/49/4/624.full?ijkey=oUwNonbF33rao&keytype=ref&siteid=clinchem](http://www.clinchem.org/content/49/4/624.full?ijkey=oUwNonbF33rao&keytype=ref&siteid=clinchem). Accessed 20 Apr 2015.
+NCQA. HEDIS 2015. 2015.
+[http://www.ncqa.org/HEDISQualityMeasurement/HEDISMeasures/HEDIS2015.aspx](http://www.ncqa.org/HEDISQualityMeasurement/HEDISMeasures/HEDIS2015.aspx). Accessed 20 Apr 2015.
+Office of Inspector General, Office of Evaluation and Inspections, Region IX. Medicare hospital prospective payment system: how DRG rates are calculated and updated. 2001.
+[https://oig.hhs.gov/oei/reports/oei-09-00-00200.pdf](https://oig.hhs.gov/oei/reports/oei-09-00-00200.pdf). Accessed 20 Apr 2015.
+The Office of the National Coordinator for Health Information Technology 2014. Interoperability Basics.
+[http://www.healthit.gov/public-course/interoperability-basics-training/HITRC_lsn1069/wrap_menupage.htm](http://www.healthit.gov/public-course/interoperability-basics-training/HITRC_lsn1069/wrap_menupage.htm). Accessed 20 Apr 2015.
+(No authors listed). The Omaha System. 2014.
+[http://www.omahasystem.org/overview.html](http://www.omahasystem.org/overview.html). Accessed 20 Apr 2015.
+Saba VK. Clinical care classification system: about. 1994, 2004, 2013-2014.
+[http://www.sabacare.com/About/?PHPSESSID=b9e97459af41b2c80d194d7434aa7800](http://www.sabacare.com/About/?PHPSESSID=b9e97459af41b2c80d194d7434aa7800). Accessed 20 Apr 2015.
+The University of Iowa College of Nursing 2013. CNC—overview: Nursing Interventions Classification (NIC).
+[http://www.nursing.uiowa.edu/cncce/nursing-interventions-classification-overview](http://www.nursing.uiowa.edu/cncce/nursing-interventions-classification-overview). Accessed 20 Apr 2015.
+The University of Iowa College of Nursing 2013. CNC—overview: Nursing Outcomes Classification (NOC).
+[http://www.nursing.uiowa.edu/cncce/nursing-outcomes-classification-overview](http://www.nursing.uiowa.edu/cncce/nursing-outcomes-classification-overview). Accessed 20 Apr 2015.
+US Department of Justice, Federal Bureau of Investigation. Terrorism in the United States 1999, Counterterrorism, Threat Assessment and Warning Unit, Counterterrorism Division. 1999.
+[http://www.fbi.gov/stats-services/publications/terror_99.pdf](http://www.fbi.gov/stats-services/publications/terror_99.pdf). Accessed 20 Apr 2015.
+US National Library of Medicine. 2012AA clinical care classification source information. 2012.
+[http://www.nlm.nih.gov/research/umls/sourcereleasedocs/current/CCC/](http://www.nlm.nih.gov/research/umls/sourcereleasedocs/current/CCC/). Accessed 20 Apr 2015.
+US National Library of Medicine. About the newborn screening coding and terminology guide. 2014.
+[http://newbornscreeningcodes.nlm.nih.gov/nb/sc/about](http://newbornscreeningcodes.nlm.nih.gov/nb/sc/about). Accessed 20 Apr 2015.
+US National Library of Medicine. Fact sheet: unified medical language system®. 2013.
+[http://www.nlm.nih.gov/pubs/factsheets/umls.html](http://www.nlm.nih.gov/pubs/factsheets/umls.html). Accessed 20 Apr 2015.
+US National Library of Medicine. RxNorm overview. 2015.
+[http://www.nlm.nih.gov/research/umls/rxnorm/overview.html](http://www.nlm.nih.gov/research/umls/rxnorm/overview.html). Accessed 20 Apr 2015.
+World Health Organization. Classifications: International Classification for Nursing Practice (ICNP). 2015.
+[http://www.who.int/classifications/icd/adaptations/icnp/en/](http://www.who.int/classifications/icd/adaptations/icnp/en/)
+World Health Organization. Classifications: International Classification of Functioning, Disability and Health (ICF). 2014.
+[http://www.who.int/classifications/icf/en/](http://www.who.int/classifications/icf/en/). Accessed 20 Apr 2015.
+World Health Organization 2015. History of the Development of the ICD.
+[http://www.who.int/classifications/icd/en/HistoryOfICD.pdf](http://www.who.int/classifications/icd/en/HistoryOfICD.pdf). Accessed 4 Jan 2014.
+Acknowledgements
+I would like to thank Ellen V Makar, RN at the ONC for her advice, assistance and comments on the manuscript and Marion Ball for inviting me to participate in this important effort.
+Editor information
+Editors and Affiliations
+Rights and permissions
+Copyright information
+© 2016 Springer International Publishing Switzerland
+About this chapter
+Cite this chapter
+Meyers, D.L. (2016). Interoperability: E Pluribus Unum. In: Weaver, C., Ball, M., Kim, G., Kiel, J. (eds) Healthcare Information Management Systems. Health Informatics. Springer, Cham. https://doi.org/10.1007/978-3-319-20765-0_24
+Download citation
+DOI: https://doi.org/10.1007/978-3-319-20765-0_24
+Publisher Name: Springer, Cham
+Print ISBN: 978-3-319-20764-3
+Online ISBN: 978-3-319-20765-0
+eBook Packages:
+[Medicine](/search?facet-content-type=%22Book%22&package=11650&facet-start-year=2016&facet-end-year=2016) [Medicine (R0)](/search?facet-content-type=%22Book%22&package=43714&facet-start-year=2016&facet-end-year=2016)

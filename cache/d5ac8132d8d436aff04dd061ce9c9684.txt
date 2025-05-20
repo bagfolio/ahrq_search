@@ -1,0 +1,252 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<>
+endobj
+2 0 obj
+<>stream
+application/pdf
+doi:10.1038/s41746-020-0260-4
+Verification, analytical validation, and clinical validation (V3): the foundation of determining fit-for-purpose for Biometric Monitoring Technologies (BioMeTs)
+Jennifer C. Goldsack
+Andrea Coravos
+Jessie P. Bakker
+Brinnae Bent
+Ariel V. Dowling
+Cheryl Fitzer-Attas
+Alan Godfrey
+Job G. Godino
+Ninad Gujar
+Elena Izmailova
+Christine Manta
+Barry Peterson
+Benjamin Vandendriessche
+William A. Wood
+Ke Will Wang
+Jessilyn Dunn
+Springer US
+npj Digital Medicine, doi:10.1038/s41746-020-0260-4
+10.1038/s41746-020-0260-4
+http://dx.doi.org/10.1038/s41746-020-0260-4
+journal
+npj Digital Medicine
+ÂĐ 2020, The Author(s)
+2398-6352
+10.1038/s41746-020-0260-4
+springer.com
+springerlink.com
+2010-04-23
+True
+10.1038/s41746-020-0260-4
+springer.com
+springerlink.com
+Springer
+2021-02-17T08:48:08+01:00
+2020-04-04T16:25:37+05:30
+2021-02-17T08:48:08+01:00
+True
+iTextÂŪ 5.3.5 ÂĐ2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)
+VoR
+uuid:ff4aaeb6-ca0c-4a09-b548-f6368a9d8ecf
+uuid:a9d677a7-2639-4d89-abc3-f8d4837a8b4e
+default
+1
+converted
+uuid:72eda192-1194-4448-b85a-9a314849ee03
+converted to PDF/A-2b
+pdfToolbox
+2020-04-04T16:26:45+05:30
+2
+B
+Andrea Coravos
+http://orcid.org/0000-0001-5379-3540
+Ariel V. Dowling
+http://orcid.org/0000-0002-7889-4978
+Alan Godfrey
+http://orcid.org/0000-0003-4049-9291
+Ninad Gujar
+http://orcid.org/0000-0001-7901-308X
+Benjamin Vandendriessche
+http://orcid.org/0000-0003-0672-0327
+Jessilyn Dunn
+http://orcid.org/0000-0002-3241-8183
+http://ns.adobe.com/pdf/1.3/
+pdf
+Adobe PDF Schema
+internal
+A name object indicating whether the document has been modified to include trapping information
+Trapped
+Text
+http://ns.adobe.com/pdfx/1.3/
+pdfx
+pdfx
+internal
+ID of PDF/X standard
+GTS_PDFXVersion
+Text
+internal
+Conformance level of PDF/X standard
+GTS_PDFXConformance
+Text
+internal
+Company creating the PDF
+Company
+Text
+internal
+Date when document was last modified
+SourceModified
+Text
+external
+Mirrors crossmark:CrosMarkDomains
+CrossMarkDomains
+Seq Text
+internal
+Mirrors crossmark:DOI
+doi
+Text
+http://ns.adobe.com/xap/1.0/mm/
+xmpMM
+XMP Media Management Schema
+internal
+UUID based identifier for specific incarnation of a document
+InstanceID
+URI
+internal
+The common identifier for all versions and renditions of a document.
+OriginalDocumentID
+URI
+http://www.aiim.org/pdfa/ns/id/
+pdfaid
+PDF/A ID Schema
+internal
+Part of PDF/A standard
+part
+Integer
+internal
+Amendment of PDF/A standard
+amd
+Text
+internal
+Conformance level of PDF/A standard
+conformance
+Text
+http://crossref.org/crossmark/1.0/
+crossmark
+crossmark
+internal
+CrossMarkDomains
+CrossMarkDomains
+Seq Text
+internal
+CrossmarkDomainExclusive
+CrossmarkDomainExclusive
+Text
+internal
+Usual same as prism:doi
+DOI
+Text
+external
+The date when a publication was published.
+MajorVersionDate
+Text
+http://prismstandard.org/namespaces/basic/2.0/
+prism
+Prism
+external
+The aggregation type specifies the unit of aggregation for a content collection.
+Comment
+PRISM recommends that the PRISM Aggregation Type Controlled Vocabulary be used to provide values for this element.
+Note: PRISM recommends against the use of the #other value currently allowed in this controlled vocabulary. In lieu of using #other please reach out to the PRISM group at info@prismstandard.org to request addition of your term to the Aggregation Type Controlled Vocabulary.
+aggregationType
+Text
+external
+Copyright
+copyright
+Text
+external
+The Digital Object Identifier for the article.
+The DOI may also be used as the dc:identifier. If used as a dc:identifier, the URI form should be captured, and the bare identifier should also be captured using prism:doi. If an alternate unique identifier is used as the required dc:identifier, then the DOI should be specified as a bare identifier within prism:doi only.
+If the URL associated with a DOI is to be specified, then prism:url may be used in conjunction with prism:doi in order to provide the service endpoint (i.e. the URL).
+doi
+Text
+external
+ISSN for an electronic version of the issue in which the resource occurs.
+Permits publishers to include a second ISSN, identifying an electronic version of the issue in which the resource occurs (therefore e(lectronic)Issn. If used, prism:eIssn MUST contain the ISSN of the electronic version. See prism:issn.
+issn
+Text
+external
+Title of the magazine, or other publication, in which a resource was/will be published.
+Typically this will be used to provide the name of the magazine an article appeared in as metadata for the article, along with information such as the article title, the publisher, volume, number, and cover date.
+Note: Publication name can be used to differentiate between a print magazine and the online version if the names are different such as âmagazineâ and âmagazine.com.â
+publicationName
+Text
+external
+This element provides the url for an article or unit of content.
+The attribute platform is optionally allowed for situations in which multiple URLs must be specified. PRISM recommends that a subset of the PCV platform values, namely âmobileâ and âwebâ, be used in conjunction with this element.
+NOTE: PRISM recommends against the use of the #other value allowed in the PRISM Platform controlled vocabulary. In lieu of using #other please reach out to the PRISM group at prism-wg@yahoogroups.com to request addition of your term to the Platform Controlled Vocabulary.
+url
+Text
+http://springernature.com/ns/xmpExtensions/2.0/
+sn
+Springer Nature ORCID Schema
+external
+Author information: contains the name of each author and his/her ORCID (ORCiD: Open Researcher and Contributor ID). An ORCID is a persistent identifier (a non-proprietary alphanumeric code) to uniquely identify scientific and other academic authors.
+authorInfo
+Bag AuthorInformation
+Specifies the types of author information: name and ORCID of an author.
+http://springernature.com/ns/xmpExtensions/2.0/authorInfo/
+author
+AuthorInformation
+Gives the name of an author.
+name
+Text
+Gives the ORCID of an author.
+orcid
+URI
+http://www.niso.org/schemas/jav/1.0/
+jav
+NISO
+external
+Values for Journal Article Version are one of the following:
+AO = Authorâs Original
+SMUR = Submitted Manuscript Under Review
+AM = Accepted Manuscript
+P = Proof
+VoR = Version of Record
+CVoR = Corrected Version of Record
+EVoR = Enhanced Version of Record
+journal_article_version
+Closed Choice of Text
+endstream
+endobj
+3 0 obj
+<>
+endobj
+7 0 obj
+<>
+endobj
+4 0 obj
+<>stream
+xĩ}Ys$7ĶíYcd*Āąó0VŠĨiĐ·§ØĐæ!$Ģ+3#Yį_ėņŨÓ8Á(Ļ8Ķ îd
+ŽãGaGSī>
+ģęÃv[õĖåĀ7ûųnAģŦŪūÛo·ðĄ%Ōąķ.uÛõÛÕ6 zĶoŅīŧųc?]éĖKmuz§ĸ:,ā+C·}~wcŠž]ÓúvÛÅÍ:Ņ7ĄmUŨãŌ>/uOĐ3įÛqĒĄlú4lÐK;p7Yyāi9>ĮžÃðgK·øÚKŪDpÚĘå}LŧĒtz[ė
+.8,į~ÜÝPų+,0ÍōąïŧGĨĐÓ'ļqôĒUf.ÚĢŌrOl3éí~>ŪĮÕ0'föHÜïÆõÔŊ§ýÄģbÏÏq$ï7i/@,h<MĢÓÓþk·Ü3ãû&ĩ2Đá
+ļyŋvÏünAf/ĪF"s9NY0ýYÖóå~Áŧ+Ė3āÆÔyYŠÔÆ&ęîwN6ÁeF{ūë·S?ßoyŨ0}!VŦÛüōÔãG' ž)Ę"/m=oĶrðEdō&nĮîVē^x .ÚŪaą!NÃŋųŌŽ|ą6 _WĸëÝíßģē)Øäé$X:ēiÓÏ8ãšYkī9îÃ°ĸŧÖÂŧáÉ|\.ûųnŨØĪ6ðbSÆģģÖ;OŽĶ8m°ïŠ6úŌÁŪÔN+lúQ]ē6ýrqĨqóJV·@*ÝčÖķ0
+hÜķvĘz]jŲŦrēÝ8ï@YâĨĶÅGÐĶĐũ({ZĄ;ĮíkėäzėRĨ―ßöũļųð/>ęðgxĻHÜ33 SĪōŋļÁ3ęãöÍyČ$ä7}qhÁģe-î4þ<^Īâŋ ŠŠöîX #ũî(Õ9ëYŨšÜq0
+H!8[Kî[ūÆUŋÛ0{/ÄO#îqKÖĩD
+ņ6âę°ųkûO øĘOý-B'"Ū8ībcÖņ$ėĘ9šþEygô ĩlÉčž(°OV1DĶtüĄÏžG―fk!WK*ąÛžÐđÅIØ:kŧŧgü- Õjž=wJĻåýļÅo
+oĨÝōh―{\MüŅžĨcéCŋî·$ÖWBwĖŨčóá VóqÜõÝŨaÜ―@Dũ
+jG|7ĩÍãó4ÐÏcũHšûýÉėĶšåcÚôeþ}h\·ÁđäÃ{b!Mō$låÖ°ÓÜËËm?vÛXĀKĪÝgÓ§ĮajÜ6m!SlŦŊVnu+ö`vMÛøÜcKđ_/@Gí7I@šFÍŊRÏå3ģF#,ïÄ!Ëö|2ŧãt]ēåðYĶÔÏoËWÏĶ*ÂŽæã:=ûĨ@RwĻ
+[ð_T@Ðqî°æn\`_ĨŅ ļö ëšuY ōiĶýf3n@z% >ãļŪÏqóÔÝũ;EJô°ôúû{ÔŊ_á|NáÎ+Y
+FÁŦ/m
+|UŦ\(Ųúe%ŦLæ+ðQņ-ĀQóJö7Ðē0w}õãøÓö'd9ąaS ÞvÅ/Ą[Ō{dē
+{ĮaĨ
+ŠßÓĮŦ4ÞEĄ=QXÃD#_,úŪĘ§ļ%)šĘ8N&Qâa#$#ž
+r.HĖÕ8E
+"öČGö.qëc7q·töúûwqØh§k5ėBßČÚOÝŪÆSĄA 4++= šķyĻn- ąbO°ÜÁÞ#!Ē
+úØóq|Âmî)KØčŅ4ø*Q'[šÍf4ã1ėįÏ`ŦEÓ&W|7Ïįi;JĸōųĢZųN· Ī
+lĀ4ĻjåyĐą
+dķ`ÕÂ\=qbī eßUWũÜ§rļ]Yk+ 2ōcmąØĒ^\ó^dôŅ#ĀĄ/xb:ØŊÍļ#~ÉN<Ŋ
+ĩ LÝlû]GĸFÛŠ0æä·ÕÐ§Ģ}ÓOûåæŽíFŪtėāËūÆ\mĪÅVc·
+đOlÛF3ðŊ
+åMÓp·DY/ËVĀēĄÎ-ēbīQúžĄð+^ĢēSâ@Ōų6:Ŧ°5ė/QŲúŪÜLÜlÔAgDėŧéKûôØG*\

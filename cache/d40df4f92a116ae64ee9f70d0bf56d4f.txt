@@ -1,0 +1,26 @@
+Circadian attributes of neurological and psychiatric disorders as basis for their medication chronotherapy
+- PMID: 40187645
+-
+DOI:
+[10.1016/j.addr.2025.115576](https://doi.org/10.1016/j.addr.2025.115576)
+Circadian attributes of neurological and psychiatric disorders as basis for their medication chronotherapy
+Abstract
+This review focuses on (i) 24 h patterns in the symptom intensity of common neurologic and psychiatric disorders and (ii) medications prescribed for their management that have a recommended administration time or schedule, presumably to potentiate desired and minimize undesired effects and by definition qualify them as chronotherapies. Predictable-in-time patterning of symptoms is exhibited by many neurologic - headaches, multiple sclerosis, neurogenic orthostatic hypotension, neuropathic pain, Parkinson's disease, epileptic seizure, attention deficit hyperactivity, Alzheimer's disease - and psychiatric - eating, depressive, obsessive-compulsive, post-traumatic stress, anxiety, and panic - disorders, due either to circadian rhythms of disease pathophysiology or inadequacies of medication-delivery systems. Circadian disruption and circadian misalignment of the sleep-wake and other 24 h rhythms plus late chronotype are characteristic of many of these disorders, suggesting involvement in the mechanisms or consequence of their pathology or as an adverse effect of therapy, especially when administered at an inappropriate biological time. The Prescribers' Digital Reference, a compendium of all prescription medications approved for marketing in the US, reveals 65 of them are utilized to manage neurologic and psychiatric disorders by a recommended specified time-of-day or an asymmetrical interval or strength of dose schedule, presumably to optimize beneficial and minimize adverse effects, thereby qualifying them as chronotherapies. Overall, the contents of this review are intended to inform the development of future chronotherapies that incorporate state-of-the-art drug-delivery systems to improve management of neurologic and psychiatric disorders and associated circadian malalignment and disruption.
+Keywords: Chronotherapeutics; Chronotype; Circadian disruption; Circadian misalignment; Circadian rhythms; Neurologic disorders; Psychiatric disorders; Time-of-day patterns.
+Copyright © 2025 Elsevier B.V. All rights reserved.
+Conflict of interest statement
+Declaration of competing interest The authors declare the following financial interests/personal relationships which may be considered as potential competing interests: [SH reports receiving consulting fees from Achaemenid LLC, unrelated to this project. SK and MHS have no conflicts of interest].
+Similar articles
+-
+[The 2023 Latin America report of the Lancet Countdown on health and climate change: the imperative for health-centred climate-resilient development.](/38800647/)Lancet Reg Health Am. 2024 Apr 23;33:100746. doi: 10.1016/j.lana.2024.100746. eCollection 2024 May. Lancet Reg Health Am. 2024. PMID: 38800647 Free PMC article. Review.
+-
+[Circadian chronotherapies of coronary heart disease and its biological risk factors: A United States Prescribers' Digital Reference-based review.](/39433737/)Chronobiol Int. 2024 Nov;41(11):1365-1376. doi: 10.1080/07420528.2024.2414878. Epub 2024 Oct 21. Chronobiol Int. 2024. PMID: 39433737 Review.
+-
+[Qualitative evidence synthesis informing our understanding of people's perceptions and experiences of targeted digital communication.](/31643081/)Cochrane Database Syst Rev. 2019 Oct 23;10(10):ED000141. doi: 10.1002/14651858.ED000141. Cochrane Database Syst Rev. 2019. PMID: 31643081 Free PMC article.
+-
+[Letter to the Editor: THE IMPACT OF THE COVID-19 PANDEMIC ON SCHIZOPHRENIA PATIENTS.](/34637131/)Turk Psikiyatri Derg. 2021 Fall;32(3):219-221. doi: 10.5080/u26175. Turk Psikiyatri Derg. 2021. PMID: 34637131 English, Turkish.
+-
+[Far Posterior Approach for Rib Fracture Fixation: Surgical Technique and Tips.](/39650795/)JBJS Essent Surg Tech. 2024 Dec 6;14(4):e23.00094. doi: 10.2106/JBJS.ST.23.00094. eCollection 2024 Oct-Dec. JBJS Essent Surg Tech. 2024. PMID: 39650795 Free PMC article.
+Publication types
+LinkOut - more resources
+Full Text Sources

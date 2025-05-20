@@ -1,0 +1,251 @@
+%PDF-1.3
+%����
+1 0 obj
+<<
+/Metadata 2 0 R
+/Names 3 0 R
+/OpenAction [4 0 R /XYZ null null null]
+/Outlines 5 0 R
+/PageLabels 6 0 R
+/PageMode /UseOutlines
+/Pages 7 0 R
+/Type /Catalog
+>>
+endobj
+8 0 obj
+<<
+/CreationDate (D:20200625050800-04'00')
+/Creator (Arbortext Advanced Print Publisher 9.1.405/W Unicode)
+/ModDate (D:20220412212646+00'00')
+/Producer (Acrobat Distiller 10.1.16 \(Windows\))
+/Title (Dissemination and implementation science activities across the Clinical Translational Science Award \(CTSA\) Consortium: Report from a survey of CTSA leaders)
+>>
+endobj
+2 0 obj
+<<
+/Length 1848
+/Subtype /XML
+/Type /Metadata
+>>
+stream
+Arbortext Advanced Print Publisher 9.1.405/W Unicode
+2020-06-25T05:08:00-04:00
+2022-04-12T21:26:46+00:00
+application/pdf
+Dissemination and implementation science activities across the Clinical Translational Science Award (CTSA) Consortium: Report from a survey of CTSA leaders
+Not for further distribution unless allowed by the License or with the express written permission of Cambridge University Press.
+https://doi.org/10.1017/cts.2019.422
+https://doi.org/10.1017/cts.2019.422 Published online by Cambridge University Press
+Acrobat Distiller 10.1.16 (Windows)
+uuid:a0eefaf5-dbb9-4e1f-b6d9-ea859070a07d
+uuid:14b0e70e-f1a7-4167-b371-7e8729282707
+endstream
+endobj
+3 0 obj
+<<
+/Dests 9 0 R
+>>
+endobj
+4 0 obj
+<<
+/Annots [10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R
+20 0 R]
+/Contents [21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R]
+/CropBox [0 0 595.389 793.417]
+/MediaBox [0 0 595.389 793.417]
+/Parent 7 0 R
+/Resources 31 0 R
+/Rotate 0
+/Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Count 1
+/First 32 0 R
+/Last 32 0 R
+>>
+endobj
+6 0 obj
+<<
+/Nums [0 33 0 R]
+>>
+endobj
+7 0 obj
+<<
+/Count 7
+/Kids [4 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R]
+/Type /Pages
+>>
+endobj
+9 0 obj
+<<
+/Kids [40 0 R]
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI
+/URI (https://www.cambridge.org/cts)
+>>
+/Border [0 0 0]
+/Rect [40.479 702.652 136.516 711.666]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI
+/URI (https://doi.org/10.1017/cts.2019.422)
+>>
+/Border [0 0 0]
+/Rect [114.916 545.612 177.505 552.869]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI
+/URI (mailto:rowena.dolor@duke.edu)
+>>
+/Border [0 0 0]
+/Rect [107.433 412.101 182.494 419.357]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://creativecommons.org/licenses/by/4.0/)
+>>
+/Border [0 0 0]
+/Rect [134.135 252.113 153.638 259.37]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://creativecommons.org/licenses/by/4.0/)
+>>
+/Border [0 0 0]
+/Rect [40.479 243.156 156.416 250.356]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI
+/URI (https://orcid.org/0000-0001-7317-9468)
+>>
+/Border [0 0 0]
+/Rect [276.151 649.814 281.537 660.359]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/Border [0 0 0]
+/Dest
+/Rect [433.361 311.017 437.896 320.542]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/Border [0 0 0]
+/Dest
+/Rect [442.772 311.017 447.307 320.542]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/Border [0 0 0]
+/Dest
+/Rect [199.786 168.038 204.321 177.562]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/Border [0 0 0]
+/Dest
+/Rect [400.649 157.039 405.241 166.507]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [7.7999997 14.264648 110.574005 22.189453]
+/Border [0 0 0]
+/A 41 0 R
+>>
+endobj
+21 0 obj
+<<
+/Filter /FlateDecode
+/Length 10
+>>
+stream
+x�+� � |
+endstream
+endobj
+22 0 obj
+<<
+/Filter /FlateDecode
+/Length 3292
+>>
+stream
+H��W�rܸ}�W�)�$���Kd���^m\Ҥ�`�áefg� ɑ��?�/��2���R��= }9}�q��Nf��ɫ�����l��D�܄���oS�Ɨ>�̃�*[�N.�z�U}�K��re|��:�e�W�I��*��x�I�o]�ޞ����h����P�V\m릮xE�ʺٜ�c�ΝK�\�lu
+�Wݺ��n��+qWձ�"��x��|6|a2l
+2���������1�ֻ/]���y��_TC���O��,�l�Ca�$���۸��@��q���n��;J*���?É�v�;4��V�x�ܯ�IǼ�6�q�U�p���]vC]m9�HƧ��v R������j1|�{N���\J�"�\s�}��w�Ru�E!1��u�8�m;�7X"nO�B`!���pQK��5,����@�����!>�t�܉5Z܇۳��Wmې�%����際X�}�q�GZ�9�����M����c
+7)���J���M��P�8=�KT��ϧh?^�5qW7�g�����W$g
+�P�Ș.��x� � �t��;��~��:��i�k���s��8bd��Th�?pe���b!�ڢ/���n�����q�mȔ�����%���m�c:�@O}ؽ�@����_�v�>I���kE��w�S`��x�"���M��Ku�.�� UWp�&����a���ʙgeJP,�I7��L9�"Dv����v�K�Vr�tx^*��/�2��
+v�'���+4�?�'��Gw7m�"E���\:�P
+' ��H��K0��!7JM��#����&;W�$N?��6V�~@Pcyn^`~1�R2q;������0PA2Շ���Ƈ��Բ��ge����!�Dʓ��T�TїU'`��M��BT(����!ɟ�����kD���˶��͈�������� A�2��ć��1�D�m�'�[�$���*e>z�E��/ROz�Tm/��/ad���L<�a�3O���|9�ۻ_^r��-�U � eP�����^���~���D��������v��v�Q�O�w��t��O���-*"��j;�t?F�٠_?����|l'�sN���M����/(q��]�>R\~���[ b�5I�!v#�<�M��UM)�D���UQ�'b����<�����q8��Rh$r���n[�%&u�ֻ�����%*>�}!qc����%:����n]o�rL������16�|�a�ˆ�V���9<�t�(�ohJ(pd�����v�s������ɋ�e
+`����k�������ȵ�7|�)�6R�~��+t��Q��x�`��Z������� ��1�m�r��؋$B�����|:�scT:�_t��kk�y.���j�o���,q�a.��3��E-�B���J�vV?�A11�<'� ������H�kHX?2M3
+��A�unYN\ҜSE�j���ُF�M�]��@�7��H�X�N��;���Ԕ�u;�p�yc��+��"D�!��Ds�ԏ|t9��܇�a�G'WZ��6Y�eg�6������#hVl�a��0�-ۚ����������O* �tcM~>=���f�Ag�t�=���0��[�ʡK����⥋�>�q���`BS��pUΥX._?��vqߵ���j����Rk�4��&�p�aGW��?ԛ4�1*�e3�4!���{`�+���3�7���G��ó���6\��W'�mu@��.n�d����$�������u��duv�L�[3�6/`Ej(Hx�U;�}���2d[�lA��R+�Іu�U�Nx��(Ã-��EMR�IF��Px�p���M 99I�*���e�2R�e��(�Y֓���;i��laݴ�{=̝V�P����k&�\
+��VЕ[c&7r��C�Ƚ� ���ZH.�d&�V�*�s�F^J�xPI)���)�okC��`R�6 �8a���q��L-���ePta CM^r�I=�9�7��żtn�6�RΞ�Q?��R��o��M��I�K?%�`�!�����ԇ0�
+P.�C���l*�]�%�n��@��7�*f� �VS 3 AKnY��R�
+�� A� ��3����D���\C9�]P����X�n�
+�WF�����:Ω����%�0Q%��
+���:#�HC���P`6������[�&-J
+��b�Ж���\�ME@�,�3x�09L����C�y5��c?@T�c�\����D7�!؉a��ui?X�*� D�R�Y��hF�@�j��3�KSa��R/�~(�L
+;E�����a��z>���o�m��֪��q��;xz&R�`���eXHi"�YL�3�@P��z" �YPjW#�vVO,t�,���e����@���� ��B���"v��J�yi�&�N뉐���,�w��\wr��$&����/qꕙse��7�f\@GsR��e<
+>�n H��yM�Z؟l���7s�V���*9�#�a�8O�nu<����5�_��4jRA2�έ[��K��Lޖwi�ߡ����� �����4�}I�R�2�y�A�n[���{
+��������G]ͥ_�Cb7����yTONZ/)|�j�}DM?�%�����}�����B������h��;���� 1!�jw2
+��
+���8���j��1��*g�ʹ���!^L��!-J�K��W0ו�DU���B쾉Y|vܫ�������0ݒ�OntF��5��|b�L^ [����\m��(Kݱ70�
+t�e
+�L��֏@�v�r�u�G�l%9(u$��QR��:oyiI0g��
+m��s�mC�逇������6e#
+I������Ó#��)G+ҍ}�{��n%!��b�}k�;?Þz��6�D/&V�fO�$�H�,8�vO��7�GW�_�|?�*�m����w<�fZk�Ӈ
+ҿ!pkU&s���wEВ���3|1!�O&�"%f5x���P\P�{�݁βK}��1ɓ�n"�.�(�{:{���sD��J4_�9�U��84\��� ��䪫Dk5�R`o~܋U����<��g��oàf��d˘�vjmA�"�[�H�QVI'ln�J��=j����L��P�����^U�▧泌:y���!8�^��]��9xr���.��?��\����^�J�Q�x@�q'{��]��r�ٰ�O���U[�A���GC�0��t��=^��^���x@��x4��M��&J5��F��� ���
+endstream
+endobj
+23 0 obj
+<<
+/Filter /FlateDecode
+/Length 2753
+>>
+stream
+H�lWK��'��)�� ��9�HY����7)�m��h��c�(�ҟ�_�'��z�ف�jD�+�^�?�E�Ei]��$�Rqd�E��ҙ��Fˮ�'V|ژ��T����ur�ZVҸ��� 0�I���(��㑬�е Tq

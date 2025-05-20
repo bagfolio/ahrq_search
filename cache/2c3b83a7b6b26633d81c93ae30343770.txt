@@ -1,0 +1,377 @@
+Abstract
+Objective
+To assess the practice- and market-level factors associated with the amount of provider health information exchange (HIE) use.
+Materials and Methods
+Provider and practice-level data was drawn from the Meaningful Use Stage 2 Public Use Files from the Centers for Medicare and Medicaid Services, the Physician Compare National Downloadable File, and the Compendium of US Health Systems, among other sources. We analyzed the relationship between provider HIE use and practice and market factors using multivariable linear regression and compared primary care providers (PCPs) to non-PCPs. Provider volume of HIE use is measured as the percentage of referrals sent with electronic summaries of care (eSCR) reported by eligible providers attesting to the Meaningful Use electronic health record (EHR) incentive program in 2016.
+Results
+Providers used HIE in 49% of referrals; PCPs used HIE in fewer referrals (43%) than non-PCPs (57%). Provider use of products from EHR vendors was negatively related to HIE use, while use of Athenahealth and Greenway Health products were positively related to HIE use. Providers treating, on average, older patients and greater proportions of patients with diabetes used HIE for more referrals. Health system membership, market concentration, and state HIE consent policy were unrelated to provider HIE use.
+Discussion
+HIE use during referrals is low among office-based providers with the capability for exchange, especially PCPs. Practice-level factors were more commonly associated with greater levels of HIE use than market-level factors.
+Conclusion
+This furthers the understanding that market forces, like competition, may be related to HIE adoption decisions but are less important for use once adoption has occurred.
+Keywords: health information exchange, primary care, meaningful use, health information technology, electronic health records, medical informatics, health information interoperability
+INTRODUCTION
+Reducing care fragmentation in US health care depends upon the exchange of information between providers for effective care coordination and cost savings.
+[1–3](#ocab024-B1) This health information exchange (HIE) relies upon a robust infrastructure of health information technology (IT) to connect providers and hospitals. [4](#ocab024-B4), [5](#ocab024-B5) This infrastructure has grown following the 2009 Health Information Technology for Economic and Clinical Health (HITECH) Act, as nearly all hospitals have adopted electronic health records (EHRs) and EHRs are present in 85% of office-based practices. [6](#ocab024-B6), [7](#ocab024-B7) The HITECH Act also implemented requirements within the Meaningful Use (MU, now “Promoting Interoperability”) incentive program for eligible hospitals and providers to establish the necessary connectivity to enable HIE, however HIE capabilities remain stubbornly behind other health IT capabilities like computerized physician order entry, especially among office-based providers. [8](#ocab024-B8) In 2017, only 36% of office-based providers reported sending any electronic data to outside providers, despite high rates of EHR adoption. [8–10](#ocab024-B8) Increasingly, it is critical to understand not only whether providers are able to send any data but also the volume of HIE that is occurring among providers with HIE capabilities. If these providers are engaging in HIE only at very low levels, it suggests that other factors, such as practice norms and inertia, the policy environment, market forces, and/or ease of use may be holding back HIE.
+Beginning in Stage 2 of the MU program, eligible providers were required to report the proportion of patient transitions (termed “referrals” in the measure) with a summary of care (eSCR) document transmitted electronically. SCR documents contain 16 elements of structured patient data including demographic information, visit information, and clinical information about the patient, such as the problem list, current medications, allergies, and laboratory results, among other data.
+[11](#ocab024-B11) While analog methods to send summary of care documents are well-established (eg, fax), providers face a number of hurdles to electronically sending eSCRs with referrals. [12–15](#ocab024-B12) Primarily, the receiving provider must have the capability to receive eSCRs from the sending provider, which involves either direct methods like an EHR interface or methods that use a mediator like a community health information exchange organization. Since these capabilities are determined, at least in part, by EHR vendor, it is important to assess potentially vendor-driven variability in performance on this measure. EHR vendors have been shown to vary with respect to performance on a number of MU measures [16](#ocab024-B16) and have been accused of engaging in “information blocking” behaviors that may in turn hinder provider HIE use.
+Beyond the technical capability hurdles, other practice characteristics may be correlated with the level of provider HIE use.
+[17](#ocab024-B17), [18](#ocab024-B18) For example, providers in an integrated health system may experience few barriers to HIE for within-system referrals. [19](#ocab024-B19) On the other hand, if a provider is in a small independent practice, the expense of establishing connections to each provider to whom the practice refers may present a high cost and thus limit HIE to referrals only with “connected” providers. Furthermore, practices with more complex patients may make more referrals, which in turn may justify the costs of establishing and using HIE with providers with whom the practice regularly shares patients. Similarly, primary care providers who refer patients to a broad set of specialists require more outbound electronic connections compared to specialty providers who predominantly close referral loops via existing electronic connections or refer patients to a narrower set of subspecialists.
+The broader health care market in which providers compete may also impact their use of HIE. For example, in more competitive markets, providers may perceive a disincentive to share patient information, as it may erode market share. Also, having a higher quantity of EHR-equipped providers to whom a provider could refer may serve to increase HIE use. Additionally, state-level variation in consent policies for sharing of patient health data has been cited as a key challenge for the growth of HIE. Specifically, opt-in policies that require the provider to consent each patient to sharing information with other providers may introduce administrative costs that make HIE more onerous.
+[20](#ocab024-B20) Provider surveys and past qualitative work have established baseline rates of HIE adoption among providers and perceived barriers to HIE use. [8](#ocab024-B8), [15](#ocab024-B15), [17](#ocab024-B17), [21](#ocab024-B21) However, prior work has not examined how routinely providers use these HIE capabilities in the context of referrals—a core HIE use case. Furthermore, no quantitative validation of reported barriers has been reported to confirm providers’ perceived concerns or to identify other practice and market factors that may depress HIE use, although frontline providers may be unaware of them. The purpose of this study is to examine both practice and market factors associated with the level of provider HIE use for referrals.
+We analyzed national provider-level data from Stage 2 of the MU program in 2016, the first year in which eligible providers were required to report HIE use level, measured as the percentage of referrals sent with eSCRs. In our primary analysis, we combine this data with provider, practice, and market characteristics to understand if and to what extent provider volume of HIE is associated with these factors. Our findings directly inform ongoing efforts to increase the level of HIE in the US health care system toward the ends of reducing care fragmentation and improving the information available to providers at the point of care. Policy-makers, health systems, and provider practices can use these findings to understand the factors that may increase HIE nationwide or within specific markets. Finally, we expand upon previous work examining HIE use level among hospitals
+[11](#ocab024-B11) to explore the extent to which these relationships hold in the outpatient setting.
+MATERIALS AND METHODS
+Data & sample
+We combined public data from 7 sources for analyses. Our primary outcome variable, provider HIE use level, comes from MU Stage 2 Public Use Files published by the Centers for Medicare and Medicaid Services (CMS). These data include the reported values submitted to CMS for each required MU measure for all eligible providers, identified by National Provider Identifier (NPI). As reported by CMS, MU performance measures are not linked to specific practices; rather we retrieved practice affiliations from our second data source, the Physician Compare National Downloadable File for December 2016. This provided physician and practice-level characteristics, linked by NPI. It also included provider specialties; PCPs were identified as providers with primary specialties of general practice, family practice, internal medicine, pediatrics, and gerontology. Third, the Office of the National Coordinator for Health Information Technology provides data on EHR vendors used for MU attestation for each provider. Fourth, we used the 2016 Medicare Fee-For-Service Provider Utilization & Payment Data Physician and Other Supplier Public Use File
+[22](#ocab024-B22) to capture provider-level standardized Part B payments for the year. This standardization consists of adjusting providers’ Part B payment totals for regional variation in costs to enable comparisons across geographies. This data included average beneficiary age, average beneficiary hierarchical condition category (HCC) risk score, and the proportion of a providers’ Part B beneficiary population with specific chronic diseases. Fifth, state-level consent policy data was drawn from a recent study of state laws impacting HIE as of 2016. [23](#ocab024-B23) Sixth, we used the Agency for Healthcare Research and Quality 2016 Compendium of US Health Systems to identify practices affiliated with larger health systems. [24](#ocab024-B24), [25](#ocab024-B25) Finally, county-level control variables were drawn from the 2016 Area Health Resource File.
+Outcome: provider volume of HIE use
+Our outcome variable, HIE use level, is the percent of patient referrals each provider sent with eSCR. This was measured as a percentage between 10 and 100. To successfully attest to MU, a provider had to report at least 10 percent of referrals sent with eSCR, censoring the data. We limited our sample to providers attesting to modified Stage 2 in 2016, so that all providers in the sample were under the same reporting requirements for the same year. Providers received an exclusion from this measure in 2016 if they performed fewer than 100 patient referrals during the 90-day MU reporting period.
+Importantly, the denominator for this variable is all referrals, rather than visits. All referrals likely stand to gain from the exchange of clinical information, such that a higher percentage is better. In this measure, a referral in which the provider did not use HIE does not necessarily mean that no information exchange took place, as providers could have exchanged information via fax or other nonelectronic methods. Finally, we use the term “referral” with respect to the outcome across both specialists and primary care providers, for consistency and alignment with regulatory language. For specialists, “referrals” can consist of “loop-closing” actions (eg, a transition of care back to the original referring provider) or additional referrals to subspecialists or other specialty providers.
+Practice factors
+We included 9 practice-level factors in our analyses. EHR vendor for MU attestation came from the EHR Products Used for MU Attestation file published by the Office of the National Coordinator for Health Information Technology.
+[26](#ocab024-B26) We linked the MU data via EHR Certification ID, an identifier of the specific software the eligible provider used to attest to MU2 in that year. The 8 most common EHR vendors represented 72% of providers in this dataset and were preserved. All other vendors were categorized as “other” and constituted the reference group for analyses. To capture practice size, we used the number of group members listed in Physician Compare. We categorized these values into 5 groups: solo practice, 2–5 providers, 6–10 providers, 11–50 providers, and more than 50, based on practice size definitions used in studies of provider quality program outcomes. [27](#ocab024-B27) We identified practices that were system members by matching practice ID from Physician Compare to the Agency for Healthcare Research and Quality health system compendium file and created a binary indicator for practices that were linked to a health system. To measure prevalence of chronic disease among provider beneficiaries, we included 3 variables measuring the percentage of beneficiaries the provider saw in 2016 with chronic kidney disease, diabetes, and hypertension. Finally, we included the average beneficiary age and HCC score to measure average patient complexity at the provider level. Both disease prevalence and risk score variables are classified here as practice factors; however, the measures themselves are at the individual provider level because different providers at the same practice can vary in the populations they treat. Given that our outcome variable is measured at the individual provider level, we sought to preserve provider-level measures when possible.
+Market factors
+To measure market concentration, we combined the Physician Compare data with Part B payments data
+[22](#ocab024-B22) linked to provider NPI to construct a specialty-specific Herfindahl-Hirschman Index (HHI) at the health service area (HSA) level. To calculate this measure, individual providers were linked to HSAs via ZIP code per definitions from the department of Housing and Urban Development). [28](#ocab024-B28) Market share for each provider was calculated as the proportion of the provider’s standardized 2016 Medicare Part B payments divided by the total 2016 Medicare Part B payments for all providers of the same specialty within that HSA. The HHI was then calculated for each HSA-specialty group as the sum of squared market shares within the HSA. Per Federal Trade Commission guidelines, we classified HSAs into 3 groups based on the calculated HHI: not concentrated, moderately concentrated, and highly concentrated. [29](#ocab024-B29) The number of available providers for exchange in the HSA was calculated as the number of unique providers reporting in Physician Compare that they used an EHR. Geographic market factors at the county level were included from Area Health Resources Files 2016–2017 and matched based on provider ZIP code from Physician Compare. [30](#ocab024-B30) We included an indicator for Health Professional Shortage Area (no shortage, whole county, or part of the county), the number of Medicare certified hospitals, median household income (in thousands of US dollars), percent of persons in poverty, and an indicator for metropolitan and nonmetropolitan counties as defined by the Health Resources and Services Administration (US). Finally, we included the state HIE consent policy in place in 2016, from a database of state laws impacting HIE. [23](#ocab024-B23) Consent policies were coded as opt-in, opt-out, other, or none. States coded as “other” were those with ambiguous laws or laws that describe patient consent to HIE as “voluntary” with no dictated consent scheme. [31](#ocab024-B31)
+Analyses
+First, we categorized providers by increments of 10% of transfers sent with eSCR (0%–10%, 11%–20%, etc) and calculated the number and proportion of providers in each category to quantify the distribution of HIE use level across PCPs and non-PCPs. To analyze the relationship between HIE use and the practice and market factors, we used multivariable ordinary lease squares regression with errors clustered at the practice level. All models included the indicator for PCP status at the provider level and controlled for 2 additional provider-level characteristics: years in practice and gender. The final model takes the following form (a full model specification can be found in the Regression Model Details in the
+[Supplementary Appendix](#sup1)):
+We weighted our analyses for providers practicing at multiple locations. Providers practicing in multiple locations were required to aggregate their scores over multiple practices and report only 1 value to MU, limiting our ability to observe outcomes at the practice level for all providers affiliated with a practice. Because we did not have organization-specific MU scores in the data, but did have providers who appeared more than once, we weighted providers by the inverse of the number of practices they were affiliated with. For example, a provider reporting an affiliation with 2 practices would receive a weighting of 0.5 for each observation. We also used a Heckman sample selection model to test for selection into providers reporting the eSCR measure to MU Stage 2 in 2016, as nonexempt providers may differ systematically from exempt providers. More details are available in the
+[Supplementary Appendix](#sup1). Data preparation and analyses were conducted in R using the RStudio development environment and STATA version 15.1. [32–34](#ocab024-B32)
+RESULTS
+The final analytic sample included 40 086 providers attesting to MU Stage 2 in 2016. The majority were primary care providers (56.3%, n = 22 558), with 17 528 non-PCP providers (
+[Table 1](#ocab024-T1)). Overall, HIE was used in 49.0% of referrals (SD = 29.7 percentage points [pp]). Primary care providers had lower average HIE use level (42.7%, SD = 27.0 pp) than non-PCPs (57.0%, SD = 31.0 pp), despite sending 2.1 million more referrals than specialists during the 90-day MU Stage 2 reporting period ( [Figure 1](#ocab024-F1)). In total, the providers in our sample sent 8 472 759 referrals during this period, 4 096 299 of which transmitted an eSCR to support the referral.
+Table 1.
+|Overall||Primary Care||non-PCP||P Value|
+|N||40 086||22 558||17 528|
+|% Referrals sent w/eSCR||48.97 (29.69)||42.71 (27.03)||57.03 (30.99)||<.001|
+|Practice Factors|
+|Practice size % (n)||2 to 5||12.9 (5087)||11.0 (2442)||15.3 (2645)||<.001|
+|>50 providers||46.7 (18718)||55.0 (12416)||36.0 (6302)|
+|11–50||24.4 (9624)||30.0 (5176)||20.1 (4448)|
+|6–10||9.1 (3570)||12.0 (2068)||6.8 (1502)|
+|Solo practice||6.1 (2417)||6.3 (1088)||6.0 (1329)|
+|EHR Vendor % (n)||other||31.5 (12609)||44.6 (7819)||21.2 (4790)||<.001|
+|Allscripts||9.3 (3736)||4.8 (839)||12.8 (2897)|
+|Athenahealth, Inc.||8.0 (3221)||5.7 (991)||9.9 (2230)|
+|Cerner Corporation||3.6 (1439)||3.4 (597)||3.7 (842)|
+|eClinicalWorks, LLC||16.5 (6613)||14.5 (2535)||18.1 (4078)|
+|Epic Systems||9.4 (3778)||2.1 (361)||15.1 (3417)|
+|GE Healthcare||3.7 (1475)||1.9 (337)||5.0 (1138)|
+|Greenway Health, LLC||5.6 (2238)||8.2 (1439)||3.5 (799)|
+|NextGen Healthcare||12.4 (4977)||14.9 (2610)||10.5 (2367)|
+|Health system membership||Not in a health system||73.2 (29331)||82.2 (14405)||66.2 (14926)||<.001|
+|In a health system||26.8 (10755)||17.8 (3123)||33.8 (7632)|
+|Provider market share (w/in specialty)||7.51 (16.93)||14.55 (22.51)||2.04 (6.87)||<.001|
+|Average beneficiary age||72.54 (3.09)||72.62 (3.10)||72.47 (3.08)||<.001|
+|Average beneficiary HCC risk score||1.38 (0.53)||1.58 (0.64)||1.23 (0.36)||<.001|
+|% of beneficiaries w/CKD||30.49 (12.16)||34.36 (13.21)||27.50 (10.33)||<.001|
+|% of beneficiaries w/diabetes||32.53 (9.86)||34.93 (10.61)||30.68 (8.80)||<.001|
+|% of beneficiaries w/hypertension||67.34 (8.70)||69.08 (8.03)||65.98 (8.96)||<.001|
+|Market Factors|
+|HSA Concentration index||Unconcentrated||82.9 (33211)||65.2 (11421)||96.6 (21790)||<.001|
+|Moderately concentrated||7.5 (2991)||14.3 (2502)||2.2 (489)|
+|Highly concentrated||9.7 (3882)||20.6 (3603)||1.2 (279)|
+|Number of providers with EHRs in HSA||344.32 (463.54)||354.28 (469.82)||336.58 (458.47)||<.001|
+|Number of Medicare hospitals, county||6.56 (10.42)||6.39 (9.74)||6.69 (10.92)||.004|
+|Health professional shortage area||No shortage||10.9 (4359)||10.4 (1820)||11.3 (2539)||.014|
+|Partial shortage||1.7 (692)||1.7 (293)||1.8 (399)|
+|Full shortage||87.4 (34 956)||87.9 (15 383)||86.9 (19 573)|
+|Median household Income, county||60.72 (16.24)||60.19 (16.35)||61.12 (16.13)||<.001|
+|Percent of persons in poverty, county||13.43 (4.70)||13.61 (4.70)||13.29 (4.69)||<.001|
+|Metro vs non-metro (%)||Metro||88.8 (35 508)||88.7 (15 525)||88.8 (19 983)||.924|
+|non-metro||11.2 (4499)||11.3 (1971)||11.2 (2528)|
+|State HIE consent policy||No policy||28.6 (11 464)||28.8 (5048)||28.4 (6416)||<.001|
+|Opt-in||22.6 (9077)||24.8 (4343)||21.0 (4734)|
+|Opt-out||24.2 (9703)||22.4 (3925)||25.6 (5778)|
+|Other||24.6 (9842)||24.0 (4212)||25.0 (5630)|
+|Controls|
+|Provider gender||F||28.9 (11 590)||19.5 (3424)||36.2 (8166)||<.001|
+|M||71.1 (28 496)||80.5 (14 104)||63.8 (14 392)|
+|Years in practice||23.91 (10.30)||24.43 (10.31)||23.51 (10.27)||<.001|
+Abbreviations: CKD, chronic kidney disease, EHR, electronic health record; eSCR, electronic summaries of care; HAS, health service area; HIE, health information exchange; PCP, primary care provider.
+Notes: Categorical variables show percentages of the sample in each category, with counts in parentheses. Continuous variables show mean with standard deviation in parentheses.
+Providers were not distributed evenly across HIE use level groupings (
+[Figure 2](#ocab024-F2)). The majority of PCPs (55.8%) used HIE in less than 40% of all referrals, whereas the majority of non-PCPs (62.6%) used HIE in more than 40% of referrals. In regression analyses adjusting for practice and market factors, PCPs used HIE in 12.2 percentage points fewer referrals compared to non-PCPs (P < .001, [Table 2](#ocab024-T2)). More practice factors than market factors were associated with HIE use level. Below, we report results for each of the sets of factors. Complete regression results can be found in [Table 2](#ocab024-T2).
+Table 2.
+|Variable||B (se)|
+|Practice Factors|
+|PCP||PCP||−12.16
+|[a](#tblfn4)(1.48) [c](#tblfn6)(1.46) [c](#tblfn6)(2.51) [c](#tblfn6)(1.32) [b](#tblfn5)(2.61) [c](#tblfn6)(2.36) [c](#tblfn6)(2.45) [b](#tblfn5)(1.66) [c](#tblfn6)(0.11) [b](#tblfn5)(0.06) [b](#tblfn5)(0.05) [a](#tblfn4)(1.64) [c](#tblfn6)(0.02)
+Abbreviations: CKD, chronic kidney disease, EHR, electronic health record; HCC, hierarchical condition category; PCP, primary care provider; AIC, Akaike information criterion.
+P < .05
+P < .01
+P < .001
+Notes: Footnoted items indicate statistically significant associations. Errors are clustered at the practice level.
+Practice factors
+EHR vendors demonstrated the largest magnitude and most consistent relationship with provider HIE use. Use of Cerner, eClinicalWorks, Epic Systems, GE Healthcare, or NextGen Healthcare EHR systems was negatively associated with HIE use level (
+[Figure 3](#ocab024-F3)). These negative associations ranged in magnitude from −10.8 pp (Cerner, P < .001) to −4.3 pp (NextGen, P = .009). EHR vendors Athenahealth (14.0pp, P < .001) and Greenway Health (18.9pp, P < .001) were positively associated with HIE use level, compared to other EHR vendors.
+Larger practice sizes were associated with greater rates of HIE use, compared to practices with between 2 and 5 providers. Providers in practices with more than 50 providers had 3.8 pp greater HIE use level, on average, compared to practices with 2–5 providers (P = .011). Two practice factors describing the provider’s patient population were associated with slightly greater HIE use level: average age (0.49pp, P < .001) and the proportion of beneficiaries with diabetes (0.16 pp, P = .007).
+Health system membership, provider market share, average beneficiary HCC risk score, percentage of provider beneficiaries with chronic kidney disease, and percent of beneficiaries with hypertension were not associated with provider HIE use level.
+Market factors
+Only 2 market factors were associated with provider HIE use level: number of Medicare hospitals in the county (0.14 pp, P = .008) and location in a county labeled as a health professional shortage area (−3.7 pp, P = .022). We found no evidence of an association between provider HIE use and market concentration, the number of providers in the HSA with EHRs, county median income, county poverty rate, nonmetropolitan location, or state HIE consent policy.
+Results from our sample selection model did not substantively change the ordinary least squares (OLS) findings and are reported in
+[Supplementary Appendix](#sup1) [Table 1](#ocab024-T1).
+DISCUSSION
+We analyzed national data on provider HIE use reported to MU Stage 2 in 2016. On average, the volume of provider HIE use to support referrals was relatively low (49%), suggesting that there is considerable room for growth in HIE use for referrals among outpatient providers. Any observed lack of HIE use in referrals suggests either a lack of digital connection between providers or—when connections do exist—other technical or organizational challenges. As illustrated in
+[Figure 1](#ocab024-F1), gaps in HIE use accounted for more than 4.3 million “missed opportunities” to send referrals with HIE, just during the 90-day MU Stage 2 reporting period in 2016. The early stages of the MU program were intended to provide resources and incentives for providers to establish the capabilities for interoperable HIE [35](#ocab024-B35); however, the program may have underestimated the time and investment necessary to construct this broad network for exchange and foster widespread HIE use.
+While MU Stage 3 proposals had planned to increase the required eSCR threshold for providers from 10% to 30% of referrals,
+[15](#ocab024-B15) subsequent regulatory revisions incorporated into the Merit-Based Incentive Payment System (MIPS) and Promoting Interoperability (PI) programs have reverted this requirement to the original MU Stage 1 requirement to send an eSCR for only 1 patient referral during the reporting period for the 2017–2020 program years. [36](#ocab024-B36) Requirements for MU Stage 1 and Stage 2 were set intentionally low in order to prioritize the high early-stage investment needed to first create a network of providers with the capability to exchange information. At the outset, more stringent requirements for Stage 3 were designed to catalyze the widespread use of this network. Recent policy revisions may reflect an initial underestimate of the costs and available resources to establish HIE capabilities in office-based practices. It is not clear whether this reduced regulatory burden will impact HIE use, but it is unlikely that relaxed requirements will catalyze increases in HIE use levels among providers who already have these capabilities but demonstrate an HIE use gap. [37](#ocab024-B37)
+Primary care providers used HIE at lower rates, on average, than specialists, despite having a greater overall volume of referrals with HIE (
+[Figure 1](#ocab024-F1)). We suspect this may be rooted in differences in the centrality of PCPs and specialists in provider referral networks. [38](#ocab024-B38) Primary care providers can be positioned centrally in provider networks and thus must maintain a large pool of specialists to whom they refer patients. Furthermore, patients may have preferences for specialists, who may or may not have existing HIE connections with a given PCP. For each additional specialist practice, a new electronic connection must be made to enable HIE. Specialists, on the other hand, are more peripheral nodes in smaller referral networks, in part because they can exhibit strategic choices with respect to referring practices. [31](#ocab024-B31)
+Among providers reporting HIE use levels, practice characteristics were more commonly associated with HIE use level than market characteristics. We observed large and statistically significant relationships between the EHR vendor each practice used and HIE use level. Two large EHR vendors used in many integrated health systems, Cerner and Epic Systems, both demonstrate negative relationships with provider HIE use, although Epic has been found to be positively related with HIE use among hospitals.
+[11](#ocab024-B11) Given that integrated health systems include large numbers of ambulatory providers and specialists, lower use among providers with these vendors is especially problematic. Furthermore, 1 of the key value propositions of integrated health systems is better coordinated care through easier provider information exchange, and the MU Stage 2 measure allows inclusion of referrals that occur between 2 providers that share an EHR, presumably making electronic exchange near-seamless for these providers. However, lower observed rates of HIE use among widely used EHR vendors in the integrated health system market run counter to this claim of improved coordination—as does our lack of evidence of a relationship between health system membership and provider HIE use.
+Providers using Athenahealth or Greenway Health for their EHR used HIE in, on average, at least 10 pp more referrals than providers using other EHR vendors not in the top 8 most common vendors. Both of these vendors were identified in a recent KLAS Research interoperability report as offering easy record-sharing functionality.
+[39](#ocab024-B39) In particular, Athenahealth has developed their Patient Record Sharing functionality to proactively reduce the barriers to sharing within Athenahealth’s ambulatory provider network and those participating in the Carequality network. Furthermore, Athenahealth and Greenway Health have a largely ambulatory-focused market share, as compared to Cerner and Epic, which both have substantial health system and inpatient client bases. The combination of these factors—easy HIE among a large network of ambulatory providers—may explain our findings of greater rates of HIE use among office-based providers with these vendors.
+We found that providers who saw, on average, older patients and more patients with diabetes sent referrals with HIE at higher rates. This likely reflects the value of interoperability for these patient populations, as prior work has shown that providers seek out outside information at higher rates for older patients with chronic diseases.
+[40](#ocab024-B40), [41](#ocab024-B41) These studies also found more HIE-based information seeking for complex patients (ie, those with multiple chronic conditions), but we did not find a relationship between our measure of patient complexity (HCC risk score) and HIE use for outbound referrals. This implies that referrals for complex patients may be prone to interoperability gaps wherein the referring provider is less likely to send electronic information, despite its value, to the provider receiving the referral. In the presence of these gaps, the cost of information gathering falls on the consulting provider, adding information retrieval tasks that often are not aligned with clinical workflow. [42](#ocab024-B42) Practices can use these findings to engage strategically in HIE approaches that are likely to increase use of HIE in referrals. For example, a primary care practice may lack direct connectivity to many specialists to which they refer patients. If a substantial proportion of these specialists have direct addresses or connect to a regional HIE organization, prioritizing those HIE approaches may substantially increase the use of HIE in referrals. Furthermore, practices can put pressure on EHR vendors to learn from and scale the approaches used by vendors that appear to be successful, such as Athenahealth and Greenway.
+We found few market-level factors to be related to provider HIE use levels. In particular, the lack of relationship between market concentration and HIE use level suggests that anticompetitive information sharing behavior among providers may not be a contributing factor to the amount of HIE that takes place in a given provider market. While previous studies of hospitals have shown that adoption of HIE and presence of health information organizations is lower in more competitive markets,
+[43–45](#ocab024-B43) our findings illustrate that, among providers with the capability to exchange, HIE levels do not differ across HSAs with varying levels of market concentration. If anticompetitive behavior was related to provider HIE use level, one would expect less competitive markets to have higher rates of HIE use compared to more competitive markets where providers stand to lose from broad information sharing. This finding, in conjunction with previous work finding no relationship between market competition and hospital level of HIE, [11](#ocab024-B11), [31](#ocab024-B31) suggests that while HIE adoption decisions may be a function of market concentration, once adoption has occurred, competition may not factor into the level of HIE among providers or hospitals. As a result, regulatory efforts to combat anticompetitive information sharing behavior may be most effective when focused on adoption of HIE capabilities rather than on the amount of HIE that occurs among entities with these capabilities; recent updates to the MIPS and PI programs noted above reflect this programmatic focus. A policy focus on adoption and HIE capabilities is further supported by the lack of a relationship between state HIE consent policy and provider HIE use levels, similar to hospitals. [31](#ocab024-B31) While provider HIE use level may be unrelated to specific policy choices (in this case regarding consent), those choices may facilitate or hinder provider adoption of HIE capabilities as has been illustrated in previous studies of hospitals. [31](#ocab024-B31), [46](#ocab024-B46), [47](#ocab024-B47) Taken together with EHR vendor and PCP findings above, policy efforts focused on reducing barriers to adoption of vendor-neutral and network-of-networks HIE tools, like the Direct Secure Messaging and regional HIE organizations with both push and pull capabilities, may be particularly effective in increasing HIE use levels. [18](#ocab024-B18) These methods of exchange provide access to broad networks of providers via a single, scalable approach rather than requiring practice-to-practice connectivity.
+Limitations
+Our study is inherently limited in that it is cross-sectional, and therefore all relationships must be interpreted as associative rather than causal. Furthermore, our study captures a snapshot of HIE use as of 2016. Provider practices are regularly increasing their technological capabilities with respect to HIE, and community HIE efforts have continued to facilitate more exchange of clinical data among a growing number of partner organizations. Additionally, the providers in our sample may not be generalizable to the overall Medicare physician population. Eligibility for MU was contingent upon sufficient Medicare patient volume (at least 30%) and provider credential (MDs, DOs, dentists, dental surgeons, podiatrists, optometrists, and chiropractors). Our study can therefore not generalize to other primary care providers, such as nurse practitioners or those with relatively low Medicare volume, who may differ systematically from our sample. Eligible providers could also seek out a number of exemptions from the MU program via hardship exemptions (eg, providers in their first year or those impacted by hurricanes), which would result in exclusion from our sample.
+[48](#ocab024-B48) Finally, providers could seek an exemption from the HIE measure if they made less than 100 referrals in the 90-day reporting period, which are likely to be predominantly specialists. While over half of MU Stage 2 eligible providers received this exemption in 2016, this sample selection did not bias our findings per our analysis of sample selection bias described above. Moreover, interpretation of our results should consider the fact that our sample, by definition, has the capability to send eSCRs, which only 36% of office-based providers nationwide reported in 2017. [8](#ocab024-B8) Therefore, our findings provide insight on HIE use level among high Medicare patient and referral volume eligible providers, conditional on providers’ ability to exchange data.
+CONCLUSION
+We found that on average HIE is used in less than half of referrals. Furthermore, practice factors like EHR vendor and patient characteristics were related to HIE use level. Fewer market factors played a role in provider HIE use level, suggesting that market forces may have less of an impact on provider use of already-adopted HIE capabilities than they do on provider adoption of exchange capabilities as previous literature has shown. To foster more use of HIE across the health care system, policy makers should consider the relative impact that market factors may have on adoption, compared to practice-level factors that are related to the use of HIE more directly. Provider practices can use these findings to engage in high-yield HIE approaches and to examine best practices across EHR vendors. Future research may explore in more detail the nature of the relationship between provider EHR vendor and HIE use levels, as well as the varying health IT needs of providers who may primarily send or primarily receive health data.
+FUNDING
+This work was supported in part by a training grant from the National Library of Medicine of the National Institutes of Health under award number T15LM012502.
+AUTHOR CONTRIBUTIONS
+Each author made substantial contributions to the conception or design of the work; was involved in drafting the work or revising it critically for important intellectual content; gave final approval of the version to be published; and has agreed to be accountable for all aspects of the work.
+DATA AVAILABILITY
+The data for this article were derived from sources in the public domain:
+Meaningful Use Stage 2 Eligible Provider PUFs:
+[https://www.cms.gov/Regulations-and-Guidance/Legislation/EHRIncentivePrograms/PUF](https://www.cms.gov/Regulations-and-Guidance/Legislation/EHRIncentivePrograms/PUF)
+Physician Compare National Downloadable File, 2016:
+[https://data.cms.gov/provider-data/dataset/mj5m-pzi6](https://data.cms.gov/provider-data/dataset/mj5m-pzi6)
+EHR Products Used for Meaningful Use Attestation:
+[https://dashboard.healthit.gov/datadashboard/documentation/ehr-products-mu-attestation-data-documentation.php](https://dashboard.healthit.gov/datadashboard/documentation/ehr-products-mu-attestation-data-documentation.php)
+Area Health Resource File:
+[https://data.hrsa.gov/data/download](https://data.hrsa.gov/data/download)
+Schmit, et al (2018). Falling short: how state laws can address health information exchange barriers and enablers:
+[https://pubmed.ncbi.nlm.nih.gov/29106555/](https://pubmed.ncbi.nlm.nih.gov/29106555/)
+Medicare Physician and Other Supplier National Provider Identifier (NPI) Aggregate Report, Calendar Year 2016:
+[https://data.cms.gov/Medicare-Physician-Supplier/Medicare-Physician-and-Other-Supplier-National-Pro/85jw-maq9](https://data.cms.gov/Medicare-Physician-Supplier/Medicare-Physician-and-Other-Supplier-National-Pro/85jw-maq9)
+AHRQ Compendium of US Health Systems, 2016:
+[https://www.ahrq.gov/chsp/data-resources/compendium-2016.html](https://www.ahrq.gov/chsp/data-resources/compendium-2016.html)
+SUPPLEMENTARY MATERIAL
+[Supplementary material](#sup1) is available at Journal of the American Medical Informatics Association online.
+CONFLICT OF INTEREST STATEMENT
+NCA holds stock in Cerner Corporation.
+Supplementary Material
+REFERENCES
+-
+1.
+Verma S.
+Remarks by CMS Administrator Seema Verma at the HIMSS18 Conference. 2018.
+[https://www.cms.gov/Newsroom/MediaReleaseDatabase/Press-releases/2018-Press-releases-items/2018-03-06-2.html](https://www.cms.gov/Newsroom/MediaReleaseDatabase/Press-releases/2018-Press-releases-items/2018-03-06-2.html)Accessed July 5, 2018.
+-
+2.
+Cross DA, Nong P, Harris-Lemak C, et al. Practice strategies to improve primary care for chronic disease patients under a pay-for-value program. Healthc (Amst) 2019; 7 (1): 30–7. [
+[DOI](https://doi.org/10.1016/j.hjdsi.2018.08.004)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30197304/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Healthc%20(Amst)&title=Practice%20strategies%20to%20improve%20primary%20care%20for%20chronic%20disease%20patients%20under%20a%20pay-for-value%20program&volume=7&issue=1&publication_year=2019&pages=30-7&pmid=30197304&doi=10.1016/j.hjdsi.2018.08.004&)]
+-
+3.
+Lin SC, Hollingsworth JM, Adler-Milstein J..
+Alternative payment models and hospital engagement in health information exchange. Am J Manag Care 2019; 25: e1–6.
+[https://www.ncbi.nlm.nih.gov/pubmed/30667611](https://www.ncbi.nlm.nih.gov/pubmed/30667611)[ [PMC free article](/articles/PMC6526138/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30667611/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Manag%20Care&title=Alternative%20payment%20models%20and%20hospital%20engagement%20in%20health%20information%20exchange&volume=25&publication_year=2019&pages=e1-6&pmid=30667611&)]
+-
+4.
+Walker J, Pan E, Johnston D, et al. The value of health care information exchange and interoperability. Health Aff 2005; 24 (Suppl1): W5-10–W5-18. [
+[DOI](https://doi.org/10.1377/hlthaff.w5.10)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/15659453/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Health%20Aff&title=The%20value%20of%20health%20care%20information%20exchange%20and%20interoperability&volume=24%20(Suppl1&publication_year=2005&pages=W5-10-W5-18&pmid=15659453&doi=10.1377/hlthaff.w5.10&)]
+-
+5.
+Vest JR, Gamm LD..
+Health information exchange: persistent challenges and new strategies. J Am Med Inform Assoc 2010; 17 (3): 288–94. [
+[DOI](https://doi.org/10.1136/jamia.2010.003673)] [ [PMC free article](/articles/PMC2995716/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20442146/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Med%20Inform%20Assoc&title=Health%20information%20exchange:%20persistent%20challenges%20and%20new%20strategies&volume=17&issue=3&publication_year=2010&pages=288-94&pmid=20442146&doi=10.1136/jamia.2010.003673&)]
+-
+6.
+Adler-Milstein J, Jha AK. HITECH Act drove large gains in hospital electronic health record adoption. Health Aff2017; 36 (8): 1416–22.
+[http://www.healthaffairs.org/doi/10.1377/hlthaff.2016.1651](http://www.healthaffairs.org/doi/10.1377/hlthaff.2016.1651)Accessed November 9, 2017. [ [DOI](https://doi.org/10.1377/hlthaff.2016.1651)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28784734/)]
+-
+7.
+Myrick KL, Ogburn DF, Ward BW. Table. Percentage of office-based physicians using any electronic health record (EHR)/electronic medical record (EMR) system and physicians that have a certified EHR/EMR system, by US state: National Electronic Health Records Survey, 2017. National Center for Health Statistics 2019.
+[https://www.cdc.gov/nchs/data/nehrs/2017_NEHRS_Web_Table_EHR_State.pdf](https://www.cdc.gov/nchs/data/nehrs/2017_NEHRS_Web_Table_EHR_State.pdf)Accessed September 27, 2019
+-
+8.
+Patel V, Pylypchuk Y, Parasrampuria S, et al. Interoperability among Office-Based Physicians in 2015 and 2017. Office of the National Coordinator for Health IT 2019.
+[https://www.healthit.gov/sites/default/files/page/2019-05/ONC-Data-Brief-47-Interoperability-among-Office-Based-Physicians-in-2015-and-2017.pdf Accessed October 2, 2019](https://www.healthit.gov/sites/default/files/page/2019-05/ONC-Data-Brief-47-Interoperability-among-Office-Based-Physicians-in-2015-and-2017.pdf)
+-
+9.
+Dobrow MJ, Bytautas JP, Tharmalingam S, et al. Interoperable electronic health records and health information exchanges: systematic review. JMIR Med Inform 2019; 7 (2): e12607. [
+[DOI](https://doi.org/10.2196/12607)] [ [PMC free article](/articles/PMC6592487/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31172961/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=JMIR%20Med%20Inform&title=Interoperable%20electronic%20health%20records%20and%20health%20information%20exchanges:%20systematic%20review&volume=7&issue=2&publication_year=2019&pages=e12607&pmid=31172961&doi=10.2196/12607&)]
+-
+10.
+Menachemi N, Rahurkar S, Harle CA, Vest JR.
+The benefits of health information exchange: an updated systematic review. J Am Med Inform Assoc 2018; 25 (9): 1259–65. [
+[DOI](https://doi.org/10.1093/jamia/ocy035)] [ [PMC free article](/articles/PMC7646861/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29718258/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Med%20Inform%20Assoc&title=The%20benefits%20of%20health%20information%20exchange:%20an%20updated%20systematic%20review&volume=25&issue=9&publication_year=2018&pages=1259-65&pmid=29718258&doi=10.1093/jamia/ocy035&)]
+-
+11.
+Lin SC, Everson J, Adler-Milstein J..
+Technology, incentives, or both? Factors related to level of hospital health information exchange. Health Serv Res 2018; 53 (5): 3285–308. [
+[DOI](https://doi.org/10.1111/1475-6773.12838)] [ [PMC free article](/articles/PMC6153171/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29492959/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Health%20Serv%20Res&title=Technology,%20incentives,%20or%20both?%20Factors%20related%20to%20level%20of%20hospital%20health%20information%20exchange&volume=53&issue=5&publication_year=2018&pages=3285-308&pmid=29492959&doi=10.1111/1475-6773.12838&)]
+-
+12.
+Ross SE, Schilling LM, Fernald DH, et al. Health information exchange in small-to-medium sized family medicine practices: motivators, barriers, and potential facilitators of adoption. Int J Med Inform 2010; 79 (2): 123–9. [
+[DOI](https://doi.org/10.1016/j.ijmedinf.2009.12.001)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20061182/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int%20J%20Med%20Inform&title=Health%20information%20exchange%20in%20small-to-medium%20sized%20family%20medicine%20practices:%20motivators,%20barriers,%20and%20potential%20facilitators%20of%20adoption&volume=79&issue=2&publication_year=2010&pages=123-9&pmid=20061182&doi=10.1016/j.ijmedinf.2009.12.001&)]
+-
+13.
+Fontaine P, Ross SE, Zink T, et al. Systematic review of health information exchange in primary care practices. J Am Board Fam Med 2010; 23 (5): 655–70. [
+[DOI](https://doi.org/10.3122/jabfm.2010.05.090192)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20823361/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Board%20Fam%20Med&title=Systematic%20review%20of%20health%20information%20exchange%20in%20primary%20care%20practices&volume=23&issue=5&publication_year=2010&pages=655-70&pmid=20823361&doi=10.3122/jabfm.2010.05.090192&)]
+-
+14.
+Patel V, Abramson EL, Edwards A, et al. Physicians’ potential use and preferences related to health information exchange. Int J Med Inform 2011; 80 (3): 171–80. [
+[DOI](https://doi.org/10.1016/j.ijmedinf.2010.11.008)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21156351/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int%20J%20Med%20Inform&title=Physicians%E2%80%99%20potential%20use%20and%20preferences%20related%20to%20health%20information%20exchange&volume=80&issue=3&publication_year=2011&pages=171-80&pmid=21156351&doi=10.1016/j.ijmedinf.2010.11.008&)]
+-
+15.
+Cohen GR, Adler-Milstein J..
+Meaningful use care coordination criteria: perceived barriers and benefits among primary care providers. J Am Med Inform Assoc 2016; 23 (e1): e146–51. [
+[DOI](https://doi.org/10.1093/jamia/ocv147)] [ [PMC free article](/articles/PMC4954634/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26567327/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Med%20Inform%20Assoc&title=Meaningful%20use%20care%20coordination%20criteria:%20perceived%20barriers%20and%20benefits%20among%20primary%20care%20providers&volume=23&issue=e1&publication_year=2016&pages=e146-51&pmid=26567327&doi=10.1093/jamia/ocv147&)]
+-
+16.
+Holmgren AJ, Adler-Milstein J, McCullough J..
+Are all certified EHRs created equal? Assessing the relationship between EHR vendor and hospital meaningful use performance. J Am Med Inform Assoc 2018; 25 (6): 654–60. [
+[DOI](https://doi.org/10.1093/jamia/ocx135)] [ [PMC free article](/articles/PMC7646986/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29186508/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Med%20Inform%20Assoc&title=Are%20all%20certified%20EHRs%20created%20equal?%20Assessing%20the%20relationship%20between%20EHR%20vendor%20and%20hospital%20meaningful%20use%20performance&volume=25&issue=6&publication_year=2018&pages=654-60&pmid=29186508&doi=10.1093/jamia/ocx135&)]
+-
+17.
+Rudin R, Volk L, Simon S, et al. what affects clinicians’ usage of health information exchange? Appl Clin Inform 2011; 02 (03): 250–62. [
+[DOI](https://doi.org/10.4338/ACI-2011-03-RA-0021)] [ [PMC free article](/articles/PMC3237190/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22180762/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Appl%20Clin%20Inform&title=what%20affects%20clinicians%E2%80%99%20usage%20of%20health%20information%20exchange?&volume=02&issue=03&publication_year=2011&pages=250-62&pmid=22180762&doi=10.4338/ACI-2011-03-RA-0021&)]
+-
+18.
+Vest JR, Unruh MA, Casalino LP, et al. The complementary nature of query-based and directed health information exchange in primary care practice. J Am Med Inform Assoc 2019; 27 (1): 73–80. doi:10.1093/jamia/ocz134. [
+[DOI](https://doi.org/10.1093/jamia/ocz134)] [ [PMC free article](/articles/PMC7647237/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31592529/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Med%20Inform%20Assoc&title=The%20complementary%20nature%20of%20query-based%20and%20directed%20health%20information%20exchange%20in%20primary%20care%20practice&publication_year=2019&pmid=31592529&doi=10.1093/jamia/ocz134&)]
+-
+19.
+Vest JR, Simon K..
+Hospitals’ adoption of intra-system information exchange is negatively associated with inter-system information exchange. J Am Med Inform Assoc 2018; 25 (9): 1189–96. doi:10.1093/jamia/ocy058. [
+[DOI](https://doi.org/10.1093/jamia/ocy058)] [ [PMC free article](/articles/PMC7646893/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29860502/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Med%20Inform%20Assoc&title=Hospitals%E2%80%99%20adoption%20of%20intra-system%20information%20exchange%20is%20negatively%20associated%20with%20inter-system%20information%20exchange&publication_year=2018&pmid=29860502&doi=10.1093/jamia/ocy058&)]
+-
+20.
+Mello MM, Adler-Milstein J, Ding KL, et al. Legal barriers to the growth of health information exchange-boulders or pebbles? Milbank Q 2018; 96 (1): 110–43. [
+[DOI](https://doi.org/10.1111/1468-0009.12313)] [ [PMC free article](/articles/PMC5835678/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29504197/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Milbank%20Q&title=Legal%20barriers%20to%20the%20growth%20of%20health%20information%20exchange-boulders%20or%20pebbles?&volume=96&issue=1&publication_year=2018&pages=110-43&pmid=29504197&doi=10.1111/1468-0009.12313&)]
+-
+21.
+Hsiao C-J, Jha AK, King J, et al. Office-based physicians are responding to incentives and assistance by adopting and using electronic health records. Health Aff 2013; 32 (8): 1470–7. [
+[DOI](https://doi.org/10.1377/hlthaff.2013.0323)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23840050/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Health%20Aff&title=Office-based%20physicians%20are%20responding%20to%20incentives%20and%20assistance%20by%20adopting%20and%20using%20electronic%20health%20records&volume=32&issue=8&publication_year=2013&pages=1470-7&pmid=23840050&doi=10.1377/hlthaff.2013.0323&)]
+-
+22.Centers for Medicare and Medicaid Services. Medicare Provider Utilization and Payment Data: Physician and Other Supplier. 2018.
+[https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Physician-and-Other-Supplier.html](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Physician-and-Other-Supplier.html)Accessed May 17, 2019
+-
+23.
+Schmit CD, Wetter SA, Kash BA..
+Falling short: how state laws can address health information exchange barriers and enablers. J Am Med Inform Assoc 2018; 25 (6): 635–44. [
+[DOI](https://doi.org/10.1093/jamia/ocx122)] [ [PMC free article](/articles/PMC7646865/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29106555/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Med%20Inform%20Assoc&title=Falling%20short:%20how%20state%20laws%20can%20address%20health%20information%20exchange%20barriers%20and%20enablers&volume=25&issue=6&publication_year=2018&pages=635-44&pmid=29106555&doi=10.1093/jamia/ocx122&)]
+-
+24.Compendium of US Health Systems, 2016.
+[https://www.ahrq.gov/chsp/data-resources/compendium-2016.html](https://www.ahrq.gov/chsp/data-resources/compendium-2016.html)Accessed April 5, 2020
+-
+25.
+Furukawa MF, Machta RM, Barrett KA, et al. Landscape of health systems in the United States. Med Care Res Rev 2020; 77 (4): 357–66. [
+[DOI](https://doi.org/10.1177/1077558718823130)] [ [PMC free article](/articles/PMC7187756/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30674227/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Med%20Care%20Res%20Rev&title=Landscape%20of%20health%20systems%20in%20the%20United%20States&volume=77&issue=4&publication_year=2020&pages=357-66&pmid=30674227&doi=10.1177/1077558718823130&)]
+-
+26.Office of the National Coordinator for Health Information Technology EHR Products Used for Meaningful Use Attestation. Dashboards.
+[https://dashboard.healthit.gov/datadashboard/documentation/ehr-products-mu-attestation-data-documentation.php](https://dashboard.healthit.gov/datadashboard/documentation/ehr-products-mu-attestation-data-documentation.php)Accessed March 6, 2018
+-
+27.
+Heisey-Grove DM, Wall HK, Wright JS..
+Electronic clinical quality measure reporting challenges: findings from the Medicare EHR Incentive Program’s Controlling High Blood Pressure Measure. J Am Med Inform Assoc 2018; 25 (2): 127–34. [
+[DOI](https://doi.org/10.1093/jamia/ocx049)] [ [PMC free article](/articles/PMC7647130/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28525558/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Med%20Inform%20Assoc&title=Electronic%20clinical%20quality%20measure%20reporting%20challenges:%20findings%20from%20the%20Medicare%20EHR%20Incentive%20Program%E2%80%99s%20Controlling%20High%20Blood%20Pressure%20Measure&volume=25&issue=2&publication_year=2018&pages=127-34&pmid=28525558&doi=10.1093/jamia/ocx049&)]
+-
+28.HUD USPS ZIP Code Crosswalk Files. United States Department of Housing and Urban Development.
+[https://www.huduser.gov/portal/datasets/usps_crosswalk.html](https://www.huduser.gov/portal/datasets/usps_crosswalk.html)Accessed May 17, 2019.
+-
+29.Herfindahl-Hirschman Index. United States Department of Justice. 2015.
+[https://www.justice.gov/atr/herfindahl-hirschman-index](https://www.justice.gov/atr/herfindahl-hirschman-index)Accessed May 17, 2019.
+-
+30.Area Health Resources Files. Health Resource and Services Administration.
+[https://data.hrsa.gov/topics/health-workforce/ahrf](https://data.hrsa.gov/topics/health-workforce/ahrf)Accessed February 12, 2019.
+-
+31.
+Apathy NC, Holmgren AJ..
+Opt-in consent policies: potential barriers to hospital health information exchange. Am J Manag Care 2020; 26 (1): 14–20. [
+[DOI](https://doi.org/10.37765/ajmc.2020.42148)] [ [PMC free article](/articles/PMC7262872/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31951362/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Manag%20Care&title=Opt-in%20consent%20policies:%20potential%20barriers%20to%20hospital%20health%20information%20exchange&publication_year=2020&pages=14-20&pmid=31951362&doi=10.37765/ajmc.2020.42148&)]
+-
+32.RStudio Team. R Studio. 2015.
+[http://www.rstudio.com/ Accessed April 19, 2017.](http://www.rstudio.com/)
+-
+33.R Core Team. R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing; 2017.
+[https://www.R-project.org/ Accessed April 19, 2017.](https://www.R-project.org/)
+- 34.StataCorp LLC. Stata: Statistics/data analysis (Version 15: 1 IC edition). College Station, TX: StataCorp LLC; 2017.
+-
+35.
+Blumenthal D.
+Launching HITECH. N Engl J Med 2010; 362 (5): 382–5. [
+[DOI](https://doi.org/10.1056/NEJMp0912825)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20042745/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=Launching%20HITECH&volume=362&issue=5&publication_year=2010&pages=382-5&pmid=20042745&doi=10.1056/NEJMp0912825&)]
+-
+36.Centers for Medicare and Medicaid Services. Explore Measures - Health Information Exchange. Promoting Interoperability - QPP.
+[https://qpp.cms.gov/mips/explore-measures/promoting-interoperability?py=2019&measureObjectiveName=Health%20Information%20Exchange](https://qpp.cms.gov/mips/explore-measures/promoting-interoperability?py=2019&measureObjectiveName=Health%20Information%20Exchange)Accessed November 22, 2019
+-
+37.
+Apathy NC, Everson J..
+High rates of partial participation in the first year of the merit-based incentive payment system. Health Aff 2020; 39 (9): 1513–21. [
+[DOI](https://doi.org/10.1377/hlthaff.2019.01648)] [ [PMC free article](/articles/PMC7720898/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32897783/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Health%20Aff&title=High%20rates%20of%20partial%20participation%20in%20the%20first%20year%20of%20the%20merit-based%20incentive%20payment%20system&volume=39&issue=9&publication_year=2020&pages=1513-21&pmid=32897783&doi=10.1377/hlthaff.2019.01648&)]
+-
+38.
+Barnett MLChristakis NAO’Malley J,.
+et al.
+Physician patient-sharing networks and the cost and intensity of care in US hospitals. Med Care 2012; 50: 152–60. [
+[DOI](https://doi.org/10.1097/MLR.0b013e31822dcef7)] [ [PMC free article](/articles/PMC3260449/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22249922/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Med%20Care&title=Physician%20patient-sharing%20networks%20and%20the%20cost%20and%20intensity%20of%20care%20in%20US%20hospitals&volume=50&publication_year=2012&pages=152-60&pmid=22249922&doi=10.1097/MLR.0b013e31822dcef7&)]
+-
+39.KLAS Research. Interoperability 2018: Plug-and-Play Patient-Record Sharing via CommonWell and Carequality. KLAS Research. 2018.
+[https://klasresearch.com/report/interoperability-2018/1353](https://klasresearch.com/report/interoperability-2018/1353)Accessed September 8, 2020.
+-
+40.
+Vest JR, Zhao H, Jaspserson J, et al. Factors motivating and affecting health information exchange usage. J Am Med Inform Assoc 2011; 18 (2): 143–9. [
+[DOI](https://doi.org/10.1136/jamia.2010.004812)] [ [PMC free article](/articles/PMC3116259/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21262919/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Med%20Inform%20Assoc&title=Factors%20motivating%20and%20affecting%20health%20information%20exchange%20usage&volume=18&issue=2&publication_year=2011&pages=143-9&pmid=21262919&doi=10.1136/jamia.2010.004812&)]
+-
+41.
+Vest JR, Jasperson 'Jon, Zhao H, et al. Use of a health information exchange system in the emergency care of children. BMC Med Inform Decis Mak 2011; 11 (1): 78. [
+[DOI](https://doi.org/10.1186/1472-6947-11-78)] [ [PMC free article](/articles/PMC3295672/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22208182/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMC%20Med%20Inform%20Decis%20Mak&title=Use%20of%20a%20health%20information%20exchange%20system%20in%20the%20emergency%20care%20of%20children&volume=11&issue=1&publication_year=2011&pages=78&pmid=22208182&doi=10.1186/1472-6947-11-78&)]
+-
+42.
+Unertl KM, Johnson KB, Lorenzi NM..
+Health information exchange technology on the front lines of healthcare: workflow factors and patterns of use. J Am Med Inform Assoc 2012; 19 (3): 392–400. [
+[DOI](https://doi.org/10.1136/amiajnl-2011-000432)] [ [PMC free article](/articles/PMC3341790/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22003156/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Med%20Inform%20Assoc&title=Health%20information%20exchange%20technology%20on%20the%20front%20lines%20of%20healthcare:%20workflow%20factors%20and%20patterns%20of%20use&volume=19&issue=3&publication_year=2012&pages=392-400&pmid=22003156&doi=10.1136/amiajnl-2011-000432&)]
+-
+43.
+Vest JR.
+More than just a question of technology: factors related to hospitals’ adoption and implementation of health information exchange. Int J Med Inform 2010; 79 (12): 797–806. [
+[DOI](https://doi.org/10.1016/j.ijmedinf.2010.09.003)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20889370/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int%20J%20Med%20Inform&title=More%20than%20just%20a%20question%20of%20technology:%20factors%20related%20to%20hospitals%E2%80%99%20adoption%20and%20implementation%20of%20health%20information%20exchange&volume=79&issue=12&publication_year=2010&pages=797-806&pmid=20889370&doi=10.1016/j.ijmedinf.2010.09.003&)]
+-
+44.Desai S. Health Information Exchange, Interoperability, and Network Effects. 2015.
+[https://repository.upenn.edu/edissertations/1040/](https://repository.upenn.edu/edissertations/1040/)Accessed April 15, 2018.
+-
+45.
+Lin SC, Adler-Milstein J..
+The relationship between hospital and ehr vendor market dynamics on health information organization presence and participation. BMC Med Inform Decis Mak 2018; 18 (1): 28. [
+[DOI](https://doi.org/10.1186/s12911-018-0605-y)] [ [PMC free article](/articles/PMC5941339/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29739410/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMC%20Med%20Inform%20Decis%20Mak&title=The%20relationship%20between%20hospital%20and%20ehr%20vendor%20market%20dynamics%20on%20health%20information%20organization%20presence%20and%20participation&volume=18&issue=1&publication_year=2018&pages=28&pmid=29739410&doi=10.1186/s12911-018-0605-y&)]
+-
+46.
+Brown-Podgorski BL, Hilts KE, Kash BA, et al. The association between state-level health information exchange laws and hospital participation in community health information organizations. AMIA Annu Symp Proc 2018; 2018: 313–20. [
+[PMC free article](/articles/PMC6371387/)] [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30815070/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=AMIA%20Annu%20Symp%20Proc&title=The%20association%20between%20state-level%20health%20information%20exchange%20laws%20and%20hospital%20participation%20in%20community%20health%20information%20organizations&volume=2018&publication_year=2018&pages=313-20&pmid=30815070&)]
+-
+47.
+Adjerid I, Acquisti A, Telang R, et al. The impact of privacy regulation and technology incentives: the case of health information exchanges. Manage Sci 2016; 62 (4): 1042–63. [
+[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Manage%20Sci&title=The%20impact%20of%20privacy%20regulation%20and%20technology%20incentives:%20the%20case%20of%20health%20information%20exchanges&volume=62&issue=4&publication_year=2016&pages=1042-63&)]
+-
+48.
+Self R, Coffin J..
+Modified stage 2 and stage 3 meaningful use for eligible providers: performance metrics, reporting period lengths, and hardship exemptions. J Med Pract Manage 2016; 31 (6): 332–5. [
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/27443051/)] [ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Med%20Pract%20Manage&title=Modified%20stage%202%20and%20stage%203%20meaningful%20use%20for%20eligible%20providers:%20performance%20metrics,%20reporting%20period%20lengths,%20and%20hardship%20exemptions&volume=31&issue=6&publication_year=2016&pages=332-5&pmid=27443051&)]
+Associated Data
+This section collects any data citations, data availability statements, or supplementary materials included in this article.
+Supplementary Materials
+Data Availability Statement
+The data for this article were derived from sources in the public domain:
+Meaningful Use Stage 2 Eligible Provider PUFs:
+[https://www.cms.gov/Regulations-and-Guidance/Legislation/EHRIncentivePrograms/PUF](https://www.cms.gov/Regulations-and-Guidance/Legislation/EHRIncentivePrograms/PUF)
+Physician Compare National Downloadable File, 2016:
+[https://data.cms.gov/provider-data/dataset/mj5m-pzi6](https://data.cms.gov/provider-data/dataset/mj5m-pzi6)
+EHR Products Used for Meaningful Use Attestation:
+[https://dashboard.healthit.gov/datadashboard/documentation/ehr-products-mu-attestation-data-documentation.php](https://dashboard.healthit.gov/datadashboard/documentation/ehr-products-mu-attestation-data-documentation.php)
+Area Health Resource File:
+[https://data.hrsa.gov/data/download](https://data.hrsa.gov/data/download)
+Schmit, et al (2018). Falling short: how state laws can address health information exchange barriers and enablers:
+[https://pubmed.ncbi.nlm.nih.gov/29106555/](https://pubmed.ncbi.nlm.nih.gov/29106555/)
+Medicare Physician and Other Supplier National Provider Identifier (NPI) Aggregate Report, Calendar Year 2016:
+[https://data.cms.gov/Medicare-Physician-Supplier/Medicare-Physician-and-Other-Supplier-National-Pro/85jw-maq9](https://data.cms.gov/Medicare-Physician-Supplier/Medicare-Physician-and-Other-Supplier-National-Pro/85jw-maq9)
+AHRQ Compendium of US Health Systems, 2016:
+[https://www.ahrq.gov/chsp/data-resources/compendium-2016.html](https://www.ahrq.gov/chsp/data-resources/compendium-2016.html)

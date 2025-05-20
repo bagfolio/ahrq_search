@@ -13,6 +13,11 @@ load_dotenv()
 EMAIL = os.getenv("EMAIL", "your_email@domain.com")  # Required for PubMed and Unpaywall
 MAX_RESULTS_PER_QUERY = 1000  # Maximum results to fetch per keyword/query
 
+# Google Scholar configuration
+SCHOLAR_USE_SELENIUM = True  # Whether to use Selenium for Google Scholar
+SCHOLAR_SLEEP_BETWEEN_QUERIES = (35, 60)  # seconds, min/max
+SCHOLAR_MAX_PAGES = 3  # stop after this many "next" clicks
+
 # Project paths
 PROJECT_ROOT = pathlib.Path(__file__).parent.absolute()
 KEYWORDS_PATH = PROJECT_ROOT / "keywords.yaml"

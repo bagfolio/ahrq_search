@@ -1,0 +1,15 @@
+pymed==0.8.9
+pyalex==0.9
+pmidcite==0.0.50
+scholarly==1.7.11
+trafilatura==1.6.1
+pandas==2.1.1
+tqdm==4.66.1
+pyyaml==6.0.1
+requests==2.31.0
+unpywall==0.8.0
+matplotlib==3.8.0
+streamlit==1.27.0
+spacy==3.6.1
+watchdog==3.0.0
+python-dotenv==1.0.0

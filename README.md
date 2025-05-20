@@ -14,17 +14,41 @@ This tool tracks the academic impact of the AHRQ Compendium by:
 
 ## Installation
 
+**Important: This project requires Python 3.11.x**
+
 ```bash
+# Ensure you have Python 3.11.x installed
+# If using pyenv: pyenv install 3.11.9 && pyenv local 3.11.9
+
 # Create virtual environment
 python -m venv compendium-env
-source compendium-env/bin/activate  # On Windows: compendium-env\Scripts\activate
 
-# Install dependencies
+# On Windows:
+.\compendium-env\Scripts\activate
+# On macOS/Linux:
+# source compendium-env/bin/activate
+
+# Upgrade pip and install dependencies
+python -m pip install --upgrade pip
 pip install -r requirements.txt
+
+# Verify installation
+pip check
+
+# Run smoke test to verify collector imports
+python smoke_test_collectors.py
 
 # Download spaCy model (if using the classifier)
 python -m spacy download en_core_web_sm
 ```
+
+### Troubleshooting
+
+If you encounter dependency issues:
+
+1. Ensure you're using Python 3.11.x (not newer versions like 3.12+)
+2. The requirements.txt file uses `--only-binary :all:` for several packages to avoid compilation issues
+3. For Google Scholar access issues, you may need to use a proxy or add delays between requests
 
 ## Usage
 

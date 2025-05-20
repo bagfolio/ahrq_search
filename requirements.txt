@@ -1,15 +1,22 @@
-pymed==0.8.9
-pyalex==0.9
-pmidcite==0.0.50
-scholarly==1.7.11
-trafilatura==1.6.1
-pandas==2.1.1
+# AHRQ Compendium Tracker – locked 2025-05-20
+# core APIs
+pymed==0.8.9             # PubMed
+pyalex==0.9              # OpenAlex  → needs httpx<0.24
+pmidcite==0.0.50         # NIH OCC   → needs lxml wheel
+scholarly==1.7.11        # Google Scholar
+
+# infra & parsing
+numpy==1.26.4            --only-binary :all:
+pandas==2.2.3            --only-binary :all:
+lxml==5.2.1              --only-binary :all:
+trafilatura==1.6.1       --only-binary :all:
+spacy==3.6.1             --only-binary :all:
+
+# utilities
+httpx==0.23.3            # pinned for pyalex
 tqdm==4.66.1
 pyyaml==6.0.1
 requests==2.31.0
 unpywall==0.8.0
 matplotlib==3.8.0
-streamlit==1.27.0
-spacy==3.6.1
-watchdog==3.0.0
-python-dotenv==1.0.0
+python-dotenv==1.0.1
